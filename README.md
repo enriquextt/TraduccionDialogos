@@ -1,6 +1,6 @@
 # TraduccionDialogos
 Archivos de traduccion de dialogos para utilizarse con XUnity Auto Translator;
-Las traducciones han sido revisada con ayuda de IA
+Luego de ser generadas por el AutoTranslator, las traducciones han sido revisadas con ayuda de un agente de IA.
 
 https://github.com/bbepis/XUnity.AutoTranslator
 
