@@ -1,5 +1,6 @@
 # TraduccionDialogos
-Archivos de traduccion de dialogos para utilizarse con XUnity Auto Translator
+Archivos de traduccion de dialogos para utilizarse con XUnity Auto Translator;
+Luego de ser generadas por el AutoTranslator, las traducciones han sido revisadas con ayuda de un agente de IA.
 
 https://github.com/bbepis/XUnity.AutoTranslator
 
@@ -7,6 +8,8 @@ https://github.com/bbepis/XUnity.AutoTranslator
 Debido al espacio limitado en la interfaz del juego:
 - se ha aplicado el reemplazo de la palabra `dulce` por `>o<` en los nombres de los dulces/caramelos
 - se ha aplicado el reemplazo de la frase `Entrega de dulces` por `>o<` en las listas de solicitudes de entrega de dulces
+
+Se ha revisado y agregado el 13% de la traducción generada por el juego.
 
 ### Ruta del archivo
 ```
