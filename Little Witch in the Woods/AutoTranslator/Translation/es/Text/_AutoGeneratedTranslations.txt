@@ -1108,7 +1108,7 @@ Witch Crow=Cuervo Brujo
 <noparse></noparse>Limited time only! Register now for a <color\=#800000ff>gift</color>! Caww!=<noparse></noparse>¡Solo por tiempo limitado!\n¡Regístrate ahora para obtener un <color\=#800000ff>regalo</color>!\n¡Caww!
 <noparse></noparse>Try the <color\=#800000ff>Witches’ Catalogue</color>! Try the Witches’ Catalogue!=<noparse></noparse>¡Prueba el <color\=#800000ff>Catálogo de Brujas</color>!\n¡Prueba el Catálogo de Brujas!
 <noparse></noparse>Caww! <color\=#800000ff>Gift!</color> =<noparse></noparse>¡Caww! <color\=#800000ff>¡Regalo!</color> 
-<noparse></noparse>Multipurpose glue? Kitchen accessories? A Spork?=<noparse></noparse>¿Pegamento multiusos? ¿Accesorios de cocina? ¿Un Cuchador?
+<noparse></noparse>Multipurpose glue? Kitchen accessories? A Spork?=<noparse></noparse>¿Pegamento multiusos? ¿Accesorios de cocina? ¿Un Cuchara-tenedor?
 <noparse></noparse>I guess it wouldn’t hurt to stay here for a while.=<noparse></noparse>Supongo que no estaría de más quedarse aquí por un tiempo.
 <noparse></noparse>You can buy <color\=#800000ff>ingredients</color> or <color\=#800000ff>potion recipes</color> from them.=<noparse></noparse>Puedes comprar <color\=#800000ff>ingredientes</color> o <color\=#800000ff>recetas de poción</color> de ellos.
 <noparse></noparse>Alright, let's register for now.=<noparse></noparse>Muy bien, registrémonos por ahora.
@@ -3998,3 +3998,1003 @@ Catch 1 Cloud Salmon and give it to Freddie.=Atrapa 1 Salmón de Nube y dáselo 
 <noparse></noparse>You were a villager here? That's great.=<noparse></noparse>¿Eras aldeano aquí?\n¡Qué bien!
 <noparse></noparse>Don't jump to a conclusion. I never lived in the village. I just lived nearby.=<noparse></noparse>No saques conclusiones.\nNunca viví en el pueblo.\nSolo vivía cerca.
 <noparse></noparse>Huh? You didn't?=<noparse></noparse>¿Ah, sí?\n¿No es así?
+<noparse></noparse>I occasionally had contact with Enite, who told me about you.=<noparse></noparse>De vez en cuando tenía contacto con Enite, quien me habló de ti.
+<noparse></noparse>She also said that the prickly vines were gone and I could come back. =<noparse></noparse>También dijo que las enredaderas espinosas se habían ido y que podía volver.
+<noparse></noparse>That's why I sent you the letter. Satisfied?=<noparse></noparse>Por eso te envié la carta.\n¿Satisfecha?
+<noparse></noparse>Why didn't you live in the village? Was life not comfortable in there?=<noparse></noparse>¿Por qué no viviste en el pueblo?\n¿La vida no era cómoda allí?
+<noparse></noparse>There's no need for everyone to live in a village, is there? And I like to live alone.=<noparse></noparse>No hay necesidad de que todos vivan en un pueblo, ¿verdad?\nY me gusta vivir solo.
+<noparse></noparse>Thanks to the prickly vines, the <color\=#800000ff>fish</color> population here dropped dramatically, so I moved to a river nearby.=<noparse></noparse>Gracias a las enredaderas espinosas, la población de <color\=#800000ff>peces</color> aquí cayó drásticamente, así que me mudé a un río cercano.
+<noparse></noparse>Fish? Speaking of fishing...=<noparse></noparse>¿Peces?\nHablando de pesca...
+<noparse></noparse>Are you a fisher?=<noparse></noparse>¿Eres pescador?
+<noparse></noparse>I just fish to kill time. I don't do it as a job.=<noparse></noparse>Solo pesco para matar el tiempo.\nNo lo hago como trabajo.
+<noparse></noparse>What else do you usually do then?=<noparse></noparse>¿Qué más sueles hacer entonces?
+<noparse></noparse>Nothing... Just fishing.=<noparse></noparse>Nada... solo pescar.
+<noparse></noparse>Nothing? That makes you a fisher then.=<noparse></noparse>¿Nada?\nEso te convierte en pescador entonces.
+<noparse></noparse>Humph... However you put it.=<noparse></noparse>Humph... como quieras llamarlo.
+<noparse></noparse>By the way, why are you asking out of the blue? =<noparse></noparse>Por cierto, ¿por qué preguntas de la nada?
+<noparse></noparse>Are you interested in fishing? Or do you like to eat fish?=<noparse></noparse>¿Estás interesada en la pesca?\n¿O te gusta comer pescado?
+<noparse></noparse>Neither. I'm just curious, since it's the first time I've met a fisher.=<noparse></noparse>Ninguna de las dos.\nTengo curiosidad, ya que es la primera vez que conozco a un pescador.
+<noparse></noparse>Is fisher a new profession or something... But I can teach you if you want to learn to <color\=#800000ff>fish</color>.=<noparse></noparse>¿Es pescador una nueva profesión o algo así...? Pero puedo enseñarte si quieres aprender a <color\=#800000ff>pescar</color>.
+<noparse></noparse>It's troublesome, but since you helped the village, I guess I shall return the favor.=<noparse></noparse>Es molesto, pero ya que ayudaste a la aldea, supongo que devolveré el favor.
+<noparse></noparse>Really? Then teach me now please!=<noparse></noparse>¿En serio?\n¡Entonces enséñame ahora, por favor!
+<noparse></noparse>Now I understand what the hat said earlier.=<noparse></noparse>Ahora entiendo lo que dijo el sombrero antes.
+<noparse></noparse>You... don't look like you've got a fishing rod.=<noparse></noparse>Tú... no parece que tengas una caña de pescar.
+<noparse></noparse>This is my spare. Talk it.=<noparse></noparse>Esta es mi repuesto.\nTómala.
+A common fishing rod.=Una caña de pescar común.
+Fishing Rod=Caña de pescar
+<noparse></noparse>Aww! Thank you.=<noparse></noparse>¡Oooh!\nGracias.
+<noparse></noparse>Firstly, fishing is a skill easy to learn but hard to master.=<noparse></noparse>En primer lugar, la pesca es una habilidad fácil de aprender pero difícil de dominar.
+<noparse></noparse>I'll only explain once. Listen carefully.=<noparse></noparse>Solo explicaré una vez.\nEscucha con atención.
+Got it?=¿Entendido?
+Fishing=Pesca
+Equip Fishing Rod and press the Tool Use Button to cast the line into the water and fish.\\n(Not usable in shallow waters.)=Equipa la caña de pescar y presiona el botón de Uso de Herramienta para lanzar el sedal al agua y pescar.\\n(No se puede usar en aguas poco profundas.)
+When you're fishing, watch the bobber closely and wait for fish to bite.=Cuando estés pescando, observa el flotador de cerca y espera a que los peces piquen.
+When the fish bites the hook,\\nrapidly press the tool button to outpower the fish.=Cuando el pez muerda el anzuelo,\npresiona rápidamente el botón de herramienta para vencer al pez.
+Outpower the fish to lift the Fishing Rod and pull it in.=Supera al pez para levantar la caña de pescar y cobrar el sedal.
+<noparse></noparse>Hmm... Probably.=<noparse></noparse>Hmm... probablemente.
+<noparse></noparse>I just need to swoosh the bobber out so that it splash somewhere near the fish, right?=<noparse></noparse>Solo necesito lanzar el flotador para que caiga en algún lugar cerca del pez, ¿verdad?
+<noparse></noparse>Nobody will get such a vague description.=<noparse></noparse>Nadie entenderá una descripción tan vaga.
+<noparse></noparse>Kind of...=<noparse></noparse>Un poco...
+<noparse></noparse>Yahoo.=<noparse></noparse>Yahoo.
+<noparse></noparse>Now I'm kind of worried that Ellie may be gifted in fishing.=<noparse></noparse>Ahora estoy un poco preocupado de que Ellie pueda ser dotada para la pesca.
+<noparse></noparse>Anyway, follow my words and give it a shot. You'll get the hang of it.=<noparse></noparse>De todos modos, sigue mis instrucciones y dale una oportunidad.\nLe agarrarás el truco.
+<noparse></noparse>And reel in right when you see <color\=#800000ff>bubbles</color> on the surface, because fine baits will attract rare fishes.\r=<noparse></noparse>Y recoge el sedal justo cuando veas <color\=#800000ff>burbujas</color> en la superficie, porque los cebos de calidad atraerán peces raros.\r
+<noparse></noparse>Alright. Have the fish bitten?=<noparse></noparse>Está bien.\n¿Han picado los peces?
+<noparse></noparse>No. They're still observing.=<noparse></noparse>No. Todavía están observando.
+<noparse></noparse>If I catch any fish, shall I give you one?=<noparse></noparse>Si atrapo algún pez, ¿te doy uno?
+<noparse></noparse>Why give me?=<noparse></noparse>¿Por qué dármelo?
+<noparse></noparse>Because you taught me how to fish. And I don't know how to gut a fish even if I catch one.=<noparse></noparse>Porque me enseñaste a pescar.\nY no sé cómo destripar un pez aunque atrape uno.
+<noparse></noparse>So, can I give it to you, Freddie?=<noparse></noparse>Entonces, ¿puedo dártelo, Freddie?
+<noparse></noparse>You surely know how to cause me trouble...=<noparse></noparse>Seguramente sabes cómo causarme problemas...
+<noparse></noparse>If you have to give me one, give me <color\=#800000ff>Cloud Salmon</color>. I feel like eating it.=<noparse></noparse>Si tienes que darme uno, dame <color\=#800000ff>Salmón de Nube</color>.\nTengo ganas de comerlo.
+<noparse></noparse>Got it. If I catch any <color\=#800000ff>Cloud Salmon</color>, I'll give it to you.=<noparse></noparse>Entendido.\nSi atrapo algún <color\=#800000ff>Salmón de Nube</color>, te lo daré.
+<noparse></noparse>Good. I'm leaving now.=<noparse></noparse>Bien.\nMe voy ahora.
+<color\=#ff0000>2. Give the fish to Freddie</color>=<color\=#ff0000>2. Dale el pez a Freddie</color>
+Reel In=Recoge el sedal
+Fishing Success=Pesca exitosa
+21.02cm=21.02cm
+New Record!=¡Nuevo récord!
+Mountain Urchin=Erizo de montaña
+The village's blacksmith and carpenter. She always wears a confident smile.=La herrería y carpintera del pueblo.\nSiempre lleva una sonrisa segura.
+A cute and prudent kid. Raised by his grandmother, he has hobbies that are rather mature.=Un niño lindo y prudente.\nCriado por su abuela, tiene pasatiempos bastante maduros.
+21.19cm=21.19cm
+31.25cm=31.25cm
+Chameleon Surgeonfish=Pez cirujano camaleón
+<noparse></noparse><color\=#800000ff>1 Cloud Salmon</color> is enough to feed me.=<noparse></noparse><color\=#800000ff>1 Salmón de Nube</color> es suficiente para alimentarme.
+<noparse></noparse>Just 1?=<noparse></noparse>¿Solo 1?
+<noparse></noparse>I can have 10 in one go, but I've got other fish, so I need no more.=<noparse></noparse>Puedo comer 10 de una vez, pero tengo otros peces, así que no necesito más.
+<noparse></noparse>Alright, I'll bring you more.=<noparse></noparse>Muy bien, te traeré más.
+Giant-claw Crab=Cangrejo de garras gigantes
+24.28cm=24.28cm
+Its color changes to match the food it eats. Its color keeps changing as long as it's alive.=Su color cambia para coincidir con la comida que consume.\nSu color sigue cambiando mientras esté vivo.
+Except the huge claws, all its other limbs have become less functional. Since it can't crawl fast, it has to hide between rocks, only sticking its claws out.=Excepto las enormes garras, todas sus otras extremidades se han vuelto menos funcionales.\nComo no puede arrastrarse rápido, tiene que esconderse entre rocas sacando solo sus garras.
+<noparse></noparse>Should I redraw the witch sigil using <color\=#800000ff>1x Witch's White Chalk</color>?=<noparse></noparse>¿Debo volver a dibujar el sello mágico de bruja usando <color\=#800000ff>1x Tiza Blanca de Bruja</color>?
+If well fed, they will bloom lots of flowers.=Si están bien alimentadas, florecerán muchas flores.
+You've added the [Dream Recollection Potion recipe] to favorite.=Has agregado la [receta de Poción de Recuerdo de los Sueños] a favoritos.
+<noparse></noparse>Hello! Kent, long time no see.=<noparse></noparse>¡Hola!\nKent, cuánto tiempo sin verte.
+<noparse></noparse>It's been a while, Ellie Blueriver.=<noparse></noparse>Ha pasado un tiempo, Ellie Blueriver.
+<noparse></noparse>Looks like someone new has moved into the village.=<noparse></noparse>Parece que alguien nuevo se ha mudado al pueblo.
+<noparse></noparse>Yes, he's a villager who was originally living here.=<noparse></noparse>Sí, es un aldeano que originalmente vivía aquí.
+<noparse></noparse>What's his name?=<noparse></noparse>¿Cómo se llama?
+<noparse></noparse>His name is Roy. He's running a flower shop.=<noparse></noparse>Su nombre es Roy.\nDirige una florería.
+<noparse></noparse>I see... Alright, got it.=<noparse></noparse>Ya veo... Muy bien, entendido.
+<noparse></noparse>I'm also relieved to see the village being restored smoothly.=<noparse></noparse>También me alegra ver que el pueblo se está restaurando sin problemas.
+<noparse></noparse>Is the master witch still not here today?=<noparse></noparse>¿La bruja maestra todavía no está aquí hoy?
+<noparse></noparse>Huh? Yes...! That's right. Since she's a busy person... Haha...=<noparse></noparse>¿Eh?\n¡Sí...!\nAsí es.\nYa que ella es una persona ocupada... jaja...
+<noparse></noparse>It was a joke. You don't have to hide anymore.=<noparse></noparse>Fue una broma.\nYa no tienes que esconderte.
+<noparse></noparse>I'm not sure what you're talking about...!=<noparse></noparse>¡No estoy segura de qué estás hablando...!
+<noparse></noparse>I already know that the master witch is not here for some reason.=<noparse></noparse>Ya sé que la bruja maestra no está aquí por alguna razón.
+<noparse></noparse>Oh, oh, no! She's here!=<noparse></noparse>¡Oh, oh, no!\n¡Ella está aquí!
+<noparse></noparse>I also know that you are supposed to go to the Witch's House in Highlion, Ellie.=<noparse></noparse>También sé que se supone que debes ir a la Casa de la Bruja en Highlion, Ellie.
+<noparse></noparse>Don't worry. I'm just curious.=<noparse></noparse>No te preocupes.\nSolo tengo curiosidad.
+<noparse></noparse>I wonder what happened.=<noparse></noparse>Me pregunto qué pasó.
+<noparse></noparse>Please tell me. I will keep it a secret.=<noparse></noparse>Por favor dime.\nLo mantendré en secreto.
+<noparse></noparse>... You'll really keep it a secret?=<noparse></noparse>... ¿Realmente lo mantendrás en secreto?
+<noparse></noparse>So that's what happened...=<noparse></noparse>Entonces eso fue lo que pasó...
+<noparse></noparse>You seem to empathize with the village, Ellie.=<noparse></noparse>Parece que empatizas con el pueblo, Ellie.
+<noparse></noparse>I just did as I was taught.=<noparse></noparse>Solo hice lo que me enseñaron.
+<noparse></noparse>You'll keep it a secret, right?=<noparse></noparse>Lo mantendrás en secreto, ¿verdad?
+<noparse></noparse>I can't leave this place behind now.=<noparse></noparse>No puedo dejar este lugar atrás ahora.
+<noparse></noparse>Of course. I made a promise with you, Ellie.=<noparse></noparse>Por supuesto.\nHice una promesa contigo, Ellie.
+<noparse></noparse>But, I'm worried...=<noparse></noparse>Pero estoy preocupado...
+<noparse></noparse>Ellie is staying here with good intentions of helping the village.=<noparse></noparse>Ellie se queda aquí con la buena intención de ayudar a la aldea.
+<noparse></noparse>Wouldn't they be waiting for you at the Witch's House in Highlion, Ellie?=<noparse></noparse>¿No te estarían esperando en la Casa de la Bruja en Highlion, Ellie?
+<noparse></noparse>Everything may seem fine, but the School for Witches and Highlion will find out.=<noparse></noparse>Todo puede parecer ir bien, pero la Escuela de Brujas y Highlion se enterarán.
+<noparse></noparse>When that happens...*Giggle*=<noparse></noparse>Cuando eso pase... *risita*
+<noparse></noparse>Oh, I'm sorry. It reminds me of something from the past...=<noparse></noparse>Oh, lo siento. Me trae recuerdos del pasado...
+<noparse></noparse>What should I do?... What if my professor finds out?=<noparse></noparse>¿Qué debería hacer?... ¿Y si mi profesora se entera?
+<noparse></noparse>I mean I will really be in big trouble if Mom finds out...=<noparse></noparse>Es decir, ¡me meteré en un gran lío si mi madre se entera!
+<noparse></noparse>That would be really a big problem.=<noparse></noparse>Eso sería un problema realmente grave.
+<noparse></noparse>But don't worry too much.=<noparse></noparse>Pero no te preocupes demasiado.
+<noparse></noparse>I think we should worry considering Aria's personality.=<noparse></noparse>Creo que deberíamos preocuparnos, considerando la personalidad de Aria.
+<noparse></noparse>That is for sure. And it probably won't become known so soon.=<noparse></noparse>Eso es seguro. Y probablemente no se sepa tan pronto.
+<noparse></noparse>As far as I know, the School for Witches does not inform Witch's Houses about sending apprentice witches.=<noparse></noparse>Hasta donde yo sé, la Escuela de Brujas no informa a las Casas de la Bruja sobre el envío de aprendices de bruja.
+<noparse></noparse>That's why neither place will think anything is wrong despite your abscence.=<noparse></noparse>Es por eso que en ningún lugar pensarán que algo va mal a pesar de tu ausencia.
+<noparse></noparse>Then, that won't be a problem. What a relief.=<noparse></noparse>Entonces, no habrá problema. Qué alivio.
+<noparse></noparse>Is there something else...?=<noparse></noparse>¿Hay algo más...?
+<noparse></noparse>Um... No, not really.=<noparse></noparse>Um... No, en realidad no.
+<noparse></noparse>Then, I have something I want to ask you, is that ok?=<noparse></noparse>Entonces, tengo algo que quiero preguntarte, ¿está bien?
+<noparse></noparse>Of course. You're free to ask whatever, Ellie.=<noparse></noparse>Por supuesto. Eres libre de preguntar lo que quieras, Ellie.
+<noparse></noparse>I want to know what kind of person the witch originally at the Witch's House is and where she went.=<noparse></noparse>Quiero saber qué tipo de persona es la bruja que estaba originalmente en la Casa de la Bruja y a dónde fue.
+<noparse></noparse>I think it has something to do with the village, and probably with the prickly vines also...=<noparse></noparse>Creo que tiene algo que ver con el pueblo, y probablemente también con las enredaderas espinosas...
+<noparse></noparse>Can you help me?=<noparse></noparse>¿Puedes ayudarme?
+<noparse></noparse>I don't know anything right now, but I'll investigate and let you know next time I come.=<noparse></noparse>No sé nada ahora mismo, pero investigaré y te avisaré la próxima vez que venga.
+<noparse></noparse>I'll leave it to you then.=<noparse></noparse>Entonces te lo encargo.
+<noparse></noparse>I'll head back now.=<noparse></noparse>Me marcharé ahora.
+<noparse></noparse>Alright, see you next time.=<noparse></noparse>Muy bien, nos vemos la próxima vez.
+<noparse></noparse>Oh, I almost forgot.=<noparse></noparse>Oh, casi lo olvido.
+<noparse></noparse>Tada! Here is an award for the hard work.=<noparse></noparse>¡Tachán! Aquí tienes un premio por tu arduo trabajo.
+<noparse></noparse>Wow, thanks.=<noparse></noparse>Vaya, gracias.
+<noparse></noparse>I'm really leaving now!=<noparse></noparse>¡Ahora sí me voy!
+<noparse></noparse>Indeed, It's going the way... Blueriver thought it would.=<noparse></noparse>De hecho, todo va según... lo que Blueriver pensaba.
+<noparse></noparse>I guess I'll become a little busy now.=<noparse></noparse>Supongo que ahora estaré algo ocupado.
+<noparse></noparse>See? He's a nice guy.=<noparse></noparse>¿Ves? Es un buen tipo.
+<noparse></noparse>What on earth makes you think so? He seemed to be up to something.=<noparse></noparse>¿Qué te hace pensar eso? Parecía que tramaba algo.
+<noparse></noparse>Prejudice is not a good thing, Virgil.=<noparse></noparse>Los prejuicios no son buenos, Virgil.
+<noparse></noparse>You're just happy because you got candy.=<noparse></noparse>Solo estás feliz porque te dieron caramelos.
+<noparse></noparse>The candy is just something extra!=<noparse></noparse>¡Los caramelos son solo un extra!
+<noparse></noparse>He even offered to find out about the previous witch.=<noparse></noparse>Incluso se ofreció a averiguar sobre la bruja anterior.
+<noparse></noparse>Should be easy for him, considering the amount of info they get there.=<noparse></noparse>Debería ser fácil para él, considerando la cantidad de información que manejan allí.
+<noparse></noparse>Right? We just need to focus on restoring the village!=<noparse></noparse>¿Verdad? ¡Solo tenemos que centrarnos en restaurar el pueblo!
+<noparse></noparse>Is he living alone?=<noparse></noparse>¿Vive solo?
+<noparse></noparse>Ugh...=<noparse></noparse>Ugh...
+<noparse></noparse>Unless an unexpected situation requires.=<noparse></noparse>A menos que una situación inesperada lo requiera.
+<noparse></noparse>And um...=<noparse></noparse>Y um...
+<noparse></noparse>Liquor's just like tea, it only goes down well when it <color\=#800000ff>smells good</color>.=<noparse></noparse>El licor es como el té, solo entra bien cuando <color\=#800000ff>huele bien</color>.
+<noparse></noparse>A good aroma makes everyone feel better even before drinking.=<noparse></noparse>Un buen aroma hace que todos se sientan mejor incluso antes de beber.
+<noparse></noparse>Seems like anything that's delicious smells good.=<noparse></noparse>Parece que todo lo que es delicioso huele bien.
+<noparse></noparse>Yes. So it isn't really that novel to make wine with tea leaves.=<noparse></noparse>Sí. Así que no es realmente algo tan novedoso hacer vino con hojas de té.
+<noparse></noparse>Make wine with tea leaves?=<noparse></noparse>¿Hacer vino con hojas de té?
+<noparse></noparse>Some people will use anything they can get their hands on to make wine with.=<noparse></noparse>Hay gente que usa cualquier cosa que caiga en sus manos para hacer vino.
+<noparse></noparse>It worked pretty well when I tried it with some <color\=#800000ff>Silver Starbell</color> I found in the Green Forest.=<noparse></noparse>Funcionó bastante bien cuando lo probé con unas <color\=#800000ff>Campanillas de Plata</color> que encontré en el Bosque Verde.
+<noparse></noparse>All this reminiscing is making me misty-eyed.=<noparse></noparse>Tanto recordar me está poniendo los ojos llorosos.
+<noparse></noparse>When I was young, I thought that only liquor with high alcohol content was the real deal and downed a lot of it.=<noparse></noparse>Cuando era joven, pensaba que solo el licor con alta graduación era lo auténtico y bebía muchísimo.
+<noparse></noparse>But after I returned to the village with my husband, I started making milder drinks.=<noparse></noparse>Pero después de volver al pueblo con mi esposo, empecé a preparar bebidas más suaves.
+<noparse></noparse>Open a bottle of the sparkling wine so that the garden's filled with its aroma.=<noparse></noparse>Abre una botella de vino espumoso para que el jardín se llene de su aroma.
+<noparse></noparse>Are you giving me a gift?=<noparse></noparse>¿Vas a darme un regalo?
+<Waiting for a gift>=<Esperando un regalo>
+A gift to give.=Un regalo para dar.
+<noparse></noparse>This <color\=#800000ff>Chameleon Surgeonfish</color> is for me?=<noparse></noparse>¿Este <color\=#800000ff>Pez Cirujano Camaleón</color> es para mí?
+An urchin that lives in forests or mountains. Upon reaching adulthood, it goes upstream from the ocean to settle down in forests or mountains. The reason remains unknown.\n=Un erizo que vive en bosques o montañas. Al llegar a la edad adulta, remonta desde el océano para asentarse en bosques o montañas. La razón sigue siendo desconocida.\n
+<noparse></noparse>So the adult you were looking high and low for is me?=<noparse></noparse>¿Así que el adulto que buscabas por todas partes soy yo?
+<noparse></noparse>After all, you're an adult, Arden.=<noparse></noparse>Después de todo, eres un adulto, Arden.
+<noparse></noparse>I suppose if we're talking body size.=<noparse></noparse>Supongo que si hablamos del tamaño corporal.
+<noparse></noparse>So Arden, what's a good wine to you?=<noparse></noparse>Entonces, Arden, ¿qué es un buen vino para ti?
+<noparse></noparse>Hm... A <color\=#800000ff>sweet wine</color> seems good.=<noparse></noparse>Hm... Un <color\=#800000ff>vino dulce</color> suena bien.
+<noparse></noparse>Hm... Really?=<noparse></noparse>Hm... ¿En serio?
+<noparse></noparse>There's a saying that the harder a person's life, the sweeter the wine...=<noparse></noparse>Hay un dicho que dice que cuanto más dura es la vida de una persona, más dulce es el vino...
+<noparse></noparse>I thought you wouldn't like sweet wines.=<noparse></noparse>Pensé que no te gustarían los vinos dulces.
+<noparse></noparse>I don't know where you got that from.=<noparse></noparse>No sé de dónde has sacado eso.
+<noparse></noparse>I just have this feeling that there used to be someone very fond of sweet wines.=<noparse></noparse>Sencillamente tengo la sensación de que solía haber alguien muy aficionado a los vinos dulces.
+<noparse></noparse>Hm, sounds like a good chance to make some fruit wine.=<noparse></noparse>Hm, parece una buena oportunidad para preparar un poco de vino de frutas.
+<noparse></noparse>There's plenty of <color\=#800000ff>Cranapple</color> growing around the village, which would be a good ingredient.=<noparse></noparse>Hay muchas <color\=#800000ff>Cranmanzanas</color> creciendo por el pueblo, que serían un buen ingrediente.
+<noparse></noparse>What? You have a gift for me?=<noparse></noparse>¿Qué? ¿Tienes un regalo para mí?
+<noparse></noparse>You're giving me a <color\=#800000ff>Giant-claw Crab</color>?=<noparse></noparse>¿Me vas a dar un <color\=#800000ff>Cangrejo de Garras Gigantes</color>?
+<noparse></noparse>Good day to you, Roy!=<noparse></noparse>¡Buen día, Roy!
+<noparse></noparse>You've come at the perfect time. I have something for you.=<noparse></noparse>Has llegado en el momento ideal. Tengo algo para ti.
+<noparse></noparse>Here it is.=<noparse></noparse>Aquí tienes.
+<noparse></noparse>Hm? What's this? Why are you giving me Gold Coins out of the blue?=<noparse></noparse>¿Hm? ¿Qué es esto? ¿Por qué me das monedas de oro de repente?
+<noparse></noparse>I heard that you helped to rebuild the house.=<noparse></noparse>Me han dicho que ayudaste a reconstruir la casa.
+<noparse></noparse>This is your payment, don't think too much of it.=<noparse></noparse>Es tu pago, no le des más vueltas.
+<noparse></noparse>Though you're telling me not to overthink, this is a really generous sum!=<noparse></noparse>¡Aunque me digas que no le dé vueltas, es una suma muy generosa!
+<noparse></noparse>Besides, I didn't do it for the money.=<noparse></noparse>Además, no lo hice por dinero.
+<noparse></noparse>I understand, but you put a lot of effort into it...=<noparse></noparse>Lo entiendo, pero te has esforzado mucho...
+<noparse></noparse>No, no!This is still far too much!=<noparse></noparse>¡No, no! ¡Sigue siendo demasiado!
+<noparse></noparse>But I put this aside for you...=<noparse></noparse>Pero había reservado esto para ti...
+<noparse></noparse>If I was after money, I'd have asked you to begin with!=<noparse></noparse>¡Si buscara dinero, te lo habría pedido desde el principio!
+<noparse></noparse>But you deserve it...=<noparse></noparse>Pero te lo mereces...
+<noparse></noparse>No thank you!!!=<noparse></noparse>¡¡¡No, gracias!!!
+<noparse></noparse>W-well... I'll take a look then...=<noparse></noparse>B-bueno... echaré un vistazo entonces...
+<noparse></noparse>If that's the case, I will.=<noparse></noparse>Si ese es el caso, lo haré.
+<noparse></noparse>I'll give you this then, to thank you for stopping me from taking off my shoes on the train, Roy.=<noparse></noparse>Te daré esto entonces, para agradecerte que evitaras que me quitara los zapatos en el tren, Roy.
+<noparse></noparse>That's hardly a good proposition for you.=<noparse></noparse>Esa no parece una buena propuesta para ti.
+<noparse></noparse>Just take it!=<noparse></noparse>¡Tómalo y ya!
+<noparse></noparse>Alright then, but I'd still like to give you something to show my appreciation.=<noparse></noparse>Está bien, pero aun así me gustaría darte algo para mostrar mi agradecimiento.
+<noparse></noparse>Wow, now you're just being stubborn.=<noparse></noparse>Vaya, ahora sí que te estás poniendo terco.
+<noparse></noparse>Has Ellie Blueriver finally met her match?=<noparse></noparse>¿Habrá encontrado Ellie Blueriver por fin la horma de su zapato?
+<noparse></noparse>Uh... In that case...=<noparse></noparse>Uh... en ese caso...
+<noparse></noparse>Oh, you lived elsewhere before coming to Wisteria, Roy?=<noparse></noparse>Oh, ¿viviste en otro lugar antes de venir a Wisteria, Roy?
+<noparse></noparse>If you know anything interesting, do let me know.=<noparse></noparse>Si sabes algo interesante, dímelo.
+<noparse></noparse>Hm... I don't know if it's interesting, but I can answer any of your questions about the forest and plants.=<noparse></noparse>Hm... no sé si será interesante, pero puedo responder a cualquiera de tus preguntas sobre el bosque y las plantas.
+Cloudflower=Flor de Nube
+Ask about all of them.=Pregunta por todos ellos.
+<noparse></noparse>Have you heard of an adorable bird that lives in <color\=#800000ff>Green Forest Depths</color>?=<noparse></noparse>¿Has oído hablar de un adorable pájaro que vive en las <color\=#800000ff>Profundidades del Bosque Verde</color>?
+<noparse></noparse>Because it's a <color\=#800000ff>nocturnal animal</color>, it's always asleep in the day.=<noparse></noparse>Como es un <color\=#800000ff>animal nocturno</color>, siempre está dormido de día.
+<noparse></noparse>Amongst them, there's a little fellow with <color\=#800000ff>spots</color> on its rear.=<noparse></noparse>Entre ellos, hay un pequeño con <color\=#800000ff>manchas</color> en la parte trasera.
+<noparse></noparse>It came to me because I was carrying a lantern.=<noparse></noparse>Se me acercó porque llevaba una linterna.
+<noparse></noparse>I often saw a <color\=#800000ff>bird with a flower blooming on its head</color> when I walked around in Green Forest.=<noparse></noparse>A menudo vi un <color\=#800000ff>pájaro con una flor floreciendo en la cabeza</color> cuando caminaba por el Bosque Verde.
+<noparse></noparse>It is very sensitive to movement and will fly away when approached,=<noparse></noparse>Es muy sensible al movimiento y vuela cuando te acercas,
+<noparse></noparse>but if you release it when the flower on its head is blooming, you'll be able to keep the flower.=<noparse></noparse>pero si la liberas cuando florece la flor en su cabeza, podrás quedarte con la flor.
+<noparse></noparse>It's said that the flower has many uses in medicine or in tea.=<noparse></noparse>Se dice que la flor tiene muchos usos en medicina o en té.
+<noparse></noparse>Let's walk around and take another look at the <color\=#800000ff>Plump Bird</color>.=<noparse></noparse>Caminemos y echemos otro vistazo al <color\=#800000ff>Pájaro Regordete</color>.
+<noparse></noparse>Go to <color\=#800000ff>Green Forest Plateau</color> and climb up the <color\=#800000ff>vines</color>. You will reach a <color\=#800000ff>high spot</color>.=<noparse></noparse>Ve a la <color\=#800000ff>Meseta del Bosque Verde</color> y trepa por las <color\=#800000ff>enredaderas</color>.\nLlegarás a un <color\=#800000ff>lugar alto</color>.
+<noparse></noparse>There's a flower that's <color\=#800000ff>gigantic and strange</color>.=<noparse></noparse>Hay una flor que es <color\=#800000ff>gigantesca y extraña</color>.
+<noparse></noparse>Because that was my first time seeing it myself, I'm not too sure what it was,=<noparse></noparse>Como fue la primera vez que la vi, no estoy muy seguro de qué era,
+<noparse></noparse>but it should be safe to take a closer look.=<noparse></noparse>pero debería ser seguro echar un vistazo más de cerca.
+<noparse></noparse>Oho... I've got to write this down in my <color\=#800000ff>notebook</color>.=<noparse></noparse>Oho... Tengo que escribir esto en mi <color\=#800000ff>cuaderno</color>.
+<noparse></noparse>Is this your notebook?=<noparse></noparse>¿Es este tu cuaderno?
+<noparse></noparse>Yes. It's handy for writing down all kinds of things.=<noparse></noparse>Sí.\nEs útil para anotar todo tipo de cosas.
+<noparse></noparse>I see. I often see witches using them... They look very useful.=<noparse></noparse>Ya veo.\nA menudo veo brujas que los usan... Se ven muy útiles.
+<noparse></noparse>Oh yes, I just remembered something. Would you like to hear about it?=<noparse></noparse>Oh, sí, acabo de recordar algo.\n¿Te gustaría saber?
+<noparse></noparse>It's a legend from the Green Forest about a certain flower.=<noparse></noparse>Es una leyenda del Bosque Verde sobre cierta flor.
+<noparse></noparse>Would you like to hear about a legend?=<noparse></noparse>¿Te gustaría escuchar una leyenda?
+<noparse></noparse>It's said that a type of Green Forest rosemary only blooms in the <color\=#800000ff>spot closest to the moon</color>.=<noparse></noparse>Se dice que un tipo de romero del Bosque Verde solo florece en el <color\=#800000ff>punto más cercano a la luna</color>.
+<noparse></noparse>What makes it more special is that people can only see its <color\=#800000ff>golden flowers</color> at <color\=#800000ff>night</color>.=<noparse></noparse>Lo que lo hace más especial es que las personas solo pueden ver sus <color\=#800000ff>flores doradas</color> de <color\=#800000ff>noche</color>.
+<noparse></noparse>After learning of this legend, I began keeping a lookout for it whenever I went to the forest.=<noparse></noparse>Después de enterarme de esta leyenda, comencé a buscarlo cada vez que iba al bosque.
+<noparse></noparse>But it's not that easy to find.=<noparse></noparse>Pero no es tan fácil de encontrar.
+<noparse></noparse>I don't think I've seen that kind of flower.=<noparse></noparse>No creo haber visto ese tipo de flor.
+<noparse></noparse>If you can bring me some, I'll make it into a permanent <color\=#800000ff>decorative item</color> for you.=<noparse></noparse>Si puedes traerme alguna, la convertiré en un <color\=#800000ff>artículo decorativo</color> permanente para ti.
+<noparse></noparse>It'll be a gift in lieu of the construction fees I owe you.=<noparse></noparse>Será un regalo en lugar de las tarifas de construcción que te debo.
+<noparse></noparse>I see you haven't given up trying to pay me.=<noparse></noparse>Veo que no has dejado de intentar pagarme.
+<noparse></noparse>Just... kidding.=<noparse></noparse>Es solo... una broma.
+<noparse></noparse>Hmm, so going back to what we were discussing,=<noparse></noparse>Hmm, volviendo a lo que estábamos hablando,
+<noparse></noparse>According to the legend, you need to bring some <color\=#800000ff>evening primroses</color> to pluck the petals of the flowers.=<noparse></noparse>Según la leyenda, debes traer algunas <color\=#800000ff>prímulas de noche</color> para arrancar los pétalos de las flores.
+<noparse></noparse>I think some <color\=#800000ff>Dried Evening Primrose</color> was sandwiched in the pages of the <color\=#800000ff>book</color>.=<noparse></noparse>Creo que había alguna <color\=#800000ff>Prímula de Noche Seca</color> intercalada en las páginas del <color\=#800000ff>libro</color>.
+<noparse></noparse>Please come to the <color\=#800000ff>flower shop</color> in a bit, I'll be sure to locate the <color\=#800000ff>book</color>.=<noparse></noparse>Por favor ven a la <color\=#800000ff>florería</color> en un momento, me aseguraré de localizar el <color\=#800000ff>libro</color>.
+<noparse></noparse>Best of luck to you.=<noparse></noparse>Buena suerte.
+Find a book of legends related to flowers in the flower shop and obtain some dried evening primroses.=Encuentra un libro de leyendas relacionadas con flores en la florería y obtén algunas prímulas de noche secas.
+The quiet and thoughtful Roy shared a story about flowers.\\n\\nThe most interesting part of his tale is about rosemary.\\n\\nInvestigate whether this story is true.=El tranquilo y reflexivo Roy compartió una historia sobre flores.\\n\\nLa parte más interesante de su historia es sobre el romero.\\n\\nInvestiga si esta historia es cierta.
+<color\=#ff0000>1. Read the book</color>=<color\=#ff0000>1. Lee el libro</color>
+<noparse></noparse>Did you see that? Those books and apples scattered on the ground.\r=<noparse></noparse>¿Viste eso?\nEsos libros y manzanas esparcidos por el suelo.\r
+<noparse></noparse>Go to the place mentioned by Rubrum.=<noparse></noparse>Ve al lugar mencionado por Rubrum.
+<noparse></noparse>It's weird that these stuff are left all over the ground.\r=<noparse></noparse>Es extraño que estas cosas estén tiradas por todo el suelo.\r
+<noparse></noparse>Is it? But Rubrum said that the man looked busy. =<noparse></noparse>¿Sí?\nPero Rubrum dijo que el hombre parecía ocupado.
+<noparse></noparse>If he was busy, he might not have had time to put things in order.=<noparse></noparse>Si estaba ocupado, puede que no haya tenido tiempo de ordenar las cosas.
+<noparse></noparse>You have a point.=<noparse></noparse>Tienes razón.
+<noparse></noparse>Anyway, let's see what these stuff are.=<noparse></noparse>De todos modos, veamos qué son estas cosas.
+<noparse></noparse>Virgil, look at this book. Isn't it cute?=<noparse></noparse>Virgil, mira este libro.\n¿No es adorable?
+Go to Rubrum and tell him about the cat encyclopedia and apples.=Ve a Rubrum y cuéntale sobre la enciclopedia de gatos y las manzanas.
+<noparse></noparse>The title is adorable too. <color\=#800000ff>Cat Befriending Operation</color>. "Operation," it says, heh.=<noparse></noparse>El título también es adorable. <color\=#800000ff>Operación Amistad Felina</color>.\n"Operación", dice, je.
+<noparse></noparse>This messy handwriting looks like a child's doing.=<noparse></noparse>Esta letra tan desordenada parece obra de un niño.
+<noparse></noparse>But Rubrum said he saw an adult. Maybe it was just an adult with not-so-great handwriting.=<noparse></noparse>Pero Rubrum dijo que vio a un adulto.\nTal vez era simplemente un adulto con mala letra.
+<noparse></noparse>Look at this. His drawing... is even worse than mine. It's a disaster.=<noparse></noparse>Mira esto.\nSu dibujo... es aún peor que el mío.\nEs un desastre.
+<noparse></noparse>Is this really a cat? He must be a devoted abstract artist.=<noparse></noparse>¿Es esto realmente un gato?\nDebe ser un artista abstracto muy dedicado.
+<noparse></noparse>This guy... He must be really eager to make friends with the cats.=<noparse></noparse>Este tipo... debe estar realmente ansioso por hacerse amigo de los gatos.
+<noparse></noparse>He's recorded various cats, just like me filling up my encyclopedia.=<noparse></noparse>Ha registrado varios gatos, igual que yo llenando mi enciclopedia.
+<noparse></noparse>But most of the pages are blank.=<noparse></noparse>Pero la mayoría de las páginas están en blanco.
+<noparse></noparse>Maybe he didn't have the time, or they didn't like him.\r=<noparse></noparse>Tal vez no tuvo tiempo, o simplemente no le gustaban.\r
+<noparse></noparse>I guess I can fill the blank pages for him!=<noparse></noparse>¡Supongo que puedo llenar las páginas en blanco por él!
+<noparse></noparse>It's decided. I'm going to make a cat encyclopedia.=<noparse></noparse>Está decidido.\nVoy a hacer una enciclopedia de gatos.
+<noparse></noparse>Where is this idea coming from?=<noparse></noparse>¿De dónde viene esta idea?
+<noparse></noparse>From our shared passion for cats. We both want to get closer to cats.=<noparse></noparse>De nuestra pasión compartida por los gatos.\nAmbos queremos acercarnos a los gatos.
+<noparse></noparse>Well, honestly speaking, this idea isn't that bad.=<noparse></noparse>Bueno, siendo honestos, la idea no está tan mal.
+<noparse></noparse>And look at this. This <color\=#800000ff>Cranapple</color> has cat bite marks.=<noparse></noparse>Y mira esto.\nEsta <color\=#800000ff>Cranmanzana</color> tiene marcas de mordedura de gato.
+<noparse></noparse>A little bit of it is eaten. Perhaps a cat tried to eat it, but gave up halfway.=<noparse></noparse>Está un poco mordida.\nQuizás un gato intentó comérsela, pero lo dejó a la mitad.
+<noparse></noparse>So, cats here also eat <color\=#800000ff>Cranapple</color>s.=<noparse></noparse>Entonces, los gatos de aquí también comen <color\=#800000ff>Cranmanzanas</color>.
+<noparse></noparse>I've never thought about it. What do cats eat?=<noparse></noparse>Nunca lo había pensado.\n¿Qué comen los gatos?
+<noparse></noparse>Find the answer and write it in the encyclopedia.=<noparse></noparse>Encuentra la respuesta y escríbela en la enciclopedia.
+<noparse></noparse>Alright. Let's tell Rubrum about our discovery first.=<noparse></noparse>Muy bien.\nVamos a contarle a Rubrum sobre nuestro descubrimiento primero.
+<noparse></noparse>He must be sitting on the edge of his chair now.=<noparse></noparse>Ahora debe estar con la expectativa al máximo.
+<noparse></noparse>He can't be that curious.=<noparse></noparse>No puede ser tan curioso.
+<color\=#ff0000>3. Talk to Rubrum</color>=<color\=#ff0000>3. Habla con Rubrum</color>
+<noparse></noparse>Kyla, do you remember the fountain at the center of the village?=<noparse></noparse>Kyla, ¿recuerdas la fuente en el centro del pueblo?
+<noparse></noparse>Of course. I used to go there at night from time to time to sip on wine. The view there was nice.=<noparse></noparse>Por supuesto.\nSolía ir allí por la noche de vez en cuando a tomar vino.\nLa vista era muy agradable.
+<noparse></noparse>Enite says she wants the fountain fixed.=<noparse></noparse>Enite dice que quiere que arreglen la fuente.
+<noparse></noparse>That's a good idea. It needs some work, though.=<noparse></noparse>Es una buena idea.\nAunque necesita algo de trabajo.
+<noparse></noparse>Aren't you tired of building houses all the time?=<noparse></noparse>¿No estás cansada de construir casas todo el tiempo?
+<noparse></noparse>No. I'd just be impatient if I stay still.=<noparse></noparse>No.\nSimplemente me impacientaría si me quedara quieta.
+<noparse></noparse>It's also fun to see the village being restored bit by bit.=<noparse></noparse>También es divertido ver cómo el pueblo se va restaurando poco a poco.
+<noparse></noparse>Let's see. Then the materials we have now... wouldn't be enough.=<noparse></noparse>Veamos.\nLos materiales que tenemos ahora... no serían suficientes.
+Gather ingredients to fix the fountain.=Reúne ingredientes para arreglar la fuente.
+15x Branch\n15x Piece of Rock\n15x Mud\n=15x Rama\n15x Pieza de Roca\n15x Barro\n
+<noparse></noparse>I'll work on the foundations. Can you get me some materials?=<noparse></noparse>Trabajaré en los cimientos.\n¿Puedes conseguirme algunos materiales?
+Construction of the Fountain=Construcción de la fuente
+<noparse></noparse>Fine wines? There are plenty of them.=<noparse></noparse>¿Buenos vinos?\nHay muchos.
+<noparse></noparse>What's your poison of choice, Kyla?=<noparse></noparse>¿Cuál es tu bebida favorita, Kyla?
+<noparse></noparse>Wines with a bitter aftertaste that lingers on the tongue...=<noparse></noparse>Vinos con un regusto amargo que persiste en la lengua...
+<noparse></noparse>Mild wines should be enjoyed in a nice moody setting.=<noparse></noparse>Los vinos suaves se deben disfrutar en un entorno tranquilo y con ambiente.
+<noparse></noparse>Sweet dessert wines aren't really my thing... but they are good once in a while.=<noparse></noparse>Los vinos de postre dulces no son realmente lo mío... pero están bien de vez en cuando.
+<noparse></noparse>I'm starting to think you just like drinking as long as it's alcohol, Kyla.=<noparse></noparse>Empiezo a pensar que te gusta beber mientras sea alcohol, Kyla.
+<noparse></noparse>You got that right, hahaha!=<noparse></noparse>¡Exactamente, jajaja!
+<noparse></noparse>But if I had to pick one, I'd go for wines with a bitter aftertaste.=<noparse></noparse>Pero si tuviera que elegir uno, me quedaría con los vinos de regusto amargo.
+<noparse></noparse>I spend all day sweating by a fire. A mouthful of that would be like heaven.=<noparse></noparse>Paso todo el día sudando junto al fuego.\nUn sorbo de eso sería como el paraíso.
+<noparse></noparse>I can almost feel my mouth watering.=<noparse></noparse>Casi puedo sentir que se me hace agua la boca.
+<noparse></noparse>Well, Enite mentioned that the leaves of the <color\=#800000ff>Splash Carrot</color> are especially bitter.=<noparse></noparse>Bueno, Enite mencionó que las hojas de la <color\=#800000ff>Zanahoria Salpicadora</color> son especialmente amargas.
+<noparse></noparse>Is the wine made out of that any good? Hahaha.=<noparse></noparse>¿El vino hecho con eso estará bueno?\nJajaja.
+<noparse></noparse>Great, then this should do the trick, I guess?=<noparse></noparse>Genial, entonces esto debería funcionar, ¿supongo?
+<noparse></noparse>Sweet wine, bitter wine, fragrant wine...=<noparse></noparse>Vino dulce, vino amargo, vino fragante...
+<noparse></noparse>There are so many kinds of wine.=<noparse></noparse>Hay tantos tipos de vino.
+<noparse></noparse>This is why wine aficionados get wasted everyday.=<noparse></noparse>Por eso los aficionados al vino se emborrachan todos los días.
+<noparse></noparse>But will Arden's restaurant have so many ingredients in stock?=<noparse></noparse>¿Pero el restaurante de Arden tendrá tantos ingredientes en existencia?
+<noparse></noparse>Arden only sells meat dishes.=<noparse></noparse>Arden solo vende platos de carne.
+<noparse></noparse>Maybe he's got a secret menu.=<noparse></noparse>Tal vez tiene un menú secreto.
+<noparse></noparse>Doesn't look like it.=<noparse></noparse>No lo parece.
+<noparse></noparse>Let me see... A sweet wine... That would be <color\=#800000ff>Cranapple</color>.=<noparse></noparse>Déjame ver... un vino dulce... eso sería la <color\=#800000ff>Cranmanzana</color>.
+<noparse></noparse>The bitter wine would be <color\=#800000ff>Splash Carrot</color> and the fragrant wine would be <color\=#800000ff>Silver Starbell</color>.=<noparse></noparse>El vino amargo sería la <color\=#800000ff>Zanahoria Salpicadora</color> y el vino fragante sería la <color\=#800000ff>Campanilla de Plata</color>.
+<noparse></noparse>I'll take some on my way.=<noparse></noparse>Tomaré algunas en el camino.
+<noparse></noparse>Go on, take more. Take <color\=#800000ff>3 each</color> of Cranapple, Splash Carrot and Silver Starbell.=<noparse></noparse>Adelante, toma más.\nLleva <color\=#800000ff>3 de cada uno</color>: Cranmanzana, Zanahoria Salpicadora y Campanilla de Plata.
+Gather ingredients to fix the fountain.\r\n\r\n15x Branch\n15x Piece of Rock\n15x Mud\n\r\n\r\n=Reúne ingredientes para arreglar la fuente.\n\r\n\r\n15x Rama\n15x Pieza de Roca\n15x Barro\n\r\n\r\n
+<color\=#ff0000>2. Deliver the repair materials</color>=<color\=#ff0000>2. Entrega los materiales de reparación</color>
+<noparse></noparse>Hahaha. A gift for me?=<noparse></noparse>Jajaja.\n¿Un regalo para mí?
+<noparse></noparse>A <color\=#800000ff>Mountain Urchin</color> for me?=<noparse></noparse>¿Un <color\=#800000ff>Erizo de Montaña</color> para mí?
+Pass the ingredients you've gathered to Arden.\r\n\r\n3x Cranapple\n3x Splash Carrot\n3x Silver Starbell Pollen\n\r\n\r\n=Pasa los ingredientes que has reunido a Arden.\n\r\n\r\n3x Cranmanzana\n3x Zanahoria Salpicadora\n3x Polen de Campanilla de Plata\n\r\n\r\n
+<color\=#ff0000>3. Deliver the winemaking ingredients</color>=<color\=#ff0000>3. Entrega los ingredientes para la vinificación</color>
+A dried Pompom feather. It seems to be even sturdier than before drying.=Una pluma de Pompom seca.\nParece ser aún más resistente que antes de secarse.
+This potion allows you to remember the dreams of that night. It tastes of mashed grapes without any sweetness remaining.=Esta poción te permite recordar los sueños de esa noche.\nSabe a puré de uvas sin ningún dulzor restante.
+Drink the completed Dream Recollection Potion.=Bebe la Poción de Recuerdo de los Sueños completa.
+<noparse></noparse>Dream Recollection Potion is ready!=<noparse></noparse>¡La Poción de Recuerdo de los Sueños está lista!
+<noparse></noparse>Although it smells like juice from unripe grapes...=<noparse></noparse>Aunque huele a jugo de uvas sin madurar...
+<noparse></noparse>I must drink it.=<noparse></noparse>Debo beberla.
+Use 'Dream Recollection Potion'=Usa la 'Poción de Recuerdo de los Sueños'
+<noparse></noparse>Wow, this tastes awful.=<noparse></noparse>Vaya, esto sabe horrible.
+<color\=#ff0000>4. Sleep</color>=<color\=#ff0000>4. Dormir</color>
+<color\=#8C8C8C>3. Use Dream Recollection Potion</color>=<color\=#8C8C8C>3. Usa la Poción de Recuerdo de los Sueños</color>
+Sleep and find out about the dream.\r\n\r\n=Duerme y descubre el sueño.\r\n\r\n
+<noparse></noparse>What about I go to sleep now?=<noparse></noparse>¿Y si me voy a dormir ahora?
+2x Sleepy Candy\n2x Keen Eye Candy\n=2x Dulce de Sueño\n2x Dulce de Ojo Agudo\n
+You've added the [Keen Eye Candy recipe] to favorite.=Has agregado la [receta de Dulce de Ojo Agudo] a favoritos.
+You've added the [Sleepy Candy recipe] to favorite.=Has agregado la [receta de Dulce de Sueño] a favoritos.
+<noparse></noparse>Argh! One! Two!=<noparse></noparse>¡ARGH!\n¡Uno!\n¡Dos!
+<noparse></noparse>You want the fountain repaired?=<noparse></noparse>¿Quieres que reparen la fuente?
+Restoration of the Fountain=Restauración de la fuente
+Let's make a fountain where people can gather around and exchange.=Hagamos una fuente donde las personas puedan reunirse y conversar.
+<noparse></noparse>Hmm... That's perfect.=<noparse></noparse>Hmm... eso es perfecto.
+<noparse></noparse>Oh, come to think of it, little Rubrum told me something.=<noparse></noparse>Oh, ahora que lo pienso, el pequeño Rubrum me dijo algo.
+<noparse></noparse>Enite and Arden might be up to something.=<noparse></noparse>Puede que Enite y Arden estén tramando algo.
+<noparse></noparse>I don't know. Rubrum said Enite wouldn't tell him even when he begged.=<noparse></noparse>No sé.\nRubrum dijo que Enite no le contó nada aunque suplicó.
+<noparse></noparse>Anyway, they're definitely getting ready for something. Maybe a party or something.=<noparse></noparse>De todos modos, definitivamente se están preparando para algo.\nTal vez una fiesta o algo así.
+<noparse></noparse>I wish I could just get hammered... but I guess that would be difficult with two little kids, hahaha.=<noparse></noparse>Ojalá pudiera emborracharme... pero supongo que sería difícil con dos niños pequeños, jajaja.
+<noparse></noparse>I'm not a little kid.=<noparse></noparse>No soy un niño pequeño.
+<noparse></noparse>Right. You're a cool witch.=<noparse></noparse>Cierto.\nEres una bruja genial.
+<noparse></noparse>Hmm... A party... I wonder if I have anything to prepare.=<noparse></noparse>Hmm... una fiesta... Me pregunto si tengo algo que preparar.
+<noparse></noparse>Come to think of it, don't you have something like that?=<noparse></noparse>Ahora que lo pienso, ¿no tienes algo así?
+<noparse></noparse>I saw witches gather at Highlion Square and put something down during the Harvest Festival.=<noparse></noparse>Vi brujas reunirse en la Plaza de Highlion y colocar algo durante el Festival de la Cosecha.
+<noparse></noparse>When night fell, those things gave out light and it was spectacular.=<noparse></noparse>Cuando cayó la noche, esas cosas emitieron luz y fue espectacular.
+<noparse></noparse>Uh... That sounds like...=<noparse></noparse>Uh... eso suena a...
+<noparse></noparse>A <color\=#800000ff><color\=#800000ff>Firecracker Potion</color></color>.=<noparse></noparse>Una <color\=#800000ff><color\=#800000ff>Poción de Fuegos Artificiales</color></color>.
+<noparse></noparse>Exactly! Why didn't I think of that?=<noparse></noparse>¡Exactamente!\n¿Por qué no pensé en eso?
+<noparse></noparse>Crafting those was prohibited at the School for Witches, but I'm an apprentice witch now.=<noparse></noparse>Elaborarlos estaba prohibido en la Escuela de Brujas, pero ahora soy una aprendiz de bruja.
+<noparse></noparse>If they allowed that, the School would have needed to be repaired at least 10 times.=<noparse></noparse>Si lo permitieran, la escuela habría necesitado repararse al menos 10 veces.
+<noparse></noparse>It wouldn't be that bad.=<noparse></noparse>No sería tan malo.
+<noparse></noparse>I don't know what you're talking about, but I guess I was helpful. Hahaha.=<noparse></noparse>No sé de qué estás hablando, pero supongo que fui de ayuda.\nJajaja.
+<noparse></noparse>Right. I'm inspired.=<noparse></noparse>Cierto.\nEstoy inspirada.
+<noparse></noparse>Then do your best with the repairs, Kyla! I'm going to go now. Something came up.=<noparse></noparse>¡Entonces haz tu mejor esfuerzo con las reparaciones, Kyla!\nMe voy ahora.\nSurgió algo.
+<noparse></noparse>Okay. Okay. Let's all cheer up.=<noparse></noparse>Bueno.\nBueno.\n¡Ánimo a todos!
+<noparse></noparse>It will take about a day to repair the fountain.=<noparse></noparse>Tomará aproximadamente un día reparar la fuente.
+<noparse></noparse>If it's a recipe, we could ask Diane about it, right?=<noparse></noparse>Si es una receta, podríamos preguntarle a Diane al respecto, ¿verdad?
+<noparse></noparse>Rubrum will love it.=<noparse></noparse>A Rubrum le va a encantar.
+Craft a Firecracker Potion for the party.=Elabora una Poción de Fuegos Artificiales para la fiesta.
+Firecracker Potion=Poción de Fuegos Artificiales
+A special potion often used in festivals. Crafting one is prohibited for anyone enrolled at the School for Witches.=Una poción especial que a menudo se usa en festivales.\nSu elaboración está prohibida para cualquier persona matriculada en la Escuela de Brujas.
+<color\=#ff0000>3. Craft the Firecracker Potion</color>=<color\=#ff0000>3. Elabora la Poción de Fuegos Artificiales</color>
+3x Curse-lifting Candy\n=3x Dulce de Alivio de Maldición\n
+<noparse></noparse>OK, remember to deliver before Wednesday.=<noparse></noparse>Ok, recuerda entregar antes del miércoles.
+Pass the ingredients you've gathered to Arden.=Pasa los ingredientes que has reunido a Arden.
+<noparse></noparse>Arden, I've brought you the ingredients for winemaking.=<noparse></noparse>Arden, te he traído los ingredientes para la vinificación.
+Turning In Winemaking Ingredients=Entregando ingredientes para la vinificación
+Wine-tasting Party Prep=Preparación para la fiesta de degustación de vinos
+Pass the winemaking ingredients to Arden so he can make a wine that Kyla will approve of.=Pasa los ingredientes para la vinificación a Arden para que pueda hacer un vino que Kyla apruebe.
+<noparse></noparse>Great work.=<noparse></noparse>Buen trabajo.
+<noparse></noparse>Oh, you've even brought the ingredients.=<noparse></noparse>Oh, incluso has traído los ingredientes.
+<noparse></noparse>I'm certain your restaurant does not stock these.=<noparse></noparse>Estoy segura de que tu restaurante no tiene estos en existencia.
+<noparse></noparse>That's right, it doesn't.=<noparse></noparse>Así es, no los tiene.
+<noparse></noparse>I knew it, you're always selling the same things.=<noparse></noparse>Lo sabía, siempre vendes las mismas cosas.
+<noparse></noparse>It's fine as long as it tastes good.=<noparse></noparse>Está bien siempre que sepa bien.
+<noparse></noparse>Will you be able to make new wines using these?=<noparse></noparse>¿Podrás hacer nuevos vinos con estos?
+<noparse></noparse>Yes. Hopefully everything goes well and no one comes pestering me again.=<noparse></noparse>Sí.\nOjalá todo salga bien y nadie vuelva a molestarme.
+<noparse></noparse>How about preparing some drinking snacks to go with the wine?=<noparse></noparse>¿Qué tal preparar unas botanas para acompañar el vino?
+<noparse></noparse>It's said that the flavors of the wines will change with the food they're paired with.=<noparse></noparse>Se dice que los sabores de los vinos cambiarán según los alimentos con los que se combinen.
+<noparse></noparse>Hm... What else is there to do? Let's go take a look.=<noparse></noparse>Hm... ¿Qué más hay que hacer?\nVamos a echar un vistazo.
+<noparse></noparse>You don't even drink, how would you know all that?=<noparse></noparse>Ni siquiera bebes, ¿cómo sabrías todo eso?
+<noparse></noparse>Dad and Mom often snuck me a few bites of the drinking snacks they paired with their wine.=<noparse></noparse>Papá y mamá solían pasarme unos bocados de las botanas que combinaban con su vino.
+<noparse></noparse>Stringy fries with cheese pulling long when being picked,=<noparse></noparse>Papas fritas con queso que se estira al servirlas,
+<noparse></noparse>roast sweet potato that melted in the mouth with an explosion of butter... *drool*=<noparse></noparse>batata asada que se derretía en la boca con una explosión de mantequilla... *se me hace agua la boca*
+<noparse></noparse>Yes. We should be good with Beef Bread and BeefStew.=<noparse></noparse>Sí.\nNos irá bien con Pan de Carne y Estofado de Carne.
+<noparse></noparse>You've been offering that all along!=<noparse></noparse>¡Siempre has ofrecido eso!
+<noparse></noparse>Don't familiar things taste the best?=<noparse></noparse>¿No saben mejor las cosas conocidas?
+<noparse></noparse>It'd be a waste of all those wines if you paired them with those foods!=<noparse></noparse>¡Sería un desperdicio de todos esos vinos si los combinaras con esos alimentos!
+<noparse></noparse>Then what would be a good pairing?=<noparse></noparse>Entonces, ¿cuál sería una buena combinación?
+<noparse></noparse>Hmmm, certain pairings tend to be more compatible.=<noparse></noparse>Hmmm, ciertas combinaciones tienden a ser más compatibles.
+<noparse></noparse>Don't you need someone who cares about those things?=<noparse></noparse>¿No necesitas a alguien que se preocupe por esas cosas?
+<noparse></noparse>I'll go look for the ingredients, go ask around about their compatibility or whatever.=<noparse></noparse>Iré a buscar los ingredientes y preguntaré sobre su compatibilidad o lo que sea.
+Don't bother telling me about that.=No me cuentes nada de eso.
+Suitable Drinking Snacks=Botanas adecuadas para acompañar
+It's said that there are great food pairings.\nWhat snacks would work best with a new vint?=Se dice que hay excelentes combinaciones de comida.\n¿Qué botanas funcionarían mejor con un nuevo vino?
+<noparse></noparse>Tell <color\=#800000ff>Kyla</color> to come with you the next time.=<noparse></noparse>Dile a <color\=#800000ff>Kyla</color> que venga contigo la próxima vez.
+<noparse></noparse>And since you're going, bring them <color\=#800000ff>when Kyla is working</color>.=<noparse></noparse>Y ya que vas, tráelos <color\=#800000ff>cuando Kyla esté trabajando</color>.
+<noparse></noparse>Always going on about how wine after a day of hard work tastes the best.=<noparse></noparse>Siempre dice que el vino después de un día de trabajo duro sabe mejor.
+<color\=#ff0000>4. Investigate drinking snacks</color>=<color\=#ff0000>4. Investiga las botanas para acompañar</color>
+Ask around for snack recommendations that will pair well with Arden's new vints.\r\n\r\n=Pide recomendaciones de botanas que combinen bien con los nuevos vinos de Arden.\r\n\r\n
+<noparse></noparse>And you're still so excited about everything here.=<noparse></noparse>Y todavía estás tan entusiasmada con todo aquí.
+Arden's handmade meat bun, consisting of a resilient sheet of dough wrapped around a meat filling, tender and al dente.\\n\\n<color\=#800000>Temporarily increases Fatigue recovery of all food.</color>=El bollo de carne hecho a mano de Arden, consiste en una masa resistente envuelta alrededor de un relleno de carne, tierno y al dente.\\n\\n<color\=#800000>Aumenta temporalmente la recuperación de la fatiga de todos los alimentos.</color>
+This is for you.=Esto es para ti.
+Reached Friendship Level 1!=¡Alcanzaste el nivel de amistad 1!
+<noparse></noparse>Arden and Ellie seem to have more <color\=#800000>Personal Stories</color> to share now!=<noparse></noparse>¡Arden y Ellie parecen tener más <color\=#800000>Historias Personales</color> para compartir ahora!
+<noparse></noparse>Arden, are you sleeping well?=<noparse></noparse>Arden, ¿estás durmiendo bien?
+<noparse></noparse>Huh? What is that?=<noparse></noparse>¿Eh?\n¿Qué es eso?
+<noparse></noparse>The smell... Is it pepper?=<noparse></noparse>El olor... ¿Es pimienta?
+<noparse></noparse>Why are you giving me pepper all of a sudden?=<noparse></noparse>¿Por qué me das pimienta de repente?
+<noparse></noparse>Don't you find it strange?=<noparse></noparse>¿No te parece extraño?
+<noparse></noparse>Uh... It's just pepper.=<noparse></noparse>Uh... es solo pimienta.
+<noparse></noparse>Wrong. If you look closely, you can see that it's mixed with strange colored particles.=<noparse></noparse>Equivocado.\nSi miras de cerca, puedes ver que está mezclada con partículas de colores extraños.
+<noparse></noparse>Now that you say it, it does look a little dark red in color...=<noparse></noparse>Ahora que lo dices, se ve un poco de color rojo oscuro...
+<noparse></noparse>I keep having dreams that I don't even remember.=<noparse></noparse>Sigo teniendo sueños que ni siquiera recuerdo.
+<noparse></noparse>I even sleep with a night light by my side but it's useless.=<noparse></noparse>Incluso duermo con una luz nocturna a mi lado, pero es inútil.
+<noparse></noparse>The only new thing in the restaurant is this pepper, and it has a strange color and a subtle, sweet taste.=<noparse></noparse>Lo único nuevo en el restaurante es esta pimienta, y tiene un color extraño y un sabor suave y ligeramente dulce.
+<noparse></noparse>I'm sure this pepper is cursed.=<noparse></noparse>Estoy seguro de que esta pimienta está maldita.
+<noparse></noparse>A curse on pepper...?=<noparse></noparse>¿Una maldición sobre la pimienta...?
+<noparse></noparse>There is nothing strange about it, since there's even a curse that keeps you praising nature.=<noparse></noparse>No es nada extraño, ya que hay incluso una maldición que te hace alabar la naturaleza sin parar.
+<noparse></noparse>If you're a witch, you'd also be familiar with curses.=<noparse></noparse>Si eres una bruja, también estarías familiarizada con las maldiciones.
+<noparse></noparse>Can you find out what the curse is and lift it?=<noparse></noparse>¿Puedes averiguar cuál es la maldición y levantarla?
+Where did you get the pepper?=¿De dónde sacaste la pimienta?
+Bag of Peppers=Bolsa de Pimientas
+Filled with peppers of all colors, it looks rather foreboding.=Llena de pimientas de todos los colores, tiene un aspecto bastante amenazador.
+<noparse></noparse>I bought it from a green-haired lady who often comes to the village.=<noparse></noparse>La compré a una señora de pelo verde que viene al pueblo con frecuencia.
+<noparse></noparse>Aurea?=<noparse></noparse>¿Aurea?
+<noparse></noparse>Exactly. I smelled a strange curse from her last time.=<noparse></noparse>Exactamente.\nLa última vez que estuvo aquí, percibí en ella un olor a maldición extraña.
+<noparse></noparse>I'm guessing she touched something strange somewhere.=<noparse></noparse>Supongo que tocó algo extraño en algún sitio.
+<noparse></noparse>I'll try to find out.=<noparse></noparse>Intentaré averiguarlo.
+Ask Aurea about the source of the pepper.=Pregúntale a Aurea sobre el origen de la pimienta.
+<noparse></noparse>It's Beef Bread and BeefStew.=<noparse></noparse>Son Beef Bread y BeefStew.
+<noparse></noparse>Surely you know how to make other dishes than Beef Bread and BeefStew, Arden?=<noparse></noparse>¿Seguro que sabes hacer otros platos además de Beef Bread y BeefStew, Arden?
+<noparse></noparse>These are my specialties.=<noparse></noparse>Estas son mis especialidades.
+Some villagers may increase the stock or variety of items they sell when their Affection increases.\\nIncrease Affection of villagers to get more purchasable items.=Algunos aldeanos pueden aumentar el stock o la variedad de artículos que venden cuando su Afinidad aumenta.\\nAumenta la Afinidad de los aldeanos para obtener más artículos disponibles.
+Shop Affection System=Sistema de Afinidad de la Tienda
+You came.=Viniste.
+<noparse></noparse>Lately, thanks to you, it seems we've been getting more customers.=<noparse></noparse>Últimamente, gracias a ti, parece que hemos tenido más clientes.
+<noparse></noparse>So I'm thinking of making more food and increasing the <color\=#800000ff>stock</color>.=<noparse></noparse>Así que estoy pensando en hacer más comida y aumentar el <color\=#800000ff>stock</color>.
+<noparse></noparse>And I made some dishes with <color\=#800000ff>extra care</color>. You'll know when you taste them.=<noparse></noparse>Y preparé algunos platos con <color\=#800000ff>especial esmero</color>.\nYa lo notarás cuando los pruebes.
+Normal Spicy Rib Stew=Estofado de Costilla Picante Normal
+Delicious Steak=Bistec Delicioso
+Delicious Meat Kebab=Kebab de Carne Delicioso
+Delicious Beef Bread=Pan de Carne Delicioso
+Delicious BeefStew =Estofado de Carne Delicioso 
+Arden's meat kebab. The aroma of fat sends strength flowing across your limbs.\\n\\n<color\=#800000>Partially restores the reduced capacity of recoverable Fatigue.</color>=Kebab de carne de Arden.\nEl aroma a grasa hace fluir energía por tus extremidades.\\n\\n<color\=#800000>Restaura parcialmente la capacidad reducida de fatiga recuperable.</color>
+Restores Fatigue capacity=Restaura la capacidad de fatiga
+Increases Fatigue recovery=Aumenta la recuperación de fatiga
+Arden's spicy rib stew. Slightly spicy meat cuts in rich meat soup, this dish keeps you energetic throughout the day.\\n\\n<color\=#800000>Temporarily reduces Fatigue consumption.</color>=Estofado de costilla picante de Arden.\nCortes de carne ligeramente picantes en una rica sopa de carne; este plato te mantiene con energía durante todo el día.\\n\\n<color\=#800000>Reduce temporalmente el consumo de fatiga.</color>
+Reduces Fatigue consumption=Reduce el consumo de fatiga
+2 will cost you <sprite name\=Money>220. Is that okay?=2 te costarán <sprite name\=Money>220. ¿Está bien?
+<noparse></noparse>Aurea, do you also sell food ingredients?=<noparse></noparse>Aurea, ¿también vendes ingredientes alimentarios?
+<noparse></noparse>Usually only for the requested items. Do you need something?=<noparse></noparse>Por lo general, solo los artículos solicitados.\n¿Necesitas algo?
+<noparse></noparse>Oh, I got this from Arden, but...=<noparse></noparse>Oh, esto me lo dio Arden, pero...
+<noparse></noparse>He said he bought this pepper from you and there was something strange about it.=<noparse></noparse>Dice que te compró esta pimienta y que había algo extraño en ella.
+<noparse></noparse>Hmm? No way. Shall we take a look?=<noparse></noparse>¿Mmm?\nImposible.\n¿Le echamos un vistazo?
+<noparse></noparse>Hmm... This is red pepper. It's a pepper with a mild sweetness that is proud of the unique flavor.=<noparse></noparse>Hmm... es pimiento rojo.\nEs una pimienta con un suave dulzor que resalta su sabor único.
+<noparse></noparse>I gave it to Arden to try it out, but I guess he didn't listen. He never does.=<noparse></noparse>Se la di a Arden para que la probara, pero supongo que no prestó atención.\nNunca lo hace.
+<noparse></noparse>Well... Arden thinks this pepper is cursed.=<noparse></noparse>Bueno... Arden cree que esta pimienta está maldita.
+<noparse></noparse>What? That's nonsense.=<noparse></noparse>¿Qué?\nQué tontería.
+<noparse></noparse>I'm very sensitive to curses.=<noparse></noparse>Soy muy sensible a las maldiciones.
+<noparse></noparse>The mention of a curse makes me shudder. I would never sell something with one.=<noparse></noparse>La mención de una maldición me hace estremecer.\nNunca vendería algo con una.
+<noparse></noparse>Right. I also thought it was weird.=<noparse></noparse>Cierto.\nYo también pensé que era raro.
+<noparse></noparse>I have my pride as a merchant.=<noparse></noparse>Tengo mi orgullo como comerciante.
+<noparse></noparse>I'm serious with what people eat.=<noparse></noparse>Me tomo muy en serio lo que la gente consume.
+<noparse></noparse>The pepper is not weird. It's just a different species.=<noparse></noparse>La pimienta no es rara.\nEs simplemente una especie diferente.
+<noparse></noparse>I think Arden was just mistaken.=<noparse></noparse>Creo que Arden simplemente se equivocó.
+<noparse></noparse>Hmm, but there are cases where a curse is hidden. Shall we look into it a little more?=<noparse></noparse>Hmm, pero hay casos en los que una maldición está oculta.\n¿Lo investigamos un poco más?
+<noparse></noparse>What was it again? The thing that tasted terrible.=<noparse></noparse>¿Cómo se llamaba?\nLo que sabía horrible.
+<noparse></noparse>It's not really a memory I'd like to recall, but...=<noparse></noparse>No es precisamente un recuerdo que me guste evocar, pero...
+Get the Curse Detection Candy recipe and make it.=Obtén la receta del Dulce de Detección de Maldición y prepáralo.
+<noparse></noparse>I should ask Diane if I can get a recipe.=<noparse></noparse>Debería preguntarle a Diane si puede darme una receta.
+<color\=#ff0000>2. Craft the Curse Detection Candy</color>=<color\=#ff0000>2. Elabora el Dulce de Detección de Maldición</color>
+<color\=#8C8C8C>1. Check the pepper</color>=<color\=#8C8C8C>1. Revisa la pimienta</color>
+Arden believes that the pepper he bought is cursed.\\nEllie investigates the curse on the pepper.=Arden cree que la pimienta que compró está maldita.\\nEllie investiga la maldición en la pimienta.
+<noparse></noparse>Thank you, but I'm fine.=<noparse></noparse>Gracias, pero estoy bien.
+<noparse></noparse>Oh my. You're not old enough to drink, are you? Ellie.=<noparse></noparse>¡Ay, madre!\n¿No tienes edad para beber, verdad?\nEllie.
+<noparse></noparse>I'm helping Arden to look for suitable drinking snacks.=<noparse></noparse>Estoy ayudando a Arden a buscar botanas para acompañar el vino.
+<noparse></noparse>Oh, I see. You've definitely asked the right person.=<noparse></noparse>Ah, claro.\nDefinitivamente le has preguntado a la persona indicada.
+<noparse></noparse>There aren't many people like me who've tried all kinds of wine and every food pairing.=<noparse></noparse>No hay muchas personas como yo que hayan probado todo tipo de vinos y cada combinación con comida.
+<noparse></noparse>Wow, could you give me a few recommendations?=<noparse></noparse>Vaya, ¿podrías darme algunas recomendaciones?
+<noparse></noparse>Though I like <color\=#800000ff>bitter wine</color>, it doesn't go down easily if it's over the top.=<noparse></noparse>Aunque me gusta el <color\=#800000ff>vino amargo</color>, no entra bien si es demasiado intenso.
+<noparse></noparse>These go well with spicy soups or savory drinking snacks.=<noparse></noparse>Estos combinan bien con sopas picantes o botanas sabrosas.
+<noparse></noparse>A <color\=#800000ff>shakshuka</color> with chunks of meat and pepper would be great too.=<noparse></noparse>Una <color\=#800000ff>shakshuka</color> con trozos de carne y pimienta también estaría genial.
+<noparse></noparse><color\=#800000ff>Fries</color> with BBQ sauce fried with bacon bits are delicious too.=<noparse></noparse><color\=#800000ff>Papas fritas</color> con salsa BBQ y trozos de tocino también están deliciosas.
+<noparse></noparse>I'd recommend pairing <color\=#800000ff>bitter wine</color> with <color\=#800000ff>shakshuka</color> and <color\=#800000ff>french fries</color>.=<noparse></noparse>Recomendaría combinar <color\=#800000ff>vino amargo</color> con <color\=#800000ff>shakshuka</color> y <color\=#800000ff>papas fritas</color>.
+<noparse></noparse>Rubrum, about the mid-aged man you saw...=<noparse></noparse>Rubrum, sobre el hombre de mediana edad que viste...
+Get some Cranapple and look for cats with Rubrum.=Obtén unas Cranmanzanas y busca gatos con Rubrum.
+<noparse></noparse>Hm? You met him?=<noparse></noparse>¿Hm?\n¿Lo conociste?
+<noparse></noparse>No, I didn't.=<noparse></noparse>No, no lo hice.
+<noparse></noparse>But I found something else — a cat encyclopedia and a <color\=#800000ff>Cranapple</color> half-eaten by them.=<noparse></noparse>Pero encontré algo más: una enciclopedia de gatos y una <color\=#800000ff>Cranmanzana</color> medio comida por ellos.
+<noparse></noparse>So, the man and the cats were not there, but there were traces of them.=<noparse></noparse>Entonces, el hombre y los gatos no estaban, pero había rastros de ellos.
+<noparse></noparse>Yup, so, here's my suggestion.=<noparse></noparse>Sí, entonces, aquí va mi sugerencia.
+<noparse></noparse>Let's find some <color\=#800000ff>Cranapple</color>s and go again, shall we?=<noparse></noparse>Busquemos unas <color\=#800000ff>Cranmanzanas</color> y volvamos, ¿de acuerdo?
+<noparse></noparse><color\=#800000ff>Cranapple</color>s?=<noparse></noparse>¿<color\=#800000ff>Cranmanzanas</color>?
+<noparse></noparse>Right. There was a <color\=#800000ff>Cranapple</color> with cat bite marks on it.=<noparse></noparse>Correcto.\nHabía una <color\=#800000ff>Cranmanzana</color> con marcas de mordedura de gato.
+<noparse></noparse>Aww, I'm in, Ellie.=<noparse></noparse>¡Qué mono! Me apunto, Ellie.
+<noparse></noparse>Great. Then, could you wait until I get some <color\=#800000ff>Cranapple</color>s myself? We'll go together.=<noparse></noparse>Genial.\nEntonces, ¿puedes esperar a que consiga unas <color\=#800000ff>Cranmanzanas</color>?\nIremos juntos.
+<noparse></noparse>That means we can get some fresh <color\=#800000ff>Cranapple</color>s to feed the cats there.=<noparse></noparse>Eso significa que podemos llevar unas <color\=#800000ff>Cranmanzanas</color> frescas para alimentar a los gatos.
+<noparse></noparse>Okay, I'll gather many of them too.=<noparse></noparse>Bien, yo también recogeré muchas.
+<color\=#ff0000>4. Find the cat</color>=<color\=#ff0000>4. Encuentra al gato</color>
+<noparse></noparse>I'll bring <color\=#800000ff>Cranapple</color>s. Just a minute.=<noparse></noparse>Traeré <color\=#800000ff>Cranmanzanas</color>.\nEspera un momento.
+<noparse></noparse>Okay, Ellie. I've got my apples ready. We can set out once you're back.=<noparse></noparse>De acuerdo, Ellie.\nTengo mis Cranmanzanas listas.\nPodemos salir en cuanto vuelvas.
+<noparse></noparse>Got it, Rubrum.=<noparse></noparse>Entendido, Rubrum.
+<noparse></noparse>Goodbye.=<noparse></noparse>Adiós.
+<noparse></noparse>What do you want to talk to Enite about?=<noparse></noparse>¿De qué quieres hablarle a Enite?
+Food=Comida
+Village Chief=Jefa de la aldea
+Flower shop=Florería
+<noparse></noparse>My parents were once village chief too.=<noparse></noparse>Mis padres también fueron jefes de la aldea.
+<noparse></noparse>When I was young, I thought there were many things cooler than being village chief...=<noparse></noparse>Cuando era joven, pensé que había muchas cosas más geniales que ser jefa de la aldea...
+<noparse></noparse>It's hard to predict where life takes you.=<noparse></noparse>Es difícil predecir a dónde te lleva la vida.
+<noparse></noparse>Enite and Ellie seem to have gotten closer <color\=#800000>a bit</color>.=<noparse></noparse>Enite y Ellie parecen haberse acercado <color\=#800000>un poco</color>.
+<noparse></noparse>I haven't had drinking snacks in a long time.=<noparse></noparse>Hace mucho que no tomo botanas para acompañar.
+<noparse></noparse>Since my husband was gone, I haven't drunk either.=<noparse></noparse>Desde que mi esposo se fue, tampoco he bebido.
+<noparse></noparse>Don't you like wine, Enite?=<noparse></noparse>¿No te gusta el vino, Enite?
+<noparse></noparse>I don't really like or dislike it, besides, I have Rubrum now.=<noparse></noparse>Realmente no me gusta ni me disgusta, además, ahora tengo a Rubrum.
+<noparse></noparse>But I get a little nostalgic thinking about it...=<noparse></noparse>Pero me da un poco de nostalgia pensarlo...
+<noparse></noparse>He loved <color\=#800000ff>sweet and sour drinking snacks</color> with his wine.=<noparse></noparse>Le encantaban las <color\=#800000ff>botanas dulces y agrias</color> con su vino.
+<noparse></noparse>Such as <color\=#800000ff>baguette slices</color> with tomatoes, basil, olive oil, and garlic.=<noparse></noparse>Como <color\=#800000ff>rebanadas de baguette</color> con tomates, albahaca, aceite de oliva y ajo.
+<noparse></noparse>Or <color\=#800000ff>Witchflower salad</color> topped with lemon juice.=<noparse></noparse>O <color\=#800000ff>Ensalada de Witchflower</color> cubierta con jugo de limón.
+<noparse></noparse>He said nothing tasted better than <color\=#800000ff>fragrant wine</color> plus <color\=#800000ff>bruschetta</color> with <color\=#800000ff>Witchflower salad</color>. He had it a lot.=<noparse></noparse>Decía que nada sabía mejor que <color\=#800000ff>vino fragante</color> con <color\=#800000ff>bruschetta</color> y <color\=#800000ff>Ensalada de Witchflower</color>.\nLo comía seguido.
+Acquainted=Conocidos
+Lazy=Perezoso
+It has a smooth silhouette, a shiny coat that reflects moonlight, and big eyes as gorgeous as the moon. Staring into those eyes can light up your mood at night. However, it doesn't seem to have many cat friends.=Tiene una silueta suave, un pelaje brillante que refleja la luz de la luna y unos ojos grandes tan hermosos como la luna.\nMirar esos ojos puede alegrarte el ánimo por las noches.\nSin embargo, no parece tener muchos amigos entre los gatos.
+<noparse></noparse>Diane, can you also get me the recipe for <color\=#800000ff>Curse Detection Candy</color>?=<noparse></noparse>Diane, ¿también puedes conseguirme la receta del <color\=#800000ff>Dulce de Detección de Maldición</color>?
+<noparse></noparse>Sure. I'll add it right away, since I happen to have it in stock.=<noparse></noparse>Claro.\nLo agregaré de inmediato, ya que casualmente tengo uno en existencia.
+<noparse></noparse>Are you going to use it yourself?=<noparse></noparse>¿Lo vas a usar tú misma?
+<noparse></noparse>Uh... that's right, but is there a different version with improved taste?=<noparse></noparse>Uh... así es, pero ¿hay una versión con mejor sabor?
+<noparse></noparse>You're lucky. This happens to be an improved version.=<noparse></noparse>Tienes suerte.\nEsta casualmente es una versión mejorada.
+<noparse></noparse>Woah...=<noparse></noparse>Vaya...
+<noparse></noparse>It used to taste like rotten grilled fish left at room temperature for 3 days...=<noparse></noparse>Solía saber a pescado a la parrilla podrido dejado a temperatura ambiente durante 3 días...
+<noparse></noparse>They say it has now been improved to taste like nasal mucus from when you catch a cold.=<noparse></noparse>Dicen que ahora se ha mejorado para saber a moco nasal de cuando tienes un resfriado.
+<noparse></noparse>If you feel uncomfortable eating it, you can also consider grinding and sprinkling it.=<noparse></noparse>Si te resulta difícil tomarlo, también puedes considerar molerlo y espolvorearlo.
+<noparse></noparse>Was there such a method?!=<noparse></noparse>¿Existe ese método?
+<noparse></noparse>I told you to read the book to the end.=<noparse></noparse>Te dije que leyeras el libro hasta el final.
+Recipe: Curse Detection Candy=Receta: Dulce de Detección de Maldición
+The recipe for the Curse Detection Candy. Though extremely useful, it requires great willpower from the user, due to its notorious bad taste.=La receta del Dulce de Detección de Maldición.\nAunque es extremadamente útil, requiere una gran fuerza de voluntad del usuario, debido a su notorio mal sabor.
+<noparse></noparse><color\=#800000ff>Firecracker Potion</color>. It's a potion I've always wanted to try making.=<noparse></noparse><color\=#800000ff>Poción de Fuegos Artificiales</color>.\nEs una poción que siempre he querido intentar hacer.
+<noparse></noparse>You too, Diane?=<noparse></noparse>¿Tú también, Diane?
+<noparse></noparse>Sure. It's the highlight of the <color\=#800000ff>Star Gun Festival</color>.=<noparse></noparse>Claro.\nEs lo más destacado del <color\=#800000ff>Festival de la Pistola Estelar</color>.
+<noparse></noparse>Right. I liked the fireworks on the last day the most, too.=<noparse></noparse>Cierto.\nA mí también me gustaron más los fuegos artificiales del último día.
+<noparse></noparse>There's somewhere I want to use it in this time. Can I get the recipe?=<noparse></noparse>Hay un lugar en el que quiero usarla en esta ocasión.\n¿Puedo conseguir la receta?
+<noparse></noparse>Hmm... It's not hard to register the recipe in the Catalogue but...=<noparse></noparse>Hmm... No es difícil registrar la receta en el Catálogo, pero...
+<noparse></noparse>Ellie, as you likely already know, it's forbidden to craft a <color\=#800000ff>Firecracker Potion</color> while enrolled in the School for Witches.=<noparse></noparse>Ellie, como probablemente ya sepas, está prohibido elaborar una <color\=#800000ff>Poción de Fuegos Artificiales</color> estando inscrita en la Escuela de Brujas.
+<noparse></noparse>But I'm already an apprentice!=<noparse></noparse>¡Pero ya soy una aprendiz!
+<noparse></noparse>In that case, you can, but there are conditions.=<noparse></noparse>En ese caso, puedes, pero hay condiciones.
+<noparse></noparse>Before the laws, a <color\=#800000ff>Firecracker Potion</color> would often blow the butts off people or burn down houses...=<noparse></noparse>Antes de las leyes, una <color\=#800000ff>Poción de Fuegos Artificiales</color> solía hacerle volar el trasero a la gente o quemar casas...
+<noparse></noparse>You have to report how many and for what purpose to the Witch Administration.=<noparse></noparse>Debes informar a la Administración de Brujas cuántas y con qué propósito.
+<noparse></noparse>Th.. the.. Administration...=<noparse></noparse>La... la... Administración...
+<noparse></noparse>Ellie, you are like an unfinished hat.=<noparse></noparse>Ellie, eres como un sombrero sin terminar.
+<noparse></noparse>Still haven't found the recipe?=<noparse></noparse>¿Todavía no has encontrado la receta?
+<noparse></noparse>T... They say I would have to report it to the Administration...=<noparse></noparse>D... Dicen que tendría que reportarlo a la Administración...
+<noparse></noparse>Oh, you can just use the master witch's name.=<noparse></noparse>Oh, puedes usar simplemente el nombre de la bruja maestra.
+<noparse></noparse>Please fill out the master witch's name, your name, the intended purpose, and how many, right here.=<noparse></noparse>Por favor escribe el nombre de la bruja maestra, tu nombre, el propósito previsto y la cantidad, aquí mismo.
+<noparse></noparse>T-the master witch's name...?=<noparse></noparse>T-el nombre de la bruja maestra...?
+<noparse></noparse>What? Ellie, you little furball!=<noparse></noparse>¿Qué?\n¡Ellie, pequeño montón de pelo!
+<noparse></noparse>You're writing MY name with your hellish handwriting?=<noparse></noparse>¿Estás escribiendo MI nombre con tu letra horrible?
+<noparse></noparse>It looks like your master witch has quite a temper.=<noparse></noparse>Parece que tu bruja maestra tiene bastante temperamento.
+<noparse></noparse>If you'd like, you can also put the name of someone else.=<noparse></noparse>Si lo deseas, también puedes poner el nombre de otra persona.
+<noparse></noparse>T... Then...=<noparse></noparse>E... Entonces...
+<noparse></noparse>Aria... and Ellie. Just 1. For the village party...=<noparse></noparse>Aria... y Ellie.\nSolo 1. Para la fiesta del pueblo...
+<noparse></noparse>Okay, I will add it for you.=<noparse></noparse>Bien, te lo agregaré.
+<noparse></noparse>My name is Diane. Thank you for coming today.=<noparse></noparse>Mi nombre es Diane.\nGracias por venir hoy.
+<noparse></noparse>Phew... My heart pounds out of my chest every time something like this happens.=<noparse></noparse>Uf... el corazón me late a mil cada vez que sucede algo así.
+<noparse></noparse>Stop acting, it's terrible. You'll get caught.=<noparse></noparse>Deja de actuar, lo haces fatal.\nTe van a atrapar.
+<noparse></noparse>But I have no choice.=<noparse></noparse>Pero no tengo otra opción.
+<noparse></noparse>I wrote down <color\=#800000ff>Mom's name</color> because it was the only name I could think of... That should be fine, right?=<noparse></noparse>Escribí <color\=#800000ff>el nombre de mamá</color> porque era el único que se me ocurrió... Está bien, ¿verdad?
+<noparse></noparse>Let's go make a <color\=#800000ff>Firecracker Potion</color>, since we've accomplished our goal.=<noparse></noparse>Vamos a hacer una <color\=#800000ff>Poción de Fuegos Artificiales</color>, ya que hemos logrado nuestro objetivo.
+<noparse></noparse>I'm really getting worried.=<noparse></noparse>Realmente me estoy preocupando.
+The recipe for Firecracker Potion, the potion that flies high up in the sky and explodes in beautiful sparks at a specific height.=La receta de la Poción de Fuegos Artificiales, la poción que vuela alto en el cielo y explota en hermosas chispas a una altura específica.
+Recipe: Firecracker Potion=Receta: Poción de Fuegos Artificiales
+<noparse></noparse>Thank you, but I'll just accept the sentiment!=<noparse></noparse>¡Gracias, pero me quedo con el gesto!
+Recipe "Curse Detection Candy"=Receta "Dulce de Detección de Maldición"
+Recipe "Firecracker Potion"=Receta "Poción de Fuegos Artificiales"
+It is a potion that flies high up in the sky and explodes in beautiful sparks at a specific height.=Es una poción que vuela alto en el cielo y explota en hermosas chispas a una altura específica.
+17.39cm=17.39cm
+59.38cm=59.38 cm
+Cloud Salmon=Salmón de Nube
+<noparse></noparse>Is this my dream?=<noparse></noparse>¿Es este mi sueño?
+<noparse></noparse>It's darker than I thought.=<noparse></noparse>Es más oscuro de lo que pensaba.
+<noparse></noparse>Virgil isn't here either.=<noparse></noparse>Virgil tampoco está aquí.
+White Cat God=Dios Gato Blanco
+<noparse></noparse>Hello. Where am I?=<noparse></noparse>Hola.\n¿Dónde estoy?
+<noparse></noparse>Since it's a long story, let's skip it. You'll forget it anyway.=<noparse></noparse>Como es una historia larga, saltémosla.\nDe todos modos lo olvidarás.
+<noparse></noparse>Thank you so much for saving Rubrum. And you did a great job removing the White Prickly Vine.=<noparse></noparse>Muchas gracias por salvar a Rubrum.\nE hiciste un gran trabajo eliminando la Enredadera Espinosa Blanca.
+<noparse></noparse>You reconstructed the village and brought one villager back, which is Kyla the carpenter. Well done.=<noparse></noparse>Reconstruiste el pueblo y trajiste de vuelta a una aldeana: Kyla la Carpintera.\nBien hecho.
+<noparse></noparse>You also found the prickly vine core. Now all you have to do is make Moon Oil one more time.=<noparse></noparse>También encontraste el núcleo de la enredadera espinosa.\nAhora todo lo que tienes que hacer es preparar el Aceite de Luna una vez más.
+<noparse></noparse>Look, I'm sorry, but I really don't know what you're talking about at all.=<noparse></noparse>Mira, lo siento, pero realmente no sé de qué estás hablando en absoluto.
+<noparse></noparse>It's truly amazing that your reaction is different every time even though you can't remember.=<noparse></noparse>Es realmente sorprendente que tu reacción sea diferente cada vez aunque no puedas recordar.
+<noparse></noparse>Uh, I'll probably remember this one.=<noparse></noparse>Uh, probablemente recordaré este sueño.
+<noparse></noparse>I've drunk Dream Recollection Potion.=<noparse></noparse>He bebido la Poción de Recuerdo de los Sueños.
+<noparse></noparse>It felt like I kept having weird dreams, so I drank it beforehand.=<noparse></noparse>Sentía que seguía teniendo sueños raros, así que la bebí de antemano.
+<noparse></noparse>Wait wait, you drank what?=<noparse></noparse>Espera, espera, ¿bebiste qué?
+<noparse></noparse>Is this the weird dream I've been having?=<noparse></noparse>¿Es este el sueño raro que he estado teniendo?
+<noparse></noparse>Okay. Good. I'll do it again.=<noparse></noparse>Bueno.\nBien.\nLo haré de nuevo.
+<noparse></noparse>Nice to meet you, young lady.=<noparse></noparse>Encantado de conocerte, señorita.
+<noparse></noparse>Are you the apprentice witch Ellie Blueriver?=<noparse></noparse>¿Eres la aprendiz de bruja Ellie Blueriver?
+<noparse></noparse>Uh, but I remember it all!=<noparse></noparse>Uh, ¡pero lo recuerdo todo!
+<noparse></noparse>You're only doing this now?=<noparse></noparse>¿Solo estás haciendo esto ahora?
+<noparse></noparse>You kept forgetting even if I begged you until now...=<noparse></noparse>Seguías olvidando aunque te lo suplicara hasta ahora...
+<noparse></noparse>I'm not sure what's going on, but don't worry. I'll remember everything from now on.=<noparse></noparse>No estoy segura de lo que está pasando, pero no te preocupes.\nRecordaré todo de ahora en adelante.
+<noparse></noparse>Why did the first meeting that must be dignified become like this...?=<noparse></noparse>¿Por qué esta primera reunión, que debía ser solemne, acabó así...?
+<noparse></noparse>Please tell me now.=<noparse></noparse>Por favor, cuéntame ahora.
+<noparse></noparse>My dignity as a god...=<noparse></noparse>Mi dignidad como dios...
+<noparse></noparse>Who are you, and why do you appear in my dreams?=<noparse></noparse>¿Quién eres y por qué apareces en mis sueños?
+<noparse></noparse>Yes... okay. I'll tell you.=<noparse></noparse>Sí... está bien.\nTe lo diré.
+<noparse></noparse>It's been a while since I uttered these words=<noparse></noparse>Ha pasado un tiempo desde que pronuncié estas palabras
+<noparse></noparse>I am the White Cat God, the guardian deity of this village.=<noparse></noparse>Soy el Dios Gato Blanco, la deidad guardiana de este pueblo.
+<noparse></noparse>Ellie, I called you to this village because I have a favor to ask you.=<noparse></noparse>Ellie, te llamé a este pueblo porque tengo un favor que pedirte.
+<noparse></noparse>God? A god called me to this place?=<noparse></noparse>¿Dios?\n¿Un dios me llamó a este lugar?
+<noparse></noparse>Yes, I called you to this village.=<noparse></noparse>Sí, te llamé a este pueblo.
+<noparse></noparse>But as I was on the train, I accidentally...=<noparse></noparse>Pero como estaba en el tren, accidentalmente...
+<noparse></noparse>Yes, the train had to stop because of the prickly vines.=<noparse></noparse>Sí, el tren tuvo que detenerse debido a las Enredaderas Espinosas.
+<noparse></noparse>And missed the train because I overslept...=<noparse></noparse>Y me perdí el tren porque me quedé dormida...
+<noparse></noparse>Yes, you missed the train because I made you "accidentally" oversleep.=<noparse></noparse>Sí, te perdiste el tren porque te hice quedarte dormida "accidentalmente".
+<noparse></noparse>You... did?=<noparse></noparse>¿Tú... lo hiciste?
+<noparse></noparse>We've also met in reality once.=<noparse></noparse>También nos hemos encontrado en la realidad una vez.
+<noparse></noparse>Don't tell me the cat on the lake shore was...=<noparse></noparse>No me digas que el gato en la orilla del lago era...
+<noparse></noparse>I guided you to the Witch's House.=<noparse></noparse>Te guié a la Casa de la Bruja.
+<noparse></noparse>And I showed up in your dreams so that you'd oversleep and miss the train.=<noparse></noparse>Y me aparecí en tus sueños para que te quedaras dormida y te perdieras el tren.
+<noparse></noparse>I see. No wonder I overslept.=<noparse></noparse>Ya veo.\nCon razón me quedé dormida.
+<noparse></noparse>What is the favor?=<noparse></noparse>¿Cuál es el favor?
+<noparse></noparse>This is a very personal and selfish request.=<noparse></noparse>Esta es una petición muy personal y egoísta.
+<noparse></noparse>I wanted to help this village. It is declining because of the prickly vines.=<noparse></noparse>Quería ayudar a este pueblo.\nEstá decayendo a causa de las Enredaderas Espinosas.
+<noparse></noparse>But a god without believers is powerless. I couldn't do it with my own power.=<noparse></noparse>Pero un dios sin creyentes es impotente.\nNo pude hacerlo con mi propio poder.
+<noparse></noparse>It's been too long since this abandoned Witch's House saw its last witch.=<noparse></noparse>Lleva demasiado tiempo sin ver a una bruja esta Casa de la Bruja abandonada.
+<noparse></noparse>You're the only one that I can ask, Ellie.=<noparse></noparse>Eres la única a quien puedo pedírselo, Ellie.
+<noparse></noparse>Let me repeat what I said in the dream that night.=<noparse></noparse>Déjame repetir lo que dije en ese sueño aquella noche.
+<noparse></noparse>Ellie, please help this village.=<noparse></noparse>Ellie, por favor ayuda a este pueblo.
+Alright.=Está bien.
+No thanks.=No, gracias.
+<noparse></noparse>Yeah. And I'm still doing so.=<noparse></noparse>Sí.\nY todavía lo estoy haciendo.
+<noparse></noparse>Precisely. You reacted the same way the first time we met in your sleep.=<noparse></noparse>Precisamente.\nReaccionaste de la misma manera la primera vez que nos encontramos mientras dormías.
+<noparse></noparse>I've lost count of how many times I've been in this dream.=<noparse></noparse>He perdido la cuenta de cuántas veces he estado en este sueño.
+<noparse></noparse>Even back then, when you didn't know about Rubrum, Enite, Arden, or the village at all.=<noparse></noparse>Incluso en aquel entonces, cuando no sabías nada de Rubrum, Enite, Arden ni del pueblo.
+<noparse></noparse>You've aided a village, its people, and a God, none of whom you've met before, without hesitation.=<noparse></noparse>Has ayudado a un pueblo, a su gente y a un dios, ninguno de los cuales habías conocido antes, sin dudarlo.
+<noparse></noparse>But why are you doing this? Why are you willing do help?=<noparse></noparse>¿Pero por qué estás haciendo esto?\n¿Por qué estás dispuesta a ayudar?
+Happiness=Felicidad
+Graduation=Graduación
+Fun=Diversión
+Obligation=Obligación
+<noparse></noparse>I wish people around me can become happy.=<noparse></noparse>Deseo que la gente a mi alrededor pueda ser feliz.
+<noparse></noparse>If others are happy, I'm happy.=<noparse></noparse>Si otros son felices, yo también soy feliz.
+<noparse></noparse>If anyone is unhappy, I want to make them happy.=<noparse></noparse>Si alguien es infeliz, quiero hacerlo feliz.
+<noparse></noparse>Because that's what makes me happy.=<noparse></noparse>Porque eso es lo que me hace feliz.
+<noparse></noparse>And, there are many in Highlion other than myself who can help.=<noparse></noparse>Y hay muchos en Highlion, además de mí, que pueden ayudar.
+<noparse></noparse>I'm glad it was you on the train back then, Ellie.=<noparse></noparse>Me alegra que fueras tú la que estaba en ese tren, Ellie.
+<noparse></noparse>Any witch would have done what I did.=<noparse></noparse>Cualquier bruja habría hecho lo que hice.
+<noparse></noparse>No, Ellie. Absolutely not.=<noparse></noparse>No, Ellie.\nEn absoluto.
+<noparse></noparse>I'm so glad it's you. Thanks again.=<noparse></noparse>Me alegra tanto que seas tú.\nGracias de nuevo.
+<noparse></noparse>It's not such a big deal.=<noparse></noparse>No es para tanto.
+<noparse></noparse>Yes? Do you have any questions?=<noparse></noparse>¿Sí?\n¿Tienes alguna pregunta?
+<noparse></noparse>Perhaps the fact that I felt like I'd been there when I first entered the village was also...=<noparse></noparse>Quizás el hecho de que sentí que había estado allí cuando entré al pueblo por primera vez también fue...
+<noparse></noparse>Yes, there was a time when I showed you the village in the dream. Although you didn't remember.=<noparse></noparse>Sí, hubo un momento en que te mostré el pueblo en el sueño.\nAunque no lo recordaste.
+<noparse></noparse>And was that also the reason I felt as if I knew Enite?=<noparse></noparse>¿Y fue esa también la razón por la que sentí como si conociera a Enite?
+<noparse></noparse>I really talked a lot about Enite.=<noparse></noparse>Realmente hablé mucho sobre Enite.
+<noparse></noparse>I've been watching Enite since she was born.=<noparse></noparse>He estado observando a Enite desde que nació.
+<noparse></noparse>Enite was a real cutie as a child, you know? The serious expression and clear pronunciation when she spoke...=<noparse></noparse>Enite era una verdadera monada cuando era niña, ¿sabes?\nEsa expresión seria y la pronunciación tan clara cuando hablaba...
+<noparse></noparse>Oh, look at the time.=<noparse></noparse>Oh, mira la hora.
+<noparse></noparse>What's the time?=<noparse></noparse>¿Qué hora es?
+<noparse></noparse>Time to get up.=<noparse></noparse>Es hora de levantarse.
+<noparse></noparse>You should wake up from the dream when it's morning.=<noparse></noparse>Deberías despertarte del sueño cuando llegue la mañana.
+<noparse></noparse>I'm eager to see where our partnership takes us, Ellie.=<noparse></noparse>Estoy ansioso por ver a dónde nos lleva nuestra alianza, Ellie.
+<noparse></noparse>Me too, White Cat God.=<noparse></noparse>Yo también, Dios Gato Blanco.
+<noparse></noparse>Oh, and there's one more thing.=<noparse></noparse>Ah, y hay una cosa más.
+<noparse></noparse>The path above the village... has been cleared...=<noparse></noparse>El camino sobre el pueblo... ha sido despejado...
+<noparse></noparse>So, the <color\=#800000ff>temple</color>...=<noparse></noparse>Entonces, el <color\=#800000ff>templo</color>...
+<noparse></noparse>Virgil!=<noparse></noparse>¡Virgil!
+<noparse></noparse>Hold on, let me guess.=<noparse></noparse>Espera, déjame adivinar.
+<noparse></noparse>Huh? Guess what?=<noparse></noparse>¿Eh?\n¿Qué tengo que adivinar?
+<noparse></noparse>Did a goddess dressed in white come to tell you how you were the chosen warrior?=<noparse></noparse>¿Una diosa vestida de blanco vino a decirte que eras la guerrera elegida?
+<noparse></noparse>Uh, kinda...=<noparse></noparse>Uh, más o menos...
+<noparse></noparse>So original...=<noparse></noparse>Qué original...
+<noparse></noparse>But Virgil, this is different.=<noparse></noparse>Pero Virgil, esto es diferente.
+<noparse></noparse>Different as in, the main character is a bit lacking in some aspects?=<noparse></noparse>¿Diferente en que la protagonista le falta algo en ciertos aspectos?
+<noparse></noparse>This is my story.=<noparse></noparse>Esta es mi historia.
+<noparse></noparse>It's not about some chosen warrior from your typical fairy tale.=<noparse></noparse>No se trata de ninguna guerrera elegida de tu típico cuento de hadas.
+<noparse></noparse>And so you've decided to be the heroine of this tale as old as time?=<noparse></noparse>¿Y entonces has decidido ser la heroína de esta historia tan antigua como el tiempo?
+<noparse></noparse>It's so I can make everyone happy.=<noparse></noparse>Es para poder hacer felices a todos.
+<noparse></noparse>Also, White Cat God said something... about the village.=<noparse></noparse>Además, el Dios Gato Blanco dijo algo... sobre el pueblo.
+<noparse></noparse>This is why heroes must make choices carefully.=<noparse></noparse>Es por eso que los héroes deben tomar decisiones con cuidado.
+<noparse></noparse>I heard it in my dream!=<noparse></noparse>¡Lo escuché en mi sueño!
+<noparse></noparse>The road above the village is open now.=<noparse></noparse>El camino sobre el pueblo está abierto ahora.
+<noparse></noparse>Let's go there.=<noparse></noparse>Vamos allá.
+Take the path above the village.=Toma el camino sobre el pueblo.
+<color\=#ff0000>5. Talk to the White Cat God</color>=<color\=#ff0000>5. Habla con el Dios Gato Blanco</color>
+A candy that improves eyesight.=Un dulce que mejora la vista.
+A potion that flies high up in the sky and explodes in beautiful sparks at a specific height.=Una poción que vuela alto en el cielo y explota en hermosas chispas a una altura específica.
+<noparse></noparse>I finally made one with my own hands...=<noparse></noparse>Por fin la hice con mis propias manos...
+<noparse></noparse>Be careful handling it. It's probably supervised by the Administration for a reason.=<noparse></noparse>Ten cuidado al manipularla.\nProbablemente esté supervisada por la Administración por alguna razón.
+<noparse></noparse>Yes, of course. Because no one should get hurt.=<noparse></noparse>Sí, claro.\nPorque nadie debería salir herido.
+Wait for Kyla to finish the fountain, then talk to Enite and start the party.=Espera a que Kyla termine la fuente, luego habla con Enite y comienza la fiesta.
+<noparse></noparse>Let's take the <color\=#800000ff>Firecracker Potion</color> to Enite.=<noparse></noparse>Vamos a llevarle la <color\=#800000ff>Poción de Fuegos Artificiales</color> a Enite.
+<color\=#ff0000>4. Host the party in the village</color>=<color\=#ff0000>4. Organiza la fiesta en el pueblo</color>
+You've added the [Curse Detection Candy recipe] to favorite.=Has agregado la [receta de Dulce de Detección de Maldición] a favoritos.
+A disgusting candy that detects and determines curses. You can turn it into powder for use, if eating it proves to be difficult.=Un dulce repugnante que detecta y determina las maldiciones.\nPuedes convertirlo en polvo para usarlo, si resulta difícil de comer.
+<noparse></noparse>Alright... Grind this well and...=<noparse></noparse>Muy bien... muele esto bien y...
+<noparse></noparse>It worked!=<noparse></noparse>¡Funcionó!
+<noparse></noparse>It's strange to have such a bad taste when there isn't any smell.=<noparse></noparse>Es extraño tener un sabor tan horrible sin que haya ningún olor.
+<noparse></noparse>You wouldn't have had to eat it if you didn't go into places that were forbidden.=<noparse></noparse>No habrías tenido que comerlo si no fueras a lugares prohibidos.
+<noparse></noparse>Don't you know that curiosity and passion for inquiry are required for a witch?=<noparse></noparse>¿No sabes que la curiosidad y la pasión por investigar son cualidades de una bruja?
+<noparse></noparse>The problem is that you're applying them to things you shouldn't do.=<noparse></noparse>El problema es que las estás aplicando a cosas que no deberías hacer.
+<noparse></noparse>Time to put pepper on it~=<noparse></noparse>Es hora de ponerle pimienta~
+<noparse></noparse>Hmm.=<noparse></noparse>Hmm.
+<noparse></noparse>Um.=<noparse></noparse>Mm.
+<noparse></noparse>They said that the powder glows when it's on a curse but...=<noparse></noparse>Dijeron que el polvo brilla cuando está sobre una maldición, pero...
+<noparse></noparse>Surprisingly, nothing happened.=<noparse></noparse>Sorprendentemente, no pasó nada.
+<noparse></noparse>Still, it's now clear that there is no curse.=<noparse></noparse>Aun así, ahora está claro que no hay ninguna maldición.
+<noparse></noparse>Arden seemed to be convinced somehow...=<noparse></noparse>Arden parecía estar convencido de alguna manera...
+<noparse></noparse>Hmm... Something feels uncomfortable.=<noparse></noparse>Hmm... Algo me incomoda.
+<noparse></noparse>Because Arden might not believe it?=<noparse></noparse>¿Porque Arden podría no creerlo?
+<noparse></noparse>Well, rather than that... I wonder what could be the cause of the inability to sleep.=<noparse></noparse>Bueno, más que eso... Me pregunto cuál podría ser la causa del insomnio.
+<noparse></noparse>Then, you'd better make some <color\=#800000ff>Curse-lifting Candy</color> before you go.=<noparse></noparse>Entonces, será mejor que hagas un poco de <color\=#800000ff>Dulce de Alivio de Maldición</color> antes de irte.
+<noparse></noparse>It would work even if something other than the pepper was cursed.=<noparse></noparse>Funcionaría incluso si algo más que la pimienta estuviera maldito.
+<noparse></noparse>I should try that for now.=<noparse></noparse>Debería intentarlo por ahora.
+Give Arden the Curse-lifting Candy.=Dale a Arden el Dulce de Alivio de Maldición.
+<color\=#ff0000>3. Give the Curse-lifting Candy to Arden</color>=<color\=#ff0000>3. Dale el Dulce de Alivio de Maldición a Arden</color>
+Green Forest Potions Encyclopedia 20% Completion Reward=Enciclopedia de Pociones del Bosque Verde — Recompensa de 20% de completado
+We hereby express our recognition of your Moderate achievements on Green Forest's study of Potions with your remarkable spirit of inquiry.=Por la presente, expresamos nuestro reconocimiento de tus logros moderados en el estudio de pociones del Bosque Verde con tu notable espíritu de investigación.
+340 Luna Coin(s)=340 Luna Coins
+<noparse></noparse>Oh... A glass of <color\=#800000ff>sweet wine</color> after work with a dessert is the best.=<noparse></noparse>Oh... un vaso de <color\=#800000ff>vino dulce</color> después del trabajo con un postre es lo mejor.
+<noparse></noparse>A slice of heaven to reward a hard day of work!=<noparse></noparse>¡Una rebanada del paraíso para recompensar un duro día de trabajo!
+<noparse></noparse>I think I understand how that feels, that's me when I eat a Nubicula cupcake.=<noparse></noparse>Creo que entiendo cómo se siente, esa soy yo cuando como un Cupcake de Nubícula.
+<noparse></noparse>Wonderful! I'm glad you understand how happy sweets can make a person, Ellie.=<noparse></noparse>¡Maravilloso!\nMe alegra que entiendas lo felices que pueden hacer los dulces a una persona, Ellie.
+<noparse></noparse>Do you have any recommendations for the menu, Diane?=<noparse></noparse>¿Tienes alguna recomendación para el menú, Diane?
+<noparse></noparse>Hm... I like sweet wine with desserts, but some people think that's too much.=<noparse></noparse>Hm... Me gusta el vino dulce con postres, pero algunas personas piensan que es demasiado.
+<noparse></noparse>I often pair <color\=#800000ff>sweet wine</color> with <color\=#800000ff>cheesecake</color> or <color\=#800000ff>dark chocolate</color>.=<noparse></noparse>Suelo combinar <color\=#800000ff>vino dulce</color> con <color\=#800000ff>tarta de queso</color> o <color\=#800000ff>chocolate oscuro</color>.
+<noparse></noparse>I like <color\=#800000ff>Dangle Mango sherbet</color>. It tastes refreshing and would be a great match.=<noparse></noparse>Me gusta el <color\=#800000ff>Sorbete de Mango Colgante</color>.\nSabe refrescante y sería una gran combinación.
+<noparse></noparse>Plenty of food here that looks great.=<noparse></noparse>Hay mucha comida aquí que tiene muy buena pinta.
+<noparse></noparse>They don't have to be paired with wine. They'd taste great on their own.=<noparse></noparse>No tienen que combinarse con vino.\nSabrían muy bien por sí solas.
+<noparse></noparse>So you've been asking around about the things you want to eat?=<noparse></noparse>¿Entonces has estado preguntando sobre las cosas que quieres comer?
+<noparse></noparse>Not at all, I've been making inquiries seriously.=<noparse></noparse>En absoluto, he estado haciendo mis consultas con toda seriedad.
+<noparse></noparse>Now I'll tell Kyla. Then the winetasting party can start right away.=<noparse></noparse>Ahora le diré a Kyla.\nEntonces la fiesta de cata de vinos puede comenzar de inmediato.
+<noparse></noparse>Arden asked me to bring them when <color\=#800000ff>Kyla is working</color>.=<noparse></noparse>Arden me pidió que los trajera cuando <color\=#800000ff>Kyla esté trabajando</color>.
+Talk to Kyla when she's working about holding a winetasting party.\r\n\r\n=Habla con Kyla cuando esté trabajando para organizar una fiesta de cata de vinos.\r\n\r\n
+<color\=#ff0000>5. Invite to join the winetasting party</color>=<color\=#ff0000>5. Invita a la fiesta de cata de vinos</color>
+<noparse></noparse>Kyla said that it would take a day to repair the fountain.=<noparse></noparse>Kyla dijo que tomaría un día reparar la fuente.
+<noparse></noparse>Let's talk to Enite tomorrow.=<noparse></noparse>Hablemos con Enite mañana.
+<noparse></noparse>Ellie, it's been a while. How are you?=<noparse></noparse>Ellie, ha pasado un tiempo.\n¿Cómo estás?
+<noparse></noparse>I don't have any favor to ask for at the moment.=<noparse></noparse>No tengo ningún favor que pedir en este momento.
+<noparse></noparse>Curious Blooms Around the World=<noparse></noparse>Flores curiosas por el mundo
+Gold Rosemary=Romero Dorado
+Close the book=Cerrar el libro
+<noparse></noparse>A long time ago, a man lived in the village.=<noparse></noparse>Hace mucho tiempo, un hombre vivía en el pueblo.
+<noparse></noparse>In a very distant village, there was a woman he loved dearly.=<noparse></noparse>En un pueblo muy lejano, había una mujer a quien amaba profundamente.
+<noparse></noparse>They often met in the forest because of fierce opposition from their parents.=<noparse></noparse>A menudo se encontraban en el bosque debido a la feroz oposición de sus padres.
+<noparse></noparse>Oh... Was this a forbidden love?=<noparse></noparse>Oh... ¿fue este un amor prohibido?
+<noparse></noparse>Sounds like everything forbidden looks good to you, huh.=<noparse></noparse>Parece que todo lo prohibido te parece bien, ¿eh?
+<noparse></noparse>Of course not! I'm just a hopeless romantic!=<noparse></noparse>¡Por supuesto que no!\n¡Solo soy una romántica empedernida!
+<noparse></noparse>One day, the man was delayed by some business in the village, and the woman encountered a wild beast while waiting for him.=<noparse></noparse>Un día, el hombre se retrasó por algunos asuntos en el pueblo, y la mujer se encontró con una bestia salvaje mientras lo esperaba.
+<noparse></noparse>She was wounded and fell to her death from the cliff while trying to run away.=<noparse></noparse>Fue herida y cayó al vacío desde el acantilado intentando huir.
+<noparse></noparse>After the man arrived, he saw the torn clothes and blood and was filled with self-reproach for having come too late.=<noparse></noparse>Cuando llegó el hombre, vio la ropa desgarrada y la sangre, y lo invadió el remordimiento por haber llegado demasiado tarde.
+<noparse></noparse>This part's a little <color\=#800000ff>crumpled</color>.=<noparse></noparse>Esta parte está un poco <color\=#800000ff>arrugada</color>.
+<noparse></noparse>Didn't expect you to be so engrossed in a book.=<noparse></noparse>No esperaba que estuvieras tan absorta en un libro.
+<noparse></noparse>I've always been a very empathetic person, okay?=<noparse></noparse>Siempre he sido una persona muy empática, ¿de acuerdo?
+<noparse></noparse>Not you, I mean Roy.=<noparse></noparse>No tú, me refiero a Roy.
+<noparse></noparse>Evening primroses began flowering where the woman fell.=<noparse></noparse>Las prímulas de noche comenzaron a florecer donde cayó la mujer.
+<noparse></noparse>The man would climb the cliff every night at the same time to pray, until the evening primroses wilted.=<noparse></noparse>El hombre trepaba el acantilado cada noche a la misma hora para rezar, hasta que las prímulas de noche se marchitaron.
+<noparse></noparse>When the flowers wilted, he confessed his longing for her, and jumped off the cliff.=<noparse></noparse>Cuando las flores se marchitaron, él confesó su anhelo por ella y saltó del acantilado.
+<noparse></noparse>Oh, it's here.=<noparse></noparse>Oh, aquí está.
+The Cat Gods, taking pity on him, went to the place he fell from.=Los Dioses Gato, compadecidos de él, fueron al lugar desde donde cayó.
+Dried Evening Primrose=Prímula de Noche Seca
+Evening primrose that has been painstakingly sundried by Roy.\\nThe Green Forest's gold rosemary cannot be found without evening primroses.=Prímula de Noche cuidadosamente secada al sol por Roy.\\nEl romero dorado del Bosque Verde no puede encontrarse sin prímulas de noche.
+<noparse></noparse>Rosemarys that gave off golden moonlight began flowering in that same spot thereafter.=<noparse></noparse>Romeros que emanaban luz de luna dorada comenzaron a florecer en ese mismo lugar a partir de entonces.
+<noparse></noparse>*Sticks out head trying to see the evening primroses on the cliff*=<noparse></noparse>*Asoma la cabeza intentando ver las prímulas de noche en el acantilado*
+<noparse></noparse>That's so tragic...=<noparse></noparse>Eso es tan trágico...
+<noparse></noparse>But of all things, why did they turn into flowers?=<noparse></noparse>Pero de todas las cosas, ¿por qué se convirtieron en flores?
+<noparse></noparse>Although flowers can't speak,=<noparse></noparse>Aunque las flores no pueden hablar,
+<noparse></noparse>people often assign them meanings.=<noparse></noparse>la gente a menudo les asigna significados.
+Search for the gold rosemary that blooms in the spot closest to the moon at night.=Busca el romero dorado que florece en el lugar más cercano a la luna por la noche.
+A legendary golden flower that grows in the Green Forest and is said to only bloom in close proximity to the moon at night.=Una legendaria flor dorada que crece en el Bosque Verde y de la que se dice que solo florece en el punto más cercano a la luna por la noche.
+Since we've learnt about the contents of the legend, let's ask around the village.=Ahora que conocemos el contenido de la leyenda, preguntemos por el pueblo.
+<color\=#ff0000>2. Find the rosemary</color>=<color\=#ff0000>2. Encuentra el romero</color>
+No Favorites have been registered.=No se han registrado favoritos.
+Add/Remove from Favorites=Agregar/Quitar de favoritos
+<noparse></noparse>Give the <color\=#800000ff>Cranapple</color>s to Rubrum?=<noparse></noparse>¿Dar las <color\=#800000ff>Cranmanzanas</color> a Rubrum?
+<noparse></noparse>Here are the <color\=#800000ff>Cranapple</color>s. Shall we go now?=<noparse></noparse>Aquí están las <color\=#800000ff>Cranmanzanas</color>.\n¿Vamos ahora?
+<noparse></noparse>Okay, let's go, Ellie.=<noparse></noparse>Bien, vamos, Ellie.
+<noparse></noparse>Let's get them to the cats quickly.=<noparse></noparse>Llevémoselas a los gatos rápido.
+<noparse></noparse>Rubrum, is this the place where you saw that stranger?=<noparse></noparse>Rubrum, ¿es este el lugar donde viste a ese extraño?
+<noparse></noparse>Yup.=<noparse></noparse>Sí.
+<noparse></noparse>But I don't usually come here, so I know little about this place.=<noparse></noparse>Pero normalmente no vengo aquí, así que sé poco sobre este lugar.
+<noparse></noparse>You explore beyond the village whenever you get the chance, yet you know little about a location within the village?=<noparse></noparse>¿Exploras más allá del pueblo cada vez que tienes la oportunidad, pero sabes poco sobre un lugar dentro del pueblo?
+<noparse></noparse>Well... I prefer to stay away from the temple.=<noparse></noparse>Bueno... Prefiero mantenerme alejado del templo.
+<noparse></noparse>Why is that?=<noparse></noparse>¿Por qué eso?
+<noparse></noparse>Anyway, I believe this is the place where the stranger took care of the cats.=<noparse></noparse>De todos modos, creo que este es el lugar donde el extraño cuidaba a los gatos.
+<noparse></noparse>Ellie, why would you know?=<noparse></noparse>Ellie, ¿por qué lo sabrías?
+<noparse></noparse>Humph, can't you stop raining on my parade?\r=<noparse></noparse>Humph, ¿no puedes dejar de aguarme la fiesta?\r
+<noparse></noparse>Unless no cats live around here... which is impossible.\r=<noparse></noparse>A menos que ningún gato viva por aquí... lo cual es imposible.\r
+<noparse></noparse>It's the intuition of a witch.=<noparse></noparse>Es la intuición de una bruja.
+<noparse></noparse>Some intuition you've got there. You deducted it from the half-eaten <color\=#800000ff>Cranapple</color>.=<noparse></noparse>Vaya intuición la tuya.\nLo dedujiste de la <color\=#800000ff>Cranmanzana</color> medio comida.
+<noparse></noparse>To attract cats, you just need to put some <color\=#800000ff>Cranapple</color>s here.=<noparse></noparse>Para atraer gatos, solo necesitas poner unas <color\=#800000ff>Cranmanzanas</color> aquí.
+<noparse></noparse>I'll first try leaving <color\=#800000ff>Cranapple</color>s at the place from before.\r=<noparse></noparse>Primero intentaré dejar unas <color\=#800000ff>Cranmanzanas</color> en el lugar de antes.\r
+<noparse></noparse>It ran away.=<noparse></noparse>Se escapó.
+<noparse></noparse>As soon as it saw the <color\=#800000ff>Cranapple</color>s.=<noparse></noparse>En cuanto vio las <color\=#800000ff>Cranmanzanas</color>.
+<noparse></noparse>It's the same as when I tried to feed it...=<noparse></noparse>Es igual que cuando intenté alimentarlo...
+<noparse></noparse>Jeez... We're here to befriend it, but we ended up driving it away.=<noparse></noparse>Vaya... estamos aquí para hacernos amigos suyos, pero terminamos ahuyentándolo.
+<noparse></noparse>Maybe... we should stay away from the <color\=#800000ff>Cranapple</color>s?=<noparse></noparse>Tal vez... ¿deberíamos alejarnos de las <color\=#800000ff>Cranmanzanas</color>?
+<noparse></noparse>Just step into its shoes. Wouldn't it feel cringe to have someone stare at you when you're eating?=<noparse></noparse>Ponte en su lugar.\n¿No te daría vergüenza que alguien te mirara fijamente mientras comes?
+<noparse></noparse>So, let's drop the <color\=#800000ff>Cranapple</color>s and observe from a distance.=<noparse></noparse>Entonces, dejemos las <color\=#800000ff>Cranmanzanas</color> y observemos desde la distancia.
+<noparse></noparse>Like this?=<noparse></noparse>¿Así?
+<noparse></noparse>Yeah, I'll join you.=<noparse></noparse>Sí, me apunto.
+<noparse></noparse>Rubrum, did you see that?=<noparse></noparse>Rubrum, ¿viste eso?
+<noparse></noparse>The cat ate the <color\=#800000ff>Cranapple</color>s.=<noparse></noparse>El gato se comió las <color\=#800000ff>Cranmanzanas</color>.
+<noparse></noparse>Right, I think it likes them, since it gobbled them down.=<noparse></noparse>Claro, creo que le gustan, ya que las engulló de un bocado.
+<noparse></noparse>Now I know what to do. =<noparse></noparse>Ahora sé qué hacer.
+<noparse></noparse>Cats can't relax and eat if we don't stay away.=<noparse></noparse>Los gatos no pueden relajarse y comer si no nos mantenemos alejados.
+<noparse></noparse>I've been chasing them around with food in hand... So, it doesn't work out that way.\r=<noparse></noparse>Los he estado persiguiendo con comida en mano... Así que de esa manera no funciona.\r
+<noparse></noparse>Cats have different personalities... but I guess you would scare every single cat, haha.=<noparse></noparse>Los gatos tienen personalidades distintas... pero supongo que asustarías a cualquier gato, jaja.
+<noparse></noparse>Oh no...=<noparse></noparse>Oh, no...
+<noparse></noparse>Ah, what's that noise? I think the cat's leaving.\r=<noparse></noparse>Ah, ¿qué es ese ruido?\nCreo que el gato se va.\r
+<noparse></noparse>Bye, kitty. Looking forward to meeting you again.=<noparse></noparse>Adiós, gatito.\nEspero volver a encontrarte.
+<noparse></noparse>Byeeee!=<noparse></noparse>¡Byeeee!
+<noparse></noparse>It's gone. I can't see it anymore from here.=<noparse></noparse>Se fue.\nYa no puedo verlo desde aquí.
+<noparse></noparse>And it didn't even look back.=<noparse></noparse>Y ni siquiera miró hacia atrás.
+<noparse></noparse>That doesn't worry me at all.=<noparse></noparse>Eso no me preocupa en absoluto.
+<noparse></noparse>Why? Do you have a plan?=<noparse></noparse>¿Por qué?\n¿Tienes un plan?
+<noparse></noparse>Brace yourself. I would call it "the power of observation."=<noparse></noparse>Prepárate.\nLo llamaría "el poder de la observación".
+<noparse></noparse>Look, Rubrum. This is the cat encyclopedia left by that mid-aged man.=<noparse></noparse>Mira, Rubrum.\nEsta es la enciclopedia felina que dejó ese hombre de mediana edad.
+<noparse></noparse>My goodness... He draws even worse than I do.=<noparse></noparse>Dios mío... dibuja aún peor que yo.
+<noparse></noparse>Hahaha... Don't worry about the pictures. Look at the information recorded here. =<noparse></noparse>Jajaja... no te preocupes por los dibujos.\nMira la información registrada aquí.
+<noparse></noparse>See? Many different cats are described here.=<noparse></noparse>¿Ves?\nAquí se describen muchos gatos diferentes.
+<noparse></noparse>You'll get close to the cats sooner or later, as long as you keep recording!=<noparse></noparse>¡Te acercarás a los gatos tarde o temprano, siempre que sigas llevando el registro!
+Ellie, you're sounding like a researcher.=Ellie, estás sonando como una investigadora.
+Wisteria is home to many cats.\\nDifferent cats show up in the village each time.=Wisteria es el hogar de muchos gatos.\\nEn el pueblo aparecen gatos distintos cada vez.
+Cats=Gatos
+Among the cats, some will come to you, and some will hide.\\nIn order to meet the hiding ones, you need to search carefully. =Entre los gatos, algunos se acercarán a ti y otros se esconderán.\\nPara encontrarte con los que se esconden, tendrás que buscar con cuidado.
+Cat are vigilant. To get close, you need to lower their guards.\\nTry to make friends with the cats and get to stroke them.=Los gatos son vigilantes.\\nPara acercarse, hay que bajar su guardia.\\nIntenta hacerte amigo de los gatos y lograr acariciarlos.
+You can lay items on the ground to feed the cats.\\nFor cats not close to you yet, please stay away from the food so that you don't scare them.=Puedes colocar objetos en el suelo para alimentar a los gatos.\\nCon los gatos que aún no se han acercado, mantente alejado de la comida para no asustarlos.
+Draw any new cats down on the notebook with the quill.\\nYou can record preferences and view affection of cats in the Cat Notes.=Dibuja cualquier gato nuevo en el cuaderno con la pluma.\\nPuedes registrar preferencias y ver el afecto de los gatos en las Notas de Gatos.
+<noparse></noparse>Exactly! I'm gonna be an expert in cats!=<noparse></noparse>¡Exactamente!\n¡Voy a ser una experta en gatos!
+<noparse></noparse>Right? That's just a piece of cake for someone graduating magna cum laude from the School for Witches.=<noparse></noparse>¿Verdad?\nPara alguien que se gradúa magna cum laude de la Escuela de Brujas eso es pan comido.
+<noparse></noparse>Your using your learnings to study cats would give the principal a heart attack.\r=<noparse></noparse>Que uses tus conocimientos para estudiar gatos le daría un infarto al director.\r
+<noparse></noparse>Anyway, we've found out how to make friends with cats.=<noparse></noparse>De todos modos, hemos descubierto cómo hacernos amigos de los gatos.
+Increase the Affection of a cat you like to Lv.1.=Aumenta el Afecto de un gato que te guste hasta el Nv.1.
+Build Affection with the Cat=Construye Afecto con el Gato
+<noparse></noparse>Now, we just need to apply our finding to practice.=<noparse></noparse>Ahora solo necesitamos poner en práctica lo que hemos descubierto.
+<noparse></noparse>Cats don't usually lower their guard around humans, though. It takes time.=<noparse></noparse>Sin embargo, los gatos no suelen bajar la guardia cerca de los humanos.\nLleva tiempo.
+<noparse></noparse>No problem. A bit of challenge will add fun to it. Don't you think so, Rubrum?=<noparse></noparse>No hay problema.\nUn poco de desafío le dará más gracia.\n¿No crees, Rubrum?
+<noparse></noparse>I prefer it to stay simple.=<noparse></noparse>Prefiero que sea sencillo.
+<noparse></noparse>A-alright...=<noparse></noparse>B-bien...
+<noparse></noparse>Still, it's been a smooth start for our <color\=#800000ff>Cat Befriending Operation</color>.=<noparse></noparse>Aun así, ha sido un comienzo sin contratiempos para nuestra <color\=#800000ff>Operación de Amistad Felina</color>.
+<noparse></noparse>I look forward to more progress.=<noparse></noparse>Espero con ansias más avances.
+<noparse></noparse>I'm gonna be a friend to all the cats! There we go!=<noparse></noparse>¡Voy a hacerme amiga de todos los gatos!\n¡Vamos allá!
+<color\=#8C8C8C>5. Observe the cat</color>=<color\=#8C8C8C>5. Observa al gato</color>
+In Wisteria, cats' affection increases when you feed or play with them. Try raising any one cat's affection until <color\=#800000>Pet</color> becomes available.=En Wisteria, el afecto de los gatos aumenta cuando los alimentas o juegas con ellos.\nIntenta elevar el afecto de cualquier gato hasta que <color\=#800000>Acariciar</color> esté disponible.
+<color\=#ff0000>1. Increase cat Affection</color>=<color\=#ff0000>1. Aumenta el Afecto del gato</color>
+Pray=Orar
+<noparse></noparse>Wow, what a vast space.=<noparse></noparse>Vaya, qué espacio tan amplio.
+<noparse></noparse>It's not a village.=<noparse></noparse>No es un pueblo.
+<noparse></noparse>Huh? What's wrong?=<noparse></noparse>¿Eh?\n¿Qué ocurre?
+<noparse></noparse>I just sensed something dangerous.=<noparse></noparse>Acabo de percibir algo peligroso.
+<noparse></noparse>You know, every time you say stuff like that I get goosebumps.=<noparse></noparse>Sabes, cada vez que dices esas cosas se me pone la piel de gallina.
+<noparse></noparse>Attack!=<noparse></noparse>¡Ataque!
+<noparse></noparse>Whoa, incredible!=<noparse></noparse>¡Vaya, increíble!
+<noparse></noparse>What a huge building.=<noparse></noparse>Qué edificio tan enorme.
+<noparse></noparse>Was it a covert laboratory? Secret rendezvous point?=<noparse></noparse>¿Era un laboratorio secreto?\n¿Un punto de encuentro clandestino?
+<noparse></noparse>I have no idea how you're coming to those conclusions.=<noparse></noparse>No tengo idea de cómo llegas a esas conclusiones.
+<noparse></noparse>There are strange paintings and statues!=<noparse></noparse>¡Hay pinturas y estatuas extrañas!
+<noparse></noparse>Seems like a normal temple to me. Now it's in ruins.=<noparse></noparse>A mí me parece un templo normal.\nAhora está en ruinas.
+<noparse></noparse>Did giant prickly vines grow here, too?=<noparse></noparse>¿También crecieron aquí Enredaderas Espinosas gigantes?
+<noparse></noparse>Ellie!=<noparse></noparse>¡Ellie!
+<noparse></noparse>Oh hello, Enite!=<noparse></noparse>¡Oh, hola, Enite!
+<noparse></noparse>You've looked around, haven't you?=<noparse></noparse>Has echado un vistazo, ¿verdad?
+<noparse></noparse>Do you have the time for a chat?=<noparse></noparse>¿Tienes tiempo para charlar?
+<noparse></noparse>Enite! What brought you here?=<noparse></noparse>¡Enite!\n¿Qué te trajo aquí?
+<noparse></noparse>I came after seeing that the prickly vines blocking the path to the temple had disappeared.=<noparse></noparse>Vine al ver que las Enredaderas Espinosas que bloqueaban el camino al templo habían desaparecido.
+<noparse></noparse>But I called you over since you're here, Ellie.=<noparse></noparse>Pero te llamé ya que estás aquí, Ellie.
+<noparse></noparse>The temple?=<noparse></noparse>¿El templo?
+<noparse></noparse>Exactly, this is the <color\=#800000ff>temple of the two Cat Gods</color>.=<noparse></noparse>Exactamente, este es el <color\=#800000ff>Templo de los dos Dioses Gato</color>.
+<noparse></noparse>They are the gods of the giant tea tree and also the guardians of the village.=<noparse></noparse>Son los dioses del árbol de té gigante y también los guardianes del pueblo.
+<noparse></noparse>The village's guardians...=<noparse></noparse>Los guardianes del pueblo...
+<noparse></noparse>Before the prickly vines appeared, we held rituals and offered tea as tribute every year.=<noparse></noparse>Antes de que aparecieran las Enredaderas Espinosas, celebrábamos rituales y ofrecíamos té como tributo cada año.
+<noparse></noparse>But because of the vines, we haven't come for a very long time...=<noparse></noparse>Pero debido a las enredaderas, no hemos venido en mucho tiempo...
+<noparse></noparse>I feel sorry to see what it has become.=<noparse></noparse>Me duele ver en lo que se ha convertido.
+<noparse></noparse>Indeed. It's all in ruins.=<noparse></noparse>En efecto.\nTodo está en ruinas.
+<noparse></noparse>Now that the prickly vines have vanished, I thought the rituals might take place again.=<noparse></noparse>Ahora que las Enredaderas Espinosas han desaparecido, pensé que los rituales podrían retomarse.
+<noparse></noparse>But I guess it was wishful to think the temple where the Cat Gods are enshrined would be spared.=<noparse></noparse>Pero supongo que era una ilusión pensar que el templo donde están consagrados los Dioses Gato se habría salvado.
+<noparse></noparse>Enite, are you the only one who comes here?=<noparse></noparse>Enite, ¿eres la única que viene aquí?
+<noparse></noparse>This place is perfect for people looking for silence and contemplation.=<noparse></noparse>Este lugar es perfecto para quienes buscan silencio y contemplación.
+<noparse></noparse>Perhaps to wish for something from the Cat Gods.=<noparse></noparse>Quizás para pedir algo a los Dioses Gato.
+<noparse></noparse>It is indeed quiet in here. The only sounds are our voices.=<noparse></noparse>De hecho, aquí está tranquilo.\nLos únicos sonidos son nuestras voces.
+<noparse></noparse>That's actually what I find to be bizarre...=<noparse></noparse>Eso es precisamente lo que me parece extraño...
+<noparse></noparse>It has always been quiet here, but I used to hear some insects or small critters at least.=<noparse></noparse>Siempre ha sido tranquilo aquí, pero antes al menos solía escuchar algunos insectos o pequeñas criaturas.
+<noparse></noparse>I wonder if it's because the Cat Gods left after seeing their space had disappeared.=<noparse></noparse>Me pregunto si es porque los Dioses Gato se fueron al ver que su espacio había desaparecido.
+<noparse></noparse>The destroyed statues are of the Gods, aren't they?=<noparse></noparse>Las estatuas destruidas son de los Dioses, ¿verdad?
+<noparse></noparse>Careful, you'll be cursed if you get too close.=<noparse></noparse>Cuidado, te maldecirán si te acercas demasiado.
+<noparse></noparse>It pains me, but I suppose it hasn't been that long since the vines disappeared...=<noparse></noparse>Me duele, pero supongo que no ha pasado tanto tiempo desde que desaparecieron las enredaderas...
+<noparse></noparse>We'll have to wait for the people to return before we can start tidying the place up.=<noparse></noparse>Tendremos que esperar a que regrese la gente antes de poder empezar a ordenar el lugar.
+<noparse></noparse>If it weren't for you, Ellie, I wouldn't be standing in here after so long, though.=<noparse></noparse>Si no fuera por ti, Ellie, no estaría aquí parada después de tanto tiempo.
+<noparse></noparse>You know, Virgil.=<noparse></noparse>Ya sabes, Virgil.
+<noparse></noparse>Don't.=<noparse></noparse>No.
+<noparse></noparse>I haven't even said anything!=<noparse></noparse>¡Ni siquiera he dicho nada!
+<noparse></noparse>How about we do something to help out here?=<noparse></noparse>¿Qué tal si hacemos algo para ayudar aquí?
+<noparse></noparse>You may have a natural talent for destruction, but this is too large-scale even for you.=<noparse></noparse>Puede que tengas un talento natural para la destrucción, pero esto es demasiado a gran escala incluso para ti.
+<noparse></noparse>Who's talking about destruction? Where there's a will, there's a way!=<noparse></noparse>¿Quién habla de destrucción?\n¡Querer es poder!
+<noparse></noparse>And this place is so unusually quiet.=<noparse></noparse>Y este lugar está inusualmente tranquilo.
+<noparse></noparse>It's the first time I've had a close look at the temple.=<noparse></noparse>Es la primera vez que observo el templo de cerca.
+<noparse></noparse>So what's so interesting about it?=<noparse></noparse>Entonces, ¿qué tiene de interesante?
+<noparse></noparse>I'll have you know that I listened closely to the human society lectures.=<noparse></noparse>Te informo que presté mucha atención a las clases de sociedad humana.
+<noparse></noparse>Yeah, only what you wanted to hear.=<noparse></noparse>Sí, solo lo que querías escuchar.
+<noparse></noparse>Anyways! I do have heard of the Cat Gods.=<noparse></noparse>¡En fin!\nSí he oído hablar de los Dioses Gato.
+<noparse></noparse>If I can restore that damaged mural, maybe I will find more clues?=<noparse></noparse>Si puedo restaurar ese mural dañado, ¿tal vez encontraré más pistas?
+<noparse></noparse>Don't do it. Gods aren't something you can approach.=<noparse></noparse>No lo hagas.\nLos dioses no son algo a lo que uno pueda acercarse.
+<noparse></noparse>You're talking as if you knew one yourself, Virgil.=<noparse></noparse>Estás hablando como si tú mismo conocieras a alguno, Virgil.
+<noparse></noparse>Maybe. Anyway, what's your plan?=<noparse></noparse>Tal vez.\nDe todos modos, ¿cuál es tu plan?
+<noparse></noparse>Ask? Isn't it obvious?=<noparse></noparse>¿Preguntar?\n¿No es obvio?
+<noparse></noparse>Enite, I'll come up with a way to restore the temple!=<noparse></noparse>¡Enite, encontraré la manera de restaurar el templo!
+<noparse></noparse>Do understand that I appreciate your intentions, Ellie, but isn't it too dangerous?=<noparse></noparse>Entiendo que aprecio tus intenciones, Ellie, pero ¿no es demasiado peligroso?
+<noparse></noparse>Even if I can't restore it directly, I will find another way.=<noparse></noparse>Incluso si no puedo restaurarlo directamente, encontraré otra manera.
+<noparse></noparse>Alright, but it'd be hard to do it all by yourself. Why don't you have a chat with Kyla about it?=<noparse></noparse>Muy bien, pero sería difícil hacerlo tú sola.\n¿Por qué no conversas con Kyla al respecto?
+If it ever feels too difficult, know that you can stop anytime.=Si alguna vez se vuelve demasiado difícil, sabe que puedes parar cuando quieras.
+Temple in Ruins=Templo en Ruinas
+A temple dedicated to two Cat Gods. In ruins due to the prickly vines.=Un templo dedicado a dos Dioses Gato.\nEn ruinas a causa de las Enredaderas Espinosas.
+<noparse></noparse>I will. Don't worry.=<noparse></noparse>Lo haré.\nNo te preocupes.
+<noparse></noparse>I've got to go now. See you around, Ellie.=<noparse></noparse>Tengo que irme ahora.\nNos vemos, Ellie.
+Talk to Kyla over temple repairment.=Habla con Kyla sobre la restauración del templo.
+Restoration of the Temple=Restauración del Templo
+1-10. Restoration of the Temple=1-10.\nRestauración del Templo
+The village's Cat Temple was also destroyed by the rampant prickly vines.\\n\\n\\nTo honor the two Cat Gods worshiped by the villagers for generations, repair the temple.=El Templo de los Gatos del pueblo también fue destruido por las Enredaderas Espinosas desenfrenadas.\\n\\n\\n\\nPara honrar a los dos Dioses Gato venerados por los aldeanos durante generaciones, restaura el templo.
+<noparse></noparse>The specialty here? The stew I've been making since I opened the restaurant, of course.=<noparse></noparse>¿La especialidad de aquí?\nEl estofado que he estado haciendo desde que abrí el restaurante, por supuesto.
+<noparse></noparse>Give Arden the Curse Lifting Candy?=<noparse></noparse>¿Darle a Arden el Dulce de Alivio de Maldición?
+<noparse></noparse>Candy?=<noparse></noparse>¿Un dulce?
+<noparse></noparse>Yes, it's <color\=#800000ff>Curse-lifting Candy</color>.=<noparse></noparse>Sí, es <color\=#800000ff>Dulce de Alivio de Maldición</color>.
+<noparse></noparse>I asked you to remove the pepper's curse.=<noparse></noparse>Te pedí que eliminaras la maldición de la pimienta.
+<noparse></noparse>I checked with Aurea and also tried using <color\=#800000ff>Curse Detection Candy</color>, but there was no curse in the pepper.=<noparse></noparse>Lo comprobé con Aurea y también intenté usar el <color\=#800000ff>Dulce de Detección de Maldición</color>, pero no había ninguna maldición en la pimienta.
+<noparse></noparse>They say the reason for such color and taste of pepper is because it's red pepper.=<noparse></noparse>Dicen que la razón de ese color y sabor de la pimienta es porque es pimiento rojo.
+<noparse></noparse>I think there may be a curse somewhere else. But even if not, it's a delicious candy.=<noparse></noparse>Creo que puede haber una maldición en otro lugar.\nPero aunque no la haya, es un dulce delicioso.
+<noparse></noparse>That's why I brought it.=<noparse></noparse>Por eso lo traje.
+<noparse></noparse>Heh...=<noparse></noparse>Je...
+<noparse></noparse>This is only a temporary fix. It won't solve the problem completely.=<noparse></noparse>Esto es solo una solución temporal.\nNo resolverá el problema por completo.
+<noparse></noparse>Anyway, witches get drunk on their feelings and butt in with this and that saying it's a good deed...=<noparse></noparse>De todos modos, las brujas se dejan llevar por sus sentimientos y se entrometen diciendo que hacen el bien...
+<noparse></noparse>They are rarely truly of help. They just want to feel good.=<noparse></noparse>Rara vez son de verdadera ayuda.\nSolo quieren sentirse bien.
+<noparse></noparse>Arden, isn't the reason you aren't able to sleep because you keep saying mean things?=<noparse></noparse>Arden, ¿no será que no puedes dormir porque sigues diciendo cosas hirientes?
+<noparse></noparse>I worked hard in my own way because I wanted to help you.=<noparse></noparse>Trabajé duro a mi manera porque quería ayudarte.
+<noparse></noparse>Does it make you happy to talk like that?=<noparse></noparse>¿Te hace feliz hablar así?
+<noparse></noparse>Maybe it's not because of the night light or the pepper, but because you yourself are cursed?=<noparse></noparse>¿Quizás no es por la Luz Nocturna ni la pimienta, sino porque tú mismo estás maldito?
+<noparse></noparse>That might be so.=<noparse></noparse>Puede que sea así.
+<noparse></noparse>If you know me better, you may be able to tell whether I'm cursed.=<noparse></noparse>Si me conoces mejor, puede que puedas saber si estoy maldito.
+<noparse></noparse>Do you know the meaning of the saying that dragons live multiple lives?=<noparse></noparse>¿Conoces el significado del dicho de que los dragones viven múltiples vidas?
+<noparse></noparse>I don't know.=<noparse></noparse>No sé.
+<noparse></noparse>*stomach growling*=<noparse></noparse>*gruñido del estómago*
+<noparse></noparse>Oh, you cruel belly clock.=<noparse></noparse>Oh, cruel reloj del estómago.
+<noparse></noparse>Would you like a bowl of beef stew before you leave?=<noparse></noparse>¿Te gustaría un tazón de Estofado de Carne antes de irte?
+<noparse></noparse>I'll also tell you what that means.=<noparse></noparse>También te explicaré lo que eso significa.
+<noparse></noparse>Alright. But it's by no means because I'm hungry.=<noparse></noparse>Está bien.\nPero no es en absoluto porque tenga hambre.
+<noparse></noparse>But because I'm so broad-minded that I'd like to hear you out.=<noparse></noparse>Sino porque soy tan de mente abierta que me gustaría escucharte.
+Listen to the story behind Arden's curse.=Escucha la historia detrás de la maldición de Arden.
+<noparse></noparse>Said the belly clock.=<noparse></noparse>Dijo el reloj del estómago.
+<noparse></noparse>Is it delicious?=<noparse></noparse>¿Está delicioso?
+<noparse></noparse>Yes. I did a good job of preventing you from putting in a bucket full of pepper.=<noparse></noparse>Sí.\nHice un buen trabajo al impedirte que añadieras un cubo lleno de pimienta.
+<noparse></noparse>So what's the meaning of the saying that dragons live multiple lives?=<noparse></noparse>Entonces, ¿cuál es el significado del dicho de que los dragones viven múltiples vidas?
+<noparse></noparse>A dragon lives a thousand years. That's like accumulating an enormous amount of memories.=<noparse></noparse>Un dragón vive mil años.\nEso es como acumular una cantidad enorme de recuerdos.
+<noparse></noparse>Wow, do you remember all of that?=<noparse></noparse>Vaya, ¿recuerdas todo eso?
+<noparse></noparse>We can't, because we'd go crazy if we do. So it disappears at some point.=<noparse></noparse>No podemos, porque nos volveríamos locos si lo hiciéramos.\nAsí que desaparece en algún momento.
+<noparse></noparse>That's why it is said that you live many lives.=<noparse></noparse>Por eso se dice que vives muchas vidas.
+<noparse></noparse>After hearing what you said, I felt that someone might have cursed me in the past that I can't remember now.=<noparse></noparse>Después de escuchar lo que dijiste, sentí que alguien podría haberme maldecido en el pasado que ahora no puedo recordar.
+<noparse></noparse>Can you recall anything from your previous lives?=<noparse></noparse>¿Puedes recordar algo de tus vidas anteriores?
+<noparse></noparse>I can only recall fragments of it but...=<noparse></noparse>Solo puedo recordar fragmentos, pero...
+<noparse></noparse>Burning the hair off of a guy who was after my treasure with eternal fire or...=<noparse></noparse>Quemarle el cabello a un tipo que iba tras mi tesoro con fuego eterno, o...
+<noparse></noparse>Breaking the waist of a drunken man causing trouble at the restaurant and throwing him out or...=<noparse></noparse>Romperle la cintura a un borracho que armaba escándalo en el restaurante y echarlo, o...
+<noparse></noparse>Flying around with a guy picking a fight tied to my foot for three days.=<noparse></noparse>Volar con un tipo que me buscó pelea atado a mi pata durante tres días.
+<noparse></noparse>I guess you do deserve some curses.=<noparse></noparse>Supongo que sí mereces unas cuantas maldiciones.
+<noparse></noparse>It was self-defense.=<noparse></noparse>Fue defensa propia.
+<noparse></noparse>Anyway, a few things came to my mind, but I still don't know the exact cause.=<noparse></noparse>De todos modos, algunas cosas me vinieron a la mente, pero aún no sé la causa exacta.
+<noparse></noparse>Did you happen to have some kind of incident with another witch?=<noparse></noparse>¿Tuviste por casualidad algún tipo de incidente con alguna bruja?
+<noparse></noparse>You said you hated witches.=<noparse></noparse>Dijiste que odiabas a las brujas.
+<noparse></noparse>That might be the case.=<noparse></noparse>Puede que sea así.
+<noparse></noparse>Something feels uncomfortable about witches.=<noparse></noparse>Algo me incomoda con respecto a las brujas.
+<noparse></noparse>Hmm... Could it be a curse that is triggered when certain conditions are met...?=<noparse></noparse>Hmm... ¿Podría ser una maldición que se activa cuando se cumplen ciertas condiciones...?
+<noparse></noparse>Can I ask you a few things?=<noparse></noparse>¿Puedo preguntarte algunas cosas?
+<noparse></noparse>What are you curious about?=<noparse></noparse>¿Qué te genera curiosidad?
+About your past=Sobre tu pasado
+Reason for staying in Wisteria=Razón para quedarse en Wisteria
+Reason for running a restaurant=Razón para llevar un restaurante
+<noparse></noparse>I don't know. I've just always been doing it, since the moment I remember.=<noparse></noparse>No sé.\nSiempre lo he estado haciendo, desde el momento que recuerdo.
+<noparse></noparse>Well... Even before Enite was born?=<noparse></noparse>Bueno... ¿incluso antes de que Enite naciera?
+So much for my questions.=Eso es todo por mis preguntas.
+<noparse></noparse>I protected some treasure just like other dragons.=<noparse></noparse>Protegí un tesoro como cualquier otro dragón.
+<noparse></noparse>Treasure!=<noparse></noparse>¡Tesoro!
+<noparse></noparse>I want to say that I will give you one if you take care of the curse, but I don't know where it is now.=<noparse></noparse>Quisiera decirte que te daré uno si te encargas de la maldición, pero no sé dónde está ahora.
+<noparse></noparse>At that time, all kinds of people came to visit. Maybe there were witches too.=<noparse></noparse>En aquel entonces, todo tipo de personas venían de visita.\nTal vez también había brujas.
+<noparse></noparse>Because of passion for Wisteria flowers.=<noparse></noparse>Por la pasión por las flores de glicinia.
+<noparse></noparse>Your passion for Wisteria flowers?=<noparse></noparse>¿Tu pasión por las flores de glicinia?
+<noparse></noparse>No, I don't know whose passion it was.=<noparse></noparse>No, no sé de quién era esa pasión.
+<noparse></noparse>You don't know whose passion it was, yet you remember the passion?=<noparse></noparse>¿No sabes de quién era la pasión, pero sí recuerdas la pasión?
+<noparse></noparse>Wisteria flowers have strong vitality. Thus the passion.=<noparse></noparse>Las flores de glicinia tienen una gran vitalidad.\nDe ahí la pasión.
+<noparse></noparse>I wonder who it was...=<noparse></noparse>Me pregunto quién sería...
+<noparse></noparse>I really can't remember a thing.=<noparse></noparse>Realmente no puedo recordar nada.
+<noparse></noparse>Speaking of which...=<noparse></noparse>Hablando de eso...
+<noparse></noparse>Hmm... Then should we start by recovering your memories?=<noparse></noparse>Hmm... ¿Entonces deberíamos empezar recuperando tus recuerdos?
+<noparse></noparse>Why are you helping me this much?=<noparse></noparse>¿Por qué me ayudas tanto?
+Because I'm a witch=Porque soy una bruja
+Because my fighting spirit calls for it=Porque mi espíritu de lucha lo exige
+Because I feel sorry for you=Porque me da pena
+<noparse></noparse>It's sad to be cursed by someone you can't even recall.=<noparse></noparse>Es triste estar maldito por alguien a quien ni siquiera puedes recordar.
+<noparse></noparse>I guess that's why you've become so withdrawn?=<noparse></noparse>¿Por eso te has vuelto tan reservado?
+<noparse></noться>Hmm...=<noparse></noparse>Mmm...
+<noparse></noparse>I was harsh earlier. I apologize.=<noparse></noparse>Fui duro antes.\nMe disculpo.
+<noparse></noparse>Humph. The water's already been spilled.=<noparse></noparse>Humph.\nEl agua ya está derramada.
+<noparse></noparse>But, I'll forgive you since I'm curious about your past.=<noparse></noparse>Pero te perdonaré ya que tengo curiosidad por tu pasado.
+<noparse></noparse>Alright, next would be...=<noparse></noparse>Muy bien, lo siguiente sería...
+<noparse></noparse>Let's stop for today. My head hurts from thinking about all of this.=<noparse></noparse>Detengámonos por hoy.\nMe duele la cabeza de pensar en todo esto.
