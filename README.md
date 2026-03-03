@@ -10,7 +10,8 @@ Debido al espacio limitado en la interfaz del juego:
 - se ha aplicado el reemplazo de la frase `Entrega de dulces` por `>o<` en las listas de solicitudes de entrega de dulces
 
 Se ha revisado y agregado el 19% de la traducción generada por el juego.
-<progress value="19.43" max="100"></progress> **19.43%**
+
+[████░░░░░░░░░░░░░░░░░░░░] 19.43%
 
 ### Ruta del archivo principal
 ```
