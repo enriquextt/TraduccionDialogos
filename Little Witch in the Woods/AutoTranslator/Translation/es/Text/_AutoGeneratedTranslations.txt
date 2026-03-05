@@ -103,33 +103,33 @@ Required Time=Tiempo requerido
 Output Amount=Cantidad de salida
 Attempts Allowed=Intentos permitidos
 Hold to Incubate=Sostenga para incubar
-<noparse></noparse>I think it's good that we never found the <color\=#800000ff>carrot</color>.=<noparse></noparse>Creo que es bueno que nunca hayamos encontrado <color\=#800000ff>la zanahoria</color>.
+<noparse></noparse>I think it's good that we never found the <color\=#800000ff>carrot</color>.=<noparse></noparse>Creo que es bueno que nunca hayamos encontrado la <color\=#800000ff>zanahoria</color>.
 <noparse></noparse>There was something off about that "legendary" <color\=#800000ff>carrot soup recipe</color>.=<noparse></noparse>Había algo raro en esa "legendaria" <color\=#800000ff>receta de sopa de zanahoria</color>.
 <noparse></noparse>I just realized we never checked the men's restroom.=<noparse></noparse>Me acabo de dar cuenta de que nunca revisamos el baño de hombres.
 <noparse></noparse>You actually have some <color\=#800000ff>shame</color>? I thought you knew nothing but adventures.=<noparse></noparse>¿Realmente tienes algún <color\=#800000ff>remordimiento</color>?\nPensaba que solo te interesaban las aventuras.
-<noparse></noparse>We searched the whole school save for that place, but we never found the <color\=#800000ff>carrot</color>. =<noparse></noparse>Buscamos por toda la escuela, salvo ese lugar, pero nunca encontramos <color\=#800000ff>la zanahoria</color>. 
+<noparse></noparse>We searched the whole school save for that place, but we never found the <color\=#800000ff>carrot</color>. =<noparse></noparse>Buscamos por toda la escuela, salvo ese lugar, pero nunca encontramos la <color\=#800000ff>zanahoria</color>. 
 <noparse></noparse>That means the carrot was in the <color\=#800000ff>men's restroom</color>!=<noparse></noparse>Eso significa que la zanahoria estaba en el <color\=#800000ff>baño para hombres</color>!
 <noparse></noparse>A carrot in the men's restroom? What an odd sense of humor...=<noparse></noparse>¿Una zanahoria en el baño de hombres?\nQué extraño sentido del humor ...
 <noparse></noparse>I should write Jenny a letter asking her to look through the men's restroom.=<noparse></noparse>Debería escribirle a Jenny una carta pidiéndole que mirara a través del baño de hombres.
 <noparse></noparse>Can't you ask Will instead? It's the men's restroom after all.=<noparse></noparse>¿No puedes preguntar a Will?\nDespués de todo, es el baño de hombres.
 <noparse></noparse>Nope. That coward finds it, he’ll take it to the professor bawling, like before.=<noparse></noparse>No.\nEse cobarde lo encuentra, se lo llevará al profesor que se burla, como antes.
 <noparse></noparse>Keep in mind that if it weren't for Will, you'd be in jail right now, instead of on a train.=<noparse></noparse>Ten en cuenta que si no fuera por Will, estarías en la cárcel en este momento, en lugar de en un tren.
-<noparse></noparse>Or six feet under.=<noparse></noparse>O seis pies debajo.
+<noparse></noparse>Or six feet under.=<noparse></noparse>O 3 metros bajo tierra.
 <noparse></noparse>... Ugh. I'm so bored!=<noparse></noparse>... Puaj.\n¡Estoy tan aburrido!
 <noparse></noparse>It's a flashback. Flashbacks are supposed to be boring.=<noparse></noparse>Es un flashback.\nSe supone que los flashbacks son aburridos.
-<noparse></noparse>I see why no one else wants to ride this god-awful train. It's boring enough to drive anyone insane.=<noparse></noparse>Veo por qué nadie más quiere viajar en este tren de Dios.\nEs lo suficientemente aburrido como para volver a alguien loco.
+<noparse></noparse>I see why no one else wants to ride this god-awful train. It's boring enough to drive anyone insane.=<noparse></noparse>Ya veo por qué nadie más quiere viajar en este tren, por Dios.\nEs lo suficientemente aburrido como para volver a alguien loco.
 <noparse></noparse>A ticket for this train costs 500 pies.=<noparse></noparse>Un boleto para este tren cuesta 500 pasteles.
 <noparse></noparse>And its stop? The Witch's House in <color\=#800000ff>Highlion</color>, where all roads lead to.=<noparse></noparse>¿Y su parada? La casa de la bruja en <color\=#800000ff>Highlion</color>, donde conducen todas las carreteras.
-<noparse></noparse>You're <color\=#800000ff>magna cum laude</color> at School for Witches.=<noparse></noparse>Estás <color\=#800000ff>magna cum laude</color> en la escuela para brujas.
+<noparse></noparse>You're <color\=#800000ff>magna cum laude</color> at School for Witches.=<noparse></noparse>Eres <color\=#800000ff>magna cum laude</color> en la escuela para brujas.
 <noparse></noparse>Whatever! I don't care about any of that!=<noparse></noparse>¡Lo que sea!\n¡No me importa nada de eso!
-<noparse></noparse>How did I become <color\=#800000ff>magna cum laude</color> anyway? I even sneaked into the forbidden principal's office twice!=<noparse></noparse>Como me volví <color\=#800000ff>magna cum laude</color> ¿de todos modos?\n¡Incluso me metí en la oficina del director prohibido dos veces!
+<noparse></noparse>How did I become <color\=#800000ff>magna cum laude</color> anyway? I even sneaked into the forbidden principal's office twice!=<noparse></noparse>Como me volví <color\=#800000ff>magna cum laude</color> de todos modos?\n¡Incluso me metí en la oficina prohibida del director dos veces!
 <noparse></noparse>Three times.=<noparse></noparse>Tres veces.
 <noparse></noparse>And I looked through the forbidden books in the hidden library in the school basement!=<noparse></noparse>¡Y miré a través de los libros prohibidos en la biblioteca oculta en el sótano de la escuela!
 <noparse></noparse>I still remember that horned rabbit that was as big as a house.=<noparse></noparse>Todavía recuerdo que el conejo con cuernos que era tan grande como una casa.
-<noparse></noparse>No wonder Will started crying.=<noparse></noparse>No es de extrañar que Will comience a llorar.
+<noparse></noparse>No wonder Will started crying.=<noparse></noparse>No es de extrañar que Will comensara llorar.
 <noparse></noparse>So how on earth did I manage <color\=#800000ff>magna cum laude</color>!?=<noparse></noparse>Entonces, ¿cómo diablos logré ser <color\=#800000ff>magna cum laude</color>!?
 <noparse></noparse>I simply didn't want to lose!=<noparse></noparse>¡Simplemente no quería perder!
-<noparse></noparse>Cut it out and sit quietly. This is a <color\=#800000ff>train only for those who want to succeed</color>.=<noparse></noparse>Córtalo y siéntate en silencio.\nEste es un <color\=#800000ff>tren solo para aquellos que quieren tener éxito</color>.
+<noparse></noparse>Cut it out and sit quietly. This is a <color\=#800000ff>train only for those who want to succeed</color>.=<noparse></noparse>Deja el tema y siéntate en silencio.\nEste es un <color\=#800000ff>tren solo para aquellos que quieren tener éxito</color>.
 <noparse></noparse>The Witch's House might be dark and damp, but it's only three years of your life.=<noparse></noparse>La casa de la bruja puede ser oscura y húmeda, pero son solo tres años de tu vida.
 <noparse></noparse>Fine, fine. Enough with the lecture.=<noparse></noparse>Bien, bien.\nSuficiente con la conferencia.
 <noparse></noparse>Shoes? For what?=<noparse></noparse>¿Zapatos?\n¿Para qué?
@@ -140,7 +140,7 @@ Hold to Incubate=Sostenga para incubar
 <noparse></noparse>The first thing to do here is to take your shoes off as soon as you get off the train.=<noparse></noparse>Lo primero que debe hacer aquí es quitarse los zapatos tan pronto como salga del tren.
 <noparse></noparse>This is my first time hearing something like that.=<noparse></noparse>Esta es la primera vez que escucho algo así.
 <noparse></noparse>I heard that Jenny's older sister was wearing <color\=#800000ff>tall lace-up boots</color> when she first arrived at Highlion.=<noparse></noparse>Escuché que la hermana mayor de Jenny estaba usando <color\=#800000ff>botas de cordones altos</color> Cuando llegó por primera vez a Highlion.
-<noparse></noparse>So she almost couldn't get off because she was busy untying the boots.=<noparse></noparse>Así que casi no pudo salir porque estaba ocupada desactivando las botas.
+<noparse></noparse>So she almost couldn't get off because she was busy untying the boots.=<noparse></noparse>Así que casi no pudo salir porque estaba ocupada quitandose las botas.
 <noparse></noparse>See! Mom bought me new shoes as well!=<noparse></noparse>¡Ver!\n¡Mamá también me compró zapatos nuevos!
 <noparse></noparse>Didn't Aria just mean to encourage you?=<noparse></noparse>¿Aria no quiso alentarte?
 <noparse></noparse>No, dad also did say that comfortable boots would be better.=<noparse></noparse>No, papá también dijo que las botas cómodas serían mejores.
@@ -161,10 +161,10 @@ View Info=Ver información
 <noparse></noparse>Even the slightly frozen strawberries and peach sorbet with whipped cream...!=<noparse></noparse>¡Incluso las fresas ligeramente congeladas y el sorbete de durazno con crema batida ...!
 <noparse></noparse>Without such dishes, I would have jumped off the train sooner.=<noparse></noparse>Sin tales platos, habría saltado del tren antes.
 <noparse></noparse>It's definitely different from the food you buy at the store at the School for Witches.=<noparse></noparse>Definitivamente es diferente de la comida que compra en la tienda de la escuela para brujas.
-<noparse></noparse>I bought that to collect the great witch cards.=<noparse></noparse>Lo compré para recoger las grandes tarjetas de brujas.
-<noparse></noparse>I got scolded because I was caught keeping the card and throwing away the bread.=<noparse></noparse>Me regañaron porque me sorprendieron manteniendo la tarjeta y tirando el pan.
+<noparse></noparse>I bought that to collect the great witch cards.=<noparse></noparse>Lo compré para conseguir las grandes tarjetas de brujas.
+<noparse></noparse>I got scolded because I was caught keeping the card and throwing away the bread.=<noparse></noparse>Me regañaron porque me sorprendieron quedandome con la tarjeta y tirando el pan.
 <noparse></noparse>Don't do that in Highlion.=<noparse></noparse>No hagas eso en Highlion.
-<noparse></noparse>I'll definitely try the Nubicula cupcakes there!=<noparse></noparse>¡Definitivamente probaré los cupcakes de nubicula allí!
+<noparse></noparse>I'll definitely try the Nubicula cupcakes there!=<noparse></noparse>¡Definitivamente probaré los cupcakes de Nubicula allí!
 <noparse></noparse>That's if I get to Highlion before I get bored to death.=<noparse></noparse>Eso es si llego a Highlion antes de aburrirme hasta la muerte.
 <noparse></noparse>Food is the only pleasure on this train.=<noparse></noparse>La comida es el único placer en este tren.
 You can't use it in the current region.=No puedes usarlo en la región actual.
@@ -178,33 +178,33 @@ Bartender=Barman
 <noparse></noparse>Hey! Want a drink?=<noparse></noparse>¡Ey!\n¿Quieres una bebida?
 <noparse></noparse>No, I don't drink alcohol. Do you have any tea?=<noparse></noparse>No, no bebo alcohol.\n¿Tienes té?
 <noparse></noparse>Of course.=<noparse></noparse>Por supuesto.
-<noparse></noparse>Then I'll have a cup of that.=<noparse></noparse>Entonces tendré una taza de eso.
+<noparse></noparse>Then I'll have a cup of that.=<noparse></noparse>Entonces dame una taza de eso.
 <noparse></noparse>The tea has alcohol, though. Is that okay?=<noparse></noparse>Sin embargo, el té tiene alcohol.\n¿Está bien?
 <noparse></noparse>But then that's just alcohol. Alcohol with tea.=<noparse></noparse>Pero entonces eso es solo alcohol.\nAlcohol con té.
 <noparse></noparse>Potayto, potahto.=<noparse></noparse>Potayto, Potahto.
 <noparse></noparse>... Then can I ask you a question instead of a drink?=<noparse></noparse>... Entonces, ¿puedo hacerte una pregunta en lugar de una bebida?
-<noparse></noparse>Anytime.=<noparse></noparse>En cualquier momento.
+<noparse></noparse>Anytime.=<noparse></noparse>Cuando quieras.
 <noparse></noparse>Can you take a look at my shoes?=<noparse></noparse>¿Puedes echar un vistazo a mis zapatos?
 <noparse></noparse>Your shoes? What for?=<noparse></noparse>Tus zapatos?\n¿Para qué?
 <noparse></noparse>From what I've heard, you have to take your shoes off before you step foot into Highlion Station.=<noparse></noparse>Por lo que he escuchado, tienes que quitarte los zapatos antes de pisar la estación de Highlion.
-<noparse></noparse>You work at the train so you know what I'm talking about, right?=<noparse></noparse>Trabajas en el tren para que sepas de lo que estoy hablando, ¿verdad?
+<noparse></noparse>You work at the train so you know what I'm talking about, right?=<noparse></noparse>Trabajas en el tren asi que debes saber de lo que estoy hablando, ¿verdad?
 <noparse></noparse>Oh, that story.=<noparse></noparse>Oh, esa historia.
 <noparse></noparse>If you're wearing shoes of that sort, I'd advise you to untie them in advance.=<noparse></noparse>Si usas zapatos de ese tipo, te aconsejaría que los desates con anticipación.
 <noparse></noparse>O ye who reacheth Highlion, look first upon thy shoes! Or so that's how the saying goes.=<noparse></noparse>¡Oh, aquellos que llegan a Highlion, miren primero sus zapatos! O eso dice el dicho.
 <noparse></noparse>See, Virgil? I was right!=<noparse></noparse>¿Ves, Virgil?\n¡Tenía razón!
 <noparse></noparse>These slip-on boots Mom gave me tell me just as much.=<noparse></noparse>Estas botas sin cordones que me dio mamá me dicen lo mismo.
-<noparse></noparse>Those are some nice boots.=<noparse></noparse>Esas son algunas botas bonitas.
-<noparse></noparse>Right? Mom bought them for me when she found out I was graduating magna cum laude.=<noparse></noparse>¿Verdad? Mamá me las compró cuando descubrió que me estaba graduando de magna cum laude.
-<noparse></noparse>It sure is amazing you're graduating magna cum laude despite your antics.=<noparse></noparse>Seguro que es sorprendente que te estés graduando magna cum laude a pesar de tus travesuras.
-<noparse></noparse>You gonna keep up with that attitude of yours?=<noparse></noparse>¿Te mantendrás al día con esa actitud tuya?
+<noparse></noparse>Those are some nice boots.=<noparse></noparse>Esas son unas botas bonitas.
+<noparse></noparse>Right? Mom bought them for me when she found out I was graduating magna cum laude.=<noparse></noparse>¿Verdad? Mamá me las compró cuando descubrió que me estaba graduando como magna cum laude.
+<noparse></noparse>It sure is amazing you're graduating magna cum laude despite your antics.=<noparse></noparse>Seguro que es sorprendente que te estés graduando como magna cum laude a pesar de tus travesuras.
+<noparse></noparse>You gonna keep up with that attitude of yours?=<noparse></noparse>¿Seguiras con esa actitud tuya?
 <noparse></noparse>Haha. Hearing the two of you speak, I have a feeling that boredom won't be an issue.=<noparse></noparse>Ja ja.\nAl escuchar a los dos hablar, tengo la sensación de que el aburrimiento no será un problema.
 <noparse></noparse>Nope. It's so boring.=<noparse></noparse>No.\nEs tan aburrido.
 <noparse></noparse>I've gotten used to it.=<noparse></noparse>Me he acostumbrado.
 <noparse></noparse>But it's certainly gotten less boring, thanks to your chat with your hat.=<noparse></noparse>Pero ciertamente se ha vuelto menos aburrido, gracias a tu conversación con tu sombrero.
 <noparse></noparse>You've been listening?=<noparse></noparse>Has estado escuchando?
 <noparse></noparse>Other passengers would've all heard about your arson at the School for Witches by now, if there were any.=<noparse></noparse>Otros pasajeros habrían oído hablar de tu incendio en la Escuela de Brujas a estas alturas, si hubiera alguno.
-<noparse></noparse>I didn’t set it on fire!=<noparse></noparse>¡No lo prendí fuego!
-<noparse></noparse>Really?=<noparse></noparse>¿En realidad?
+<noparse></noparse>I didn’t set it on fire!=<noparse></noparse>¡Yo no le prendí fuego!
+<noparse></noparse>Really?=<noparse></noparse>¿De verdad?
 <noparse></noparse>Uh, sure, there was a fire, but that was because I shook a potion five times and made it explode.=<noparse></noparse>Uh, claro, había un fuego, pero eso fue porque sacudí una poción cinco veces y la hice explotar.
 <noparse></noparse>Potions must be shaken three times only. Even a non-witch like me knows that.=<noparse></noparse>Las pociones deben ser sacudidas solo tres veces.\nIncluso alguien que no es bruja como yo lo sabe.
 <noparse></noparse>Exactly!=<noparse></noparse>¡Exactamente!
@@ -249,7 +249,7 @@ Content Unlocks=Desbloqueos de contenido
 Prologue=Prólogo
 Related Quests=Misiones relacionadas
 Related People=Personas relacionadas
-N/A=N / A
+N/A=N/A
 Expand/Collapse=Expandir/colapsar
 <noparse></noparse>What’s up?=<noparse></noparse>¿Qué pasa?
 Average=Promedio
@@ -433,7 +433,7 @@ Shake=Agitar
 Aurea=Aurea
 <noparse></noparse>Great. It's finally time to explore.=<noparse></noparse>Excelente.\nFinalmente es hora de explorar.
 Green Forest Plains=Llanuras de bosques verdes
-<noparse></noparse>Please don't use that word "explore"...=<noparse></noparse>Por favor, no uses esa palabra "explorar" ...
+<noparse></noparse>Please don't use that word "explore"...=<noparse></noparse>Por favor, no uses la palabra "explorar" ...
 <noparse></noparse>That word gives me anxiety, thanks to your mother.=<noparse></noparse>Esa palabra me da ansiedad, gracias a tu madre.
 Press the sprint button to move faster than normal.\nSprinting uses stamina.=Presiona el botón de correr para moverte más rápido de lo normal.\nCorrer usa resistencia.
 You haven't obtained the recipe of this potion.=No has obtenido la receta de esta poción.
@@ -530,7 +530,7 @@ Mountain Summit=Cumbre de montaña
 <noparse></noparse>Let's look around a bit more.=<noparse></noparse>Miremos un poco más.
 <noparse></noparse>Fill up the <color\=#800000ff>Encyclopedia</color> and all, right?=<noparse></noparse>Llenar la <color\=#800000ff>Enciclopedia</color> y todo, ¿verdad?
 <noparse></noparse>Just don't be late.=<noparse></noparse>Simplemente no llegues tarde.
-Retrace your path.=Retraza tu camino.
+Retrace your path.=Vuelve sobre tus pasos.
 <noparse></noparse>Let's go back the <color\=#800000ff>way we came up</color>. There might be other strange things.=<noparse></noparse>Volvamos por <color\=#800000ff>donde vinimos</color>.\nPuede haber otras cosas extrañas.
 In Search For A Curious Creature=En busca de una criatura curiosa
 0-3. In Search For A Curious Creature=0-3.\nEn busca de una criatura curiosa
@@ -779,6 +779,7 @@ When climbing walls, you can press the <color\=#800000>Parkour</color> button to
 <noparse></noparse>It's your fault for oversleeping. Don't blame the <color\=#800000ff>Gaga Bird</color>.=<noparse></noparse>Es tu culpa por dormir demasiado.\nNo culpes al <color\=#800000ff>Pájaro gaga</color>.
 <noparse></noparse>Fine. Whatever. Just be quiet.=<noparse></noparse>Bien.\nLo que sea.\nSolo cállate.
 <color\=#ff0000>2. Inspect the forest surroundings</color>=<color\=#ff0000>2. Inspeccione el entorno del bosque</color>
+<noparse></noparse>A <color\=#ff0000>letter</color>!=Una <color\=#ff0000>carta</color>!
 <noparse></noparse>How nice of them to leave a letter behind.=<noparse></noparse>Qué amable de su parte dejar una carta.
 <noparse></noparse>Let's see... I think it's from the bartender on the train.=<noparse></noparse>Veamos ... Creo que es del cantinero en el tren.
 <noparse></noparse>You're probably shocked to see that the train is gone.=<noparse></noparse>Probablemente te sorprenda ver que el tren se ha ido.
@@ -789,7 +790,7 @@ Letter=Carta
 <noparse></noparse>You can just spend some time there. There should be a <color\=#800000ff>sign</color> in the forest. Follow it and find the <color\=#800000ff>village</color>.=<noparse></noparse>Puedes pasar un tiempo allí.\nDebería haber una <color\=#800000ff>señal</color> en el bosque.\nSíguela y encuentra la <color\=#800000ff>aldea</color>.
 <noparse></noparse>When you arrive at the <color\=#800000ff>village</color>, please send Enite and Arden my regards.=<noparse></noparse>Cuando llegues a la <color\=#800000ff>aldea</color>, por favor dales mis saludos a Enite y Arden.
 <noparse></noparse>"Bartender"=<noparse></noparse>"Barman"
-<noparse></noparse>That place we saw earlier must be the <color\=#800000ff>village</color>.=<noparse></noparse>Ese lugar que vimos anteriormente debe ser el <color\=#800000ff>aldea</color>.
+<noparse></noparse>That place we saw earlier must be the <color\=#800000ff>village</color>.=<noparse></noparse>Ese lugar que vimos anteriormente debe ser la <color\=#800000ff>aldea</color>.
 <noparse></noparse>Are you even a little upset that we missed the train, Ellie?=<noparse></noparse>¿Estás un poco molesto porque perdimos el tren, Ellie?
 <noparse></noparse>It's okay since there is a village, right?=<noparse></noparse>Está bien ya que hay un pueblo, ¿verdad?
 <noparse></noparse>I guess we can just wait here.=<noparse></noparse>Supongo que podemos esperar aquí.
