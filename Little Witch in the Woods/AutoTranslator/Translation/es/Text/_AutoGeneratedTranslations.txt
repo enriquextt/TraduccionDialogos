@@ -779,7 +779,6 @@ When climbing walls, you can press the <color\=#800000>Parkour</color> button to
 <noparse></noparse>It's your fault for oversleeping. Don't blame the <color\=#800000ff>Gaga Bird</color>.=<noparse></noparse>Es tu culpa por dormir demasiado.\nNo culpes al <color\=#800000ff>Pájaro gaga</color>.
 <noparse></noparse>Fine. Whatever. Just be quiet.=<noparse></noparse>Bien.\nLo que sea.\nSolo cállate.
 <color\=#ff0000>2. Inspect the forest surroundings</color>=<color\=#ff0000>2. Inspeccione el entorno del bosque</color>
-<noparse></noparse>A <color\=#ff0000>letter</color>!=Una <color\=#ff0000>carta</color>!
 <noparse></noparse>How nice of them to leave a letter behind.=<noparse></noparse>Qué amable de su parte dejar una carta.
 <noparse></noparse>Let's see... I think it's from the bartender on the train.=<noparse></noparse>Veamos ... Creo que es del cantinero en el tren.
 <noparse></noparse>You're probably shocked to see that the train is gone.=<noparse></noparse>Probablemente te sorprenda ver que el tren se ha ido.
@@ -898,7 +897,7 @@ Manual Craft=Artesanía manual
 Failure rate=Porcentaje de averías
 Eating the candy lifts weak courses. It is tasty and occasionally enjoyed as a snack.=Comer el dulce levanta maldiciones débiles.\nEs sabroso y ocasionalmente se disfruta como un refrigerio.
 Repair Pot=Reparar Caldero
-Blue Thunder Workshop Witch's Pot =Blue Thunder Workshop Witch's Caldero 
+Blue Thunder Workshop Witch's Pot =Caldero de Bruja de Taller Trueno Azul
 Craft All=Elaborar todo
 Durability reduction during auto craft=Reducción de durabilidad durante la elaboración automática
 Ordinary recipe=Receta ordinaria
@@ -5999,3 +5998,1003 @@ Usually found in shallow waters, it's a fainthearted fish that faints or even di
 <noparse></noparse>Yes! That's the one! It's really good.=<noparse></noparse>¡Sí!\n¡Ese es el indicado!\nEs realmente bueno.
 Let's have a word with Kyla who is on the top floor of the temple.=Hablemos con Kyla, que está en el último piso del templo.
 <noparse></noparse>Let's go pull off some ox horns now.=<noparse></noparse>Vamos a sacar algunos cuernos de buey ahora.
+<noparse></noparse>Wow! It's perfect!=<noparse></noparse>¡Guau!\n¡Es perfecto!
+<noparse></noparse>It happened all so very quickly again this time...=<noparse></noparse>Sucedió muy rápido de nuevo esta vez...
+<noparse></noparse>Ellie, come up here!=<noparse></noparse>¡Ellie, ven aquí!
+<color\=#ff0000>6. Talk to Kyla in front of the temple</color>=<color\=#ff0000>6. Habla con Kyla frente al templo</color>
+<noparse></noparse>So, what do you think?=<noparse></noparse>Entonces, ¿qué te parece?
+<noparse></noparse>What did I say? It's a magnificent building.=<noparse></noparse>¿Qué dije?\nEs un edificio magnífico.
+<noparse></noparse>Oh wow... So that's how it's supposed to look!=<noparse></noparse>¡Oh, guau... ¡Así es como se supone que debe verse!
+<noparse></noparse>Actually there used to be a gorgeous dome top.=<noparse></noparse>En realidad, solía tener una hermosa cúpula en la parte superior.
+<noparse></noparse>I wanted to get that restored too, but that project's too big for now.=<noparse></noparse>También quería restaurarla, pero ese proyecto es demasiado grande por ahora.
+<noparse></noparse>What, Enite?!=<noparse></noparse>¿Qué, Enite?
+<noparse></noparse>Why are you here?=<noparse></noparse>¿Por qué estás aquí?
+<noparse></noparse>I saw you going to the temple with Kyla.=<noparse></noparse>Te vi yendo al templo con Kyla.
+<noparse></noparse>The "repairing" sign was gone, too. So I got curious.=<noparse></noparse>El letrero de "reparación" también había desaparecido.\nAsí que me dio curiosidad.
+<noparse></noparse>Haha, I'm glad you came, Enite.=<noparse></noparse>Jaja, me alegra que hayas venido, Enite.
+<noparse></noparse>What do you think? It's so clean now you couldn't tell it had been in such bad shape.=<noparse></noparse>¿Qué opinas?\nEstá tan limpio ahora que no se nota que había estado en tan mal estado.
+<noparse></noparse>Oh, and I found something that looked like an entrance at the bottom, but I couldn't get through it no matter what I did.=<noparse></noparse>Ah, y encontré algo que parecía una entrada en la parte inferior, pero no pude pasar sin importar lo que hiciera.
+<noparse></noparse>Serious trouble... Will there be an explosion?=<noparse></noparse>Problemas serios... ¿habrá una explosión?
+<noparse></noparse>Haha! I like heat, but my restoration so far will be ruined if there's an explosion.=<noparse></noparse>¡Ja, ja!\nMe gusta el calor, pero mi restauración se arruinará si hay una explosión.
+<noparse></noparse>That's probably the way to the waterway device.=<noparse></noparse>Ese es probablemente el camino al dispositivo del canal.
+<noparse></noparse>A waterway device, huh.=<noparse></noparse>Un dispositivo del canal, ¿eh?
+<noparse></noparse>There used to be a path that led to a waterway device underneath the temple.=<noparse></noparse>Solía haber un camino que conducía a un dispositivo del canal debajo del templo.
+<noparse></noparse>But the door hasn't been working since the <color\=#800000ff>prickly vines</color> took over the village.=<noparse></noparse>Pero la puerta no funciona desde que las <color\=#800000ff>enredaderas espinosas</color> se apoderaron del pueblo.
+<noparse></noparse>If the path inside is blocked, there will be no other way.=<noparse></noparse>Si el camino interior está bloqueado, no habrá otra forma.
+<noparse></noparse><color\=#800000ff>Stellar Stones</color> for transporting the device are stored at the entrance.=<noparse></noparse>Las <color\=#800000ff>Piedras Estelares</color> para transportar el dispositivo se guardan en la entrada.
+<noparse></noparse>So even if we get the path opened, we won't be able to unblock the waterway.=<noparse></noparse>Así que, incluso si logramos abrir el camino, no podremos desbloquear el canal.
+<noparse></noparse>Hmm... I imagine a place like this would have other paths built in, just in case.=<noparse></noparse>Mmm... Me imagino que un lugar como este tendría otros caminos, por si acaso.
+<noparse></noparse>But there's only one entrance as far as I know, which is the one beneath the temple.=<noparse></noparse>Pero solo hay una entrada que yo sepa, que es la que está debajo del templo.
+<noparse></noparse>How wonderful! An adventure!=<noparse></noparse>¡Qué maravilloso!\n¡Una aventura!
+<noparse></noparse>Calm down and find another way! We need to get out.=<noparse></noparse>¡Cálmate y busca otra forma!\nNecesitamos salir.
+<noparse></noparse>That means we need another path leading to the device, right?=<noparse></noparse>Eso significa que necesitamos otra ruta que conduzca al dispositivo, ¿verdad?
+<noparse></noparse>We don't have to go further. Where are you going?=<noparse></noparse>No tenemos que ir más allá.\n¿Adónde vas?
+<noparse></noparse>What? You told me yourself.=<noparse></noparse>¿Qué?\nMe lo dijiste tú misma.
+<noparse></noparse>Enite, do you have any other clue?=<noparse></noparse>Enite, ¿tienes alguna otra pista?
+<noparse></noparse>Well... There is this...=<noparse></noparse>Bueno... está esto...
+<noparse></noparse>Whoa, what is it?=<noparse></noparse>¡Vaya!, ¿qué es?
+<noparse></noparse>It's a stone that passed down the generations of chiefs. It's called the <color\=#800000ff>Prayer Stone</color>.=<noparse></noparse>Es una piedra que se ha transmitido por generaciones de jefes.\nSe llama la <color\=#800000ff>Piedra de Oración</color>.
+<noparse></noparse>One can only access it using this stone.=<noparse></noparse>Solo se puede acceder usando esta piedra.
+<noparse></noparse>Oh wow! I've never seen anything like this!=<noparse></noparse>¡Oh, guau!\n¡Nunca he visto algo así!
+<noparse></noparse>Ellie, you can feel the buzz of magic coming from the stone, right?=<noparse></noparse>Ellie, puedes sentir el zumbido de la magia que emana de la piedra, ¿verdad?
+<noparse></noparse>I wouldn't get involved with it if I were you.=<noparse></noparse>Yo no me involucraría si fuera tú.
+<noparse></noparse>Then all the more reason I should!=<noparse></noparse>¡Entonces con más razón debería hacerlo!
+<noparse></noparse>Ellie, come on...=<noparse></noparse>Ellie, vamos...
+<noparse></noparse>Enite, could I borrow the <color\=#800000ff>Prayer Stone</color>?=<noparse></noparse>Enite, ¿podría pedir prestada la <color\=#800000ff>Piedra de Oración</color>?
+<noparse></noparse>Yes, there may be a secret passage way... or just another entrance.=<noparse></noparse>Sí, puede haber un pasaje secreto... o simplemente otra entrada.
+<noparse></noparse>I'm good at... uncovering such secrets!=<noparse></noparse>¡Soy buena... descubriendo esos secretos!
+<noparse></noparse>I trust you... If you could deal with the prickly vines, you'll probably find a way to resolve this too.=<noparse></noparse>Confío en ti... Si pudiste lidiar con las enredaderas espinosas, probablemente también encontrarás la forma de resolver esto.
+<noparse></noparse>But do be careful with the stone. It mustn't be lost, or we'll have serious trouble.=<noparse></noparse>Pero ten cuidado con la piedra.\nNo debe perderse, o tendremos serios problemas.
+<noparse></noparse>Trust me. I'll get the job done!=<noparse></noparse>Confía en mí.\n¡Cumpliré con el trabajo!
+Prayer Stone=Piedra de Oración
+A mysterious stone handed down to generations of Wisteria chiefs. It's a crude rock, but there is beauty in its myriad of colors. The faint buzz of magic that it exudes hints that it might be no ordinary rock.=Una misteriosa piedra transmitida a generaciones de Jefes de Wisteria.\nEs una roca tosca, pero hay belleza en su miríada de colores.\nEl débil zumbido de la magia que emana sugiere que no es una roca ordinaria.
+<noparse></noparse>Alright. You look for a way, and Enite and I will figure out how to raise the roof.=<noparse></noparse>Está bien.\nTú busca una forma, y Enite y yo veremos cómo levantar el ánimo.
+<noparse></noparse>Right, so I'll have to find a path that we can take the <color\=#800000ff>Prayer Stone</color> through.=<noparse></noparse>Bien, entonces tendré que encontrar un camino por donde podamos pasar con la <color\=#800000ff>Piedra de Oración</color>.
+Let's find the mechanism that will allow water to flow through the temple.=Encontremos el mecanismo que permitirá que el agua fluya a través del templo.
+<noparse></noparse>If I can't find it, I'll just have to ask the <color\=#800000ff>villagers</color>.=<noparse></noparse>Si no puedo encontrarlo, tendré que preguntar a los <color\=#800000ff>aldeanos</color>.
+A mysterious stone handed down to generations of Wisteria chiefs. The faint buzz of magic that it exudes hints that it might be no ordinary rock.=Una misteriosa piedra transmitida a generaciones de Jefes de Wisteria.\nEl débil zumbido de la magia que emana sugiere que no es una roca ordinaria.
+54.02cm=54.02 cm
+57.81cm=57.81 cm
+<noparse></noparse>Donuts are best when there's a layer of cream spread on them or fruit toppings.=<noparse></noparse>Las donas son mejores cuando tienen una capa de crema o coberturas de fruta.
+<noparse></noparse>I once went to a shop which served donuts with a chocolate coat. Crack the coat=<noparse></noparse>Una vez fui a una tienda que servía donas con una cobertura de chocolate.\nAl romper la cobertura...
+<noparse></noparse>and the glorious chocolate cream filling would ooze out of it. The donut was really chewy and the fruits served with it were fresh. It was a match made in heaven.=<noparse></noparse>...el glorioso relleno de crema de chocolate brotaba de ella.\nLa dona era muy esponjosa y las frutas que la acompañaban estaban frescas.\nEra una combinación perfecta.
+<noparse></noparse>No, no. I'm looking for a recipe for donuts, Diana!=<noparse></noparse>¡No, no!\n¡Estoy buscando una receta de donas, Diana!
+<noparse></noparse>Oh, you wanted recipes?=<noparse></noparse>Ah, ¿querías recetas?
+<noparse></noparse>Well, though the Witch's Catalogue contains everything on anything under the sun...=<noparse></noparse>Bueno, aunque el Catálogo de Brujas contiene información sobre todo lo que hay bajo el sol...
+<noparse></noparse>Too bad the Witch's Catalogue only sells recipes that the Witch Potion Association has approved.=<noparse></noparse>Lástima que el Catálogo de Brujas solo venda recetas aprobadas por la Asociación de Pociones de Brujas.
+<noparse></noparse>But I don't think the Witch Potion Association would have any recipe for donuts...=<noparse></noparse>Pero no creo que la Asociación de Pociones de Brujas tenga ninguna receta de donas...
+<noparse></noparse>Exactly. Why on earth is there no witches' association for donuts?=<noparse></noparse>Exactamente.\n¿Por qué demonios no hay una asociación de brujas para las donas?
+<noparse></noparse>It's too bad. It would have been really helpful if it existed!=<noparse></noparse>Es una lástima.\n¡Habría sido de mucha ayuda si existiera!
+<noparse></noparse>I think part of that's just my personal preference, but... yes.=<noparse></noparse>Creo que parte de eso es solo mi preferencia personal, pero... sí.
+<noparse></noparse>I'm really sorry I couldn't help.=<noparse></noparse>Siento mucho no haber podido ayudar.
+<noparse></noparse>Why not have a look close by?=<noparse></noparse>¿Por qué no echas un vistazo cerca?
+<noparse></noparse>Recipes are usually stored in <color\=#800000ff>homes</color> after all.=<noparse></noparse>Después de todo, las recetas suelen guardarse en las <color\=#800000ff>casas</color>.
+<noparse></noparse>If you ask <color\=#800000ff>longtime village residents</color> or <color\=#800000ff>people who have always cooked</color>, you should be able to find what you need.=<noparse></noparse>Si preguntas a los <color\=#800000ff>residentes más antiguos</color> o a <color\=#800000ff>personas que siempre han cocinado</color>, deberías encontrar lo que necesitas.
+<noparse></noparse>That's a great idea. Thank you, Diane!=<noparse></noparse>Es una gran idea.\n¡Gracias, Diane!
+<noparse></noparse>Though there isn't a Donut Association, I'll be sure to use the Witches' Catalogue!=<noparse></noparse>Aunque no hay una asociación de donas, ¡me aseguraré de usar el Catálogo de Brujas!
+<noparse></noparse>It's a promise, Ellie.=<noparse></noparse>Es una promesa, Ellie.
+<noparse></noparse>Thank you for dropping by, this service was provided by Diana.=<noparse></noparse>Gracias por pasar.\nEste servicio fue proporcionado por Diana.
+<color\=#ff0000>7. Find the device</color>=<color\=#ff0000>7. Encuentra el dispositivo</color>
+<noparse></noparse>Give the <color\=#800000ff>Curse Detection Candy</color> to Aurea?=<noparse></noparse>¿Dar el <color\=#800000ff>Dulce de Detección de Maldición</color> a Aurea?
+<noparse></noparse>Aurea, I've brought you the <color\=#800000ff>Curse Detection Candy</color>.=<noparse></noparse>Aurea, te he traído el <color\=#800000ff>Dulce de Detección de Maldición</color>.
+<noparse></noparse>Shall we start the examination?=<noparse></noparse>¿Comenzamos el examen?
+<noparse></noparse>Alright, and could you please examine the other books too just to be safe?=<noparse></noparse>Muy bien, ¿y podrías examinar los otros libros también para estar tranquilos?
+<noparse></noparse>No problem. I'll check them all.=<noparse></noparse>Ningún problema.\nLos revisaré todos.
+<noparse></noparse>It's just like I expected... The other 3 are fine, but...=<noparse></noparse>Es justo como esperaba... los otros 3 están bien, pero...
+<noparse></noparse>But what?=<noparse></noparse>¿Pero qué?
+<noparse></noparse><color\=#800000ff>Burning Bakery and Anxious Staff</color> is really cursed.=<noparse></noparse><color\=#800000ff>Panadería en Llamas y Personal Ansioso</color> está realmente maldito.
+<noparse></noparse>A look at the cover alone gives me a burning sensation. No doubt it's a curse.=<noparse></noparse>Solo con mirar la portada me da una sensación de ardor.\nSin duda es una maldición.
+<noparse></noparse>I think the curse triggers once you open the book.=<noparse></noparse>Creo que la maldición se activa al abrir el libro.
+<noparse></noparse>What kind of curse is it?=<noparse></noparse>¿Qué tipo de maldición es?
+<noparse></noparse>Well, probably... a curse that forces the person to read all the way to the end?=<noparse></noparse>Bueno, probablemente... ¿una maldición que obliga a leer hasta el final?
+<noparse></noparse>Even if the book is boring?=<noparse></noparse>¿Incluso si el libro es aburrido?
+<noparse></noparse>I need to lift the curse to know its type for sure.=<noparse></noparse>Necesito quitar la maldición para estar segura del tipo.
+<noparse></noparse>Come to think of it, a curse that makes you feel entertained is a hilarious idea in itself.=<noparse></noparse>Ahora que lo pienso, una maldición que te entretenga es una idea hilarante de por sí.
+<noparse></noparse>No, in many cases, entertaining stuff can lower people's guard, so it may count as a curse.=<noparse></noparse>No, en muchos casos, las cosas entretenidas pueden hacer que la gente baje la guardia, así que puede contar como una maldición.
+<noparse></noparse>Still... it isn't that dangerous a curse.=<noparse></noparse>Aun así... no es una maldición tan peligrosa.
+<noparse></noparse>Not for a fairytale.=<noparse></noparse>No para un cuento de hadas.
+<noparse></noparse>Ellie, what's up?=<noparse></noparse>Ellie, ¿qué pasa?
+<noparse></noparse>Deliver 1 Curse-lifting Candy to Aurea. =<noparse></noparse>Entregar 1 Dulce de Alivio de Maldición a Aurea. 
+<noparse></noparse>Oh, Rubrum, hi!=<noparse></noparse>¡Oh, Rubrum, hola!
+<noparse></noparse>Nice to see you, Rubrum.=<noparse></noparse>Gusto en verte, Rubrum.
+<noparse></noparse>You too, Ellie and Aurea. I overheard what you guys were talking.=<noparse></noparse>A ustedes también, Ellie y Aurea.\nEscuché de lo que estaban hablando.
+<noparse></noparse>May I see that children's book?=<noparse></noparse>¿Puedo ver ese libro para niños?
+<noparse></noparse>You mean <color\=#800000ff>Burning Bakery and Anxious Staff</color>?=<noparse></noparse>¿Te refieres a <color\=#800000ff>Panadería en Llamas y Personal Ansioso</color>?
+<noparse></noparse>Yup! I love bread. Granny makes the best bread in the world. Nobody can beat her.=<noparse></noparse>¡Sí!\nAmo el pan.\nLa abuela hace el mejor pan del mundo.\nNadie la supera.
+<noparse></noparse>But what does "anxious staff" mean?=<noparse></noparse>Pero, ¿qué significa "personal ansioso"?
+<noparse></noparse>It's the story in the book. You want me to recount the story? But that wouldn't be fun.=<noparse></noparse>Es la historia del libro.\n¿Quieres que te cuente la historia?\nPero eso no sería divertido.
+<noparse></noparse>Ah! Ellie, don't. I want to read it myself.=<noparse></noparse>¡Ah!\nEllie, no lo hagas.\nQuiero leerlo yo mismo.
+<noparse></noparse>But, Rubrum, do you know what a curse is?=<noparse></noparse>Pero, Rubrum, ¿sabes qué es una maldición?
+<noparse></noparse>I know, something only baddies would use.=<noparse></noparse>Lo sé, algo que solo usarían los malos.
+<noparse></noparse>You're right, and this very book has been cursed.=<noparse></noparse>Tienes razón, y este mismo libro está maldito.
+<noparse></noparse>If you read it, something super scary may happen to you.=<noparse></noparse>Si lo lees, puede pasarte algo muy aterrador.
+<noparse></noparse>What kind of thing?=<noparse></noparse>¿Qué clase de cosas?
+<noparse></noparse>Well, all your teeth will fall off.=<noparse></noparse>Bueno, se te caerán todos los dientes.
+<noparse></noparse>Aurea, don't scare the kid.=<noparse></noparse>Aurea, no asustes al niño.
+<noparse></noparse>Rubrum, if you open this book, you'll have to read all the way to the end. That's the curse.=<noparse></noparse>Rubrum, si abres este libro, tendrás que leerlo hasta el final.\nEsa es la maldición.
+<noparse></noparse>But that's what reading a book is about. Granny said that good books must be finished.=<noparse></noparse>Pero de eso se trata leer un libro.\nLa abuela dijo que los buenos libros deben terminarse.
+<noparse></noparse>Hmm... Can't argue with that.=<noparse></noparse>Mmm... No puedo discutir con eso.
+<noparse></noparse>Ellie, you heard that?=<noparse></noparse>Ellie, ¿escuchaste eso?
+<noparse></noparse>Humph, I know.=<noparse></noparse>Humph, lo sé.
+<noparse></noparse>Aurea, what do you say? Shall we let Rubrum read the book?=<noparse></noparse>Aurea, ¿qué dices?\n¿Dejamos que Rubrum lea el libro?
+<noparse></noparse>Nothing went wrong when we read it, so I don't see why Rubrum can't read it.=<noparse></noparse>Nada salió mal cuando lo leímos nosotros, así que no veo por qué Rubrum no pueda leerlo.
+<noparse></noparse>Well... alright? Since it was fine before.=<noparse></noparse>Bueno... ¿está bien?\nYa que nosotros estuvimos bien.
+<noparse></noparse>Good, Ellie, read it to me.=<noparse></noparse>Bien, Ellie, léemelo.
+<noparse></noparse>You're ready to listen until the end?=<noparse></noparse>¿Estás listo para escuchar hasta el final?
+<noparse></noparse>Let's go sit on the bench over there then. I'll read <color\=#800000ff>Burning Bakery and Anxious Staff</color> to you.=<noparse></noparse>Vamos a sentarnos en el banco de allá.\nTe leeré <color\=#800000ff>Panadería en Llamas y Personal Ansioso</color>.
+<noparse></noparse>It's a beautiful day today.=<noparse></noparse>Hoy es un día hermoso.
+<noparse></noparse>Ellie, you are... reading a children's book, huh?\r=<noparse></noparse>Ellie, estás... leyendo un libro infantil, ¿eh?\r
+<noparse></noparse>Yep! Roy! Let's read together!=<noparse></noparse>¡Sí!\n¡Roy!\n¡Leamos juntos!
+<noparse></noparse>It's so fun!=<noparse></noparse>¡Es muy divertido!
+<noparse></noparse>Hey, Roy. This book I'm reading to Rubrum is cursed.=<noparse></noparse>Oye, Roy.\nEste libro que le estoy leyendo a Rubrum está maldito.
+<noparse></noparse>We're on the last bit now, so you can listen in if you want.=<noparse></noparse>Estamos en la parte final, así que puedes escuchar si quieres.
+<noparse></noparse>It's pretty fun. =<noparse></noparse>Es bastante divertido. 
+<noparse></noparse>Really...? Alright then, I'll give it a try.=<noparse></noparse>¿En serio...?\nMuy bien, lo intentaré.
+<noparse></noparse>Wait, what's going on?=<noparse></noparse>Espera, ¿qué está pasando?
+<noparse></noparse>Everyone's here... and now Roy too?\r=<noparse></noparse>Todos están aquí... ¿y ahora Roy también?\r
+<noparse></noparse>Not at all, Kyla. This is a book worth reading.=<noparse></noparse>Para nada, Kyla.\nEste es un libro que vale la pena leer.
+<noparse></noparse>Read it with us, Kyla!=<noparse></noparse>¡Léelo con nosotros, Kyla!
+<noparse></noparse>What is this? That's not going to impress me easily.\r=<noparse></noparse>¿Qué es esto?\nEso no me impresionará tan fácilmente.\r
+<noparse></noparse>Ah, so everyone's here.=<noparse></noparse>Ah, conque todos están aquí.
+<noparse></noparse>I brought some fresh pies...=<noparse></noparse>Traje algunas tartas frescas...
+<noparse></noparse>What is everyone looking at?=<noparse></noparse>¿Qué están mirando todos?
+<noparse></noparse>Enite, this is serious. Not the time for pies.=<noparse></noparse>Enite, esto es serio.\nNo es momento para tartas.
+<noparse></noparse>Let's read it together. It's really fun. Pies can wait.=<noparse></noparse>Leámoslo juntos.\nEs muy divertido.\nLas tartas pueden esperar.
+<noparse></noparse>Granny Enite, let's read the book together.=<noparse></noparse>Abuela Enite, leamos el libro juntos.
+<noparse></noparse>Everyone... Ellie, can you just start where you left off?=<noparse></noparse>Todos... Ellie, ¿puedes empezar donde te quedaste?
+<noparse></noparse>I can't read it anymore!=<noparse></noparse>¡Ya no puedo leerlo más!
+<noparse></noparse>I've already read it nine times!=<noparse></noparse>¡Ya lo he leído nueve veces!
+<noparse></noparse>When did everyone show up!?=<noparse></noparse>¿Cuándo aparecieron todos?
+<noparse></noparse>Ahem... I'm sorry, Ellie. The book was just so much more entertaining than I expected...=<noparse></noparse>Ejem... lo siento, Ellie.\nEl libro era mucho más entretenido de lo que esperaba...
+<noparse></noparse>Ellie, you really have a talent for reading storybooks, huh?=<noparse></noparse>Ellie, realmente tienes talento para leer cuentos, ¿eh?
+<noparse></noparse>Hoho... I came because everyone else was gathered here.\r=<noparse></noparse>Ho ho... Vine porque todos los demás estaban reunidos aquí.\r
+<noparse></noparse>Ellie... Could you read it one more time? I came in halfway and missed the beginning.=<noparse></noparse>Ellie... ¿podrías leerlo una vez más?\nLlegué a la mitad y me perdí el principio.
+<noparse></noparse>Granny, it's fun, right? =<noparse></noparse>Abuela, es divertido, ¿verdad? 
+<noparse></noparse>It's just as fun no matter how many times I hear it.=<noparse></noparse>Es igual de divertido sin importar cuántas veces lo escuche.
+<noparse></noparse>I see... It's much more entertaining than the books at home.=<noparse></noparse>Ya veo... Es mucho más entretenido que los libros de casa.
+<noparse></noparse>It's fun, sure... but I think we should stop now.=<noparse></noparse>Es divertido, claro... pero creo que deberíamos parar ya.
+<noparse></noparse>I haven't told everyone yet, but this book is... cursed!\r=<noparse></noparse>Aún no se lo he dicho a todos, pero este libro está... ¡maldito!\r
+<noparse></noparse>A curse... I haven't noticed any strange effects yet, but we'll have to read it again to be sure.=<noparse></noparse>Una maldición... Todavía no he notado ningún efecto extraño, pero tendremos que leerlo de nuevo para estar seguros.
+<noparse></noparse>Right, Ellie. Let's read it together again and figure out what this curse is all about!=<noparse></noparse>Exacto, Ellie.\n¡Leámoslo juntos otra vez y descubramos de qué trata esta maldición!
+<noparse></noparse>How about one last time, Ellie?=<noparse></noparse>¿Qué tal una última vez, Ellie?
+<noparse></noparse>This is getting worse and worse.=<noparse></noparse>Esto se pone cada vez peor.
+<noparse></noparse>Yeah, Virgil... It really is a cursed book. Everyone just can't resist it.=<noparse></noparse>Sí, Virgil... Realmente es un libro maldito.\nNadie puede resistirse.
+<noparse></noparse>Anyway, that's it. Everyone, please go home. =<noparse></noparse>En fin, eso es todo.\nPor favor, todos váyanse a casa. 
+<noparse></noparse>If you want to read it again, come back after we lift the curse.=<noparse></noparse>Si quieren leerlo otra vez, vuelvan después de que quitemos la maldición.
+<noparse></noparse>Whyyy...=<noparse></noparse>¿Por quéee?...
+<noparse></noparse>I didn't expect the whole village to come listen to you reading a fairytale.=<noparse></noparse>No esperaba que todo el pueblo viniera a escucharte leer un cuento de hadas.
+<noparse></noparse>Neither did I. The curse seems to be much more powerful than we thought.=<noparse></noparse>Yo tampoco. La maldición parece ser mucho más poderosa de lo que pensábamos.
+<noparse></noparse>We can sell it the way it is... but it would probably cause serious trouble.=<noparse></noparse>Podríamos venderlo así... pero probablemente causaría serios problemas.
+<noparse></noparse>Yeah, I can sell it for a good price, but that would be unfair for the buyer.=<noparse></noparse>Sí, puedo venderlo a buen precio, pero sería injusto para el comprador.
+<noparse></noparse>After all, however intriguing the book it, that's because of the curse.=<noparse></noparse>Después de todo, por muy intrigante que sea el libro, es por culpa de la maldición.
+<noparse></noparse>Ellie, sorry to bother you again. Could you please lift the curse on this book?=<noparse></noparse>Ellie, lamento molestarte de nuevo.\n¿Podrías quitar la maldición de este libro?
+<noparse></noparse>Lift the curse? Wouldn't the book just disappear?\r=<noparse></noparse>¿Quitar la maldición?\n¿No desaparecería el libro?\r
+<noparse></noparse>If it was a normal book, listing the curse may return it to a normal book.=<noparse></noparse>Si fuera un libro normal, quitar la maldición podría devolverlo a su estado original.
+<noparse></noparse>It makes sense. Let's give it a go.=<noparse></noparse>Tiene sentido.\nVamos a intentarlo.
+<noparse></noparse>To lift the curse, we just need to grind a <color\=#800000ff>Curse-lifting Candy</color> and sprinkle the powder on the book.\r=<noparse></noparse>Para quitar la maldición, solo tenemos que moler un <color\=#800000ff>Dulce de Alivio de Maldición</color> y espolvorear el polvo sobre el libro.\r
+<noparse></noparse>1 should suffice. I'll make it right away and bring it here.\r=<noparse></noparse>Con uno debería bastar.\nLo haré de inmediato y lo traeré aquí.\r
+<noparse></noparse>Alright, Ellie. I'll keep the book by my side for now, just in case.=<noparse></noparse>Muy bien, Ellie.\nYo me quedaré el libro por ahora, por si acaso.
+77: 26.34cm=26.34 cm
+<noparse></noparse>How quiet and peaceful. There's nothing going wrong.=<noparse></noparse>Qué tranquilo y pacífico.\nNada sale mal.
+<noparse></noparse>Do you want a donut, Ellie?=<noparse></noparse>¿Quieres una dona, Ellie?
+Give Roy the ingredients that improve the donuts' taste.\nMaple Herb Extract\nSilver Starbell Pollen Extract=Dale a Roy los ingredientes que mejoran el sabor de las donas.\nExtracto de Hierba de Arce\nExtracto de Polen de Campanilla de Plata
+<noparse></noparse>Oh, I'm not the one who wants it.=<noparse></noparse>Ah, no soy yo la que la quiere.
+<noparse></noparse>Roy really misses the donuts he had in Highlion.=<noparse></noparse>Roy extraña mucho las donas que comía en Highlion.
+<noparse></noparse>If it's a donut from a place like that, it would be hard to find in such a rural place.=<noparse></noparse>Si es una dona de un lugar así, sería difícil encontrarla en un sitio tan rural.
+<noparse></noparse>There used to be a small bakery, but even that's gone now.=<noparse></noparse>Solía haber una pequeña panadería, pero incluso eso ya desapareció.
+<noparse></noparse>Hm, they don't have to be authentic, as long as they are delicious.=<noparse></noparse>Mmm, no tienen que ser auténticas, siempre que estén deliciosas.
+<noparse></noparse>Don't you make the best pies, Enite? That's why I thought you might know how to make donuts.=<noparse></noparse>¿Acaso no haces las mejores tartas, Enite?\nPor eso mismo pensé que sabrías cómo hacer donas.
+<noparse></noparse>Though I did go through a phase where I was obsessed with making all kinds of desserts when I was young...=<noparse></noparse>Aunque pasé por una fase en la que estaba obsesionada con hacer todo tipo de postres cuando era joven...
+<noparse></noparse>I just started baking nothing but pies one day and don't remember much about other desserts.=<noparse></noparse>Un día empecé a hornear solo tartas y ya no recuerdo mucho sobre otros postres.
+<noparse></noparse>Oh... Really? I thought you were our best hope, Enite...=<noparse></noparse>¡Ah!, ¿de verdad?\nPensé que eras nuestra mejor esperanza, Enite...
+<noparse></noparse>Let me see... Where have I put the recipes, let me see.=<noparse></noparse>Déjame ver... veamos dónde puse las recetas.
+<noparse></noparse>Yes, Rubrum's going to want to try other pastries when he gets older.=<noparse></noparse>Sí, Rubrum querrá probar otros pasteles cuando crezca.
+<noparse></noparse>It's best to start experimenting now.=<noparse></noparse>Es mejor empezar a experimentar ahora.
+<noparse></noparse>Even if I can't find my recipe book, donuts aren't that difficult to make.=<noparse></noparse>Aunque no encuentre mi libro de recetas, las donas no son tan difíciles de hacer.
+<noparse></noparse>Awesome! You're the best, Enite!=<noparse></noparse>¡Increíble!\n¡Eres la mejor, Enite!
+<noparse></noparse>Hehehe, you're an easy child to please.=<noparse></noparse>Je, je, je, eres una niña fácil de complacer.
+<noparse></noparse>Desserts should be sweet, so let's make some cream first. I haven't done that in a while.=<noparse></noparse>Los postres deben ser dulces, así que primero hagamos algo de crema.\nNo he hecho eso en mucho tiempo.
+<noparse></noparse>Add some <color\=#800000ff>Maple Herb Extract</color> for color and <color\=#800000ff>Silver Starbell Pollen Extract</color> to enhance the aroma. That'll probably make good donuts.=<noparse></noparse>Añade un poco de <color\=#800000ff>Extracto de Hierba de Arce</color> para el color y <color\=#800000ff>Extracto de Polen de Campanilla de Plata</color> para mejorar el aroma.\nEso probablemente hará que las donas queden ricas.
+<noparse></noparse>I haven't been this busy in a while.=<noparse></noparse>No he estado tan ocupada en mucho tiempo.
+<noparse></noparse>Oh, I'll find you the ingredients.=<noparse></noparse>Ah, yo te buscaré los ingredientes.
+<noparse></noparse>Please focus on figuring out how we can make the perfect donut, Enite!=<noparse></noparse>¡Por favor, concéntrate en averiguar cómo podemos hacer la dona perfecta, Enite!
+<noparse></noparse>Can I bother you with that, Ellie? I can get Rubrum to go instead.=<noparse></noparse>¿Puedo molestarte con eso, Ellie?\nPuedo pedirle a Rubrum que vaya en su lugar.
+<noparse></noparse>Although I'm no good at cooking, I'm great at prepping ingredients.=<noparse></noparse>Aunque no soy buena para cocinar, soy excelente preparando ingredientes.
+<noparse></noparse>Alright then, over to you.=<noparse></noparse>Muy bien, entonces te lo encargo.
+<noparse></noparse>Once you find them, come back with <color\=#800000ff>Roy</color>.=<noparse></noparse>Una vez que los encuentres, vuelve con <color\=#800000ff>Roy</color>.
+<noparse></noparse>Let's share the donuts when they're baked.=<noparse></noparse>Compartiremos las donas cuando estén horneadas.
+<color\=#ff0000>4. Deliver the Curse-lifting Candy</color>=<color\=#ff0000>4. Entrega el Dulce de Alivio de Maldición</color>
+<color\=#8C8C8C>3. Read books with villagers</color>=<color\=#8C8C8C>3. Lee libros con los aldeanos</color>
+4x Workout Candy\n=4x Dulce de Entrenamiento\n
+<noparse></noparse>There're changes to the Delivery orders. Check them out.=<noparse></noparse>Hay cambios en los pedidos de entrega.\nÉchales un vistazo.
+<noparse></noparse>Lift the curse at once?=<noparse></noparse>¿Levantar la maldición de inmediato?
+<noparse></noparse>Crush the candy with your hands like this... and gently sprinkle it on the book.=<noparse></noparse>Aplasta el dulce con las manos así... y espolvoréalo suavemente sobre el libro.
+<noparse></noparse>The cover has begun to change, and the title... is fading away.=<noparse></noparse>La portada ha comenzado a cambiar, y el título... se está desvaneciendo.
+<noparse></noparse>Candies actually have such an application. Witch products are magical indeed.=<noparse></noparse>Los dulces en realidad tienen este tipo de uso.\nLos productos de brujas son de hecho mágicos.
+<noparse></noparse>Done. It's lifted.=<noparse></noparse>Listo.\nSe ha levantado.
+<noparse></noparse>Well...=<noparse></noparse>Bueno...
+<noparse></noparse>However you look at it...=<noparse></noparse>Se mire como se mire...
+<noparse></noparse>It's no longer a usual children's book, right?=<noparse></noparse>Ya no es un libro infantil normal, ¿verdad?
+<noparse></noparse>Let's see. The title... is in a handwritten font.=<noparse></noparse>Vamos a ver.\nEl título... está en una fuente escrita a mano.
+<noparse></noparse>We were really trapped. This is <color\=#800000ff>a book disguised as a children's book</color>.\r=<noparse></noparse>Estábamos realmente atrapados.\nEsto es <color\=#800000ff>un libro disfrazado de libro infantil</color>.\r
+<noparse></noparse>Apparently even the title was affected by the curse.=<noparse></noparse>Aparentemente, incluso el título se vio afectado por la maldición.
+<noparse></noparse>Look, the content is completely different now. The fairytale is gone, and it's all gibberish now.\r=<noparse></noparse>Mira, el contenido es completamente diferente ahora.\nEl cuento de hadas se ha ido, y ahora todo es un galimatías.\r
+<noparse></noparse>I come across cursed items from time to time, but I've never seen anything like this before.=<noparse></noparse>Me encuentro con artículos malditos de vez en cuando, pero nunca había visto algo así.
+<noparse></noparse>It must have been made for a purpose.=<noparse></noparse>Debe haberse hecho con un propósito.
+<noparse></noparse>I suppose the maker used it to <color\=#800000ff>practice cursing</color>.=<noparse></noparse>Supongo que su creador lo usó para <color\=#800000ff>practicar maldiciones</color>.
+<noparse></noparse>Practice cursing?=<noparse></noparse>¿Practicar maldiciones?
+<noparse></noparse>Yeah, because the book's content is quite basic.=<noparse></noparse>Sí, porque el contenido del libro es bastante básico.
+<noparse></noparse>The more complicated a book's content, the more difficult to put a curse on it. This curse is simple, so it only needed a thin book.=<noparse></noparse>Cuanto más complicado es el contenido de un libro, más difícil es ponerle una maldición.\nEsta maldición es simple, por lo que solo necesitaba un libro delgado.
+<noparse></noparse>How scary, to think that a fairytale book carries such a curse.=<noparse></noparse>Qué aterrador pensar que un libro de cuentos lleve tal maldición.
+<noparse></noparse>If so... the book can't be sold.=<noparse></noparse>Si es así... el libro no se puede vender.
+<noparse></noparse>But it may be good news for you, Ellie.=<noparse></noparse>Pero pueden ser buenas noticias para ti, Ellie.
+<noparse></noparse>Would you like to have this book?=<noparse></noparse>¿Te gustaría tener este libro?
+<noparse></noparse>I don't think you would put curses on anything, but it doesn't hurt to learn about them.=<noparse></noparse>No creo que le pongas maldiciones a nada, pero no hace daño aprender sobre ellas.
+<noparse></noparse>This book can be your first step in understanding the structure of curses.=<noparse></noparse>Este libro puede ser tu primer paso para comprender la estructura de las maldiciones.
+<noparse></noparse>You'd better have one of these.=<noparse></noparse>Será mejor que te quedes con uno de estos.
+Alright, I'll take it, although I don't know how I can use it yet.=Muy bien, lo tomaré, aunque todavía no sé para qué pueda usarlo.
+Book for Curse Practice=Libro para Práctica de Maldiciones
+A book made to practice curse application on. It's full of doodle-like gibberish.\n=Un libro hecho para practicar cómo aplicar maldiciones.\nEstá lleno de galimatías que parecen garabatos.\n
+<noparse></noparse>And here's your reward for helping, with a bit of bonus.=<noparse></noparse>Y aquí tienes tu recompensa por ayudar, con un pequeño bono.
+<noparse></noparse>Wow! Great, Thank you.=<noparse></noparse>¡Vaya!\nGenial, gracias.
+<noparse></noparse>It's been fruitful for myself too. Have a wonderful day.=<noparse></noparse>También ha sido muy fructífero para mí.\nQue tengas un día maravilloso.
+1x Good Luck Candy\n=1x Dulce de Buena Suerte\n
+2x Healing Candy\n1x Bugproof Candy\n=2x Dulce Curativo\n1x Dulce a Prueba de Insectos\n
+<noparse></noparse>Would you like to give <color\=#800000ff>Maple Herb Extract</color> and <color\=#800000ff>Silver Starbell Pollen Extract</color> to Roy?=<noparse></noparse>¿Te gustaría darle el <color\=#800000ff>Extracto de Hierba de Arce</color> y el <color\=#800000ff>Extracto de Polen de Campanilla de Plata</color> a Roy?
+<noparse></noparse>Roy, I've brought you some ingredients!=<noparse></noparse>Roy, ¡te he traído algunos ingredientes!
+Wait for Roy to finish making his donuts.=Espera a que Roy termine de hacer sus donas.
+<noparse></noparse>Ingredients? I thought I was in charge of preparing the ingredients?=<noparse></noparse>¿Ingredientes?\n¿Pensé que yo estaba encargado de prepararlos?
+<noparse></noparse>Enite told me about some ingredients perfect for adding to donuts.=<noparse></noparse>Enite me habló de unos ingredientes perfectos para las donas.
+<noparse></noparse>Enite's looking for her recipe, so I'm here with the things.=<noparse></noparse>Enite está buscando su receta, así que aquí traje las cosas.
+<noparse></noparse>I'm sorry to have bothered you so much.=<noparse></noparse>Siento haberte molestado tanto.
+<noparse></noparse>Not at all. Let's go find Enite!=<noparse></noparse>Para nada.\n¡Vamos a buscar a Enite!
+<noparse></noparse>Enite told me to bring you to her along with the ingredients.=<noparse></noparse>Enite me dijo que te llevara con ella junto con los ingredientes.
+<noparse></noparse>Sounds like she did locate the recipe.=<noparse></noparse>Parece que sí encontró la receta.
+<noparse></noparse>Sure, let's go then.=<noparse></noparse>Seguro, vamos entonces.
+<noparse></noparse>Amazing, you've brought so many.=<noparse></noparse>Increíble, trajiste bastantes.
+<noparse></noparse>I've heated up my oven so we can start making donuts at any time.=<noparse></noparse>Ya calenté el horno, así que podemos empezar a hacer donas en cualquier momento.
+<noparse></noparse>Are you ready, Roy?=<noparse></noparse>¿Estás listo, Roy?
+<noparse></noparse>I'm ready. Thank you for sparing me some time, Enite.=<noparse></noparse>Estoy listo.\nGracias por dedicarme un poco de tu tiempo, Enite.
+<noparse></noparse>Well, aren't you a polite child! Let's start by making the dough.=<noparse></noparse>Vaya, ¡qué chico tan educado!\nEmpecemos preparando la masa.
+<noparse></noparse>That's right, you're doing well. =<noparse></noparse>Así es, lo estás haciendo bien. 
+<noparse></noparse>Now knead it into a ball of dough so we can stretch it into a thin sheet.=<noparse></noparse>Ahora amásalo hasta formar una bola para que podamos estirarla en una lámina delgada.
+<noparse></noparse>Put what Ellie has brought into the cream.=<noparse></noparse>Pon lo que trajo Ellie en la crema.
+<noparse></noparse>Sure, let me try that.=<noparse></noparse>Claro, déjame intentarlo.
+<noparse></noparse>Once they're ready, you can put them in the oven to bake.=<noparse></noparse>Una vez que estén listas, puedes hornearlas.
+<noparse></noparse>I'll teach you how to regulate the temperature.=<noparse></noparse>Te enseñaré a regular la temperatura.
+<noparse></noparse>It can't be too hot when you bake it and you must keep the temperature constant.=<noparse></noparse>El horno no puede estar muy caliente y debes mantener una temperatura constante.
+<noparse></noparse>Hm, it already smells like the real deal.=<noparse></noparse>Hm, ya huele a los de verdad.
+<noparse></noparse>Rubrum, come get ready to enjoy some donuts with Ellie.=<noparse></noparse>Rubrum, ven y prepárate para disfrutar de unas donas con Ellie.
+<noparse></noparse>Yes, Granny!=<noparse></noparse>¡Sí, abuela!
+<noparse></noparse>Donuts~ Donuts~ Rolly-polly pies~=<noparse></noparse>Donas~ Donas~ Tartas regordetas~
+<noparse></noparse>Wow, is this a donut?=<noparse></noparse>Vaya, ¿esto es una dona?
+<noparse></noparse>Looks so interesting! It's a pie but with a hole!=<noparse></noparse>¡Se ve tan interesante!\n¡Es una tarta pero con un agujero!
+<noparse></noparse>I'm going to dig in!=<noparse></noparse>¡A comer!
+<noparse></noparse>Is something wrong?=<noparse></noparse>¿Algo está mal?
+<noparse></noparse>It's really delicious!=<noparse></noparse>¡Están realmente deliciosas!
+<noparse></noparse>It's baked through evenly, no bitterness and just the right doneness.=<noparse></noparse>Se hornearon de manera uniforme, sin amargura y con la cocción perfecta.
+<noparse></noparse>The cream's very sweet and it's scrumptious.=<noparse></noparse>La crema es muy dulce y está deliciosa.
+<noparse></noparse>Here, let me have a bite...=<noparse></noparse>A ver, déjame darle un bocado...
+<noparse></noparse>Oh... It really is delightful, I can't believe I made this.=<noparse></noparse>Oh... Es realmente un deleite, no puedo creer que yo lo haya hecho.
+<noparse></noparse>You were a quick study. Just keep in mind what I said and you'll be making even better donuts.=<noparse></noparse>Aprendiste muy rápido.\nSolo ten en cuenta lo que te dije y harás donas aún mejores.
+<noparse></noparse>You're too kind, it's thanks to both of you, Ellie and Enite.=<noparse></noparse>Eres muy amable, es gracias a las dos, Ellie y Enite.
+<noparse></noparse>Since they've turned out so well, you should take some home with you.=<noparse></noparse>Como salieron tan bien, deberías llevarte algunas a casa.
+<noparse></noparse>Granny, me, me, me! Me too!=<noparse></noparse>¡Abuela, yo, yo, yo!\n¡Yo también!
+<noparse></noparse>Alright, alright. Hold on while I pack some for everyone.=<noparse></noparse>Está bien, está bien.\nEsperen mientras empaco algunas para todos.
+<noparse></noparse>Wow... You've packed so many for me, Enite.=<noparse></noparse>Vaya... Me has empacado muchas, Enite.
+Roy, when did you make this many?=Roy, ¿cuándo hiciste tantas?
+Ordinary Donut=Dona Ordinaria
+A nicely baked donut filled with sweet cream.=Una dona bien horneada y rellena de crema dulce.
+<noparse></noparse>I baked a few more since both you and Rubrum were enjoying them so much.=<noparse></noparse>Horneé algunas más ya que Rubrum y tú las estaban disfrutando mucho.
+<noparse></noparse>Is that why you were walking to and fro in front of the oven?=<noparse></noparse>¿Por eso estabas yendo de un lado a otro frente al horno?
+<noparse></noparse>Yes. I thought making another batch would help me remember better.=<noparse></noparse>Sí.\nPensé que hacer otra tanda me ayudaría a recordar mejor la receta.
+<noparse></noparse>Were there enough ingredients to make another batch?=<noparse></noparse>¿Había suficientes ingredientes para hacer otra tanda?
+<noparse></noparse>I gathered enough ingredients while you were looking for the recipe.=<noparse></noparse>Recogí los ingredientes suficientes mientras tú buscabas la receta.
+<noparse></noparse>I was only planning to make them by myself...=<noparse></noparse>Solo planeaba hacerlas por mi cuenta...
+<noparse></noparse>If not for you, Ellie, I wouldn't have gone to ask Enite.=<noparse></noparse>De no haber sido por ti, Ellie, no le habría ido a preguntar a Enite.
+<noparse></noparse>Not at all, I've had such yummy donuts thanks to you.=<noparse></noparse>Para nada, he comido unas donas deliciosas gracias a ti.
+<noparse></noparse>Rubrum's also smiling from ear to ear.=<noparse></noparse>Rubrum también está sonriendo de oreja a oreja.
+<noparse></noparse>Yes, I'm very pleased too.=<noparse></noparse>Sí, yo también estoy muy contento.
+<noparse></noparse>Although I still have room for improvement, I'm glad everyone liked it so much.=<noparse></noparse>Aunque todavía tengo margen de mejora, me alegra que a todos les haya gustado tanto.
+<noparse></noparse>Oh and here's a little token of my appreciation, Ellie.=<noparse></noparse>Ah, y he aquí una pequeña muestra de mi aprecio, Ellie.
+<noparse></noparse>I must be going. If you need any help, please let me know, Ellie.=<noparse></noparse>Debo irme.\nSi necesitas ayuda con algo, avísame, Ellie.
+<noparse></noparse>The village chief has controlled the sharing of information in the village for generations.=<noparse></noparse>El jefe de la aldea ha controlado el intercambio de información en el pueblo durante generaciones.
+<noparse></noparse>I can fix small furniture, but a house is too much.=<noparse></noparse>Puedo arreglar muebles pequeños, pero una casa es demasiado.
+<noparse></noparse>Wouldn't it be better to leave such a big task to Kyla?=<noparse></noparse>¿No sería mejor dejar una tarea tan grande a Kyla?
+<noparse></noparse>I don't remember if I've ever repaired the Witch's House.=<noparse></noparse>No recuerdo si alguna vez he reparado la Casa de la Bruja.
+<noparse></noparse>Okay, thank you. I'll ask Kyla.=<noparse></noparse>Bien, gracias.\nLe preguntaré a Kyla.
+<noparse></noparse>It feels a bit eerily cool to the touch, see.=<noparse></noparse>Se siente inquietantemente fría al tacto, mira.
+<noparse></noparse>Whoa. You're right.=<noparse></noparse>Vaya.\nTienes razón.
+<noparse></noparse>It's been passed down for generations, yet I know little about it.=<noparse></noparse>Se ha transmitido por generaciones, pero sé poco al respecto.
+<noparse></noparse>After the first chief left it behind, it became a symbolic item that was passed down to each following chief.=<noparse></noparse>Después de que el primer jefe la dejó, se convirtió en un elemento simbólico que se transmitió al siguiente jefe.
+<noparse></noparse>And is it dedicated to accessing the temple device?=<noparse></noparse>¿Y está dedicada a acceder al dispositivo del templo?
+<noparse></noparse>They say a long time ago, it was used in rituals as well.=<noparse></noparse>Dicen que hace mucho tiempo también se usaba en rituales.
+<noparse></noparse>Have you seen the <color\=#800000ff>Bitter Grape Tea Tree</color> at the peak?=<noparse></noparse>¿Has visto el <color\=#800000ff>Árbol de Té de Uva Amarga</color> en la cima?
+<noparse></noparse>It's supposedly where the <color\=#800000ff>Cat Gods</color> dwell.=<noparse></noparse>Supuestamente es donde habitan los <color\=#800000ff>Dioses Gato</color>.
+<noparse></noparse>Since you're trying to help the village, it might be a good idea to pray to the Cat Gods. They may open a path for you.=<noparse></noparse>Como estás tratando de ayudar a la aldea, puede ser una buena idea rezarle a los Dioses Gato.\nPueden abrirte un camino.
+<noparse></noparse>I'm good at fixing things. I fixed that chair from last time.=<noparse></noparse>Soy bueno para arreglar las cosas.\nArreglé esa silla la última vez.
+<noparse></noparse>There’s one less leg after fixing it, though.=<noparse></noparse>Pero me sobró una pata después de arreglarla.
+<noparse></noparse>That's why Arden said he would help me.=<noparse></noparse>Por eso Arden dijo que me ayudaría.
+<noparse></noparse>Did Arden fix it?=<noparse></noparse>¿Arden lo arregló?
+<noparse></noparse>No, I haven't seen the chair since.=<noparse></noparse>No, no he visto la silla desde entonces.
+<noparse></noparse>Err, I'd better not leave it to Arden then.=<noparse></noparse>Err, es mejor que no se lo deje a Arden.
+<noparse></noparse>Ellie, can I ask you a favor?=<noparse></noparse>Ellie, ¿puedo pedirte un favor?
+Take 3x Giant Branch to Kyla.=Llévale 3x Rama Gigante a Kyla.
+<noparse></noparse>Could you get me 3 <color\=#800000ff>Giant Branch</color>?=<noparse></noparse>¿Podrías conseguirme 3 <color\=#800000ff>Rama Gigante</color>?
+<noparse></noparse>I need to make a tool in a hurry, and I'm short on materials.=<noparse></noparse>Necesito hacer una herramienta a toda prisa, y me faltan materiales.
+<noparse></noparse>Can you get them by the end of <color\=#800000ff>today</color>?=<noparse></noparse>¿Puedes conseguirlas para el final del día de <color\=#800000ff>hoy</color>?
+<noparse></noparse>I'll make it worth your while. Thanks! Hehe.\r=<noparse></noparse>Haré que valga la pena.\n¡Gracias!\nJeje.\r
+<noparse></noparse>Give <color\=#800000ff>3 Giant Branch</color> to Kyla?=<noparse></noparse>¿Darle <color\=#800000ff>3 Rama Gigante</color> a Kyla?
+<noparse></noparse>Kyla. I brought the things you asked for.=<noparse></noparse>Kyla.\nTraje las cosas que pediste.
+<noparse></noparse>That was fast! Thanks, Ellie. =<noparse></noparse>¡Eso fue rápido!\nGracias, Ellie. 
+<noparse></noparse>Here, as promised. Thanks for the help.=<noparse></noparse>Toma esto, como lo prometí.\nGracias por la ayuda.
+<noparse></noparse>Witch's House?=<noparse></noparse>¿Casa de la Bruja?
+<noparse></noparse>Have you ever repaired one before?=<noparse></noparse>¿Alguna vez has reparado una?
+<noparse></noparse>Witch's Houses are normally repaired by witch craftsmen.=<noparse></noparse>Las Casas de las Brujas normalmente son reparadas por artesanos brujos.
+<noparse></noparse>I have only repaired simple tools there.=<noparse></noparse>Solo he reparado herramientas simples allí.
+<noparse></noparse>Wow, that’s great too.=<noparse></noparse>Vaya, eso también es genial.
+<noparse></noparse>You're too nice to me.=<noparse></noparse>Eres demasiado amable conmigo.
+<noparse></noparse>Have you talked to a witch craftsmen?=<noparse></noparse>¿Has hablado con un artesano brujo?
+<noparse></noparse>For some reason, I can't go there...=<noparse></noparse>Por alguna razón, no puedo ir allí...
+<noparse></noparse>Is that so? Hmm...=<noparse></noparse>¿De verdad?\nMmm...
+<noparse></noparse>Alright, I'll help you since I owe you one.=<noparse></noparse>Muy bien, te ayudaré ya que te debo una.
+<noparse></noparse>I'm not sure if I can but I'll do my best.=<noparse></noparse>No estoy segura de si podré, pero haré lo mejor que pueda.
+<noparse></noparse>I don't need payment, but there are materials I can't get. So you have to get them for me.=<noparse></noparse>No necesito que me pagues, pero hay materiales que no puedo conseguir.\nAsí que tienes que conseguirlos por mí.
+Get materials from Kyla.=Obtén los materiales de Kyla.
+<noparse></noparse>I'll list them on a note.=<noparse></noparse>Los anotaré en una lista.
+<noparse></noparse>Once you bring me the materials, I'll get started on the repairs.=<noparse></noparse>Una vez que me traigas los materiales, comenzaré con las reparaciones.
+Get materials from Kyla.\r\n\r\n15x Branch\n15x Piece of Rock\n15x Mud\n\r\n\r\n=Obtén los materiales de Kyla.\n\r\n\r\n15x Rama\n15x Pieza de Roca\n15x Lodo\n\r\n\r\n
+Mountain Bream=Besugo de Montaña
+2.46cm=2.46 cm
+17.36cm=17.36 cm
+111.03cm=111.03 cm
+Blind Fish=Pez Ciego
+69.68cm=69.68 cm
+Usually found in static waters. Due to poor eyesight, it needs to taste food to tell what it is.=Generalmente se encuentra en aguas estáticas.\nDebido a la poca visión, necesita saborear la comida para saber qué es.
+58.5cm=58.5 cm
+63.2cm=63.2 cm
+Special Giant-claw Crab=Cangrejo de Garras Gigantes Especial
+30.16cm=30.16 cm
+1.71cm=1.71 cm
+Although delicious, it's hard to spot due to the small size, and hard to catch with bare hands due to slippery scales.=Aunque es delicioso, es difícil de detectar debido a su pequeño tamaño y difícil de atrapar con las manos debido a sus escamas resbaladizas.
+Balanced Oak Broom=Escoba de Roble Equilibrada
+<noparse></noparse>If you can't manage, or wish to switch to another Delivery order, you can <color\=#800000ff>cancel</color>.=<noparse></noparse>Si no puedes completarlo o deseas cambiar por otro pedido de entrega, puedes <color\=#800000ff>cancelar</color>.
+Ticket to Witch's House=Boleto a la Casa de la Bruja
+336 Luna Coin(s)=336 Moneda(s) de Luna
+Fast Oak Broom=Escoba de Roble Rápida
+Sturdy Oak Broom=Escoba de Roble Resistente
+A very basic witch’s broom commonly seen in witch society.\nWith a lightweight design, it can achieve high speeds. However, due to its low durability, it won't last for a long time.\n=Una escoba de bruja muy básica, comúnmente vista en la sociedad de las brujas.\nAl ser de diseño liviano, puede alcanzar altas velocidades.\nSin embargo, debido a su baja durabilidad, no durará mucho tiempo.\n
+1700 Gold Coins=1700 Monedas de Oro
+Auxiliary Bag Compartment 4=Compartimento de Bolsa Auxiliar 4
+<noparse></noparse>The Prayer Stone? Hm... Don't think I've heard of it.=<noparse></noparse>¿La Piedra de Oración?\nHm... No creo haber escuchado de ella.
+<noparse></noparse>This here. Have you seen anything similar?=<noparse></noparse>Esto de aquí.\n¿Has visto algo similar?
+<noparse></noparse>Oh, goodness. This is very valuable. Where did you get it?=<noparse></noparse>Oh, por Dios.\nEsto es muy valioso.\n¿De dónde la sacaste?
+<noparse></noparse>I borrowed it from Enite. Apparently it's an artifact that is passed down by the village chiefs.=<noparse></noparse>Me la prestó Enite.\nAparentemente, es un artefacto transmitido por los jefes de la aldea.
+<noparse></noparse>That explains it. it's not exactly the same, but I have seen similar stones elsewhere.=<noparse></noparse>Eso lo explica.\nNo es exactamente igual, pero he visto piedras similares en otros lugares.
+<noparse></noparse>They are made by pouring <color\=#800000ff>wishes</color> into rare ores, so they're also called <color\=#800000ff>Wish Stones</color>.=<noparse></noparse>Se hacen vertiendo <color\=#800000ff>deseos</color> en minerales raros, por lo que también se les llama <color\=#800000ff>Piedras de los Deseos</color>.
+<noparse></noparse>Some stones can carry unforgettable promises, so they are also called <color\=#800000ff>Pledge Stones</color>.=<noparse></noparse>Algunas piedras pueden llevar promesas inolvidables, por lo que también se les llama <color\=#800000ff>Piedras de Compromiso</color>.
+<noparse></noparse>So do they grant your wishes?=<noparse></noparse>Entonces, ¿otorgan tus deseos?
+<noparse></noparse>No, not that magical, but they can be ingredients of certain <color\=#800000ff>mysterious items</color>.=<noparse></noparse>No, no son tan mágicas, pero pueden ser ingredientes para ciertos <color\=#800000ff>artículos misteriosos</color>.
+<noparse></noparse>However, they say that the devices would be placed <color\=#800000ff>somewhere noticeable</color> or <color\=#800000ff>remarkable</color> near the village.=<noparse></noparse>Sin embargo, dicen que los dispositivos se colocarían <color\=#800000ff>en algún lugar visible</color> o <color\=#800000ff>notable</color> cerca de la aldea.
+<noparse></noparse>They're placed in noticeable places when they're supposed to be hidden?=<noparse></noparse>¿Se colocan en lugares visibles cuando se supone que deben estar ocultos?
+<noparse></noparse>If it really contains a wish or a pledge, will its maker want others to know?=<noparse></noparse>Si realmente contienen un deseo o una promesa, ¿acaso su creador no querría que los demás lo supieran?
+First Floor=Primer piso
+Let's fill the hole on the 1st floor.=Llenemos el agujero del 1er piso.
+Talk to Kyla during daytime about restoring Witch's House.=Habla con Kyla durante el día sobre la restauración de la Casa de la Bruja.
+<noparse></noparse>Good, it looks like a new house.=<noparse></noparse>Bien, parece una casa nueva.
+<noparse></noparse>You like it?=<noparse></noparse>¿Te gusta?
+<noparse></noparse>Oh, yes! Thank you, Kyla!=<noparse></noparse>¡Oh, sí!\n¡Gracias, Kyla!
+<noparse></noparse>Haha, don't mention it. You helped me a lot, too.=<noparse></noparse>Jaja, no hay de qué.\nTú también me ayudaste mucho.
+Oak Tree Bed=Cama de Roble
+Oak Tree Chair=Silla de Roble
+Oak Tree Desk=Escritorio de Roble
+Oak Tree Cabinet=Gabinete de Roble
+Oak Tree Bookcase=Estantería de Roble
+<noparse></noparse>Here, take this too.=<noparse></noparse>Toma esto también.
+<noparse></noparse>Though this comes a little late, here's a housewarming gift.=<noparse></noparse>Aunque sea un poco tarde, aquí hay un regalo de inauguración de la casa.
+<noparse></noparse>If you need more furniture, come look for me.=<noparse></noparse>Si necesitas más muebles, ven a buscarme.
+<noparse></noparse>I'm considering whether I should start selling furniture again.=<noparse></noparse>Estoy considerando si debería comenzar a vender muebles nuevamente.
+<noparse></noparse>You can make furniture too?=<noparse></noparse>¿También sabes hacer muebles?
+<noparse></noparse>Sure, the pieces I make are really sturdy and lasting.=<noparse></noparse>Claro, las piezas que hago son realmente resistentes y duraderas.
+Go see Kyla, Roy and Aurea, who claim to be selling furniture.=Ve a ver a Kyla, Roy y Aurea, quienes afirman vender muebles.
+Go to the Furniture Store=Ir a la Tienda de Muebles
+<noparse></noparse><color=#800000ff>Aurea</color> and <color=#800000ff>Roy</color> are also preparing to sell related goods. Go have a look if you're interested.=<noparse></noparse><color=#800000ff>Aurea</color> y <color=#800000ff>Roy</color> también se están preparando para vender productos relacionados.\nVe a echar un vistazo si te interesa.
+<noparse></noparse>Feel free to talk to me if there's anything else you need.=<noparse></noparse>No dudes en hablar conmigo si hay algo más que necesites.
+Walk around the restored 1st floor of Witch's House.=Camina por el primer piso restaurado de la Casa de la Bruja.
+<noparse></noparse>I've put the stuff that was in the warehouse into the <color=#800000ff>mailbox</color>. Make sure to check it out.=<noparse></noparse>He puesto las cosas que estaban en el almacén en el <color=#800000ff>buzón</color>.\nAsegúrate de revisarlo.
+<color=#ff0000>1. Talk to the villager selling furniture</color>=<color=#ff0000>1. Habla con el aldeano que vende muebles</color>
+With the Witch's House repaired, the furniture inside can now be freely arranged.\n\nTalk to the villagers who sell furniture to find out what items they offer.=Con la Casa de la Bruja reparada, los muebles en el interior ahora se pueden organizar libremente.\n\nHabla con los aldeanos que venden muebles para averiguar qué artículos ofrecen.
+Stock in Storage=Artículos en el almacén
+Hello, Ellie!\n\nWhen I was expanding and tidying up my house, I placed things originally in the storage together.\n\nBut I find it too messy to cram all kinds of stuff in one single box.\n\nSince I now have multiple storages, I think it's better to tidy them up.=¡Hola, Ellie!\n\n\nCuando estaba ampliando y ordenando mi casa, junté las cosas que originalmente estaban en el almacén.\n\n\nPero me resulta demasiado complicado meter todo tipo de cosas en una sola caja.\n\n\nComo ahora tengo varios almacenes, creo que es mejor ordenarlos.
+Kyla devoted to tidying up=Kyla dedicada a ordenar
+<noparse></noparse>Whoa! It's so much bigger!=<noparse></noparse>¡Vaya!\n¡Es mucho más grande!
+Use the Furnishing Clock.=Usa el Reloj de Muebles.
+<noparse></noparse>Kyla expanded it?=<noparse></noparse>¿Kyla la expandió?
+<noparse></noparse>That's how houses built by witch craftsmen are.=<noparse></noparse>Así son las casas construidas por las brujas artesanas.
+<noparse></noparse>Remember what happened when you knocked down the walls at home?=<noparse></noparse>¿Recuerdas lo que pasó cuando derribaste las paredes en casa?
+<noparse></noparse>Yeah, my room became half its size.=<noparse></noparse>Sí, mi habitación se redujo a la mitad.
+<noparse></noparse>Because you destroyed the walls.=<noparse></noparse>Porque destruiste las paredes.
+<noparse></noparse>And when they were fixed, Dad's room became bigger all of a sudden.=<noparse></noparse>Y cuando se arreglaron, la habitación de papá se hizo más grande de repente.
+<noparse></noparse>Houses have feelings, too. I bet it hated you because you destroyed it.=<noparse></noparse>Las casas también tienen sentimientos.\nApuesto a que te odiaba porque la destruiste.
+<noparse></noparse>Try to get along with this house this time.=<noparse></noparse>Intenta llevarte bien con esta casa esta vez.
+<noparse></noparse>Yes, I'll be friendly to it.=<noparse></noparse>Sí, seré amigable con ella.
+<noparse></noparse>This house will like me.=<noparse></noparse>Le agradaré a esta casa.
+<noparse></noparse>Look over there. Stairs! I guess there's a second floor now.=<noparse></noparse>Mira allí.\n¡Escaleras!\nSupongo que ahora hay un segundo piso.
+<noparse></noparse>Maybe it's because the house is now bigger, but it looks rather bare.=<noparse></noparse>Tal vez sea porque la casa ahora es más grande, pero se ve bastante vacía.
+<noparse></noparse>If you'd like to get all your matching furniture in one go, you'll have to leave it to a carpenter witch.=<noparse></noparse>Si deseas que todos tus muebles combinen, tendrás que dejárselo a una bruja carpintera.
+<noparse></noparse>That's going to cost way more Luna Coins than I can afford.=<noparse></noparse>Eso costará muchas más Luna Coins de las que puedo pagar.
+<noparse></noparse>Besides, I don't think your crappy acting's going to cut it with a carpenter witch. She's not going to be as easy to deal with as Diane.=<noparse></noparse>Además, no creo que tu pésima actuación vaya a funcionar con una bruja carpintera.\nElla no será tan fácil de tratar como Diane.
+<noparse></noparse>Watch your mouth, you're the crappy one.=<noparse></noparse>Cuida tu boca, tú eres el pésimo.
+<noparse></noparse>I'll buy the furniture bit by bit... The problem is arranging them.=<noparse></noparse>Compraré los muebles poco a poco... el problema es acomodarlos.
+<noparse></noparse>Isn't the answer right in front of you?=<noparse></noparse>¿No está la respuesta justo frente a ti?
+<noparse></noparse>What? Oh, yeah! I've got the <color=#800000ff>Furnishing Clock</color>!=<noparse></noparse>¿Qué?\n¡Oh, sí!\n¡Tengo el <color=#800000ff>Reloj de Muebles</color>!
+<noparse></noparse>Back home, Mom wouldn't let me near it, now I can finally do whatever I want!=<noparse></noparse>En casa, mamá no me dejaba acercarme a él, ¡ahora finalmente puedo hacer lo que quiera!
+<noparse></noparse>Let's use it to place the <color=#800000ff>furniture Kyla gave me</color>.=<noparse></noparse>Usémoslo para colocar los <color=#800000ff>muebles que Kyla me dio</color>.
+<noparse></noparse>Let's <color=#800000ff>place</color> the furniture, then go see the second floor.=<noparse></noparse>Vamos a <color=#800000ff>colocar</color> los muebles, luego iremos a ver el segundo piso.
+You may decorate the interior of the Witch's House however you wish.\n<color=#800000>Operate the decorating bell by the entrance</color> of the Witch's House to begin decorating.=Puedes decorar el interior de la Casa de la Bruja como desees.\n<color=#800000>Toca la campana de decoración junto a la entrada</color> de la Casa de la Bruja para comenzar a decorar.
+Decorate the Witch's House=Decora la Casa de la Bruja
+<color=#ff0000>5. Tap the Furnishing Clock in the house</color>=<color=#ff0000>5. Toca el Reloj de Muebles en la casa</color>
+<color=#8C8C8C>4. Look around the first floor</color>=<color=#8C8C8C>4. Mira alrededor del primer piso</color>
+<color=#8C8C8C>3. Repair the Witch's House</color>=<color=#8C8C8C>3. Repara la Casa de la Bruja</color>
+Check out the 2nd floor.=Echa un vistazo al segundo piso.
+Rapid \ncursor movement=Movimiento rápido del cursor
+Exit Furniture Mode=Salir del Modo Muebles
+Exit Catalog=Salir del Catálogo
+2 x 1=2 x 1
+Position=Posición
+4 x 5=4 x 5
+Put In=Guardar
+Place Furniture=Colocar muebles
+Rotate=Girar
+Quick Unlock=Desbloqueo rápido
+Exit Theme Filter=Salir del Filtro de Temas
+<noparse></noparse>Let’s take a look on the second floor.=<noparse></noparse>Echemos un vistazo al segundo piso.
+<color=#ff0000>6. Look around the second floor</color>=<color=#ff0000>6. Mira alrededor del segundo piso</color>
+<noparse></noparse>Huh, the second floor is smaller than I thought.=<noparse></noparse>Huh, el segundo piso es más pequeño de lo que pensaba.
+Talk to the strange lizard.=Habla con el extraño lagarto.
+<noparse></noparse>I suppose there's still work left to do.=<noparse></noparse>Supongo que todavía queda trabajo por hacer.
+<noparse></noparse>There's nothing we can do here, then.=<noparse></noparse>No hay nada que podamos hacer aquí, entonces.
+<noparse></noparse>I think there are more rooms here, but they're blocked.=<noparse></noparse>Creo que hay más habitaciones aquí, pero están bloqueadas.
+<noparse></noparse>The second floor can be expanded once it's repaired like the first floor.=<noparse></noparse>El segundo piso se podrá ampliar una vez que se repare como el primer piso.
+<noparse></noparse>I guess I have to talk to Kyla again...=<noparse></noparse>Supongo que tengo que hablar con Kyla de nuevo...
+<noparse></noparse>Oh, Virgil, do you see that?=<noparse></noparse>Oh, Virgil, ¿ves eso?
+<noparse></noparse>There's a colorful lizard-like thing.=<noparse></noparse>Hay algo colorido que parece un lagarto.
+<noparse></noparse>I've never seen something like that before.=<noparse></noparse>Nunca antes había visto algo así.
+<noparse></noparse>Let's go check it out!=<noparse></noparse>¡Vamos a verlo!
+<color=#ff0000>7. Talk to the lizard</color>=<color=#ff0000>7. Habla con el lagarto</color>
+Small Floor Lizard=Lagarto de Piso Pequeño
+<noparse></noparse>A lizard?=<noparse></noparse>¿Un lagarto?
+Look around the workshop.=Mira alrededor del taller.
+<noparse></noparse>This isn't a magic lizard or anything like that, is it?=<noparse></noparse>Este no es un lagarto mágico ni nada de eso, ¿verdad?
+<noparse></noparse>It's possible a former witch created it or raised it.=<noparse></noparse>Es posible que una antigua bruja lo haya creado o lo haya criado.
+<noparse></noparse>Possible? Mental jaws! Mysterious firs!=<noparse></noparse>¿Posible?\n¡Mandíbulas mentales!\n¡Abetos misteriosos!
+<noparse></noparse>Are you talking?=<noparse></noparse>¿Estás hablando?
+<noparse></noparse>Talk? Incredible lakes! Noble elms!=<noparse></noparse>¿Hablar?\n¡Lagos increíbles!\n¡Olmos nobles!
+<noparse></noparse>Are you laughing?=<noparse></noparse>¿Te estás riendo?
+<noparse></noparse>Laugh? A bumpy picture! A unique pine!=<noparse></noparse>¿Reír?\n¡Un cuadro irregular!\n¡Un pino único!
+<noparse></noparse>What kind of conversation is this?=<noparse></noparse>¿Qué tipo de conversación es esta?
+<noparse></noparse>Whatever you make it out to be.=<noparse></noparse>Lo que tú creas que es.
+<noparse></noparse>I don't get it, but it sure is fascinating.=<noparse></noparse>No lo entiendo, pero definitivamente es fascinante.
+<noparse></noparse>Fascinating! Secretive food! Lovely apple trees!=<noparse></noparse>¡Fascinante!\n¡Comida secreta!\n¡Preciosos manzanos!
+Expansion of the Witch's House=Expansión de la Casa de la Bruja
+<noparse></noparse>Oh, I've got an idea! Virgil, did you get it?=<noparse></noparse>¡Oh, tengo una idea!\nVirgil, ¿lo entendiste?
+<noparse></noparse>This lizard's acting like a home spirit.=<noparse></noparse>Este lagarto actúa como un espíritu del hogar.
+<noparse></noparse>Home spirit?=<noparse></noparse>¿Espíritu del hogar?
+<noparse></noparse>As I said before, houses built by witch craftsmen are sentient.=<noparse></noparse>Como dije antes, las casas construidas por brujas artesanas tienen consciencia.
+<noparse></noparse>This house must have been built by a witch craftsman powerful enough for its mind to manifest into a concrete object.=<noparse></noparse>Esta casa debe haber sido construida por una bruja artesana lo suficientemente poderosa como para que su mente se manifieste en un objeto físico.
+<noparse></noparse>So the lizard is the manifestation of this Witch's House.=<noparse></noparse>Entonces el lagarto es la manifestación de esta Casa de la Bruja.
+<noparse></noparse>It's the spirits.=<noparse></noparse>Son los espíritus.
+<noparse></noparse>But why has it suddenly shown up?=<noparse></noparse>Pero, ¿por qué ha aparecido repentinamente?
+<noparse></noparse>I suppose it's because the house was so worn down.=<noparse></noparse>Supongo que es porque la casa estaba muy deteriorada.
+<noparse></noparse>So what about the materials I thought of?=<noparse></noparse>Entonces, ¿qué pasa con los materiales en los que pensé?
+<noparse></noparse>Just bring the materials. I think it can now fix itself.=<noparse></noparse>Solo trae los materiales.\nCreo que ahora puede arreglarse a sí misma.
+<noparse></noparse>Fix it! A full study, gloomy weeping willows!=<noparse></noparse>¡Arreglarlo!\n¡Un estudio completo, sauces llorones sombríos!
+<noparse></noparse>It's saying so.=<noparse></noparse>Eso dice.
+<noparse></noparse>How do you know?=<noparse></noparse>¿Cómo lo sabes?
+<noparse></noparse>Know! Relocation on a whim! Suspicious lime tree!=<noparse></noparse>¡Saber!\n¡Reubicación por capricho!\n¡Tilo sospechoso!
+<noparse></noparse>Seriously, how do you know it?=<noparse></noparse>En serio, ¿cómo lo sabes?
+<noparse></noparse>I think I'm getting along well with the house.=<noparse></noparse>Creo que me llevo bien con la casa.
+<noparse></noparse>But I do know how we can expand the house now.=<noparse></noparse>Pero sí sé cómo podemos expandir la casa ahora.
+<noparse></noparse>Okay, how about we check out the underground workshop again?=<noparse></noparse>De acuerdo, ¿qué tal si revisamos el taller subterráneo nuevamente?
+<noparse></noparse>I wonder what it will become!=<noparse></noparse>¡Me pregunto en qué se convertirá!
+Pick an area in the Witch's House to expand.\n2F - Left\n2F - Right\nWorkshop=Elige un área en la Casa de la Bruja para expandir.\n2P - Izquierda\n2P - Derecha\nTaller
+Expand the House=Expandir la Casa
+<noparse></noparse>Honest chestnut tree! Honest chestnut tree!=<noparse></noparse>¡Castaño honesto!\n¡Castaño honesto!
+<color=#ff0000>1. Expand the Witch's House</color>=<color=#ff0000>1. Expande la Casa de la Bruja</color>
+Thanks to repairing the Witch’s House, it can now be expanded larger than before.\r\nUse the Lizard and the Witch’s Catalog to expand the house’s space wherever you like.=Gracias a la reparación de la Casa de la Bruja, ahora se puede ampliar más que antes.\nUsa al lagarto y el Catálogo de Brujas para expandir el espacio de la casa donde quieras.
+Oak Tree Bookcase has been added to the Catalogue.=La Estantería de Roble se ha añadido al Catálogo.
+Oak Tree Chair has been added to the Catalogue.=La Silla de Roble se ha añadido al Catálogo.
+Oak Tree Cabinet has been added to the Catalogue.=El Gabinete de Roble se ha añadido al Catálogo.
+Oak Tree Bed has been added to the Catalogue.=La Cama de Roble se ha añadido al Catálogo.
+Oak Tree Desk has been added to the Catalogue.=El Escritorio de Roble se ha añadido al Catálogo.
+Oak Tree=Roble
+5 x 6=5 x 6
+4 x 2=4 x 2
+2 x 2=2 x 2
+<noparse></noparse>It's not spacious,=<noparse></noparse>No es espacioso,
+Pick up all the dropped work tools.=Recoge todas las herramientas de trabajo caídas.
+<noparse></noparse>but it's much cleaner.=<noparse></noparse>pero está mucho más limpio.
+<noparse></noparse>Now I can decorate it however I want.=<noparse></noparse>Ahora puedo decorarlo como quiera.
+<noparse></noparse>But where has all the furniture gone!?=<noparse></noparse>¡¿Pero a dónde se han ido todos los muebles?!
+<noparse></noparse>It seems to be on the floor beside you.=<noparse></noparse>Parecen estar en el suelo a tu lado.
+<noparse></noparse>I need to sort the basic tools first.=<noparse></noparse>Primero necesito ordenar las herramientas básicas.
+<color=#8C8C8C>8. Look around the workshop</color>=<color=#8C8C8C>8. Mira alrededor del taller</color>
+<color=#ff0000>9. Pick up the furniture on the storage ground</color>=<color=#ff0000>9. Recoge los muebles en el suelo de almacenamiento</color>
+Blue Thunder Workshop Workbench=Banco de Trabajo de Taller Trueno Azul
+Oak Tree Medium Storage=Almacenamiento Mediano de Roble
+Blue Thunder Workshop Extractor =Extractor de Taller Trueno Azul
+<noparse></noparse>Now, try to decorate your workshop and make it fancy.=<noparse></noparse>Ahora, trata de decorar tu taller y hacerlo elegante.
+Blue Thunder Workshop Roaster =Tostador de Taller Trueno Azul
+<noparse></noparse>The workshop is for processing and crafting, so you must consider work efficiency.=<noparse></noparse>El taller es para procesar y crear, así que debes considerar la eficiencia en el trabajo.
+<noparse></noparse>Such as your route across the workshop and space utilization.=<noparse></noparse>Como tus rutas a través del taller y la utilización del espacio.
+<noparse></noparse>That's beyond me. I just need it to look good.=<noparse></noparse>Eso está más allá de mí.\nSolo necesito que se vea bien.
+<noparse></noparse>But it seems to be too cramped...=<noparse></noparse>Pero parece estar demasiado estrecho...
+<noparse></noparse>Can't I increase the workshop size?=<noparse></noparse>¿No puedo aumentar el tamaño del taller?
+<noparse></noparse>And I didn't find that lizard I saw on the second floor in the basement.=<noparse></noparse>Y no encontré a ese lagarto que vi en el segundo piso en el sótano.
+<noparse></noparse>I don't think you can dig all the way down.=<noparse></noparse>No creo que puedas cavar hasta el fondo.
+<noparse></noparse>What do I do then? This place is way too small.=<noparse></noparse>¿Qué hago entonces?\nEste lugar es demasiado pequeño.
+<noparse></noparse>Maybe Witches' Catalogue offers that sort of service.=<noparse></noparse>Quizás el Catálogo de Brujas ofrezca ese tipo de servicio.
+<noparse></noparse>After all, you can't dig tunnels in the ground just because your workshop is too small.=<noparse></noparse>Después de todo, no puedes cavar túneles en el suelo solo porque tu taller es demasiado pequeño.
+<noparse></noparse>You need a witch-ish solution.=<noparse></noparse>Necesitas una solución de bruja.
+<noparse></noparse>Okay, after I've cleaned this place, I'll go ask Diane.=<noparse></noparse>Bien, después de limpiar este lugar, iré a preguntarle a Diane.
+<noparse></noparse>Ah, before that, pick up <color=#800000ff>the item dropped down there</color>.=<noparse></noparse>Ah, antes de eso, recoge <color=#800000ff>el objeto que se cayó allí</color>.
+Talk to Diane.=Habla con Diane.
+Broken Incubator=Incubadora Rota
+<noparse></noparse>Oh, what is this?=<noparse></noparse>Oh, ¿qué es esto?
+<noparse></noparse>Was it here before?=<noparse></noparse>¿Estaba aquí antes?
+<noparse></noparse>It has been left in the corner of the workshop, hasn't it?=<noparse></noparse>Lo han dejado en una esquina del taller, ¿no?
+<noparse></noparse>Hmm... It looks somehow familiar. Where have I seen such a thing?=<noparse></noparse>Hmm... Me resulta familiar de alguna manera.\n¿Dónde he visto algo así?
+<noparse></noparse>Ah~ Now I remember! This is an <color=#800000ff>Incubator</color>!=<noparse></noparse>¡Ah~ ahora recuerdo!\n¡Esto es una <color=#800000ff>Incubadora</color>!
+<noparse></noparse>I've seen it in Mom's workshop.=<noparse></noparse>Lo he visto en el taller de mamá.
+<noparse></noparse>Oh yeah, you broke that one and Aria kicked you out of her workshop.=<noparse></noparse>Oh, sí, rompiste esa y Aria te echó de su taller.
+<noparse></noparse>What a shame I don't know what it's for.=<noparse></noparse>Qué pena que no sé para qué sirve.
+<noparse></noparse>All that I know is its name, since Mom told Dad that "Ellie destroyed the Incubator!"=<noparse></noparse>Todo lo que sé es su nombre, ya que mamá le dijo a papá que "¡Ellie destruyó la Incubadora!"
+<noparse></noparse>This is probably the one Lisa used?=<noparse></noparse>¿Esta es probablemente la que usaba Lisa?
+<noparse></noparse>I can finally solve the problem that's been troubling me for days!=<noparse></noparse>¡Finalmente puedo resolver el problema que me ha estado molestando durante días!
+<noparse></noparse>Just turn this handle... Eyyy!=<noparse></noparse>Solo giro esta manivela... ¡Eyyy!
+<noparse></noparse>Eyyy! Huh? Why's it not moving?!=<noparse></noparse>¡Eyyy!\n¿Eh?\n¡¿Por qué no se mueve?!
+<noparse></noparse>It turns out that your second Incubator has followed the footsteps of the first.=<noparse></noparse>Resulta que tu segunda Incubadora ha seguido los pasos de la primera.
+<noparse></noparse>It hasn't! It must have been broken from the beginning!=<noparse></noparse>¡No es así!\n¡Debe haber estado rota desde el principio!
+<noparse></noparse>But I know a method that fixes everything.=<noparse></noparse>Pero conozco un método que lo arregla todo.
+<noparse></noparse>Eyyy! Taste this!=<noparse></noparse>¡Eyyy!\n¡Toma esto!
+<noparse></noparse>My, my, are you going to smash it into pieces?=<noparse></noparse>Vaya, vaya, ¿vas a hacerla pedazos?
+<noparse></noparse>Please solve problems like a civilized graduate of the School for Witches.=<noparse></noparse>Por favor, resuelve los problemas como una graduada civilizada de la Escuela de Brujas.
+<noparse></noparse>Uhh... I've seen the principal fixing tools like this, though.=<noparse></noparse>Uhh... Aunque he visto a la directora arreglar herramientas así.
+<noparse></noparse>Okay. Like a civilized person...? Hmm...=<noparse></noparse>De acuerdo.\n¿Como una persona civilizada...?\nHmm...
+<noparse></noparse>Since it's a witch tool, maybe I should just go ask <color=#800000ff>Diane</color>?=<noparse></noparse>Como es una herramienta de bruja, ¿tal vez solo debería ir a preguntarle a <color=#800000ff>Diane</color>?
+Get Incubator=Obtener Incubadora
+Show Diane the broken Incubator.=Muéstrale a Diane la Incubadora Rota.
+Let's find a way to restore the Incubator to working condition.=Encontremos una manera de restaurar la Incubadora a sus condiciones de funcionamiento.
+Ellie remembers how to use the new tool, the Incubator.\n\n\nGo talk to Diane for more details.=Ellie recuerda cómo usar la nueva herramienta, la Incubadora.\n\nVe a hablar con Diane para más detalles.
+Lv. 0=Nv. 0
+Blue Thunder Workshop Witch's Pot  has been added to the Catalogue.=La Olla de Bruja de Taller Trueno Azul se ha añadido al Catálogo.
+Oak Tree Medium Storage has been added to the Catalogue.=El Almacenamiento Mediano de Roble se ha añadido al Catálogo.
+Blue Thunder Workshop Extractor  has been added to the Catalogue.=El Extractor de Taller Trueno Azul se ha añadido al Catálogo.
+Blue Thunder Workshop Workbench has been added to the Catalogue.=El Banco de Trabajo de Taller Trueno Azul se ha añadido al Catálogo.
+Blue Thunder Workshop Roaster  has been added to the Catalogue.=El Tostador de Taller Trueno Azul se ha añadido al Catálogo.
+A tool that looks like an Incubator. It isn't working. It's probably broken.=Una herramienta que parece una Incubadora.\nNo funciona.\nProbablemente esté rota.
+Blue Thunder Workshop=Taller Trueno Azul
+6 x 2=6 x 2
+8 x 3=8 x 3
+Other=Otro
+No identical items available to transfer.=No hay artículos idénticos disponibles para transferir.
+Baked Tinkle Spider x 14=Araña Tintineante Horneada x 14
+Bush Bug Extract x 20=Extracto de Insecto de Arbusto x 20
+Smile Bubble Extract x 17=Extracto de Burbujas de Sonrisa x 17
+Splash Carrot Juice x 20=Jugo de Zanahoria Salpicadora x 20
+Sleepy Candy x 2=>o< de Sueño x 2
+Giant Branch x 16=Rama Gigante x 16
+Ritoring’s Gift x 10=Regalo de Ritoring x 10
+Silver Starbell Pollen Extract x 20=Extracto de Polen de Campanilla de Plata x 20
+Roasted Little Mandrake x 2=Mandrágora Pequeña Asada x 2
+Dried Pompom Feather x 5=Pluma de Pompom Seca x 5
+Burned Pumpkin Terrier Fur x 10=Pelaje de Terrier de Calabaza Quemado x 10
+Bluemoon Butterfly Extract x 8=Extracto de Mariposa de Luna Azul x 8
+Birdflower Water x 10=Agua de Flor de Pájaro x 10
+Roasted One Eye Frog x 11=Rana de Un Ojo Asada x 11
+Squishychub Fur Extract x 16=Extracto de Pelaje de Squishychub x 16
+Sigh Candy x 7=>o< de Suspiro x 7
+Sticky Candy x 2=>o< Pegajoso x 2
+Branch x 30=Rama x 30
+Mud x 18=Barro x 18
+Piece of Rock x 21=Pedazo de Roca x 21
+Witchflower Extract x 11=Extracto de Flor de Bruja x 11
+Maple Herb Extract x 13=Extracto de Hierba de Arce x 13
+<noparse></noparse>Diane, can the underground workshop be expanded?=<noparse></noparse>Diane, ¿se puede ampliar el taller subterráneo?
+<noparse></noparse>Sure, the Witches' Catalogue offers <color=#800000ff>workshop expansion service</color>.=<noparse></noparse>Claro, el Catálogo de Brujas ofrece el <color=#800000ff>servicio de expansión de taller</color>.
+<noparse></noparse>Witch's House expansions usually rely on the power of home spirits, though...=<noparse></noparse>Aunque las expansiones de la Casa de la Bruja generalmente dependen del poder de los espíritus del hogar...
+<noparse></noparse>If the home spirit isn't powerful enough, or the expansion is not possible due to other reasons, Witches' Catalogue will help.=<noparse></noparse>Si el espíritu del hogar no es lo suficientemente poderoso, o la expansión no es posible por otras razones, el Catálogo de Brujas ayudará.
+<noparse></noparse>That's usually the case for underground spaces.=<noparse></noparse>Ese suele ser el caso de los espacios subterráneos.
+<noparse></noparse>Yes, and it's true for the underground workshop here.=<noparse></noparse>Sí, y es cierto para el taller subterráneo aquí.
+<noparse></noparse>In this case, Witches' Catalogue will work with the home spirit to expand the place.=<noparse></noparse>En este caso, el Catálogo de Brujas trabajará con el espíritu del hogar para expandir el lugar.
+<noparse></noparse>But the materials need to be provided by the Witch House, which means you should <color=#800000ff>pay the commission and provide materials</color>.=<noparse></noparse>Pero los materiales deben ser proporcionados por la Casa de la Bruja, lo que significa que debes <color=#800000ff>pagar la comisión y proporcionar materiales</color>.
+<noparse></noparse>Now, please choose the direction you want the workshop to expand in.=<noparse></noparse>Ahora, elige la dirección en la que deseas que se expanda el taller.
+Down=Abajo
+Left=Izquierda
+Right=Derecha
+<noparse></noparse>Then the following materials are needed.=<noparse></noparse>Entonces se necesitan los siguientes materiales.
+Workshop expansion Lv.1=Expansión de Taller Nv. 1
+[Deliver]=[Entregar]
+<noparse></noparse>Let me know if you need anything.=<noparse></noparse>Avísame si necesitas algo.
+<noparse></noparse>Also, you might want to buy <color=#800000ff>better work tools</color>...=<noparse></noparse>Además, es posible que desees comprar <color=#800000ff>mejores herramientas de trabajo</color>...
+<noparse></noparse>Better work tools! I want them!=<noparse></noparse>¡Mejores herramientas de trabajo!\n¡Las quiero!
+<noparse></noparse>I'm sorry, not now.=<noparse></noparse>Lo siento, ahora no.
+<noparse></noparse>Huh... why not?=<noparse></noparse>Eh... ¿por qué no?
+<noparse></noparse>You'll be able to purchase work tools once you have the Witches' Catalogue.=<noparse></noparse>Podrás comprar herramientas de trabajo una vez que tengas el Catálogo de Brujas.
+<noparse></noparse>What? Am I not using the real Witches' Catalogue?=<noparse></noparse>¿Qué?\n¿No estoy usando el Catálogo de Brujas real?
+<noparse></noparse>The Witches' Catalogue originally refers to a physical "Catalogue", consisting of papers and a quill.=<noparse></noparse>El Catálogo de Brujas originalmente se refiere a un "Catálogo" físico, que consiste en papeles y una pluma.
+<noparse></noparse>What you're using now is the <color=#800000ff>service provided by the Witches' Catalogue</color>, abbreviated as "Witches' Catalogue".=<noparse></noparse>Lo que estás usando ahora es el <color=#800000ff>servicio proporcionado por el Catálogo de Brujas</color>, abreviado como "Catálogo de Brujas".
+<noparse></noparse>Since the real Witches' Catalogues are often in short supply...=<noparse></noparse>Dado que los verdaderos Catálogos de Brujas a menudo escasean...
+<noparse></noparse>Therefore, for new witches joining the Witch's House or when the catalogue is out of stock, the staff will provide services personally.=<noparse></noparse>Por lo tanto, para las nuevas brujas que se unen a la Casa de la Bruja o cuando el catálogo está agotado, el personal proporcionará servicios personalmente.
+<noparse></noparse>I'm here because the catalogue is constantly out of stock here.=<noparse></noparse>Estoy aquí porque el catálogo está constantemente agotado aquí.
+<noparse></noparse>So, the Witches' Catalogue staff aren't actually responsible for the services?=<noparse></noparse>Entonces, ¿el personal del Catálogo de Brujas no es realmente responsable de los servicios?
+<noparse></noparse>You're correct. The actual service provider is the "Witches' Catalogue".=<noparse></noparse>Tienes razón.\nEl proveedor de servicios real es el "Catálogo de Brujas".
+<noparse></noparse>So, when will the Witches' Catalogue be officially issued?=<noparse></noparse>Entonces, ¿cuándo se emitirá oficialmente el Catálogo de Brujas?
+<noparse></noparse>As I said, it's always in short supply...=<noparse></noparse>Como dije, siempre escasea...
+<noparse></noparse>Just be patient. I'll urge them to <color=#800000ff>replenish the stock</color>.=<noparse></noparse>Solo ten paciencia.\nLes instaré a <color=#800000ff>reponer el stock</color>.
+<noparse></noparse>Once it's ready, I'll let you know immediately.=<noparse></noparse>Una vez que esté listo, te lo haré saber de inmediato.
+Expansion of the Workshop=Expansión del Taller
+<noparse></noparse>You want to expand the workshop?=<noparse></noparse>¿Quieres expandir el taller?
+<noparse></noparse>Let me get the <color=#800000ff>Broken Incubator</color>.=<noparse></noparse>Déjame ir por la <color=#800000ff>Incubadora Rota</color>.
+<color=#ff0000>1. Talk to Diane</color>=<color=#ff0000>1. Habla con Diane</color>
+<noparse></noparse>Diane, could you check this out for me?=<noparse></noparse>Diane, ¿podrías revisar esto por mí?
+<noparse></noparse>Oh, it's an Incubator.=<noparse></noparse>Oh, es una Incubadora.
+<noparse></noparse>Wait, this is...!=<noparse></noparse>Espera, ¡esto es...!
+<noparse></noparse>This Incubator is a model that has been recalled long ago due to a fatal defect!=<noparse></noparse>¡Esta Incubadora es un modelo que fue retirado hace mucho tiempo debido a un defecto fatal!
+<noparse></noparse>Why didn't you apply to Witches' Catalogue earlier?=<noparse></noparse>¿Por qué no le solicitaste una al Catálogo de Brujas antes?
+<noparse></noparse>I'll give you a replacement at once!=<noparse></noparse>¡Te daré un reemplazo de inmediato!
+<noparse></noparse>Wow, thanks a million!=<noparse></noparse>¡Guau, un millón de gracias!
+Well... What's the fatal defect?=Bueno... ¿Cuál es el defecto fatal?
+Blue Thunder Workshop Incubator =Incubadora de Taller Trueno Azul
+<noparse></noparse>It seems that neither you nor the master witch has experienced it, Ellie.=<noparse></noparse>Parece que ni tú ni la bruja maestra lo han experimentado, Ellie.
+<noparse></noparse>Umm... Should I tell someone who hasn't experienced it about such a scary happening...=<noparse></noparse>Umm... ¿Debería contarle a alguien que no lo ha experimentado sobre algo tan aterrador...?
+<noparse></noparse>I-is it that bad...?=<noparse></noparse>¿E-es tan malo...?
+<noparse></noparse>Ellie, do you know what an Incubator is for?=<noparse></noparse>Ellie, ¿sabes para qué sirve una Incubadora?
+<noparse></noparse>Er, nope.=<noparse></noparse>Eh, no.
+<noparse></noparse>Incubator is an advanced witch tool only for witches that have mastered collecting.=<noparse></noparse>La Incubadora es una herramienta de bruja avanzada solo para brujas que han dominado la recolección.
+<noparse></noparse>If you use it, you can get <color=#800000ff>a lot of ingredients</color> out of <color=#800000ff>just a few collected items</color>.=<noparse></noparse>Si la usas, puedes obtener <color=#800000ff>muchos ingredientes</color> de <color=#800000ff>solo unos pocos artículos recolectados</color>.
+<noparse></noparse>Does that mean only veteran witches are allowed to use it while apprentice witches are not?=<noparse></noparse>¿Eso significa que solo las brujas veteranas pueden usarla, mientras que las aprendices de bruja no?
+<noparse></noparse>No! Ellie, you've got the <color=#800000ff>Encyclopedia</color> issued by the School for Witches, right?=<noparse></noparse>¡No!\nEllie, tienes la <color=#800000ff>Enciclopedia</color> emitida por la Escuela de Brujas, ¿verdad?
+<noparse></noparse>Only plants and animals with a sufficient level of <color=#800000ff>regional Encyclopedia completion</color> can be used in Incubator.=<noparse></noparse>Solo las plantas y animales con un nivel suficiente de <color=#800000ff>finalización de la Enciclopedia regional</color> se pueden usar en la Incubadora.
+<noparse></noparse>Which means, you can become skillful at using the Incubator if you work hard to complete the researches in the Encyclopedia.=<noparse></noparse>Lo cual significa que puedes volverte hábil para usar la Incubadora si trabajas duro para completar las investigaciones en la Enciclopedia.
+The Incubator is a tool that lets you obtain <color=#800000>many materials</color> from <color=#800000>a small amount of gathered items</color>. \r\nYou can use the Incubator only on flora and fauna in <color=#800000>regions with an Encyclopedia completion rate of 40% or higher</color>. \r\nYou can place <color=#800000>multiple</color> Incubators in the workshop.=La Incubadora es una herramienta que te permite obtener <color=#800000>muchos materiales</color> de <color=#800000>una pequeña cantidad de artículos recolectados</color>.\nPuedes usar la Incubadora solo en flora y fauna en <color=#800000>regiones con una tasa de finalización de Enciclopedia del 40% o más</color>.\nPuedes colocar <color=#800000>múltiples</color> Incubadoras en el taller.
+Wow, this will spare me the efforts of collecting items from the wild.=Vaya, esto me ahorrará los esfuerzos de recolectar artículos en la naturaleza.
+<noparse></noparse>Exactly. It's especially favored by witches who need to <color=#800000ff>travel a lot collecting items</color>.=<noparse></noparse>Exactamente.\nEs especialmente preferida por las brujas que necesitan <color=#800000ff>viajar mucho recolectando artículos</color>.
+<noparse></noparse>And you can place <color=#800000ff>multiple </color>Incubators in your <color=#800000ff>workshop</color>.=<noparse></noparse>Y puedes colocar <color=#800000ff>múltiples </color>Incubadoras en tu <color=#800000ff>taller</color>.
+<noparse></noparse>I'll register the new model in the <color=#800000ff>Witches' Catalogue</color> for you this time.=<noparse></noparse>Registraré el nuevo modelo en el <color=#800000ff>Catálogo de Brujas</color> para ti esta vez.
+<noparse></noparse>Wow, thank you, Diane!=<noparse></noparse>¡Guau, gracias, Diane!
+<noparse></noparse>So, what on earth is the fatal defect?=<noparse></noparse>Entonces, ¿cuál diablos es el defecto fatal?
+<noparse></noparse>Sigh... I was trying to distract you because I didn't want to talk about that scary happening.=<noparse></noparse>Suspiro... Estaba tratando de distraerte porque no quería hablar sobre ese suceso aterrador.
+<noparse></noparse>As I just said, you can get <color=#800000ff>materials</color> if you put <color=#800000ff>collected items</color> into the Incubator.=<noparse></noparse>Como acabo de decir, puedes conseguir <color=#800000ff>materiales</color> si pones <color=#800000ff>artículos recolectados</color> en la Incubadora.
+<noparse></noparse>Of course, it takes <color=#800000ff>a while</color> for it to process the items.=<noparse></noparse>Por supuesto, le toma <color=#800000ff>un rato</color> procesar los elementos.
+<noparse></noparse>But as for this Incubator model you brought...=<noparse></noparse>Pero en cuanto a este modelo de Incubadora que trajiste...
+<noparse></noparse>A witch once added collected items into it. When she went to the workshop to check it on the next day, she found...=<noparse></noparse>Una bruja una vez añadió artículos recolectados.\nCuando fue al taller para revisarla al día siguiente, encontró...
+<noparse></noparse>Found what...!=<noparse></noparse>¡Encontró qué...!
+<noparse></noparse>A full pot of salty fried food!=<noparse></noparse>¡Una olla llena de comida frita salada!
+<noparse></noparse>They say that the witch was a fried food researcher. She went into the Incubator workshop by mistake, and caused the accident.=<noparse></noparse>Dicen que la bruja era una investigadora de alimentos fritos.\nEntró en el taller de incubadoras por error y causó el accidente.
+<noparse></noparse>Huh... But a pot of fried food doesn't sound so scary.=<noparse></noparse>Huh... Pero una olla de comida frita no suena tan aterradora.
+<noparse></noparse>Just imagine materials such as Phoenix Feather fried in oil.=<noparse></noparse>Solo imagina materiales como una Pluma de Fénix frita en aceite.
+<noparse></noparse>It'd be fine if the collected items turned sweet, but anything put in that Incubator turned salty... Isn't that scary?!=<noparse></noparse>Estaría bien si los artículos recolectados se volvieran dulces, pero cualquier cosa puesta en esa Incubadora se volvía salada... ¡¿No es aterrador?!
+<noparse></noparse>I don't think that's the point...=<noparse></noparse>No creo que ese sea el punto...
+<noparse></noparse>The new Incubator won't go wrong, will it?=<noparse></noparse>La nueva Incubadora no saldrá mal, ¿verdad?
+<noparse></noparse>Ahem, sure. After all, Witches' Catalogue has strengthened supervision of product quality since then.=<noparse></noparse>Ejem, claro.\nDespués de todo, el Catálogo de Brujas ha fortalecido la supervisión de la calidad del producto desde entonces.
+<noparse></noparse>You can use it with confidence.=<noparse></noparse>Puedes usarla con confianza.
+Blue Thunder Workshop Incubator  has been added to the Catalogue.=La Incubadora de Taller Trueno Azul se ha añadido al Catálogo.
+11h 0m=11h 0m
+3 pcs=3 u.
+1 times=1 vez
+<color=#8C8C8C>10. Talk to Diane</color>=<color=#8C8C8C>10. Habla con Diane</color>
+<noparse></noparse>I don't care.=<noparse></noparse>No me importa.
+<noparse></noparse>You've never seen something similar?=<noparse></noparse>¿Nunca has visto algo similar?
+<noparse></noparse>'Tis a <color=#800000ff>key</color>.=<noparse></noparse>Es una <color=#800000ff>llave</color>.
+<noparse></noparse>Excuse me?=<noparse></noparse>¿Disculpa?
+<noparse></noparse>Older dragons are quite keen on those.=<noparse></noparse>Los dragones más antiguos les tienen bastante aprecio.
+<noparse></noparse>We have a natural preference for precious metals and stones, but some also like to collect those.=<noparse></noparse>Tenemos una preferencia natural por metales y piedras preciosas, pero a algunos también les gusta coleccionarlas.
+<noparse></noparse>They aren't valuable in and of themselves, and there usually exist <color=#800000ff>corresponding devices</color>.=<noparse></noparse>No son valiosas en sí mismas, y generalmente existen <color=#800000ff>dispositivos correspondientes</color>.
+<noparse></noparse>Seems that there was a fellow into this stuff.=<noparse></noparse>Parece que había un compañero muy metido en estas cosas.
+<noparse></noparse>Do you have any clues?=<noparse></noparse>¿Tienes alguna pista?
+<noparse></noparse>Well, let's see. Those fellows usually prefer <color=#800000ff>large trees</color> or <color=#800000ff>old caves</color>. It would do you well to search there.=<noparse></noparse>Bueno, veamos.\nEsos compañeros generalmente prefieren <color=#800000ff>árboles grandes</color> o <color=#800000ff>cuevas viejas</color>.\nTe haría bien buscar allí.
+<noparse></noparse>Oh, welcome. Are you here to look at the furniture?=<noparse></noparse>Oh, bienvenida. ¿Estás aquí para mirar los muebles?
+<noparse></noparse>I chiefly sell beds, chairs, bookcases and other <color=#800000ff>large furnishings</color>.=<noparse></noparse>Principalmente vendo camas, sillas, estanterías y otros <color=#800000ff>muebles grandes</color>.
+<noparse></noparse>And I'll sell them according to specific <color=#800000ff>themes</color>.=<noparse></noparse>Y los venderé de acuerdo con <color=#800000ff>temas</color> específicos.
+<noparse></noparse>The themes <color=#800000ff>change daily</color>, so be sure to drop in often.=<noparse></noparse>Los temas <color=#800000ff>cambian a diario</color>, así que asegúrate de visitarme a menudo.
+<noparse></noparse>Well then, be sure to come by often!=<noparse></noparse>Bueno entonces, ¡asegúrate de visitarme a menudo!
+Mischievous Child Window=Ventana de Niño Travieso
+Mischievous Child Desk=Escritorio de Niño Travieso
+Mischievous Child Sofa=Sofá de Niño Travieso
+Mischievous Child Cabinet=Gabinete de Niño Travieso
+Mischievous Child Wardrobe=Armario de Niño Travieso
+Mischievous Child Bookcase=Estantería de Niño Travieso
+Mischievous Child Bed=Cama de Niño Travieso
+A Dream Like a Fairy Tale Window=Ventana de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Desk=Escritorio de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Sofa=Sofá de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Cabinet=Gabinete de Un Sueño Como un Cuento de Hadas
+A toolkit for you to repair brooms with ease anytime and anywhere. Can only be used once.=Un kit de herramientas para que repares escobas con facilidad en cualquier momento y en cualquier lugar.\nSolo se puede usar una vez.
+A Dream Like a Fairy Tale Wardrobe=Armario de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Bookcase=Estantería de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Bed=Cama de Un Sueño Como un Cuento de Hadas
+Disposable Broom Repair Kit=Kit de Reparación de Escobas Desechable
+<noparse></noparse>Good day to you, Roy! I heard you were selling furniture too.=<noparse></noparse>¡Buen día para ti, Roy!\nEscuché que también estabas vendiendo muebles.
+<noparse></noparse>Welcome to my shop, Ellie. Yes, I'm planning to sell <color=#800000ff>potted plants</color> and other <color=#800000ff>decorative plants</color>.=<noparse></noparse>Bienvenida a mi tienda, Ellie.\nSí, estoy planeando vender <color=#800000ff>plantas en macetas</color> y otras <color=#800000ff>plantas decorativas</color>.
+<noparse></noparse>Though they may not count as furniture, plants are good decorations. Placing plants in your home can really change the atmosphere.=<noparse></noparse>Aunque puede que no cuenten como muebles, las plantas son buenas decoraciones.\nColocar plantas en tu hogar realmente puede cambiar la atmósfera.
+<noparse></noparse>The plants I sell don't have any theme. <color=#800000ff>Each single unit</color> is unique.=<noparse></noparse>Las plantas que vendo no tienen ningún tema. <color=#800000ff>Cada unidad</color> es única.
+<noparse></noparse>I'll pick the fresh plants of the day to sell and my offerings will <color=#800000ff>change daily</color>.=<noparse></noparse>Eligiré las plantas frescas del día para vender y mis ofertas <color=#800000ff>cambiarán a diario</color>.
+<noparse></noparse>I'd be very grateful if you shop here often.=<noparse></noparse>Estaría muy agradecido si compras aquí a menudo.
+<noparse></noparse>Is there anything I can get for you?=<noparse></noparse>¿Hay algo que pueda conseguir para ti?
+Succulent Potted Plant C=Planta Suculenta en Maceta C
+Is there anything I can get for you?=¿Hay algo que pueda conseguir para ti?
+Succulent Potted Plant B=Planta Suculenta en Maceta B
+Conifer Potted Plant E=Planta Conífera en Maceta E
+Cornelian Cherry Potted Plant D=Cerezo Cornejo en Maceta D
+Cactus Potted Plant C=Cactus en Maceta C
+Walnut Tree Potted Plant=Nogal en Maceta
+Thank you!=¡Gracias!
+<noparse></noparse>Oh, perfect timing. I've just had some new items delivered.=<noparse></noparse>Oh, momento perfecto.\nAcabo de recibir algunos artículos nuevos.
+<noparse></noparse>Are the new items pieces of furniture?=<noparse></noparse>¿Son muebles los artículos nuevos?
+<noparse></noparse>Looks like news really gets around a small village like this quickly.=<noparse></noparse>Parece que las noticias realmente circulan rápido por un pequeño pueblo como este.
+<noparse></noparse>I'll be bringing <color=#800000ff>rugs, wallpaper and flooring materials</color> that will be from the <color=#800000ff>same theme</color>.=<noparse></noparse>Estaré trayendo <color=#800000ff>alfombras, papel tapiz y materiales de piso</color> que serán del <color=#800000ff>mismo tema</color>.
+<noparse></noparse>I'll be selling products from <color=#800000ff>different themes daily</color>, so keep an eye out.=<noparse></noparse>Venderé productos de <color=#800000ff>diferentes temas a diario</color>, así que mantente atenta.
+<noparse></noparse>If you're lucky, you might occasionally find some <color=#800000ff>rare furnishings</color>, so be sure to come take a look often.=<noparse></noparse>Si tienes suerte, ocasionalmente podrías encontrar algunos <color=#800000ff>muebles raros</color>, así que asegúrate de venir a echar un vistazo a menudo.
+A Prosperous Day Tile*=Baldosa de Un Día Próspero*
+A Prosperous Day Small Rug*=Alfombra Pequeña de Un Día Próspero*
+A Prosperous Day Medium Rug*=Alfombra Mediana de Un Día Próspero*
+A Prosperous Day Large Rug*=Alfombra Grande de Un Día Próspero*
+A Prosperous Day *=Un Día Próspero*
+Teacher's Break Wallpaper*=Papel Tapiz de Descanso de Profesora*
+Teacher's Break Tile*=Baldosa de Descanso de Profesora*
+Teacher's Break Small Rug*=Alfombra Pequeña de Descanso de Profesora*
+Teacher's Break Medium Rug*=Alfombra Mediana de Descanso de Profesora*
+Teacher's Break Large Rug*=Alfombra Grande de Descanso de Profesora*
+Gold Bead Wallpaper=Papel Tapiz de Cuentas de Oro
+Gold Bead Tile=Baldosa de Cuentas de Oro
+Gold Bead Small Rug=Alfombra Pequeña de Cuentas de Oro
+Gold Bead Medium Rug=Alfombra Mediana de Cuentas de Oro
+Gold Bead Large Rug=Alfombra Grande de Cuentas de Oro
+Gold Bead Bird Cage=Jaula de Pájaro de Cuentas de Oro
+A Prosperous Day Wallpaper*=Papel Tapiz de Un Día Próspero*
+64.44cm=64.44 cm
+Pitch Black=Negro y Oscuro
+46.49cm=46.49 cm
+A fish as black as seafloor mud. It can blend perfectly into darkness and avoid being spotted by naked eyes.=Un pez tan negro como el fango marino.\nPuede fundirse perfectamente con la oscuridad y evitar ser visto a simple vista.
+33.36cm=33.36 cm
+67.59cm=67.59 cm
+Green Witch=Bruja Verde
+57.54cm=57.54 cm
+32.84cm=32.84 cm
+31.4cm=31.4 cm
+Fishers often get confused by its stone-like appearance. Due to not being delicious, it's no more sought after than stones.=Los pescadores a menudo se confunden por su apariencia de piedra.\nDebido a que no es delicioso, no es más codiciado que las piedras.
+A fish wearing a witch hat. It has no magic, but always manages to scare some people.=Un pez con un sombrero de bruja.\nNo tiene magia, pero siempre se las arregla para asustar a algunas personas.
+Teacher's Break Wallpaper* has been added to the Catalogue.=El Papel Tapiz de Descanso de Profesora* se ha añadido al Catálogo.
+Teacher's Break=Descanso de Profesora
+2 pcs=2 u.
+X0=X0
+<noparse></noparse>I have something to show you!=<noparse></noparse>¡Tengo algo que mostrarte!
+<noparse></noparse>Alright, I'm coming.=<noparse></noparse>Muy bien, voy.
+<noparse></noparse>Wow, what's that next to you?=<noparse></noparse>Vaya, ¿qué es eso a tu lado?
+<noparse></noparse>That's why I called you here, Ellie.=<noparse></noparse>Por eso te llamé aquí, Ellie.
+<noparse></noparse>This is the <color=#800000ff>Witches' Catalogue</color>.=<noparse></noparse>Este es el <color=#800000ff>Catálogo de Brujas</color>.
+<noparse></noparse>Finally!=<noparse></noparse>¡Finalmente!
+<noparse></noparse>From now on, you can use the Witches' Catalogue.=<noparse></noparse>A partir de ahora, puedes usar el Catálogo de Brujas.
+<noparse></noparse>It works <color=#800000ff>the same as before</color>. There's no need to worry.=<noparse></noparse>Funciona <color=#800000ff>igual que antes</color>.\nNo hay necesidad de preocuparse.
+<noparse></noparse>Got it.=<noparse></noparse>Entendido.
+<noparse></noparse>Ah, so you won't be coming anymore, Diane?=<noparse></noparse>Ah, entonces ¿ya no vendrás, Diane?
+<noparse></noparse>Not exactly.=<noparse></noparse>No exactamente.
+<noparse></noparse>I'll leave the <color=#800000ff>call bell</color> next to the mailbox, so feel free to use it whenever you need me.=<noparse></noparse>Dejaré la <color=#800000ff>Campana de Llamada</color> junto al buzón, así que siéntete libre de usarla cuando me necesites.
+You can use the <color=#800000>call bell</color> to call Diane at any time.\nDiane will return after <color=#800000>1 hour</color>.=Puedes usar la <color=#800000>Campana de Llamada</color> para llamar a Diane en cualquier momento.\nDiane regresará después de <color=#800000>1 hora</color>.
+Calling Diane=Llamando a Diane
+Can I call you anytime I want to see you?=¿Puedo llamarte en cualquier momento que quiera verte?
+<noparse></noparse>Of course! Using the call bell makes it easy to come and go, so it's no problem at all!=<noparse></noparse>¡Por supuesto!\nUsar la campana de llamada hace que sea fácil ir y venir, ¡así que no es ningún problema!
+<noparse></noparse>Hmm... But I'd prefer you not calling me too frequently.=<noparse></noparse>Hmm... Pero preferiría que no me llamaras con demasiada frecuencia.
+<noparse></noparse>Okay, got it.=<noparse></noparse>Está bien, entendido.
+<noparse></noparse>By the way, now that you have the Witches' Catalogue, you can <color=#800000ff>purchase work tools</color>.=<noparse></noparse>Por cierto, ahora que tienes el Catálogo de Brujas, puedes <color=#800000ff>comprar herramientas de trabajo</color>.
+<noparse></noparse>Work tools are also purchased from the Witches' Catalogue.=<noparse></noparse>Las herramientas de trabajo también se compran en el Catálogo de Brujas.
+<noparse></noparse>With better tools, you can hopefully enjoy a more comfortable witch life.=<noparse></noparse>Con mejores herramientas, es de esperar que puedas disfrutar de una vida de bruja más cómoda.
+<noparse></noparse>Which means I can have multiple Roasters or Witch's Pots, right?!=<noparse></noparse>Lo que significa que puedo tener múltiples Tostadores o Ollas de Bruja, ¡¿verdad?!
+<noparse></noparse>Well... not really.=<noparse></noparse>Bueno... la verdad no.
+<noparse></noparse>Tools placed in each witch's workshop must <color=#800000ff>strictly</color> adhere to the rules provided by the Witch Potion Association.=<noparse></noparse>Las herramientas colocadas en el taller de cada bruja deben adherirse <color=#800000ff>estrictamente</color> a las reglas de la Asociación de Pociones de Brujas.
+<noparse></noparse>You can only place <color=#800000ff>1</color> of each <color=#800000ff>processing tool</color> and <color=#800000ff>crafting tool</color>.=<noparse></noparse>Solo puedes colocar <color=#800000ff>1</color> de cada <color=#800000ff>herramienta de procesamiento</color> y <color=#800000ff>herramienta de creación</color>.
+<noparse></noparse>It's a matter of safety. Please do keep these rules.=<noparse></noparse>Es una cuestión de seguridad.\nPor favor, mantén estas reglas.
+<noparse></noparse>Alright...=<noparse></noparse>De acuerdo...
+<noparse></noparse>But don't worry. There's no limit to tools other than the processing and crafting tools.=<noparse></noparse>Pero no te preocupes.\nNo hay límite para herramientas que no sean las de procesamiento y creación.
+<noparse></noparse>You can arrange the storage and Incubator in the style of your choice.=<noparse></noparse>Puedes organizar el almacenamiento y la Incubadora en el estilo de tu elección.
+Some work tools have a <color=#800000>placement limit</color>, while others don't.\nYou can <color=#800000>only place 1</color> of each <color=#800000>processing tools</color> and the <color=#800000>Witch's Pot</color>.\nOn the other hand, you can <color=#800000>place an unlimited number of</color> <color=#800000>storages</color> and <color=#800000>Incubators</color>.=Algunas herramientas de trabajo tienen un <color=#800000>límite de colocación</color>, mientras que otras no.\nSolo puedes <color=#800000>colocar 1</color> de cada <color=#800000>herramienta de procesamiento</color> y de la <color=#800000>Olla de Bruja</color>.\nPor otro lado, puedes <color=#800000>colocar un número ilimitado de</color> <color=#800000>almacenamientos</color> e <color=#800000>Incubadoras</color>.
+Work tool placement limit=Límite de colocación de herramientas de trabajo
+Okay.=De acuerdo.
+<noparse></noparse>Oh, and one last thing.=<noparse></noparse>Oh, y una última cosa.
+<noparse></noparse>To encourage all the witches to <color=#800000ff>upgrade their tools</color>, Witches' Catalogue purchases second-hand tools.=<noparse></noparse>Para alentar a todas las brujas a <color=#800000ff>mejorar sus herramientas</color>, el Catálogo de Brujas compra herramientas de segunda mano.
+<noparse></noparse>If you've bought better tools, you can sell your old tools <color=#800000ff>to the Witches' Catalogue</color>.=<noparse></noparse>Si has comprado herramientas mejores, puedes vender tus herramientas antiguas <color=#800000ff>al Catálogo de Brujas</color>.
+<noparse></noparse>I should be on my way.=<noparse></noparse>Debería seguir mi camino.
+<noparse></noparse>Call me anytime you need me.=<noparse></noparse>Llámame cada vez que me necesites.
+<noparse></noparse>Okay, see you next time.=<noparse></noparse>De acuerdo, nos vemos la próxima vez.
+Congratulations, you've restored the Witch's House!=¡Felicidades, has restaurado la Casa de la Bruja!
+Kyla the Strong=Kyla la Fuerte
+Here's a small gift for you.\nDon't forget to doll up the place!=Aquí tienes un pequeño regalo de mi parte.\n¡No olvides adornar el lugar!
+Silky Embroidery Bed=Cama de Bordado Sedoso
+Silky Embroidery Cabinet=Gabinete de Bordado Sedoso
+Silky Embroidery Bookcase=Estantería de Bordado Sedoso
+Silky Embroidery Wardrobe=Armario de Bordado Sedoso
+Silky Embroidery Bed has been added to the Catalogue.=La Cama de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Bookcase has been added to the Catalogue.=La Estantería de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Wardrobe has been added to the Catalogue.=El Armario de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Cabinet has been added to the Catalogue.=El Gabinete de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Lamp=Lámpara de Bordado Sedoso
+Silky Embroidery Sofa=Sofá de Bordado Sedoso
+Silky Embroidery Medium Rug=Alfombra Mediana de Bordado Sedoso
+Silky Embroidery Embroidered Set=Conjunto Bordado Sedoso
+Silky Embroidery Lamp has been added to the Catalogue.=La Lámpara de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Embroidered Set has been added to the Catalogue.=El Conjunto Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Medium Rug has been added to the Catalogue.=La Alfombra Mediana de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Sofa has been added to the Catalogue.=El Sofá de Bordado Sedoso se ha añadido al Catálogo.
+Silky Embroidery Desk=Escritorio de Bordado Sedoso
+Silky Embroidery Desk has been added to the Catalogue.=El Escritorio de Bordado Sedoso se ha añadido al Catálogo.
+<noparse></noparse>Um... hello?=<noparse></noparse>Um... ¿hola?
+<noparse></noparse>(The pages rustle as if they were feeling happy. The quill flicked excitedly)=<noparse></noparse>(Las páginas crujen como si se sintieran felices. La pluma se mueve emocionada)
+<noparse></noparse>(A lengthy <color=#800000ff>Terms of Use for Witches' Catalogue</color> appears)=<noparse></noparse>(Aparecen unos largos <color=#800000ff>Términos de Uso del Catálogo de Brujas</color>)
+<noparse></noparse>(There's a space for signatures at the end of the terms)=<noparse></noparse>(Hay un espacio para firmas al final de los términos)
+<noparse></noparse>Just sign here?=<noparse></noparse>¿Solo firmo aquí?
+<noparse></noparse>(Ellie holds the quill, and it trembles slightly, as if feeling ticklish)=<noparse></noparse>(Ellie sostiene la pluma, y tiembla ligeramente, como si sintiera cosquillas)
+<noparse></noparse>(After signing, the terms disappear, and a greeting appears)=<noparse></noparse>(Después de firmar, los términos desaparecen y aparece un saludo)
+<noparse></noparse>Glad to make your acquaintance.=<noparse></noparse>Es un placer conocerte.
+<noparse></noparse>(The pages rustle)=<noparse></noparse>(Las páginas crujen)
+<noparse></noparse>(The quill moves as if exploring the paper, quickly passing and then stopping)=<noparse></noparse>(La pluma se mueve como si explorara el papel, pasando rápidamente y luego deteniéndose)
+Gold Bead Medium Storage*=Almacenamiento Mediano de Cuentas de Oro*
+(The Witch Association certificate flashes, and the product catalog appears)=(El certificado de la Asociación de Brujas parpadea, y aparece el catálogo de productos)
+Gold Bead Large Storage*=Almacenamiento Grande de Cuentas de Oro*
+Gold Bead Sofa*=Sofá de Cuentas de Oro*
+Gold Bead Small Rug*=Alfombra Pequeña de Cuentas de Oro*
+Gold Bead Medium Rug*=Alfombra Mediana de Cuentas de Oro*
+Gold Bead Large Rug*=Alfombra Grande de Cuentas de Oro*
+Gold Bead Potted Plant*=Planta en Maceta de Cuentas de Oro*
+Gold Bead Bird Cage*=Jaula de Pájaro de Cuentas de Oro*
+Gold Bead Cabinet*=Gabinete de Cuentas de Oro*
+Gold Bead Wardrobe*=Armario de Cuentas de Oro*
+Gold Bead Bookcase*=Estantería de Cuentas de Oro*
+Gold Bead Bed*=Cama de Cuentas de Oro*
+Bronze & Brass Roaster Lv1=Tostador de Bronce y Latón Nv. 1
+Bronze & Brass Witch's Pot Lv1=Olla de Bruja de Bronce y Latón Nv. 1
+Bronze & Brass Extractor Lv1=Extractor de Bronce y Latón Nv. 1
+Blue Thunder Workshop - Next Gen Incubator Lv1=Taller Trueno Azul - Incubadora de Próxima Generación Nv. 1
+(The quill sways left and right, and the product catalog gradually disappears)=(La pluma se balancea a izquierda y derecha, y el catálogo de productos desaparece gradualmente)
+Gold Bead Small Storage*=Almacenamiento Pequeño de Cuentas de Oro*
+Gold Bead Desk*=Escritorio de Cuentas de Oro*
+Gold Bead Tile*=Baldosa de Cuentas de Oro*
+Gold Bead Wallpaper*=Papel Tapiz de Cuentas de Oro*
+Mischievous Child Dandelion=Diente de León de Niño Travieso
+Mischievous Child Large Rug=Alfombra Grande de Niño Travieso
+Mischievous Child Medium Rug=Alfombra Mediana de Niño Travieso
+Mischievous Child Small Rug=Alfombra Pequeña de Niño Travieso
+Mischievous Child Large Storage=Almacenamiento Grande de Niño Travieso
+Mischievous Child Medium Storage=Almacenamiento Mediano de Niño Travieso
+Mischievous Child Small Storage=Almacenamiento Pequeño de Niño Travieso
+Mischievous Child Tile=Baldosa de Niño Travieso
+Mischievous Child Wooden Train=Tren de Madera de Niño Travieso
+Mischievous Child Wallpaper=Papel Tapiz de Niño Travieso
+A very basic witch’s broom commonly seen in witch society.\nIt is sturdy and can be used for a long time, and repairs are easy. However, the movement speed is slow.=Una escoba de bruja muy básica comúnmente vista en la sociedad de las brujas.\nEs resistente y se puede usar durante mucho tiempo, y las reparaciones son fáciles. Sin embargo, su velocidad de movimiento es lenta.
+(Number not entered)=(Número no ingresado)
+(The price is <sprite name=WitchMoney>220)=(El precio es <sprite name=WitchMoney>220)
+(The page sprawls out, as if feeling glad)=(La página se extiende, como si se sintiera feliz)
+(Insufficient stock)=(Stock insuficiente)
+<noparse></noparse>(The text <color=#800000ff>Ranking of Encyclopedia Research Topics Reward</color> is visible.)=<noparse></noparse>(El texto <color=#800000ff>Recompensa de Clasificación de Temas de Investigación de Enciclopedia</color> es visible.)
+<noparse></noparse>(The quill pen moves busily as if excited.)=<noparse></noparse>(La pluma se mueve ocupada como si estuviera emocionada.)
+Maple Herb Picture Frame=Marco de Imagen de Hierba de Arce
+(The quill pen seems to be looking through other pages.)=(La pluma parece estar mirando a través de otras páginas.)
+<noparse></noparse>(The quill pen sways as if feeling disappointed.)=<noparse></noparse>(La pluma se balancea como si se sintiera decepcionada.)
+<noparse></noparse>(The quill sways left and right)=<noparse></noparse>(La pluma se balancea a izquierda y derecha)
+Silky Embroidery=Bordado Sedoso
+Unable to place the object here.=No se puede colocar el objeto aquí.
+12 x 10=12 x 10
+Maple Herb Picture Frame has been added to the Catalogue.=El Marco de Imagen de Hierba de Arce se ha añadido al Catálogo.
+Mischievous Child Medium Storage has been added to the Catalogue.=El Almacenamiento Mediano de Niño Travieso se ha añadido al Catálogo.
+Mischievous Child=Niño Travieso
+A one-way ticket used to get back to the Witch's House from anywhere.=Un boleto de ida utilizado para volver a la Casa de la Bruja desde cualquier lugar.
+1h 40m=1h 40m
+1/1 times=1/1 veces
+Hold to Cancel=Mantén para cancelar
+<noparse></noparse>Ellie, you want to trade with <color=#800000ff>Ordinary collected item</color>?=<noparse></noparse>Ellie, ¿quieres intercambiar con <color=#800000ff>un artículo recolectado ordinario</color>?
+39.11cm=39.11 cm
+23.42cm=23.42 cm
+27.85cm=27.85 cm
+18.73cm=18.73 cm
+92.41cm=92.41 cm
+Broom Monkfish=Rape Escoba
+143.77cm=143.77 cm
+It has a broom-like horn on its head, and uses the horn to dig up hidden food.=Tiene un cuerno parecido a una escoba en la cabeza, y usa el cuerno para desenterrar comida oculta.
+108.38cm=108.38 cm
+Mango=Mango
+<noparse></noparse>Give 3 <color=#800000ff>Blind Fish</color> to Freddie?=<noparse></noparse>¿Dar 3 <color=#800000ff>Peces Ciegos</color> a Freddie?
+<noparse></noparse>Freddie, I got you 3 <color=#800000ff>Blind Fish</color>. Can you cook now?=<noparse></noparse>Freddie, te traje 3 <color=#800000ff>Peces Ciegos</color>. ¿Puedes cocinar ahora?
+<noparse></noparse>Yup, I can get to it at once, since I've got all the other ingredients.=<noparse></noparse>Sip, puedo ponerme a ello de inmediato, ya que tengo todos los demás ingredientes.
+<noparse></noparse>I can't wait! A <color=#800000ff>Blind Fish</color> dish!=<noparse></noparse>¡No puedo esperar! ¡Un plato de <color=#800000ff>Pez Ciego</color>!
+<noparse></noparse>Well, don't be too positive... I'm not a great cook.=<noparse></noparse>Bueno, no seas demasiado positiva... No soy un gran cocinero.
+<noparse></noparse>It's okay. =<noparse></noparse>Está bien. 
+<noparse></noparse>It'd be the best if you succeed, but you can always practice more if you fail.=<noparse></noparse>Sería lo mejor si tienes éxito, pero siempre puedes practicar más si fallas.
+<noparse></noparse>You're such an optimist.=<noparse></noparse>Eres tan optimista.
+<noparse></noparse>So I am, now that I've found out that both Freddie and cats like fish.=<noparse></noparse>Así soy, ahora que he descubierto que tanto a Freddie como a los gatos les gusta el pescado.
+<noparse></noparse>Speaking of which, I still don't get it...\r=<noparse></noparse>Hablando de lo cual, todavía no lo entiendo...\r
+<noparse></noparse>Why must you feed fish to cats?=<noparse></noparse>¿Por qué debes alimentar a los gatos con pescado?
+<noparse></noparse>Well... because they like to eat fish?=<noparse></noparse>Bueno... ¿porque les gusta comer pescado?
+<noparse></noparse>If they like to eat fish, they will like a person who feeds them fish. That way, we will be friends!=<noparse></noparse>Si les gusta comer pescado, les gustará la persona que los alimente con pescado. ¡De esa manera seremos amigos!
+<noparse></noparse>To feed them fish, you just need to leave the fish on the ground. They'll help themselves.\r=<noparse></noparse>Para alimentarlos con pescado, solo necesitas dejar el pescado en el suelo. Se servirán ellos mismos.\r
+<noparse></noparse>That will work, but... I also want them to know that the fish are the fruit of my hard work.=<noparse></noparse>Eso funcionará, pero... también quiero que sepan que los pescados son el fruto de mi arduo trabajo.
+<noparse></noparse>I wonder where you get all these strange ideas.\r=<noparse></noparse>Me pregunto de dónde sacas todas estas extrañas ideas.\r
+<noparse></noparse>I never want to make friends with cats.=<noparse></noparse>Yo nunca quiero hacerme amigo de los gatos.
+<noparse></noparse>Anyway, is that all you want to say to me?=<noparse></noparse>De todos modos, ¿eso es todo lo que quieres decirme?
+<noparse></noparse>Well... for now, yes.=<noparse></noparse>Bueno... por ahora, sí.
+<noparse></noparse>On your way then.=<noparse></noparse>Sigue tu camino entonces.
+<noparse></noparse>Oh... since you got me fish... you can have this.=<noparse></noparse>Oh... ya que me trajiste pescado... puedes tener esto.
+<noparse></noparse>Haha, thanks. I'll think about how to feed the fish to them.=<noparse></noparse>Jaja, gracias. Pensaré en cómo darles el pescado de comer.
+Ask Aurea if she's selling any cat food bowl.=Pregúntale a Aurea si vende algún plato de comida para gatos.
+<noparse></noparse>What do you think, Virgil? Shall I feed them fish the way I fed them apples?\r=<noparse></noparse>¿Qué piensas, Virgil? ¿Debería darles pescado de la misma forma en que les di las manzanas?\r
+<noparse></noparse>Cats wouldn't mind if I place it on the ground, just like if I throw it to them, right?=<noparse></noparse>A los gatos no les importaría si lo coloco en el suelo, tanto como si se los arrojo, ¿verdad?
+<noparse></noparse>Like you said, they will enjoy it even if you simply throw it to them.=<noparse></noparse>Como dijiste, lo disfrutarán incluso si simplemente se los arrojas.
+<noparse></noparse>But you want them to know the fish is from you.=<noparse></noparse>Pero quieres que sepan que el pescado es tuyo.
+<noparse></noparse>Right, I'm doing this because I want to be their friend.=<noparse></noparse>Correcto, estoy haciendo esto porque quiero ser su amiga.
+<noparse></noparse>In that case, you should somehow let the cats know that you are the one providing the fish.=<noparse></noparse>En ese caso, de alguna manera deberías informar a los gatos que tú eres quien proporciona el pescado.
+<noparse></noparse>Indeed. They will be more willing to befriend me if they know I'm making the efforts to prepare them food.=<noparse></noparse>En efecto. Estarán más dispuestos a hacerse amigos míos si saben que me estoy esforzando en prepararles comida.
+<noparse></noparse>Remember what Freddie said about some cats staring at <color=#800000ff>Blind Fish</color> only?=<noparse></noparse>¿Recuerdas lo que dijo Freddie sobre algunos gatos que solo miraban a los <color=#800000ff>Peces Ciegos</color>?
+<noparse></noparse>Uh-huh.=<noparse></noparse>Ajá.
+<noparse></noparse>That means... cats also have <color=#800000ff>preferences</color>!=<noparse></noparse>¡Eso significa que... los gatos también tienen <color=#800000ff>preferencias</color>!
+<noparse></noparse>So, if I get them their favorite fish...=<noparse></noparse>Entonces, si les consigo su pez favorito...
+<noparse></noparse>They'll be impressed by your sincerity?=<noparse></noparse>¿Estarán impresionados por tu sinceridad?
+<noparse></noparse>All the more reason to fish hard now.\r=<noparse></noparse>Con más razón para pescar duro ahora.\r
+<noparse></noparse>Well that's a good effect.=<noparse></noparse>Bueno, ese es un buen efecto.
+<noparse></noparse>I suppose... the cats will come over if I fill the bowl with fish they like?=<noparse></noparse>Supongo que... ¿los gatos se acercarán si lleno el plato con pescados que les gusten?
+<noparse></noparse>There should be some rules, so that the cats will know the fish are from you.=<noparse></noparse>Debería haber algunas reglas, para que los gatos sepan que los pescados son tuyos.
+<noparse></noparse>Nothing will bring us closer then familiarity.=<noparse></noparse>Nada nos acercará más que la familiaridad.
+<noparse></noparse>Right. And I need to always place the fish at a same spot, so that the cats will remember it.=<noparse></noparse>Correcto. Y siempre necesito colocar el pescado en un mismo lugar, para que los gatos lo recuerden.
+<noparse></noparse>I must sincerely place the fish on... a box or something!=<noparse></noparse>Debo colocar sinceramente el pescado en... ¡una caja o algo así!
+<noparse></noparse>Wouldn't a bowl be better than a box? It'll look more decent too.=<noparse></noparse>¿No sería mejor un plato que una caja? También se verá más decente.
+<noparse></noparse>Yeah, that's the something I was trying to say.=<noparse></noparse>Sí, eso es a lo que me refería con "algo así".
+<noparse></noparse>But where can I get a <color=#800000ff>bowl for cats</color>?=<noparse></noparse>Pero, ¿dónde puedo conseguir un <color=#800000ff>plato para gatos</color>?
+<noparse></noparse>There doesn't seem to be any bowl to spare at the Witch's House.=<noparse></noparse>No parece haber ningún plato de sobra en la Casa de la Bruja.
+<noparse></noparse>Maybe you can look around the village.=<noparse></noparse>Tal vez puedas mirar por el pueblo.
+<noparse></noparse>Shall I go to Aurea?=<noparse></noparse>¿Debería ir a ver a Aurea?
+<noparse></noparse>As a grocer, she may sell cat food bowls.=<noparse></noparse>Como vendedora, puede que ella venda platos de comida para gatos.
+<noparse></noparse>What are you waiting for then?=<noparse></noparse>¿A qué estás esperando entonces?
+<noparse></noparse>Just show me your ability of jumping into action.\r=<noparse></noparse>Solo muéstrame tu habilidad de entrar en acción.\r
+<noparse></noparse>Hahaha, that's what I plan.=<noparse></noparse>Jajaja, eso es lo que planeo.
+<color=#ff0000>3. Ask Aurea</color>=<color=#ff0000>3. Pregúntale a Aurea</color>
+<noparse></noparse>Aurea, do you have any <color=#800000ff>cat food bowls</color> for sale?=<noparse></noparse>Aurea, ¿tienes algún <color=#800000ff>plato de comida para gatos</color> a la venta?
+Talk to Enite about where to place the Cat Food Bowl.=Habla con Enite sobre dónde colocar el Plato de Comida para Gatos.
+<noparse></noparse>Cat... food bowls?=<noparse></noparse>¿Platos de comida... para gatos?
+<noparse></noparse>That's right. I'll take one if you have any.=<noparse></noparse>Así es. Me llevaré uno si tienes.
+<noparse></noparse>People do come to me for bowls often... but I never had any bowls for cat in stock.\r=<noparse></noparse>La gente viene a mí por platos a menudo... pero nunca he tenido platos para gatos en stock.\r
+<noparse></noparse>Really? That's unexpected.=<noparse></noparse>¿En serio? Eso es inesperado.
+<noparse></noparse>Is it? I don't think anyone will buy them.=<noparse></noparse>¿Lo es? No creo que nadie los compre.
+<noparse></noparse>No demand, no supply, haha.=<noparse></noparse>Sin demanda no hay oferta, jaja.
+<noparse></noparse>That's a shame, because I want one badly.=<noparse></noparse>Es una pena, porque realmente quiero uno.
+<noparse></noparse>Why do you want a cat bowl all of a sudden?=<noparse></noparse>¿Por qué quieres un plato para gatos de repente?
+<noparse></noparse>Well, because I want to make friends with the village cats.=<noparse></noparse>Bueno, porque quiero hacerme amiga de los gatos del pueblo.
+<noparse></noparse>I want a bowl to feed them fish with. I guess they'll come to me if they know the fish is from me.=<noparse></noparse>Quiero un plato para alimentarlos con pescado. Supongo que vendrán hacia mí si saben que el pescado es mío.
+<noparse></noparse>Hmm... Offer cats food repeatedly to form a friendly relationship.=<noparse></noparse>Hmm... Ofrecer comida a los gatos repetidamente para formar una relación amistosa.
+<noparse></noparse>That's a good idea.=<noparse></noparse>Es una buena idea.
+<noparse></noparse>You think so?=<noparse></noparse>¿Tú crees?
+<noparse></noparse>I didn't expect you to want a cat bowl, but... Okay, it's decided.=<noparse></noparse>No esperaba que quisieras un plato para gatos, pero... Bien, está decidido.
+<noparse></noparse>I've got a bowl here that I don't know what to do with. Would you like to use it for feeding the cats?=<noparse></noparse>Tengo un plato aquí con el que no sé qué hacer. ¿Te gustaría usarlo para alimentar a los gatos?
+<noparse></noparse>It's too small for humans, but just the right size for cats.=<noparse></noparse>Es demasiado pequeño para los humanos, pero del tamaño adecuado para los gatos.
+<noparse></noparse>Woah! Great!=<noparse></noparse>¡Vaya! ¡Genial!
+<noparse></noparse>You can have it for 30 Gold Coins. Deal?=<noparse></noparse>Puedes llevártelo por 30 Monedas de Oro. ¿Trato?
+<noparse></noparse>30 Gold Coins?=<noparse></noparse>¿30 Monedas de Oro?
+<noparse></noparse>It's of top-class quality and very enduring, as long as you find what to do with it.=<noparse></noparse>Es de primerísima calidad y muy duradero, siempre que le encuentres un uso.
+<noparse></noparse>And I'm giving you a discount because it's been eight years since I last dealt with such bowls.\r=<noparse></noparse>Y te daré un descuento porque han pasado ocho años desde la última vez que traté con platos así.\r
+<noparse></noparse>What do you say, Ellie?=<noparse></noparse>¿Qué dices, Ellie?
+<noparse></noparse>Sounds like a good deal. I'll take it!=<noparse></noparse>Suena a un buen trato. ¡Me lo llevo!
+<noparse></noparse>Good. I'll add it to the catalogue then. You can buy it anytime.\r=<noparse></noparse>Bien. Lo añadiré al catálogo entonces. Puedes comprarlo en cualquier momento.\r
+<noparse></noparse>Thank you, Aurea.=<noparse></noparse>Gracias, Aurea.
+<noparse></noparse>Haha, I should be the one saying thanks.=<noparse></noparse>Jaja, yo debería ser la que dé las gracias.
+<noparse></noparse>Now, where should I put this bowl?=<noparse></noparse>Ahora, ¿dónde debería poner este plato?
+<noparse></noparse>I'd like to put it in the village, but I should ask for permission first.=<noparse></noparse>Me gustaría ponerlo en el pueblo, pero primero debería pedir permiso.
+<noparse></noparse>Dear me, you're actually being prudent. That's not very you.=<noparse></noparse>Cielos, en realidad estás siendo prudente. Eso no es muy propio de ti.
+<noparse></noparse>Well, it struck me when I was talking to Aurea.=<noparse></noparse>Bueno, se me ocurrió cuando estaba hablando con Aurea.
+<noparse></noparse>That makes more sense.=<noparse></noparse>Eso tiene más sentido.
+<noparse></noparse>I suppose I should ask someone in charge of the village, say, Enite?=<noparse></noparse>Supongo que debería preguntarle a alguien a cargo del pueblo, digamos, ¿a Enite?
+<noparse></noparse>I'll take the bowl and go ask Enite.=<noparse></noparse>Llevaré el plato e iré a preguntarle a Enite.
+<color=#ff0000>4. Get Enite's approval</color>=<color=#ff0000>4. Obtén la aprobación de Enite</color>
+A Dream Like a Fairy Tale Large Rug=Alfombra Grande de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Medium Rug=Alfombra Mediana de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Small Rug=Alfombra Pequeña de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Tile=Baldosa de Un Sueño Como un Cuento de Hadas
+A Dream Like a Fairy Tale Wallpaper=Papel Tapiz de Un Sueño Como un Cuento de Hadas
+Simple Rock Wine Bottle Set=Set de Botellas de Vino de Roca Simple
+Simple Rock Lamp=Lámpara de Roca Simple
