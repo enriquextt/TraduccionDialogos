@@ -4,14 +4,16 @@ Luego de ser generadas por el AutoTranslator, las traducciones han sido revisada
 
 https://github.com/bbepis/XUnity.AutoTranslator
 
+Se utilizó la versión XUnity.AutoTranslator-ReiPatcher-5.4.5
+
 ## Little Witch in the Woods
 Debido al espacio limitado en la interfaz del juego:
 - se ha aplicado el reemplazo de la palabra `dulce` por `>o<` en los nombres de los dulces/caramelos
 - se ha aplicado el reemplazo de la frase `Entrega de dulces` por `>o<` en las listas de solicitudes de entrega de dulces
 
-Se ha revisado y agregado el 19% de la traducción generada por el juego.
+Se ha revisado y agregado el 22.3% de la traducción generada por el juego.
 
-[████░░░░░░░░░░░░░░░░░░░░] 19.43%
+[████░░░░░░░░░░░░░░░░] 22.3%
 
 ### Ruta del archivo principal
 ```
