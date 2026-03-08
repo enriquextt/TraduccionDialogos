@@ -110,9 +110,9 @@ Hold to Incubate=Sostenga para incubar
 <noparse></noparse>We searched the whole school save for that place, but we never found the <color\=#800000ff>carrot</color>. =<noparse></noparse>Buscamos por toda la escuela, salvo ese lugar, pero nunca encontramos la <color\=#800000ff>zanahoria</color>. 
 <noparse></noparse>That means the carrot was in the <color\=#800000ff>men's restroom</color>!=<noparse></noparse>Eso significa que la zanahoria estaba en el <color\=#800000ff>baño para hombres</color>!
 <noparse></noparse>A carrot in the men's restroom? What an odd sense of humor...=<noparse></noparse>¿Una zanahoria en el baño de hombres?\nQué extraño sentido del humor ...
-<noparse></noparse>I should write Jenny a letter asking her to look through the men's restroom.=<noparse></noparse>Debería escribirle a Jenny una carta pidiéndole que mirara a través del baño de hombres.
+<noparse></noparse>I should write Jenny a letter asking her to look through the men's restroom.=<noparse></noparse>Debería escribirle a Jenny una carta pidiéndole que busque en el baño de hombres.
 <noparse></noparse>Can't you ask Will instead? It's the men's restroom after all.=<noparse></noparse>¿No puedes preguntar a Will?\nDespués de todo, es el baño de hombres.
-<noparse></noparse>Nope. That coward finds it, he’ll take it to the professor bawling, like before.=<noparse></noparse>No.\nEse cobarde lo encuentra, se lo llevará al profesor que se burla, como antes.
+<noparse></noparse>Nope. That coward finds it, he’ll take it to the professor bawling, like before.=<noparse></noparse>No.\nSi ese cobarde la encuentra, se la llevará al profesor quejándose., como antes.
 <noparse></noparse>Keep in mind that if it weren't for Will, you'd be in jail right now, instead of on a train.=<noparse></noparse>Ten en cuenta que si no fuera por Will, estarías en la cárcel en este momento, en lugar de en un tren.
 <noparse></noparse>Or six feet under.=<noparse></noparse>O 3 metros bajo tierra.
 <noparse></noparse>... Ugh. I'm so bored!=<noparse></noparse>... Puaj.\n¡Estoy tan aburrido!
@@ -124,9 +124,9 @@ Hold to Incubate=Sostenga para incubar
 <noparse></noparse>Whatever! I don't care about any of that!=<noparse></noparse>¡Lo que sea!\n¡No me importa nada de eso!
 <noparse></noparse>How did I become <color\=#800000ff>magna cum laude</color> anyway? I even sneaked into the forbidden principal's office twice!=<noparse></noparse>Como me volví <color\=#800000ff>magna cum laude</color> de todos modos?\n¡Incluso me metí en la oficina prohibida del director dos veces!
 <noparse></noparse>Three times.=<noparse></noparse>Tres veces.
-<noparse></noparse>And I looked through the forbidden books in the hidden library in the school basement!=<noparse></noparse>¡Y miré a través de los libros prohibidos en la biblioteca oculta en el sótano de la escuela!
+<noparse></noparse>And I looked through the forbidden books in the hidden library in the school basement!=<noparse></noparse>¡Y busqué los libros prohibidos en la biblioteca oculta en el sótano de la escuela!
 <noparse></noparse>I still remember that horned rabbit that was as big as a house.=<noparse></noparse>Todavía recuerdo que el conejo con cuernos que era tan grande como una casa.
-<noparse></noparse>No wonder Will started crying.=<noparse></noparse>No es de extrañar que Will comensara llorar.
+<noparse></noparse>No wonder Will started crying.=<noparse></noparse>No es de extrañar que Will comensara gritar.
 <noparse></noparse>So how on earth did I manage <color\=#800000ff>magna cum laude</color>!?=<noparse></noparse>Entonces, ¿cómo diablos logré ser <color\=#800000ff>magna cum laude</color>!?
 <noparse></noparse>I simply didn't want to lose!=<noparse></noparse>¡Simplemente no quería perder!
 <noparse></noparse>Cut it out and sit quietly. This is a <color\=#800000ff>train only for those who want to succeed</color>.=<noparse></noparse>Deja el tema y siéntate en silencio.\nEste es un <color\=#800000ff>tren solo para aquellos que quieren tener éxito</color>.
@@ -137,9 +137,9 @@ Hold to Incubate=Sostenga para incubar
 <noparse></noparse>I won't! I won't fool around the moment I get there!=<noparse></noparse>¡No lo haré!\n¡No engañaré en el momento en que llegue allí!
 <noparse></noparse>I didn't know you had self-control.=<noparse></noparse>No sabía que tenías autocontrol.
 <noparse></noparse>Don't you know about the <color\=#800000ff>terrible city of rules</color> that is Highlion?=<noparse></noparse>¿No sabes sobre la <color\=#800000ff>terrible ciudad de reglas</color> que es Highlion?
-<noparse></noparse>The first thing to do here is to take your shoes off as soon as you get off the train.=<noparse></noparse>Lo primero que debe hacer aquí es quitarse los zapatos tan pronto como salga del tren.
+<noparse></noparse>The first thing to do here is to take your shoes off as soon as you get off the train.=<noparse></noparse>Lo primero que debe hacer aquí es quitarte los zapatos tan pronto como salgas del tren.
 <noparse></noparse>This is my first time hearing something like that.=<noparse></noparse>Esta es la primera vez que escucho algo así.
-<noparse></noparse>I heard that Jenny's older sister was wearing <color\=#800000ff>tall lace-up boots</color> when she first arrived at Highlion.=<noparse></noparse>Escuché que la hermana mayor de Jenny estaba usando <color\=#800000ff>botas de cordones altos</color> Cuando llegó por primera vez a Highlion.
+<noparse></noparse>I heard that Jenny's older sister was wearing <color\=#800000ff>tall lace-up boots</color> when she first arrived at Highlion.=<noparse></noparse>Escuché que la hermana mayor de Jenny estaba usando <color\=#800000ff>botas de cordones altos</color> cuando llegó por primera vez a Highlion.
 <noparse></noparse>So she almost couldn't get off because she was busy untying the boots.=<noparse></noparse>Así que casi no pudo salir porque estaba ocupada quitandose las botas.
 <noparse></noparse>See! Mom bought me new shoes as well!=<noparse></noparse>¡Ver!\n¡Mamá también me compró zapatos nuevos!
 <noparse></noparse>Didn't Aria just mean to encourage you?=<noparse></noparse>¿Aria no quiso alentarte?
@@ -241,7 +241,7 @@ Contents=Contenido
 Story Progress=Progreso de la historia
 Objectives=Objetivos
 Quest Rewards=Recompensas de misiones
-It's said that passengers arriving by train to Highlion must take off their shoes when disembarking.\n\n\nHear what others say, then decide whether or not to follow the tradition.=Se dice que los pasajeros que llegan en tren a Highlion deben quitarse los zapatos al desembarcar.\n\n\n\nEscuche lo que otros dicen, luego decida si seguir o no la tradición.
+It's said that passengers arriving by train to Highlion must take off their shoes when disembarking.\n\n\nHear what others say, then decide whether or not to follow the tradition.=Se dice que los pasajeros que llegan en tren a Highlion deben quitarse los zapatos al desembarcar.\n\nEscuche lo que otros dicen, luego decida si seguir o no la tradición.
 <color\=#ff0000>1. Talk to people</color>=<color\=#ff0000>1. Habla con la gente</color>
 Change Category=Cambiar categoría
 In Progress=En curso
@@ -374,11 +374,11 @@ Return to your seat and wait until you arrive.=Vuelve a tu asiento y espera hast
 <noparse></noparse>The train cannot continue its journey due to a <color\=#800000ff>critical issue</color>...=<noparse></noparse>El tren no puede continuar su viaje debido a un <color\=#800000ff>problema crítico</color>...
 <noparse></noparse>Attention. The train will stop until <color\=#800000ff>tomorrow morning</color>, and the departure time...=<noparse></noparse>Atención.\nEl tren se detendrá hasta <color\=#800000ff>mañana por la mañana</color>, y la hora de salida ...
 <noparse></noparse>Can we go outside?=<noparse></noparse>¿Podemos salir?
-<noparse></noparse>...will likely be announced tomorrow. We will depart immediately if possible...=<noparse></noparse>... probablemente se anunciará mañana.\nDejaremos inmediatamente si es posible ...
-<noparse></noparse>Okay, I'll be back in a bit!=<noparse></noparse>Está bien, ¡volveré un poco!
+<noparse></noparse>...will likely be announced tomorrow. We will depart immediately if possible...=<noparse></noparse>... probablemente se anunciará mañana.\Partiremos inmediatamente si es posible ...
+<noparse></noparse>Okay, I'll be back in a bit!=<noparse></noparse>Está bien, ¡Volveré enseguida!
 <noparse></noparse>In the meantime, please avoid wandering too far from the train...=<noparse></noparse>Mientras tanto, evite deambular demasiado lejos del tren ...
 <noparse></noparse>Let's go!=<noparse></noparse>¡Vamos!
-<noparse></noparse>Of course I remember! The shining tree is at the <color\=#800000ff>peak</color>.=<noparse></noparse>¡Por supuesto que recuerdo!\nEl árbol brillante está en la <color\=#800000ff>cima</color>.
+<noparse></noparse>Of course I remember! The shining tree is at the <color\=#800000ff>peak</color>.=<noparse></noparse>¡Por supuesto que lo recuerdo!\nEl árbol brillante está en la <color\=#800000ff>cima</color>.
 <noparse></noparse>No, not that.=<noparse></noparse>No, no eso.
 <noparse></noparse>Then we should get going!=<noparse></noparse>¡Entonces deberíamos ponernos en marcha!
 Search for the shining tree seen from the train.=Busque el árbol brillante visto desde el tren.
@@ -479,7 +479,7 @@ Use 'Hanging Vine Seed'=Use 'semilla de vid colgante'
 Green Forest Plateau=Meseta del bosque verde
 <noparse></noparse>You're yelling because you hate it, right?=<noparse></noparse>Estás gritando porque lo odias, ¿verdad?
 <noparse></noparse>I always hated mountains.=<noparse></noparse>Siempre odiaba las montañas.
-<noparse></noparse>My leather gets worn out from all the wind.=<noparse></noparse>Mi cuero se usa de todo el viento.
+<noparse></noparse>My leather gets worn out from all the wind.=<noparse></noparse>Mi cuero se desgasta con todo el viento.
 You don’t have the right chalk.=No tienes la tiza adecuada.
 <noparse></noparse>It's too dark and worn down for me to see anything.=<noparse></noparse>Es demasiado oscuro y desgastado para ver cualquier cosa.
 <noparse></noparse>I don't see any words. Only pictures...=<noparse></noparse>No veo ninguna palabra.\nSolo dibujos...
@@ -556,7 +556,7 @@ Bluemoon Butterfly=Mariposa de Luna Azul
 Register to Encyclopedia=Regístrese en la enciclopedia
 Once a subject has been drawn with the Quill, it cannot be drawn again.=Una vez que se ha dibujado un sujeto con la pluma, no se puede dibujar nuevamente.
 Press to continue.=Presione para continuar.
-There's <color\=#800000>a cooldown</color> before you can use the quill on <color\=#800000>something of this type</color> again.=Hay <color\=#800000>una espera</color> Antes de que pueda usar la pluma en <color\=#800000>algo de este tipo</color> de nuevo.
+There's <color\=#800000>a cooldown</color> before you can use the quill on <color\=#800000>something of this type</color> again.=Hay <color\=#800000>una espera</color> antes de que pueda usar la pluma en <color\=#800000>algo de este tipo</color> de nuevo.
 Select Encyclopedia=Seleccionar Enciclopedia
 Open theme page=Abrir página del tema
 Turn Page=Pasar página
@@ -887,7 +887,7 @@ How to get rid of them? Move around the forest.=¿Cómo deshacerse de ellos?\nMu
 A Way to Get Rid of the Giant Prickly Vines=Una forma de deshacerse de las vides espinosas gigantes
 0-7. A Way to Get Rid of the Giant Prickly Vines=0-7.\nUna forma de deshacerse de las vides espinosas gigantes
 <color\=#ff0000>1. Find a way to remove the giant prickly vines</color>=<color\=#ff0000>1. Encuentra una manera de eliminar las vides espinosas gigantes</color>
-A giant prickly vine blocks the village entrance.\n\n\nFind a way to clear the giant prickly vine.=Una vid espinosa gigante bloquea la entrada de la aldea.\n\n\n\nEncuentra una manera de eliminar la vid gigante.
+A giant prickly vine blocks the village entrance.\n\n\nFind a way to clear the giant prickly vine.=Una vid espinosa gigante bloquea la entrada de la aldea.\n\nEncuentra una manera de eliminar la vid gigante.
 Go to workplace=Ir al lugar de trabajo
 Witch’s Workplace=Lugar de trabajo de la bruja
 Go to Witch's House=Ir a la casa de la bruja
@@ -1049,7 +1049,7 @@ Thanks to the atlas Aurea gave us, we can now collect maps.\r\nLet’s travel ar
 Ink on the "Pumpkin Terrier" page isn't dry yet.=La tinta en la página "Pumpkin Terrier" aún no está seca.
 <noparse></noparse>Okay, I've put this down on the map too.=<noparse></noparse>De acuerdo, también he dejado esto en el mapa.
 Fill the Green Forest atlas.\r\n\r\nGreen Forest Waterfall\r\n\r\n=Llena el Atlas del Bosque Verde.\n\r\n\r\nCascada del Bosque Verde\r\n\r\n
-To craft the required potion, you must first repair the Extractor.\n\n\nFind a way to replace the broken glass bottle so the Extractor can function properly.=Para elaborar la poción requerida, primero debes reparar el Extractor.\n\n\n\nEncuentra una manera de reemplazar la botella de vidrio rota para que el Extractor pueda funcionar correctamente.
+To craft the required potion, you must first repair the Extractor.\n\n\nFind a way to replace the broken glass bottle so the Extractor can function properly.=Para elaborar la poción requerida, primero debes reparar el Extractor.\n\nEncuentra una manera de reemplazar la botella de vidrio rota para que el Extractor pueda funcionar correctamente.
 <color\=#8C8C8C>2. Obtain the glass bottle for the Extractor</color>=<color\=#8C8C8C>2. Obtenga la botella de vidrio para el extractor</color>
 <color\=#ff0000>3. Repair the Extractor</color>=<color\=#ff0000>3. Repare el extractor</color>
 Delicious Green Tea=Delicioso té verde
@@ -1242,7 +1242,7 @@ Creatures usually live in <color\=#800000>specific habitats</color>.\nExplore th
 <noparse></noparse>I'll help you down, don't worry.=<noparse></noparse>Te ayudaré, no te preocupes.
 0-8. A Fox on the Spiderwebs=0-8.\nUn zorro en las telarañas
 <color\=#ff0000>1. Bring Maple Herb</color>=<color\=#ff0000>1. Trae Hierba de Arce</color>
-A little one named Rubrum is stuck in a spider's web and can't move.\n\n\nHelp him break free from the web and get home safely.=Un pequeño llamado Rubrum está atascado en una telaraña y no puede moverse.\n\n\n\nAyúdalo a liberarse de la red y llegar a casa a salvo.
+A little one named Rubrum is stuck in a spider's web and can't move.\n\n\nHelp him break free from the web and get home safely.=Un pequeño llamado Rubrum está atascado en una telaraña y no puede moverse.\n\nAyúdalo a liberarse de la red y llegar a casa a salvo.
 Didn't get map for this area.=No obtuve mapa para esta área.
 The fur of a cute, round Squishychub. It is light and has good insulation properties. It also has a soothing fragrance.=El pelaje de un lindo y redondo SquishyChub.\nEs ligero y tiene buenas propiedades de aislamiento.\nTambién tiene una fragancia calmante.
 Get rid of the spiderwebs using Maple Herb.=Deshágase de las telarañas con hierba de arce.
@@ -1384,7 +1384,7 @@ Prickly Vine Fragment=Fragmento de Enredadera Espinosa
 A fragment of the giant prickly vines blocking the entrance to the village=Un fragmento de las Enredaderas Espinosas Gigantes que bloquean la entrada a la aldea
 Giant Prickly Vine Fragment=Fragmento de Enredadera Espinosa Gigante
 0-9. The Truth Behind the Giant Prickly Vines=0-9.\nLa Verdad Detrás de las Enredaderas Espinosas Gigantes
-The Bomb Potion can't clear the giant prickly vine.\n\n\nUse the information from the Prickly Vine Fragment to find another solution.=La Poción Bomba no puede despejar la Enredadera Espinosa Gigante.\n\n\n\nUsa la información del Fragmento de Enredadera Espinosa para encontrar otra solución.
+The Bomb Potion can't clear the giant prickly vine.\n\n\nUse the information from the Prickly Vine Fragment to find another solution.=La Poción Bomba no puede despejar la Enredadera Espinosa Gigante.\n\nUsa la información del Fragmento de Enredadera Espinosa para encontrar otra solución.
 <noparse></noparse>Oh, is this a fragment of the prickly vines?=<noparse></noparse>Oh, ¿es esto un fragmento de las enredaderas espinosas?
 <noparse></noparse>Yes. Do you know something about it?=<noparse></noparse>Sí.\n¿Sabes algo al respecto?
 <noparse></noparse>No idea at all.=<noparse></noparse>No hay idea en absoluto.
@@ -1483,7 +1483,7 @@ Phew, luckily, there's an intact piece.=Uf, por suerte, hay una pieza intacta.
 Concoct Sunlight Potion.=Fabrica la Poción de Luz Solar.
 Remove the Giant Prickly Vines=Elimina las Enredaderas Espinosas Gigantes
 <color\=#ff0000>1. Craft the Sunlight Potion</color>=<color\=#ff0000>1. Fabrica la Poción de Luz Solar</color>
-It seems you've found a way to clear the giant prickly vine.\n\n\nTo enter the village, hurry and gather the materials needed to give it another try.=Parece que has encontrado una manera de despejar la enredadera espinosa gigante.\n\n\n\nPara entrar a la aldea, date prisa y reúne los materiales necesarios para intentarlo de nuevo.
+It seems you've found a way to clear the giant prickly vine.\n\n\nTo enter the village, hurry and gather the materials needed to give it another try.=Parece que has encontrado una manera de despejar la enredadera espinosa gigante.\n\nPara entrar a la aldea, date prisa y reúne los materiales necesarios para intentarlo de nuevo.
 0-10. Remove the Giant Prickly Vines=0-10.\nElimina las Enredaderas Espinosas Gigantes
 Recipe "Sunlight Potion"=Receta "Poción de Luz Solar"
 Used when fleeing from dangerous animals, plants, monsters, humans, witches, fruits, clouds, rocks, and tornadoes with eyes. (Check whether the target has eyes before using.)=Se usa al huir de animales peligrosos, plantas, monstruos, humanos, brujas, frutas, nubes, rocas y tornados con ojos.\n(Comprueba si el objetivo tiene ojos antes de usar).
@@ -1658,7 +1658,7 @@ Act 1=Acto 1
 <color\=#8C8C8C>3. Find Enite in the village</color>=<color\=#8C8C8C>3. Encuentra a Enite en el pueblo</color>
 <color\=#8C8C8C>2. Find Rubrum in the village</color>=<color\=#8C8C8C>2. Encuentra a Rubrum en el pueblo</color>
 <color\=#8C8C8C>1. Explore the village</color>=<color\=#8C8C8C>1. Explora el pueblo</color>
-Once the prickly vine are cleared, you can finally enter Wisteria.\n\n\nTry talking to all the villagers.=Una vez que se despejen las enredaderas espinosas, finalmente podrás entrar en Wisteria.\n\n\n\nIntenta hablar con todos los aldeanos.
+Once the prickly vine are cleared, you can finally enter Wisteria.\n\n\nTry talking to all the villagers.=Una vez que se despejen las enredaderas espinosas, finalmente podrás entrar en Wisteria.\n\nIntenta hablar con todos los aldeanos.
 <color\=#ff0000>4. Sleep in bed</color>=<color\=#ff0000>4. Duerme en la cama</color>
 <noparse></noparse>What are you trying to do?=<noparse></noparse>¿Qué estás tratando de hacer?
 <noparse></noparse>Enite is right. It requires a lot of imagination to call this place a village.=<noparse></noparse>Enite tiene razón.\nRequiere mucha imaginación para llamar a este lugar un pueblo.
@@ -1697,7 +1697,7 @@ Once the prickly vine are cleared, you can finally enter Wisteria.\n\n\nTry talk
 Ask Enite if she’s made up her mind.=Pregúntale a Enite si ella se decidió.
 Diane=Diane
 Ellie,=Ellie,
-Hello, Ellie. I'm writing to tell you something that might make your life in the Witch's House a little easier.\n\n\nBy now, your adventures must have filled your packs with odds and ends you don't really need. From now on, you can place them into the <color\=#800000>Gold Coin Pouch Trading Chest</color> beside my shop.\n\n\nDeposit 10 spare collected items or materials, and you'll receive a pouch of coin in return. I hope this proves useful to you.=Hola, Ellie.\nEscribo para contarte algo que podría hacer tu vida en la Casa de la Bruja un poco más fácil.\n\n\n\nPor ahora, tus aventuras deben haber llenado tus bolsas con trastos que realmente no necesitas.\nDe ahora en adelante, puedes colocarlos en el <color\=#800000>Cofre de Intercambio de Bolsas de Monedas de Oro</color> al lado de mi tienda.\n\n\n\nDeposita 10 artículos o materiales recolectados que te sobren y recibirás una bolsa de monedas a cambio.\nEspero que esto te sea útil.
+Hello, Ellie. I'm writing to tell you something that might make your life in the Witch's House a little easier.\n\n\nBy now, your adventures must have filled your packs with odds and ends you don't really need. From now on, you can place them into the <color\=#800000>Gold Coin Pouch Trading Chest</color> beside my shop.\n\n\nDeposit 10 spare collected items or materials, and you'll receive a pouch of coin in return. I hope this proves useful to you.=Hola, Ellie.\nEscribo para contarte algo que podría hacer tu vida en la Casa de la Bruja un poco más fácil.\n\nPor ahora, tus aventuras deben haber llenado tus bolsas con trastos que realmente no necesitas.\nDe ahora en adelante, puedes colocarlos en el <color\=#800000>Cofre de Intercambio de Bolsas de Monedas de Oro</color> al lado de mi tienda.\n\nDeposita 10 artículos o materiales recolectados que te sobren y recibirás una bolsa de monedas a cambio.\nEspero que esto te sea útil.
 —Aurea=—Áurea
 <noparse></noparse>Basically, it's those places where you exchange unneeded stuff for pouches of Gold Coins.=<noparse></noparse>Básicamente, son esos lugares donde intercambias cosas innecesarias por bolsas de monedas de oro.
 <noparse></noparse>You can finally put whatever is rotting in your backpack to good use.=<noparse></noparse>Finalmente puede poner lo que se está pudriendo en su mochila a un buen uso.
@@ -1796,7 +1796,7 @@ Boost=Acelerar
 <noparse></noparse>All I need is a <color\=#800000ff>Branch</color> or a <color\=#800000ff>Mud</color>.=<noparse></noparse>Todo lo que necesito es un <color\=#800000ff>Rama</color> o <color\=#800000ff>Lodo</color>.
 Repair your broom at the Workbench in the Witch’s House. =Repara tu escoba en el banco de trabajo de la Casa de la Bruja. 
 Repairing Your Broom=Reparando tu escoba
-The broom needs to be repaired before you can fly on it.\n\n\nCollect the materials, then fix it at the workbench.=La escoba debe repararse antes de que puedas volar en ella.\n\n\n\nRecoge los materiales y arréglala en el banco de trabajo.
+The broom needs to be repaired before you can fly on it.\n\n\nCollect the materials, then fix it at the workbench.=La escoba debe repararse antes de que puedas volar en ella.\n\nRecoge los materiales y arréglala en el banco de trabajo.
 <color\=#ff0000>1. Repair the broom</color>=<color\=#ff0000>1. Reparar la escoba</color>
 <noparse></noparse>Hello! This is the <color\=#800000ff>Witches’ Catalogue</color> that gives you the most inexpensive products of the best quality!=<noparse></noparse>¡Hola!\nEste es el <color\=#800000ff>Catálogo de Brujas</color>, ¡donde encontrarás los productos más económicos y de la mejor calidad!
 <noparse></noparse>This is Diane to bring you happiness... Oh, it’s you, Ellie. Welcome.=<noparse></noparse>Aquí Diane, portadora de felicidad... Ah, eres tú, Ellie. Bienvenida.
@@ -2112,7 +2112,7 @@ Pepper=Pimienta
 <color\=#ff0000>3. Read the book in the Witch's House</color>=<color\=#ff0000>3. Lea el libro en la casa de la bruja</color>
 <color\=#8C8C8C>2. Organize dialogue</color>=<color\=#8C8C8C>2. Organizar el diálogo</color>
 <color\=#8C8C8C>1. Inspect Kyla's land</color>=<color\=#8C8C8C>1. Inspeccionar la tierra de Kyla</color>
-Before the village was destroyed by prickly vines, it was home to a carpenter named Kyla.\n\n\nAfter speaking with the remaining villagers, decide what to do next.=Antes de que el pueblo fuera destruido por enredaderas espinosas, era el hogar de una carpintera llamada Kyla.\n\n\n\nDespués de hablar con los aldeanos restantes, decide qué hacer a continuación.
+Before the village was destroyed by prickly vines, it was home to a carpenter named Kyla.\n\n\nAfter speaking with the remaining villagers, decide what to do next.=Antes de que el pueblo fuera destruido por enredaderas espinosas, era el hogar de una carpintera llamada Kyla.\n\nDespués de hablar con los aldeanos restantes, decide qué hacer a continuación.
 <noparse></noparse>What's this? I got it from some tiny guy that resembled an acorn.=<noparse></noparse>¿Qué es esto?\nLo obtuve de un pequeño chico que se parecía a una bellota.
 <noparse></noparse>I suppose that was a <color\=#800000ff>Ritoring</color>.=<noparse></noparse>Supongo que eso era un <color\=#800000ff>Ritoring</color>.
 <noparse></noparse>Right, a <color\=#800000ff>Ritoring</color>. They are a rare sight.=<noparse></noparse>Claro, un <color\=#800000ff>Ritoring</color>. Son una visita rara.
@@ -2165,7 +2165,7 @@ Burned Pumpkin Terrier Fur=Pelaje de terrier de calabaza quemada
 <noparse></noparse>I’m not sleepy yet.=<noparse></noparse>Todavía no tengo sueño.
 Cannot ride the broom now.=No puedo montar la escoba ahora.
 A Flyer of Arden's Restaurant=Un volante del restaurante Arden's
-Dishes cooked from quality ingredients and generously seasoned with pepper!\n\n\nDrop by Arden's Restaurant and treat yourself to a delicious meal after <color\=#800000>a long day of work</color>!\n\n\nFind the establishment right to the south of Wisteria's fountain.=¡Platos cocinados por ingredientes de calidad y generosamente sazonados con pimienta!\n\n\n\nPase por Arden's Restaurant y disfrute de una deliciosa comida después <color\=#800000>Un largo día de trabajo</color>!\n\n\n\nEncuentre el establecimiento directamente al sur de la fuente de Wisteria.
+Dishes cooked from quality ingredients and generously seasoned with pepper!\n\n\nDrop by Arden's Restaurant and treat yourself to a delicious meal after <color\=#800000>a long day of work</color>!\n\n\nFind the establishment right to the south of Wisteria's fountain.=¡Platos cocinados por ingredientes de calidad y generosamente sazonados con pimienta!\n\nPase por Arden's Restaurant y disfrute de una deliciosa comida después <color\=#800000>Un largo día de trabajo</color>!\n\nEncuentre el establecimiento directamente al sur de la fuente de Wisteria.
 <noparse></noparse>It's a flyer from Arden's restaurant. =<noparse></noparse>Es un volante del restaurante Arden's. 
 <noparse></noparse>For someone so gruff, he sure takes running it seriously.=<noparse></noparse>Para alguien tan brusco, seguro que lo toma en serio.
 <noparse></noparse>Still, with all the work we've got here, we'll probably need the food he's talking about.=<noparse></noparse>Aún así, con todo el trabajo que tenemos aquí, probablemente necesitaremos la comida de la que está hablando.
@@ -2212,7 +2212,7 @@ Find the Prickly Vine Core=Encuentra el núcleo de la Enredadera Espinosa
 <noparse></noparse>Just find the core, make the potion and use it.=<noparse></noparse>Simplemente encuentra el núcleo, prepara la poción y úsala.
 1-4. Concoct the Moon’s... Blah Blah Potion=1-4.\nInventando la luna ... bla bla poción
 1-3. Find the Prickly Vine Core=1-3.\nEncuentra el núcleo de la vid espinosa
-To completely clear the prickly vines, you need a potion infused with lunar power.\n\n\nAsk about the potion recipe, gather the materials, and use it to clear the vines.=Para despejar completamente las vides espinosas, necesita una poción infundida con potencia lunar.\n\n\n\nPregunte sobre la receta de pociones, recopile los materiales y úsela para despejar las vides.
+To completely clear the prickly vines, you need a potion infused with lunar power.\n\n\nAsk about the potion recipe, gather the materials, and use it to clear the vines.=Para despejar completamente las vides espinosas, necesita una poción infundida con potencia lunar.\n\nPregunte sobre la receta de pociones, recopile los materiales y úsela para despejar las vides.
 Recovers Fatigue randomly=Recupera la fatiga al azar
 Arden's steak. Juice pours from this perfectly cooked slice of meat when you bite down. The doneness depends on Arden's mood.\n\n<color\=#800000>Restores a random amount of Fatigue.</color>=Bistec de Arden. El jugo brota de esta jugosa rebanada de carne perfectamente cocinada al morderla. El punto de coccción depende del humor de Arden.\n\n<color\=#800000>Recupera una cantidad aleatoria de fatiga.</color>
 <noparse></noparse>My goal is to get off work on time.=<noparse></noparse>Mi objetivo es salir del trabajo a tiempo.
@@ -2305,13 +2305,13 @@ I should ask where I can find fresh water.=Debería preguntar dónde puedo encon
 Fresh Water=Agua dulce
 Ask Diane where to find sacred water.=Pregúntale a Diane dónde encontrar agua sagrada.
 <color\=#ff0000>1. Follow the prickly vine</color>=<color\=#ff0000>1. Sigue la enredadera espinosa</color>
-To bring back the village's former residents, you must first destroy the prickly vines.\n\n\nExplore Green Forest, find the prickly vine core, and destroy it to solve the problem.\n\n\nEmbark on your adventure to save the village!=Para traer de vuelta a los antiguos residentes del pueblo, primero debes destruir las enredaderas espinosas.\n\n\n\nExplora el Bosque Verde, encuentra el núcleo de la enredadera espinosa y destrúyelo para resolver el problema.\n\n\n\n¡Emprende tu aventura para salvar el pueblo!
+To bring back the village's former residents, you must first destroy the prickly vines.\n\n\nExplore Green Forest, find the prickly vine core, and destroy it to solve the problem.\n\n\nEmbark on your adventure to save the village!=Para traer de vuelta a los antiguos residentes del pueblo, primero debes destruir las enredaderas espinosas.\n\nExplora el Bosque Verde, encuentra el núcleo de la enredadera espinosa y destrúyelo para resolver el problema.\n\n¡Emprende tu aventura para salvar el pueblo!
 <color\=#ff0000>3. Obtain the Sacred Water</color>=<color\=#ff0000>3. Obtenga el agua sagrada</color>
 A recipe discovered through chance. It's more economic than Moon Oil in that it doesn't need phoenix feathers to make moonlight. Although it doesn't provide much light, it should be enough to get rid of the prickly vines.=Una receta descubierta por casualidad. Es más económica que el Aceite de Luna en el sentido de que no necesita plumas de Fénix para generar luz lunar. Aunque no proporciona mucha luz, debería ser suficiente para deshacerse de las enredaderas espinosas.
 Moon Tears=Lágrimas de luna
 To the owner of the Witch's House,=Al dueño de la casa de la bruja,
 Witches' Catalogue=Catálogo de Brujas
-With your activities resuming in full, we wish to offer our support. Starting tomorrow, a <color\=#800000>Luna Coin Pouch Trading Chest</color> will be installed in your garden.\n\n\nPlace any surplus collected items or materials within. For every 10 items deposited, you'll receive 1 Luna Coin Pouch.\n\n\nWe hope this will be of service to you. The Witches' Catalogue will continue to assist you wholeheartedly.=Con tus actividades retomándose por completo, deseamos ofrecerte nuestro apoyo. A partir de mañana, se instalará en tu jardín un <color\=#800000>Cofre de intercambio de Bolsas de Luna Coins</color>.\n\n\n\nColoca en él cualquier ítem o material recolectado que te sobre. Por cada 10 ítems depositados, recibirás 1 Bolsa de Luna Coins.\n\n\n\nEsperamos que esto te sea de utilidad. El Catálogo de Brujas seguirá apoyándote de todo corazón.
+With your activities resuming in full, we wish to offer our support. Starting tomorrow, a <color\=#800000>Luna Coin Pouch Trading Chest</color> will be installed in your garden.\n\n\nPlace any surplus collected items or materials within. For every 10 items deposited, you'll receive 1 Luna Coin Pouch.\n\n\nWe hope this will be of service to you. The Witches' Catalogue will continue to assist you wholeheartedly.=Con tus actividades retomándose por completo, deseamos ofrecerte nuestro apoyo. A partir de mañana, se instalará en tu jardín un <color\=#800000>Cofre de intercambio de Bolsas de Luna Coins</color>.\n\nColoca en él cualquier ítem o material recolectado que te sobre. Por cada 10 ítems depositados, recibirás 1 Bolsa de Luna Coins.\n\nEsperamos que esto te sea de utilidad. El Catálogo de Brujas seguirá apoyándote de todo corazón.
 —Witches' Catalogue Department=—Departamento del Catálogo de Brujas
 <noparse></noparse>The Witches' Catalogue Department said that they would install a <color\=#800000ff>Luna Coin Pouch Trading Chest</color>...=<noparse></noparse>El Departamento del Catálogo de Brujas dijo que instalarían un <color\=#800000ff>Cofre de Intercambio de Bolsas de Luna Coins</color>...
 <noparse></noparse>That will get me some easy Luna Coins!=<noparse></noparse>¡Eso me va a dar unas cuantas Luna Coins fáciles!
@@ -2594,7 +2594,7 @@ Use a Potion in the Green Forest 2=Use una poción en el bosque verde 2
 Talk to Enite first.=Habla con Enite primero.
 Study the Green Forest further=Estudie el bosque verde más
 <color\=#ff0000>1. Talk to Enite</color>=<color\=#ff0000>1. Habla con Enite</color>
-The carpenter, who can build houses, is essential for rebuilding the village.\n\n\nWrite a letter to Kyla, the village's former carpenter.=La carpintera, que puede construir casas, es esencial para reconstruir el pueblo.\n\n\n\nEscribe una carta a Kyla, la ex carpintera del pueblo.
+The carpenter, who can build houses, is essential for rebuilding the village.\n\n\nWrite a letter to Kyla, the village's former carpenter.=La carpintera, que puede construir casas, es esencial para reconstruir el pueblo.\n\nEscribe una carta a Kyla, la ex carpintera del pueblo.
 1-5. Send a Letter to Kyla=1-5.\nEnvía una carta a Kyla
 Use the right potion to gather materials.\r\n\r\nPompom\r\n\r\n=Usa la poción adecuada para recolectar materiales.\n\r\n\r\nPompom\r\n\r\n
 Clear=Claro
@@ -2984,7 +2984,7 @@ Put Down=Poner
 The aroma of the Splash Carrot is stronger than ever after being crushed into a juice, with a thin film floating on top of the resulting liquid.=El aroma de la Zanahoria Salpicadora es más fuerte que nunca después de ser aplastada en un jugo, con una película delgada flotando encima del líquido resultante.
 Light and soft, yet its rachis is quite sturdy. It’s well-balanced, perfect for making a quill pen.=Ligero y suave, pero su raquis es bastante resistente. Está bien equilibrado, perfecto para hacer una pluma.
 English=Inglés
-Unstuck=Despegado
+Unstuck=Desatascarse
 <color\=green>Displays as the artists intended.</color>=<color\=green>Muestra como pretendían los artistas.</color>
 Pixel Perfect=Píxel perfecto
 Are you sure you want to return to main menu?\n<color\=#800000>Unsaved progress will be lost.</color>\n<size\=6>(Items left on the floor cannot be kept.)</size>=¿Estás seguro de que quieres volver al menú principal?\n<color\=#800000>El progreso no guardado se perderá.</color>\n<size\=6>(Los artículos que quedan en el suelo no se pueden guardar).</size>
@@ -3313,7 +3313,7 @@ A Strange Dream=Un sueño extraño
 I seem to be having an important dream repeatedly.=Parece que estoy teniendo un sueño importante repetidamente.
 1-8. A Strange Dream=1-8.\nUn sueño extraño
 <color\=#ff0000>1. Talk to the villagers</color>=<color\=#ff0000>1. Habla con los aldeanos</color>
-You've been having strange dreams every night, but you wake up with no memory of them.\n\n\nFind a way to remember the dreams and solve the mystery.=Has estado teniendo sueños extraños todas las noches, pero te despiertas sin recordarlos.\n\n\n\nEncuentra una manera de recordar los sueños y resolver el misterio.
+You've been having strange dreams every night, but you wake up with no memory of them.\n\n\nFind a way to remember the dreams and solve the mystery.=Has estado teniendo sueños extraños todas las noches, pero te despiertas sin recordarlos.\n\nEncuentra una manera de recordar los sueños y resolver el misterio.
 <noparse></noparse>Squeak-squeak-squeak.=<noparse></noparse>Squeak-squeak-squeak.
 <noparse></noparse>If I'd gone to Highlion, I wouldn't be listening to this.=<noparse></noparse>Si hubiera ido a Highlion, no estaría escuchando esto.
 <noparse></noparse>It's better to make noise than to die of boredom, isn't it?=<noparse></noparse>Es mejor hacer ruido que morir de aburrimiento, ¿no?
@@ -6998,3 +6998,404 @@ A Dream Like a Fairy Tale Tile=Baldosa de Un Sueño Como un Cuento de Hadas
 A Dream Like a Fairy Tale Wallpaper=Papel Tapiz de Un Sueño Como un Cuento de Hadas
 Simple Rock Wine Bottle Set=Set de Botellas de Vino de Roca Simple
 Simple Rock Lamp=Lámpara de Roca Simple
+****************  lineas despúes de 30900 generadas al iniciar nueva partida=****************  lineas despúes de 30900 generadas al iniciar nueva partida
+Day 7 of Month 3rd, Year 2=Día 7 del 3er mes, año 2
+26.02.22 10:35 AM=26.02.22 10:35
+26.02.21 01:01 PM=26.02.21 13:01
+26.02.21 01:00 PM=26.02.21 13:00
+Day 6 of Month 3rd, Year 2=Día 6 del 3er mes, año 2
+26.02.21 12:27 PM=26.02.21 12:27
+Day 5 of Month 3rd, Year 2=Día 5 del 3er mes, año 2
+26.02.21 11:36 AM=26.02.21 11:36
+Day 4 of Month 3rd, Year 2=Día 4 del 3er mes, año 2
+26.02.21 10:47 AM=26.02.21 10:47
+Day 3 of Month 3rd, Year 2=Día 3 del 3er mes, año 2
+26.02.18 09:11 PM=26.02.18 21:11
+26.02.18 08:57 PM=26.02.18 20:57
+Day 2 of Month 3rd, Year 2=Día 2 del 3er mes, año 2
+26.02.18 08:07 PM=26.02.18 20:07
+Day 1 of Month 3rd, Year 2=Día 1 del 3er mes, año 2
+26.02.18 07:22 PM=26.02.18 19:22
+<noparse></noparse>Nope. If that coward finds it, he'll take it to the professor bawling, like before.=<noparse></noparse>No.\nSi ese cobarde lo encuentra, se lo llevará al profesor lloriqueando, como antes.
+<noparse></noparse>The thought of taking off my <color=#800000ff>shoes</color> when I got off the train alone was disturbing enough.=<noparse></noparse>La idea de quitarme los <color=#800000ff>zapatos</color> cuando me bajara del tren yo sola ya era bastante inquietante.
+Empty.=Vacío.
+<noparse></noparse>Alright. I've seen plenty of <color=#800000ff>confused</color> passengers who were all dressed up for Highlion, only to find themselves in the wrong shoes.=<noparse></noparse>Está bien.\nHe visto a muchos pasajeros <color=#800000ff>confundidos</color> que se vistieron arreglados para Highlion, solo para encontrarse con los zapatos equivocados.
+<noparse></noparse>"O ye who reacheth Highlion, look first upon thy shoes!" Or so that's how the saying goes.=<noparse></noparse>"¡Oh, vosotros que llegáis a Highlion, mirad primero vuestros zapatos!"\nO eso es lo que dice el refrán.
+Let's ask the others too.=Preguntémosle a los demás también.
+<noparse></noparse>May I help you?=<noparse></noparse>¿Puedo ayudarte?
+<noparse></noparse>What sort of work do you do here?=<noparse></noparse>¿Qué tipo de trabajo haces aquí?
+<noparse></noparse>I'm mixing my life and changing the alcohol.=<noparse></noparse>Estoy mezclando mi vida y cambiando el alcohol.
+<noparse></noparse>Wait, I think it's the other way around.=<noparse></noparse>Espera, creo que es al revés.
+<noparse></noparse>I'm just an average <color=#800000ff>bartender</color> working in the most expensive place in the world.=<noparse></noparse>Solo soy un <color=#800000ff>cantinero</color> normal trabajando en el lugar más caro del mundo.
+<noparse></noparse>What brings you to this very expensive train?=<noparse></noparse>¿Qué te trae a este tren tan caro?
+<noparse></noparse>I thought you were listening to our conversation?=<noparse></noparse>¿Pensé que estabas escuchando nuestra conversación?
+<noparse></noparse>I stopped listening when it got boring.=<noparse></noparse>Dejé de escuchar cuando se volvió aburrido.
+<noparse></noparse>I'm going to be an <color=#800000ff>apprentice</color> at the Witch's House in <color=#800000ff>Highlion</color>.=<noparse></noparse>Voy a ser <color=#800000ff>aprendiz</color> en la Casa de la Bruja en <color=#800000ff>Highlion</color>.
+<noparse></noparse>After working as an apprentice for <color=#800000ff>3 years</color>, I will able to <color=#800000ff>graduate</color> from the School for Witches.=<noparse></noparse>Después de trabajar como aprendiz durante <color=#800000ff>3 años</color>, podré <color=#800000ff>graduarme</color> de la Escuela de Brujas.
+<noparse></noparse>Wow! <color=#800000ff>Highlion</color>, huh? That's a busy place, isn't it?=<noparse></noparse>¡Vaya! <color=#800000ff>Highlion</color>, ¿eh?\nEse es un lugar muy concurrido, ¿no?
+<noparse></noparse>So they say.=<noparse></noparse>Eso dicen.
+<noparse></noparse>That's probably why you got the train ticket for free.=<noparse></noparse>Probablemente por eso conseguiste el boleto de tren gratis.
+<noparse></noparse>You must be someone special.=<noparse></noparse>Debes ser alguien especial.
+<noparse></noparse>I don't really care about that kind of thing, though.=<noparse></noparse>Aunque realmente no me importa ese tipo de cosas.
+<noparse></noparse><color=#800000ff>"That kind of thing"</color> is what's important at the end of the day.=<noparse></noparse><color=#800000ff>"Ese tipo de cosas"</color> es lo que importa al final del día.
+<noparse></noparse>It's best to just suck it up. You'll be glad you did later down the road, you know.=<noparse></noparse>Lo mejor es simplemente aguantarse.\nTe alegrarás de haberlo hecho más adelante, ¿sabes?
+<noparse></noparse>Yeah, <color=#800000ff>"later"</color>...=<noparse></noparse>Sí, <color=#800000ff>"más adelante"</color>...
+<noparse></noparse>Why are you working here as a bartender, and not at a bar?=<noparse></noparse>¿Por qué trabajas aquí como cantinero y no en un bar?
+<noparse></noparse>I used to own a <color=#800000ff>bar</color>.=<noparse></noparse>Solía ser dueño de un <color=#800000ff>bar</color>.
+<noparse></noparse>In this area?=<noparse></noparse>¿En esta zona?
+<noparse></noparse>Sure did. My wife and I, the <color=#800000ff>two of us</color>...=<noparse></noparse>Claro que sí.\nMi esposa y yo, nosotros <color=#800000ff>dos</color>...
+<noparse></noparse>Woah, you’re both bartenders.=<noparse></noparse>Vaya, ambos son cantineros.
+<noparse></noparse>I met her at work, after all.=<noparse></noparse>Después de todo, la conocí en el trabajo.
+<noparse></noparse>We had to move due to circumstances, though, so here we are now.=<noparse></noparse>Sin embargo, tuvimos que mudarnos debido a las circunstancias, así que aquí estamos ahora.
+<noparse></noparse>I hope a time comes when you two open up a bar again.=<noparse></noparse>Espero que llegue el momento en que ustedes dos abran un bar nuevamente.
+<noparse></noparse>Something on your mind?=<noparse></noparse>¿Estás pensando en algo?
+<noparse></noparse>I may not look the part, but I used to be quite the big deal back in the day.=<noparse></noparse>Puede que no lo parezca, pero solía ser alguien bastante importante en mi época.
+<noparse></noparse>Anyone ask?=<noparse></noparse>¿Alguien preguntó?
+<noparse></noparse>Virgil, shut up.=<noparse></noparse>Virgil, cállate.
+<noparse></noparse>You must've been very popular.=<noparse></noparse>Debiste haber sido muy popular.
+<noparse></noparse>There were customers who’d visit the bar just to see me.=<noparse></noparse>Había clientes que visitaban el bar solo para verme.
+<noparse></noparse>Even to this day, I still take pride in these <color=#800000ff>eyelashes</color> of mine.=<noparse></noparse>Incluso hasta el día de hoy, todavía me enorgullezco de estas <color=#800000ff>pestañas</color> mías.
+<noparse></noparse>After all, even my wife said she fell in love with them first.=<noparse></noparse>Después de todo, incluso mi esposa dijo que se enamoró primero de ellas.
+<noparse></noparse>A romantic tale that starts with eyelashes...=<noparse></noparse>Una historia romántica que comienza con las pestañas...
+<noparse></noparse>Cocktails are my specialties.=<noparse></noparse>Los cócteles son mi especialidad.
+<noparse></noparse>Let's ask passengers in other cars too.=<noparse></noparse>Preguntemos también a los pasajeros de otros vagones.
+Ordinary Passenger=Pasajero Ordinario
+<noparse></noparse>Correct.=<noparse></noparse>Correcto.
+<noparse></noparse>Where are you going?=<noparse></noparse>¿A dónde vas?
+<noparse></noparse>To meet an old friend of mine.=<noparse></noparse>A encontrarme con un viejo amigo mío.
+<noparse></noparse>Wow, you must be excited.=<noparse></noparse>Vaya, debes estar emocionado.
+<noparse></noparse>...Correct.=<noparse></noparse>...Correcto.
+<noparse></noparse>You'll find nothing exciting about me, Ms. Witch.=<noparse></noparse>No encontrarás nada emocionante en mí, Srta. Bruja.
+<noparse></noparse>I'm just an everyman.=<noparse></noparse>Soy solo un hombre común y corriente.
+<noparse></noparse>No, no... I just realized that I was deceived.=<noparse></noparse>No, no... me acabo de dar cuenta de que me engañaron.
+<noparse></noparse>You don't need to be too upset.=<noparse></noparse>No tienes que molestarte demasiado.
+<noparse></noparse>Under Brightman Railroads regulations, we cannot accept passengers' belongings.=<noparse></noparse>Según las regulaciones de Ferrocarriles Brightman, no podemos aceptar pertenencias de los pasajeros.
+<noparse></noparse>I should have torn up that stupid <color=#800000ff>ticket</color> right then and there.=<noparse></noparse>Debería haber roto ese estúpido <color=#800000ff>boleto</color> en ese mismo instante.
+<noparse></noparse>What about boa constrictors?=<noparse></noparse>¿Qué pasa con las boas constrictoras?
+Hey, a boa constrictor!=¡Oye, una boa constrictor!
+<noparse></noparse>Hey, a boa constrictor!=<noparse></noparse>¡Oye, una boa constrictor!
+<noparse></noparse>I'm not sure if you remember but...=<noparse></noparse>No estoy seguro si lo recuerdas pero...
+<noparse></noparse>We have to get back by <color=#800000ff>tomorrow morning</color>.=<noparse></noparse>Tenemos que regresar para <color=#800000ff>mañana por la mañana</color>.
+<noparse></noparse>Do you know why the train stopped all of a sudden?=<noparse></noparse>¿Sabes por qué el tren se detuvo de repente?
+<noparse></noparse>I've been here with you the whole time.=<noparse></noparse>He estado aquí contigo todo el tiempo.
+<noparse></noparse>I know as much as you.=<noparse></noparse>Sé lo mismo que tú.
+<noparse></noparse>Does the train stop often?=<noparse></noparse>¿El tren se detiene a menudo?
+<noparse></noparse>No. Never.=<noparse></noparse>No. Nunca.
+<noparse></noparse>Time is money. If there's no good reason, <color=#800000ff>it never stops</color>.=<noparse></noparse>El tiempo es oro.\nSi no hay una buena razón, <color=#800000ff>nunca se detiene</color>.
+<noparse></noparse>Once they fix the problem, it will leave <color=#800000ff>right away</color>.=<noparse></noparse>Una vez que solucionen el problema, se irá <color=#800000ff>de inmediato</color>.
+<noparse></noparse>The crew member just said we'll be leaving <color=#800000ff>tomorrow morning</color>.=<noparse></noparse>El miembro de la tripulación acaba de decir que nos iremos <color=#800000ff>mañana por la mañana</color>.
+<noparse></noparse>Oh, then I guess we're leaving tomorrow morning.=<noparse></noparse>Oh, entonces supongo que nos vamos mañana por la mañana.
+<noparse></noparse>I saw a <color=#800000ff>mysterious tree</color> outside the window.=<noparse></noparse>Vi un <color=#800000ff>árbol misterioso</color> por la ventana.
+<noparse></noparse>A <color=#800000ff>mysterious tree?</color> What did it look like?=<noparse></noparse>¿Un <color=#800000ff>árbol misterioso</color>? ¿Cómo era?
+<noparse></noparse>It was a <color=#800000ff>gigantic shining tree</color>. =<noparse></noparse>Era un <color=#800000ff>gigantesco árbol brillante</color>. 
+<noparse></noparse>A <color=#800000ff>shining tree?</color> I've never heard of such a thing.=<noparse></noparse>¿Un <color=#800000ff>árbol brillante</color>? Nunca he oído hablar de tal cosa.
+<noparse></noparse>I suppose large trees are not that uncommon here, though.=<noparse></noparse>Aunque supongo que los árboles grandes no son tan raros aquí.
+<noparse></noparse>Huh... like the one I just mentioned?=<noparse></noparse>¿Ah... como el que acabo de mencionar?
+<noparse></noparse>Hm, but that tree wasn't shining.=<noparse></noparse>Hm, pero ese árbol no brillaba.
+<noparse></noparse>It was just a <color=#800000ff>large tea tree</color>. =<noparse></noparse>Era solo un <color=#800000ff>gran árbol de té</color>. 
+<noparse></noparse>Where was the tree?=<noparse></noparse>¿Dónde estaba el árbol?
+<noparse></noparse>I'm not sure whether there's a path leading to it...=<noparse></noparse>No estoy segura de si hay un camino que conduzca a él...
+<noparse></noparse>You'll see it if you climb to the <color=#800000ff>highest point of the mountain</color>.=<noparse></noparse>Lo verás si subes al <color=#800000ff>punto más alto de la montaña</color>.
+<noparse></noparse>I'll go have a look. Thank you.=<noparse></noparse>Iré a echar un vistazo. Gracias.
+<noparse></noparse>I wonder what’s out there?=<noparse></noparse>Me pregunto qué habrá ahí fuera.
+<noparse></noparse>I took a look outside since the train had stopped...=<noparse></noparse>Eché un vistazo afuera ya que el tren se había detenido...
+<noparse></noparse>...And it looked similar to the <color=#800000ff>village</color> where I used to live.=<noparse></noparse>...Y se parecía a la <color=#800000ff>aldea</color> donde solía vivir.
+<noparse></noparse>It's nowhere to write home about.=<noparse></noparse>No es nada del otro mundo.
+<noparse></noparse>Nothing compared to a sprawling city like Highlion.=<noparse></noparse>Nada comparado con una ciudad en expansión como Highlion.
+<noparse></noparse>At least it should be better than a boring large Witch's House.=<noparse></noparse>Al menos debería ser mejor que una gran y aburrida Casa de la Bruja.
+<noparse></noparse>I suddenly have a bad feeling about this.=<noparse></noparse>De repente tengo un mal presentimiento sobre esto.
+<noparse></noparse>We'll take care of it, so please be patient.=<noparse></noparse>Nos encargaremos de ello, así que por favor ten paciencia.
+<noparse></noparse>Is there any way I can help?=<noparse></noparse>¿Hay alguna forma en la que pueda ayudar?
+<noparse></noparse>All you have to do is sit tight.=<noparse></noparse>Todo lo que tienes que hacer es quedarte quieta.
+<noparse></noparse>Oh, geez.=<noparse></noparse>Oh, cielos.
+<noparse></noparse>If we can take care of it on our own, it shouldn't take long.=<noparse></noparse>Si podemos encargarnos de ello por nuestra cuenta, no debería llevar mucho tiempo.
+<noparse></noparse>But it might take some time if it is a problem that we can't solve.=<noparse></noparse>Pero podría llevar algo de tiempo si es un problema que no podamos resolver.
+<noparse></noparse>How long will this take?=<noparse></noparse>¿Cuánto tiempo llevará esto?
+<noparse></noparse>Or just be good and return to the train.=<noparse></noparse>O simplemente sé buena y regresa al tren.
+<noparse></noparse>Since the core gives off <color=#800000ff>light</color> when you touch the vines, you'll be able to find it.=<noparse></noparse>Dado que el núcleo emite <color=#800000ff>luz</color> cuando tocas las enredaderas, podrás encontrarlo.
+<noparse></noparse>Looks like it's hard to remove it with just your hands.=<noparse></noparse>Parece que es difícil quitarlo solo con las manos.
+<noparse></noparse>You can temporarily get rid of the vines with <color=#800000ff>Weed Terminator Potion</color>.=<noparse></noparse>Puedes deshacerte temporalmente de las enredaderas con <color=#800000ff>Poción Exterminadora de Maleza</color>.
+<noparse></noparse>But they'll grow back after a while.=<noparse></noparse>Pero volverán a crecer después de un tiempo.
+<noparse></noparse>You'll need to find the <color=#800000ff>core</color> and destroy it. The <color=#800000ff>core</color> should be somewhere near the vines.=<noparse></noparse>Necesitarás encontrar el <color=#800000ff>núcleo</color> y destruirlo.\nEl <color=#800000ff>núcleo</color> debería estar en algún lugar cerca de las enredaderas.
+<noparse></noparse>Then you'll need <color=#800000ff>Weed Terminator Potion</color> and quick action.=<noparse></noparse>Entonces necesitarás <color=#800000ff>Poción Exterminadora de Maleza</color> y actuar rápido.
+<noparse></noparse>Wow, what's this?=<noparse></noparse>Vaya, ¿qué es esto?
+<noparse></noparse>It's something you've seen before.=<noparse></noparse>Es algo que has visto antes.
+<noparse></noparse>Me? I don't remember it at all.=<noparse></noparse>¿Yo?\nNo lo recuerdo en absoluto.
+<noparse></noparse>Either way, it's not needed now, so don't worry about it.=<noparse></noparse>De cualquier manera, no es necesario ahora, así que no te preocupes por eso.
+<noparse></noparse>You'll probably find out if you move here.=<noparse></noparse>Probablemente lo descubrirás si te mudas aquí.
+<noparse></noparse>Let's think about it after you finish your apprenticeship in Highlion and graduate from the School for Witches.=<noparse></noparse>Pensemos en ello después de que termines tu aprendizaje en Highlion y te gradúes de la Escuela de Brujas.
+<noparse></noparse>If I'm still alive by then and not bored to death, that is.=<noparse></noparse>Si todavía estoy viva para entonces y no muerta de aburrimiento, claro está.
+<noparse></noparse>For now, let's just not worry about it.=<noparse></noparse>Por ahora, simplemente no nos preocupemos por eso.
+<noparse></noparse>They give off a subtle moonlight. =<noparse></noparse>Emiten una sutil luz de luna. 
+<noparse></noparse>Look, this place is also inhabited by the <color=#800000ff>Bluemoon Butterfly</color> we saw at the peak.=<noparse></noparse>Mira, este lugar también está habitado por la <color=#800000ff>Mariposa de Luna Azul</color> que vimos en la cima.
+When you draw the same type of plant or animal <color=#800000>multiple times</color>, <color=#800000>additional information</color> will be unlocked.=Cuando dibujas el mismo tipo de planta o animal <color=#800000>múltiples veces</color>, se desbloqueará <color=#800000>información adicional</color>.
+<noparse></noparse>Great! It's registered in the Encyclopedia!=<noparse></noparse>¡Genial!\n¡Está registrada en la Enciclopedia!
+<noparse></noparse>Seems like you can't catch it right now. Do you know why?=<noparse></noparse>Parece que no puedes atraparla ahora mismo. ¿Sabes por qué?
+<noparse></noparse>You might not know, but the <color=#800000ff>Encyclopedia</color> does.=<noparse></noparse>Puede que no lo sepas, pero la <color=#800000ff>Enciclopedia</color> sí.
+<noparse></noparse>Let's see here...=<noparse></noparse>Veamos aquí...
+<noparse></noparse>Now, do you see why you can't catch any?=<noparse></noparse>Ahora, ¿ves por qué no puedes atrapar ninguna?
+<noparse></noparse>Take another look.=<noparse></noparse>Echa otro vistazo.
+<noparse></noparse>Hmm... So, you can collect them using a <color=#800000ff>bug net</color>.=<noparse></noparse>Hmm... Entonces, puedes recolectarlas usando una <color=#800000ff>red para insectos</color>.
+<noparse></noparse><noparse></noparse>Ellie? We really have to–=<noparse></noparse><noparse></noparse>¿Ellie?\nRealmente tenemos que–
+<noparse></noparse><noparse></noparse>This Witch Sigil seems to have been erased quite a bit.=<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado bastante.
+<noparse></noparse>Since I have the one I picked up earlier, let's draw it again with that.=<noparse></noparse>Ya que tengo la que recogí antes, dibujémoslo de nuevo con ella.
+<noparse></noparse>Should I redraw the witch sigil using 1x <color=#800000ff>Witch’s White Chalk</color>?=<noparse></noparse>¿Debería volver a dibujar el sello de la bruja usando 1x <color=#800000ff>Tiza Blanca de Bruja</color>?
+<noparse></noparse>That's a <color=#800000ff>witch's house</color>, isn't it?=<noparse></noparse>Esa es una <color=#800000ff>casa de la bruja</color>, ¿no?
+<noparse></noparse>Isn't it natural for an <color=#800000ff>apprentice witch</color> to stay at a <color=#800000ff>Witch's House</color>?=<noparse></noparse>¿No es natural que una <color=#800000ff>aprendiz de bruja</color> se quede en una <color=#800000ff>Casa de la Bruja</color>?
+<noparse></noparse>It doesn't seem to be in a very good condition considering how dirty it is.=<noparse></noparse>No parece estar en muy buenas condiciones considerando lo sucia que está.
+<noparse></noparse>The bed looks quite comfortable, though?=<noparse></noparse>¿Pero la cama parece bastante cómoda, verdad?
+Collecting uses Energy.\nYou can recover spent Energy by <color=#800000>eating</color> or <color=#800000>sleeping</color>.=Recolectar gasta Energía.\nPuedes recuperar la Energía gastada <color=#800000>comiendo</color> o <color=#800000>durmiendo</color>.
+<noparse></noparse>We'll just stay for one day. Who cares?=<noparse></noparse>Solo nos quedaremos un día. ¿A quién le importa?
+<noparse></noparse>Glad I didn't sleep in.=<noparse></noparse>Me alegro de no haberme quedado dormida.
+<noparse></noparse>Why are you so calm?=<noparse></noparse>¿Por qué estás tan tranquilo?
+<noparse></noparse>He says there's a <color=#800000ff>village</color>, Virgil!=<noparse></noparse>¡Dice que hay una <color=#800000ff>aldea</color>, Virgil!
+<noparse></noparse>There's a <color=#800000ff>village</color> nearby!=<noparse></noparse>¡Hay una <color=#800000ff>aldea</color> cerca!
+<noparse></noparse>But we didn't see one yesterday.=<noparse></noparse>Pero no vimos ninguna ayer.
+<noparse></noparse>It was probably too dark to see. Let's look for it again.=<noparse></noparse>Probablemente estaba demasiado oscuro para ver.\nBusquémosla de nuevo.
+They say that there is a village nearby. Look for the sign to locate it.=Dicen que hay una aldea cerca.\nBusca el letrero para localizarla.
+<noparse></noparse>See if there is a <color=#800000ff>sign</color> as well.=<noparse></noparse>Mira a ver si hay un <color=#800000ff>letrero</color> también.
+<noparse></noparse>How about <color=#800000ff>cleaning</color> the witch's house?=<noparse></noparse>¿Qué tal si <color=#800000ff>limpiamos</color> la casa de la bruja?
+<noparse></noparse>We might have to stay there until we find the village.=<noparse></noparse>Quizás tengamos que quedarnos allí hasta que encontremos la aldea.
+<noparse></noparse>Let's get rid of the weed first.=<noparse></noparse>Primero deshagámonos de la maleza.
+<noparse></noparse>There's too much.=<noparse></noparse>Hay demasiada.
+<noparse></noparse>It would take forever to pull all this out using hands.=<noparse></noparse>Llevaría una eternidad arrancar todo esto usando las manos.
+<noparse></noparse>Take a look at the bin over there.=<noparse></noparse>Echa un vistazo al contenedor de allí.
+<noparse></noparse>It might contain a potion to get rid of weed.=<noparse></noparse>Podría contener una poción para deshacerse de la maleza.
+<noparse></noparse>There’s nothing here.=<noparse></noparse>No hay nada aquí.
+<noparse></noparse>Then we'll have to use another tool.=<noparse></noparse>Entonces tendremos que usar otra herramienta.
+<noparse></noparse>Is there another tool?=<noparse></noparse>¿Hay otra herramienta?
+<noparse></noparse>Yes, there is a wonderful tool.=<noparse></noparse>Sí, hay una herramienta maravillosa.
+<noparse></noparse>Your hands.=<noparse></noparse>Tus manos.
+<noparse></noparse>Alright, I think that was all?=<noparse></noparse>Muy bien, ¿creo que eso fue todo?
+<noparse></noparse>It's clean now. Good.=<noparse></noparse>Ahora está limpio. Bien.
+<noparse></noparse>Now it's time to tidy up the house.=<noparse></noparse>Ahora es el momento de ordenar la casa.
+<noparse></noparse>Ha, right.=<noparse></noparse>Ja, cierto.
+<noparse></noparse>Look, Ellie! It's a <color=#800000ff>quest mark</color>!=<noparse></noparse>¡Mira, Ellie!\n¡Es una <color=#800000ff>marca de misión</color>!
+<noparse></noparse>All I see is dust and cobwebs that we have to <color=#800000ff>clean up</color>.=<noparse></noparse>Todo lo que veo es polvo y telarañas que tenemos que <color=#800000ff>limpiar</color>.
+<noparse></noparse>Exactly what I'm talking about.=<noparse></noparse>Exactamente de lo que estoy hablando.
+<noparse></noparse>Let's find something useful while <color=#800000ff>cleaning</color>.=<noparse></noparse>Busquemos algo útil mientras <color=#800000ff>limpiamos</color>.
+<noparse></noparse>I wonder where the previous witch has gone.=<noparse></noparse>Me pregunto a dónde habrá ido la bruja anterior.
+<noparse></noparse>She probably left a long, long time ago.=<noparse></noparse>Probablemente se fue hace mucho, mucho tiempo.
+<noparse></noparse>She can be living well somewhere in Lucerine Ortu.=<noparse></noparse>Podría estar viviendo bien en algún lugar de Lucerine Ortu.
+<noparse></noparse>It’s a witch bookshelf!=<noparse></noparse>¡Es una estantería de bruja!
+<noparse></noparse>Technically, it's a bookshelf that a witch once used.=<noparse></noparse>Técnicamente, es una estantería que alguna vez usó una bruja.
+<noparse></noparse>That's same as a witch bookshelf!=<noparse></noparse>¡Eso es lo mismo que una estantería de bruja!
+<noparse></noparse>I'm not going to read a book though. I'm tired of books.=<noparse></noparse>Aunque no voy a leer un libro.\nEstoy cansada de los libros.
+<noparse></noparse>Even a <color=#800000ff>poisonous mushroom</color> is better than <color=#800000ff>a witch who doesn't read books</color>.=<noparse></noparse>Incluso un <color=#800000ff>hongo venenoso</color> es mejor que <color=#800000ff>una bruja que no lee libros</color>.
+<noparse></noparse>Because <color=#800000ff>a poisonous mushroom</color> kills <color=#800000ff>just one person</color>.=<noparse></noparse>Porque <color=#800000ff>un hongo venenoso</color> mata a <color=#800000ff>solo una persona</color>.
+<noparse></noparse>Stop nagging. I read enough books at school!=<noparse></noparse>Deja de regañar.\n¡Leí suficientes libros en la escuela!
+<noparse></noparse>Hmm, 12 Plants That Changed the History of Witches, Fun Witch Plant Encyclopedia, Dream Plants for Witch Garden...=<noparse></noparse>Mmmm, 12 Plantas que Cambiaron la Historia de las Brujas, Divertida Enciclopedia de Plantas de Bruja, Plantas de Ensueño para el Jardín de Brujas...
+<noparse></noparse>There are so many books on plants.=<noparse></noparse>Hay tantos libros sobre plantas.
+<noparse></noparse>I guess the previous resident was a witch who studied plants.=<noparse></noparse>Supongo que el residente anterior era una bruja que estudiaba las plantas.
+<noparse></noparse>I should store any books I get in here.=<noparse></noparse>Debería guardar todos los libros que consiga aquí.
+<noparse></noparse>All done cleaning!=<noparse></noparse>¡Terminé de limpiar!
+<noparse></noparse>It's also messy <color=#800000ff>in front of the desk</color> over there, Ellie, in case you didn't notice.=<noparse></noparse>También está desordenado <color=#800000ff>frente al escritorio</color> de allá, Ellie, por si no te diste cuenta.
+<noparse></noparse>Stop bossing me around like a professor.=<noparse></noparse>Deja de darme órdenes como un profesor.
+<noparse></noparse>I finally managed to get out of school!=<noparse></noparse>¡Por fin logré salir de la escuela!
+<noparse></noparse>There's some dust over there, Ellie.=<noparse></noparse>Hay algo de polvo allí, Ellie.
+<noparse></noparse>Don't leave food behind, Ellie.=<noparse></noparse>No dejes comida, Ellie.
+<noparse></noparse>I told you not to go inside the principal's office, Ellie.=<noparse></noparse>Te dije que no entraras a la oficina de la directora, Ellie.
+<noparse></noparse>You should have listened.=<noparse></noparse>Deberías haber escuchado.
+<noparse></noparse>Oh, this is a <color=#800000ff>witch elevator</color>!=<noparse></noparse>Oh, ¡este es un <color=#800000ff>elevador de bruja</color>!
+<noparse></noparse>That's why you should listen to your professors.=<noparse></noparse>Por eso deberías escuchar a tus profesores.
+<noparse></noparse>Let's hurry up and go down.=<noparse></noparse>Apresurémonos y bajemos.
+<noparse></noparse>What if there's a scary monster?=<noparse></noparse>¿Y si hay un monstruo aterrador?
+<noparse></noparse>You think so? Oh, I'm so excited!=<noparse></noparse>¿Tú crees? ¡Oh, estoy tan emocionada!
+<noparse></noparse>Wow. Look at this, Virgil.=<noparse></noparse>Vaya. Mira esto, Virgil.
+<noparse></noparse>This looks like the <color=#800000ff>Dispensary</color>. You can make <color=#800000ff>potions</color> here as long as you've got the proper <color=#800000ff>tools</color>.=<noparse></noparse>Esto parece el <color=#800000ff>Dispensario</color>. Puedes hacer <color=#800000ff>pociones</color> aquí siempre y cuando tengas las <color=#800000ff>herramientas</color> adecuadas.
+<noparse></noparse>But it needs some <color=#800000ff>cleaning</color> first.=<noparse></noparse>Pero primero necesita algo de <color=#800000ff>limpieza</color>.
+<noparse></noparse>Wow... <color=#800000ff>Cleaning</color> again...=<noparse></noparse>Vaya... <color=#800000ff>Limpiar</color> de nuevo...
+<noparse></noparse>I know what this is! It's an <color=#800000ff>Extractor</color>! =<noparse></noparse>¡Sé lo que es esto!\n¡Es un <color=#800000ff>Extractor</color>! 
+<noparse></noparse>We used it sooooo many times at school. It was a slightly smaller one though.=<noparse></noparse>Lo usamos muuuuchas veces en la escuela. Aunque era uno un poco más pequeño.
+<noparse></noparse>It would be hard to use. Look at the <color=#800000ff>glass bottle</color> underneath.=<noparse></noparse>Sería difícil de usar. Mira la <color=#800000ff>botella de vidrio</color> de abajo.
+<noparse></noparse>Oh, that's true. It's broken.=<noparse></noparse>Oh, es cierto. Está rota.
+<noparse></noparse>I'll need a friendly toad at least.=<noparse></noparse>Necesitaré un sapo amigable al menos.
+<noparse></noparse>I’ll need to get a <color=#800000ff>glass bottle</color> first in order to use this.=<noparse></noparse>Primero necesitaré conseguir una <color=#800000ff>botella de vidrio</color> para poder usar esto.
+<noparse></noparse>You need to at least fix the extractor in order to make potions.=<noparse></noparse>Necesitas al menos arreglar el extractor para poder hacer pociones.
+<noparse></noparse>Alright. Let's go to the <color=#800000ff>village</color> first.=<noparse></noparse>Está bien.\nVamos a la <color=#800000ff>aldea</color> primero.
+<noparse></noparse>Let's look for one.=<noparse></noparse>Vamos a buscar una.
+Find the glass bottle for the Extractor=Encuentra la botella de vidrio para el Extractor
+<noparse></noparse>Wow, this pot looks pretty good.=<noparse></noparse>Vaya, esta olla tiene muy buena pinta.
+<noparse></noparse>I think it was made by the "Blue Thunder Workshop."=<noparse></noparse>Creo que fue hecha por el "Taller Trueno Azul".
+<noparse></noparse>And it has a very classic design.=<noparse></noparse>Y tiene un diseño muy clásico.
+<noparse></noparse>I've only ever used the cheap pots at school. Finally, I get to use a good one!=<noparse></noparse>En la escuela solo he usado ollas baratas.\n¡Por fin, puedo usar una buena!
+<noparse></noparse>Do you remember how to use one?=<noparse></noparse>¿Recuerdas cómo usar una?
+<noparse></noparse>Use processed <color=#800000ff>ingredients</color>, <color=#800000ff>heat</color> them precisely, and <color=#800000ff>stir them in the right direction</color>.=<noparse></noparse>Usa <color=#800000ff>ingredientes</color> procesados, dales un <color=#800000ff>fuego</color> preciso y <color=#800000ff>revuélvelos en la dirección correcta</color>.
+<noparse></noparse>And at last!=<noparse></noparse>¡Y al final!
+<noparse></noparse>At last! You'll end up with a proper <color=#800000ff>potion</color>.=<noparse></noparse>¡Al final! Terminarás con una verdadera <color=#800000ff>poción</color>.
+I actually like the way Ms. Olivia speaks.=De hecho, me gusta la forma en que habla la Sra. Olivia.
+Crafting Potions=Elaboración de Pociones
+In order to craft potions, you need to follow the required\n<color=#800000>Ingredients</color>, <color=#800000>Fire Setting</color>, and <color=#800000>Ladle Direction</color>.\nCarefully read the <color=#800000>recipes in the Encyclopedia</color>.=Para elaborar pociones, debes seguir los requerimientos de\n<color=#800000>Ingredientes</color>, <color=#800000>Fuego</color> y <color=#800000>Dirección del Cucharón</color>.\nLee cuidadosamente las <color=#800000>recetas en la Enciclopedia</color>.
+<noparse></noparse>Still, the pot is fine.=<noparse></noparse>Aun así, la olla está bien.
+<noparse></noparse>You’ll be able to make a potion if you have the ingredients.=<noparse></noparse>Podrás hacer una poción si tienes los ingredientes.
+<noparse></noparse>The processing tools are in bad condition though.=<noparse></noparse>Sin embargo, las herramientas de procesamiento están en mal estado.
+<noparse></noparse>Since there are some discarded ingredients...=<noparse></noparse>Ya que hay algunos ingredientes desechados...
+<noparse></noparse>Let’s make the potion we need using them for now.=<noparse></noparse>Hagamos la poción que necesitamos usándolos por ahora.
+<color=#ff0000>1. Find the glass bottle for the Extractor</color>=<color=#ff0000>1. Encuentra la botella de vidrio para el Extractor</color>
+<color=#ff0000>4. Find the location of the village</color>=<color=#ff0000>4. Encuentra la ubicación de la aldea</color>
+<color=#ff0000>3. Clean the Witch's House</color>=<color=#ff0000>3. Limpia la Casa de la Bruja</color>
+Clean the Witch’s House, where a prolonged stay seems inevitable\r\n\r\nThey say that there is a village nearby. Look for the sign to locate it.\r\n\r\n=Limpia la Casa de la Bruja, donde una estancia prolongada parece inevitable.\r\n\r\nDicen que hay una aldea cerca. Busca el letrero para localizarla.\r\n\r\n
+<noparse></noparse>This is a potion ingredient, isn't it?=<noparse></noparse>Este es un ingrediente para pociones, ¿no?
+<noparse></noparse>You've used them in school countless of times.=<noparse></noparse>Los has usado en la escuela innumerables veces.
+<noparse></noparse>Are witches usually this sloppy?=<noparse></noparse>¿Las brujas suelen ser así de descuidadas?
+<noparse></noparse>Sloppy or not, they're careful with their ingredients.=<noparse></noparse>Descuidadas o no, tienen cuidado con sus ingredientes.
+<noparse></noparse>Then I guess the witch that lived here was really sloppy.=<noparse></noparse>Entonces supongo que la bruja que vivía aquí era muy descuidada.
+<noparse></noparse>Or she left in a hurry.=<noparse></noparse>O se fue a toda prisa.
+<noparse></noparse>A <color=#800000ff>Roaster</color>? Ugh, I hate this thing.=<noparse></noparse>¿Un <color=#800000ff>Tostador</color>?\nUgh, odio esta cosa.
+<noparse></noparse>After you put in the collected items, it's a long and anxious wait.=<noparse></noparse>Después de poner los artículos recolectados, es una espera larga y ansiosa.
+<noparse></noparse>It's quite convenient as long as you remember to toss the collected items in before hand.=<noparse></noparse>Es bastante conveniente siempre y cuando recuerdes echar dentro los artículos recolectados de antemano.
+<noparse></noparse>But it seems to be in bad condition?=<noparse></noparse>¿Pero parece estar en mal estado?
+<noparse></noparse>Really? Oh, yes. There is no handle for winding the spring.=<noparse></noparse>¿En serio?\nOh, sí. No hay asa para dar cuerda al resorte.
+<noparse></noparse>Where would I get a Roaster handle?=<noparse></noparse>¿Dónde conseguiría un asa de Tostador?
+<noparse></noparse>It's okay. The Roaster is not needed for the basic recipes.=<noparse></noparse>Está bien.\nNo se necesita el Tostador para las recetas básicas.
+<noparse></noparse>We may find something in the village.=<noparse></noparse>Quizás encontremos algo en la aldea.
+<noparse></noparse>Yeah, let's go to the village first.=<noparse></noparse>Sí, vayamos primero a la aldea.
+<noparse></noparse>How come everything here is broken?=<noparse></noparse>¿Cómo es que todo aquí está roto?
+<noparse></noparse>You can't expect to find things intact in a place so dirty and messy.=<noparse></noparse>No puedes esperar encontrar cosas intactas en un lugar tan sucio y desordenado.
+<noparse></noparse>This <color=#800000ff>box</color> looks pretty useful.=<noparse></noparse>Esta <color=#800000ff>caja</color> parece bastante útil.
+<noparse></noparse>I can put stuff in here when my pockets are full.=<noparse></noparse>Puedo poner cosas aquí cuando mis bolsillos estén llenos.
+<noparse></noparse>The spilled bottle, scribbled paper and a book... What a mess.=<noparse></noparse>La botella derramada, el papel garabateado y un libro... Qué desastre.
+<noparse></noparse>Just brush off the dust.=<noparse></noparse>Solo quita el polvo.
+<noparse></noparse>Just brushing off the dust might take a lifetime...=<noparse></noparse>Solo quitar el polvo podría llevar toda una vida...
+<noparse></noparse><color=#800000ff>Moon Oil</color>? Looks like a <color=#800000ff>recipe</color> for potion.=<noparse></noparse>¿<color=#800000ff>Aceite de Luna</color>?\nParece una <color=#800000ff>receta</color> para una poción.
+<noparse></noparse>Judging from the mark, this should be a <color=#800000ff>Limited Recipe</color>.=<noparse></noparse>A juzgar por la marca, esta debería ser una <color=#800000ff>Receta Limitada</color>.
+<noparse></noparse>Limited Recipes are also <color=#800000ff>disposable</color>.=<noparse></noparse>Las Recetas Limitadas también son <color=#800000ff>desechables</color>.
+<noparse></noparse>I guess it belongs to the previous witch.=<noparse></noparse>Supongo que pertenece a la bruja anterior.
+<noparse></noparse>It reads, "a potion with the <color=#800000ff>power of moon</color>." The ingredients are <color=#800000ff>Moonflower</color> and <color=#800000ff>Phoenix Feather</color>.=<noparse></noparse>Dice, "una poción con el <color=#800000ff>poder de la luna</color>." Los ingredientes son <color=#800000ff>Flor de Luna</color> y <color=#800000ff>Pluma de Fénix</color>.
+<noparse></noparse>They are all very expensive.=<noparse></noparse>Todos son muy caros.
+Recipe "Moon Oil"=Receta "Aceite de Luna"
+<noparse></noparse>I'll use it someday. Let's have it ready for now.=<noparse></noparse>La usaré algún día. Tengámosla lista por ahora.
+<noparse></noparse>Yup, alright.=<noparse></noparse>Sip, de acuerdo.
+<noparse></noparse>There is also something underneath.=<noparse></noparse>También hay algo debajo.
+<noparse></noparse>Where? Oh, you're right.=<noparse></noparse>¿Dónde?\nAh, tienes razón.
+<noparse></noparse>Um, I don't know what kind of text this is.=<noparse></noparse>Um, no sé qué tipo de texto es este.
+<noparse></noparse>You learned it at school. It's the <color=#800000ff>ancient witch language</color>.=<noparse></noparse>Lo aprendiste en la escuela.\nEs el <color=#800000ff>antiguo lenguaje de las brujas</color>.
+<noparse></noparse>You mean I learned how to read these strange symbols?=<noparse></noparse>¿Quieres decir que aprendí a leer estos extraños símbolos?
+<noparse></noparse>Your score wasn't bad either.=<noparse></noparse>Tu nota tampoco fue mala.
+<noparse></noparse>I don’t remember anything.=<noparse></noparse>No recuerdo nada.
+<noparse></noparse>Anyway, let's have a look first.=<noparse></noparse>De todos modos, echemos un vistazo primero.
+<noparse></noparse>Um... Looks like a <color=#800000ff>recipe</color>...=<noparse></noparse>Um... Parece una <color=#800000ff>receta</color>...
+<noparse></noparse>It seems like <color=#800000ff>moon’s...</color> something...=<noparse></noparse>Parece la... algo <color=#800000ff>de la luna</color>...
+<noparse></noparse>I have no idea. I got a headache.=<noparse></noparse>No tengo ni idea. Me dio dolor de cabeza.
+<noparse></noparse>Take a look if you remember later.=<noparse></noparse>Échale un vistazo si te acuerdas más tarde.
+Yeah! I should put it away and revisit it later.=¡Sí!\nDebería guardarlo y revisarlo más tarde.
+<noparse></noparse>This desk would be nice to use as a workbench later.=<noparse></noparse>Este escritorio sería bueno para usar como banco de trabajo más tarde.
+<noparse></noparse>There's no use for it now, though.=<noparse></noparse>Aunque ahora no sirve para nada.
+You can view life form information and potion recipes\nwritten with the quill in the Encyclopedia.=Puedes ver información sobre formas de vida y recetas de pociones\nescritas con la pluma en la Enciclopedia.
+View Encyclopedia/Recipes=Ver Enciclopedia/Recetas
+<noparse></noparse>I think we're pretty well-equipped now.=<noparse></noparse>Creo que ahora estamos bastante bien equipados.
+<noparse></noparse>And we can make <color=#800000ff>potions</color> now.=<noparse></noparse>Y ya podemos hacer <color=#800000ff>pociones</color>.
+<noparse></noparse>Only half of this stuff remains, so you can't process.=<noparse></noparse>Solo queda la mitad de esta cosa, por lo que no la puedes procesar.
+<noparse></noparse>Let's try making some with the stuff we picked up earlier!=<noparse></noparse>¡Intentemos hacer algunas con las cosas que recogimos antes!
+<noparse></noparse>What do you mean why? Why not?=<noparse></noparse>¿Qué quieres decir con por qué?\n¿Por qué no?
+<noparse></noparse>I asked because people usually have reasons.=<noparse></noparse>Pregunté porque la gente suele tener razones.
+You can use the <color=#800000>Witch's Pot</color> in the workshop to <color=#800000>craft the potion you need</color>.\nWhen crafting a potion, you need to <color=#800000>check its recipe in the Encyclopedia</color>, use the required <color=#800000>ingredients</color>, adjust the <color=#800000>fire setting</color> and stir with the <color=#800000>ladle</color>.=Puedes usar la <color=#800000>Olla de Bruja</color> en el taller para <color=#800000>elaborar la poción que necesitas</color>.\nAl elaborar una poción, debes <color=#800000>revisar su receta en la Enciclopedia</color>, usar los <color=#800000>ingredientes</color> requeridos, ajustar el <color=#800000>fuego</color> y remover con el <color=#800000>cucharón</color>.
+Potion Brewing Method=Método de Elaboración de Pociones
+Alright, then let's make potions in the <color=#800000ff>witch's pot</color>.=Muy bien, entonces hagamos pociones en la <color=#800000ff>olla de bruja</color>.
+The progression bar at the top indicates the <color=#800000>quality of the potion</color> you're crafting. If you don't follow the instructions, the bar will shorten.\nIf the bar disappears, <color=#800000>the crafting fails</color>.\nThe longer the remaining bar when you finish crafting, the <color=#800000>higher your score</color>.=La barra de progreso en la parte superior indica la <color=#800000>calidad de la poción</color> que estás elaborando. Si no sigues las instrucciones, la barra se acortará.\nSi la barra desaparece, <color=#800000>la elaboración fracasa</color>.\nCuanto más larga sea la barra restante cuando termines de elaborar, <color=#800000>mayor será tu puntuación</color>.
+Displayed on the right is the <color=#800000>recipe of the potion</color> currently being crafted.\n<color=#800000>Complete all phases of the recipe</color> without failing and <color=#800000>the crafting will be successful</color>.=A la derecha se muestra la <color=#800000>receta de la poción</color> que se está elaborando actualmente.\n<color=#800000>Completa todas las fases de la receta</color> sin fallar y <color=#800000>la elaboración será exitosa</color>.
+During the fire setting phase, you should adjust the <color=#800000>heat intensity</color> as required.\nYou just need to follow the <color=#800000>recipe</color>'s instructions of the current phase and meet the <color=#800000>heat intensity and duration requirements</color>.=Durante la fase de configuración del fuego, debes ajustar la <color=#800000>intensidad del calor</color> según se requiera.\nSolo necesitas seguir las instrucciones de la <color=#800000>receta</color> de la fase actual y cumplir con los requisitos de <color=#800000>intensidad del calor y duración</color>.
+During the ladle direction phase, you should adjust the <color=#800000>ladle direction</color>.\nYou just need to follow the <color=#800000>recipe</color>'s instructions and <color=#800000>stir in the required direction</color> for the required amount of time.=Durante la fase de dirección del cucharón, debes ajustar la <color=#800000>dirección del cucharón</color>.\nSolo necesitas seguir las instrucciones de la <color=#800000>receta</color> y <color=#800000>remover en la dirección requerida</color> durante el tiempo requerido.
+When adding ingredients, you must add the <color=#800000>required ingredients</color>.\nYou just need to follow the instructions in the <color=#800000>recipe</color> and add the <color=#800000>ingredients required</color> for the current phase into the Witch's Pot.=Al añadir ingredientes, debes añadir los <color=#800000>ingredientes requeridos</color>.\nSolo necesitas seguir las instrucciones en la <color=#800000>receta</color> y añadir los <color=#800000>ingredientes requeridos</color> para la fase actual en la Olla de Bruja.
+When crafting, you may encounter <color=#800000>unexpected situations</color> in both the <color=#800000>fire setting phase</color> and the <color=#800000>ladle direction phase</color>.\nHandle the unexpected situations and make high-quality potions!=Al elaborar pociones, puedes encontrarte con <color=#800000>situaciones inesperadas</color> tanto en la <color=#800000>fase de configuración del fuego</color> como en la <color=#800000>fase de dirección del cucharón</color>.\n¡Maneja las situaciones inesperadas y elabora pociones de alta calidad!
+<color=#9F3331>1</color>time(s)=<color=#9F3331>1</color> vez/veces
+"Unstuck" is a teleportation that sends Ellie to a specified place when she's stuck in walls.="Desatascar" es un teletransporte que envía a Ellie a un lugar específico cuando se queda atascada en las paredes.
+Attempts=Intentos
+<color=#9F3331>0</color>sec=<color=#9F3331>0</color> seg
+Cooldown=Tiempo de espera
+Activity ongoing. Cannot bail out.=Actividad en curso.\nNo se puede abandonar.
+This tutorial has not been completed yet.\nYou can review it later in the Tutorial Archive once completed.=Este tutorial aún no se ha completado.\nPodrás revisarlo más tarde en el Archivo de Tutoriales una vez completado.
+Witch’s Encyclopedia and Quill=Enciclopedia y Pluma de Bruja
+Complete Research Topics to receive additional rewards.=Completa Temas de Investigación para recibir recompensas adicionales.
+In the illustrated Encyclopedia, you can obtain various information about plants and animals.\nCheck their habitats, gathering tools, and collection methods, then try gathering them.=En la Enciclopedia ilustrada puedes obtener diversa información sobre plantas y animales.\nComprueba sus hábitats, herramientas de recolección y métodos de obtención, luego intenta recolectarlos.
+Drawing life forms with the <color=#800000>Quill</color> in the Encyclopedia unlocks <color=#800000>information</color> about them.\nWhen you draw the same type of plant or animal <color=#800000>multiple times</color>, <color=#800000>additional information</color> will be unlocked.=Dibujar formas de vida con la <color=#800000>Pluma</color> en la Enciclopedia desbloquea <color=#800000>información</color> sobre ellas.\nCuando dibujas el mismo tipo de planta o animal <color=#800000>múltiples veces</color>, se desbloqueará <color=#800000>información adicional</color>.
+Once a subject has been drawn with the Quill, it cannot be drawn again.\nThere's <color=#800000>a cooldown</color> before you can use the quill on <color=#800000>something of this type</color> again.=Una vez que un sujeto ha sido dibujado con la Pluma, no se puede volver a dibujar.\nHay <color=#800000>un tiempo de espera</color> antes de que puedas usar la pluma en <color=#800000>algo de este tipo</color> otra vez.
+26.03.04 07:31 PM=26.03.04 19:31
+Day 1 of Month 1st, Year 1=Día 1 del mes 1, año 1
+26.03.04 07:45 PM=26.03.04 19:45
+Day 2 of Month 1st, Year 1=Día 2 del mes 1, año 1
+<noparse></noparse>I have to return to the train.=<noparse></noparse>Tengo que volver al tren.
+<noparse></noparse>And clean the witch's house.=<noparse></noparse>Y limpiar la casa de la bruja.
+<noparse></noparse>I should clean this place up first.=<noparse></noparse>Primero debería limpiar este lugar.
+<noparse></noparse>Awesome. The <color=#800000ff>"Stubborn Weed Elimination Potion"</color> is complete!=<noparse></noparse>Impresionante. ¡La <color=#800000ff>"Poción de Eliminación de Maleza Rebelde"</color> está completa!
+<noparse></noparse>It's "Extermination," not Elimination.=<noparse></noparse>Es "Exterminadora", no de Eliminación.
+<noparse></noparse>Anyway, it's ready!=<noparse></noparse>De todos modos, ¡está lista!
+<noparse></noparse>Let's look for the village for now.=<noparse></noparse>Busquemos la aldea por ahora.
+<noparse></noparse>You must use it carefully since there are no more ingredients.=<noparse></noparse>Debes usarla con cuidado ya que no hay más ingredientes.
+<noparse></noparse>Okay. Don’t worry.=<noparse></noparse>Bien. No te preocupes.
+<noparse></noparse>Throw it at the <color=#800000ff>Little Honey Pumpkin</color>, find the <color=#800000ff>vine core</color>, and remove it.=<noparse></noparse>Tírala a la <color=#800000ff>Pequeña Calabaza de Miel</color>, encuentra el <color=#800000ff>núcleo de la enredadera</color> y quítalo.
+<noparse></noparse>Because Weed Terminator Potion is just a <color=#800000ff>temporary measure</color>.=<noparse></noparse>Porque la Poción Exterminadora de Maleza es solo una <color=#800000ff>medida temporal</color>.
+<noparse></noparse>I got it!=<noparse></noparse>¡Entendido!
+You can use the <color=#800000>Potion Selector</color> to <color=#800000>select</color> any potion and <color=#800000>use</color> it.=Puedes usar el <color=#800000>Selector de Pociones</color> para <color=#800000>seleccionar</color> cualquier poción y <color=#800000>usarla</color>.
+Use Potions=Usar Pociones
+Open potion selection UI=Abrir la interfaz de selección de pociones
+Save / Load=Guardar / Cargar
+You can now save and load from the cabinet on the first floor of the Witch's House.=Ahora puedes guardar y cargar desde el gabinete en el primer piso de la Casa de la Bruja.
+You can take naps.\n*You cannot take naps at <color=#800000>night</color>.\n*You can only <color=#800000>take one nap per day</color>.=Puedes tomar siestas.\n*No puedes tomar siestas por la <color=#800000>noche</color>.\n*Solo puedes <color=#800000>tomar una siesta por día</color>.
+Naps=Siestas
+<noparse></noparse>Here it goes!=<noparse></noparse>¡Aquí va!
+<noparse></noparse>I missed...=<noparse></noparse>Fallé...
+<noparse></noparse>Well, it happens.=<noparse></noparse>Bueno, suele pasar.
+<noparse></noparse>I thought we'd need it, so I had one hidden.=<noparse></noparse>Pensé que la necesitaríamos, así que tenía una escondida.
+Really? How?=¿De verdad? ¿Cómo?
+<noparse></noparse>Don’t ask how.=<noparse></noparse>No preguntes cómo.
+<noparse></noparse>You'll only embarrass yourself.=<noparse></noparse>Solo te avergonzarás a ti mismo.
+<noparse></noparse>Be careful this time.=<noparse></noparse>Ten cuidado esta vez.
+<noparse></noparse>Or you'll embarrass yourself a lot.=<noparse></noparse>O te avergonzarás mucho.
+26.03.04 08:23 PM=26.03.04 20:23
+26.03.04 08:21 PM=26.03.04 20:21
+Are you sure you want to delete the saved file?\n\n<color=#800000>Deleted files cannot be restored.</color>=¿Estás seguro de que deseas eliminar el archivo guardado?\n\n<color=#800000>Los archivos eliminados no se pueden restaurar.</color>
+The village lies to the <color=#800000ff>east</color> of here.=La aldea se encuentra al <color=#800000ff>este</color> de aquí.
+<noparse></noparse>The village lies to the <color=#800000ff>east</color> of here.=<noparse></noparse>La aldea se encuentra al <color=#800000ff>este</color> de aquí.
+<noparse></noparse>I guess people do live around here.=<noparse></noparse>Supongo que sí vive gente por aquí.
+<noparse></noparse>Alright, let's head east.=<noparse></noparse>Muy bien, vayamos hacia el este.
+<noparse></noparse>But it seems to be blocked by something over there.=<noparse></noparse>Pero parece estar bloqueado por algo allí.
+<noparse></noparse>That’s true. It’s Little Honey Pumpkin.=<noparse></noparse>Es cierto. Es una Pequeña Calabaza de Miel.
+<noparse></noparse>Let’s go take a look first.=<noparse></noparse>Vayamos a echar un vistazo primero.
+<color=#ff0000>5. Investigate the obstacles</color>=<color=#ff0000>5. Investiga los obstáculos</color>
+<noparse></noparse>I think this road leads to the <color=#800000ff>village</color>, but the <color=#800000ff>Little Honey Pumpkin</color> is in the way.=<noparse></noparse>Creo que este camino conduce a la <color=#800000ff>aldea</color>, pero la <color=#800000ff>Pequeña Calabaza de Miel</color> está en el camino.
+<noparse></noparse>Let's go to the <color=#800000ff>Witch's House</color> and figure it out.=<noparse></noparse>Vayamos a la <color=#800000ff>Casa de la Bruja</color> y averigüémoslo.
+<noparse></noparse>And also clean up.=<noparse></noparse>Y también a limpiar.
+Ink on the "Silver Starbell" page isn't dry yet.=La tinta en la página "Campanilla de Plata" aún no está seca.
+<noparse></noparse>I wouldn't mind taking a nap here sometime in the future.=<noparse></noparse>No me importaría tomar una siesta aquí en un futuro.
+<noparse></noparse>Yes! I'm all done <color=#800000ff>cleaning</color>.=<noparse></noparse>¡Sí! Terminé de <color=#800000ff>limpiar</color>.
+<noparse></noparse>You can't process properly with broken tools.=<noparse></noparse>No se puede procesar correctamente con herramientas rotas.
+<noparse></noparse>Someone left their ingredients on the floor. Let's try making with them for now.=<noparse></noparse>Alguien dejó sus ingredientes en el suelo. Intentemos elaborar con ellos por ahora.
+<noparse></noparse>There was <color=#800000ff>Little Honey Pumpkin</color> in front of the village...=<noparse></noparse>Había una <color=#800000ff>Pequeña Calabaza de Miel</color> frente a la aldea...
+<noparse></noparse>The <color=#800000ff>"Stubborn Weed Elimination Potion"</color> should do it, right?=<noparse></noparse>La <color=#800000ff>"Poción de Eliminación de Maleza Rebelde"</color> debería servir, ¿verdad?
+<noparse></noparse>It’s a <color=#800000ff>'Weed Terminator Potion'</color>.=<noparse></noparse>Es una <color=#800000ff>'Poción Exterminadora de Maleza'</color>.
+<noparse></noparse>Anyway, let's get started!=<noparse></noparse>De cualquier manera, ¡comencemos!
+<noparse></noparse>Check the recipe in the Encyclopedia.=<noparse></noparse>Consulta la receta en la Enciclopedia.
+<noparse></noparse>You can probably use the ingredients you were lucky enough to find.=<noparse></noparse>Probablemente puedas usar los ingredientes que tuviste la suerte de encontrar.
+Make a Stubborn Weed Extermination Potion with the ingredients in the Dispensary.=Elabora una Poción para Exterminar Maleza Rebelde con los ingredientes del Dispensario.
+Removing Little Honey Pumpkins=Quitando las Pequeñas Calabazas de Miel
+The honey pumpkin is blocking the road into the village.\n\n\nFind a way to remove the honey pumpkin.=La calabaza de miel está bloqueando el camino hacia la aldea.\n\n\nEncuentra una forma de quitar la calabaza de miel.
+<color=#ff0000>1. Craft the Weed Terminator Potion</color>=<color=#ff0000>1. Elabora la Poción Exterminadora de Maleza</color>
+Use Weed Terminator Potion to remove the Little Honey Pumpkin.=Usa la Poción Exterminadora de Maleza para quitar la Pequeña Calabaza de Miel.
+<noparse></noparse>Let's go throw it at the <color=#800000ff>Little Honey Pumpkin</color>.=<noparse></noparse>Vamos a lanzársela a la <color=#800000ff>Pequeña Calabaza de Miel</color>.
+<color=#ff0000>2. Remove Little Honey Pumpkin</color>=<color=#ff0000>2. Quita la Pequeña Calabaza de Miel</color>
+Ink on the "Witchflower" page isn't dry yet.=La tinta en la página "Flor de Bruja" aún no está seca.
+<noparse></noparse>Good, I think it’s working properly.=<noparse></noparse>Bien, creo que está funcionando correctamente.
+<noparse></noparse>Let's pass by quickly and find the core in the meantime.=<noparse></noparse>Pasemos rápido y mientras tanto encontremos el núcleo.
+<noparse></noparse>Is this the sign for the witch's house?=<noparse></noparse>¿Es este el letrero de la casa de la bruja?
+<noparse></noparse>It's different from what I'm used to.=<noparse></noparse>Es diferente a lo que estoy acostumbrada.
+<noparse></noparse>It's because it's old.=<noparse></noparse>Es porque es viejo.
+<noparse></noparse>Huh? This isn't a <color=#800000ff>village</color>?=<noparse></noparse>¿Eh? ¿Esto no es una <color=#800000ff>aldea</color>?
+<noparse></noparse>Look over there, Ellie! It's a <color=#800000ff>prickly vine</color> this time.=<noparse></noparse>¡Mira allá, Ellie! Esta vez es una <color=#800000ff>vid espinosa</color>.
+<noparse></noparse>And it's quite huge and thick.=<noparse></noparse>Y es bastante grande y gruesa.
+<noparse></noparse>What do I do with the Extractor?=<noparse></noparse>¿Qué hago con el Extractor?
+The Curse of Naturalists=La Maldición de los Naturalistas
+<noparse></noparse>You think she's <color=#800000ff>cursed</color> or something?=<noparse></noparse>¿Crees que está <color=#800000ff>maldita</color> o algo así?
+<noparse></noparse>A <color=#800000ff>curse</color> that makes her praise nature all the time?=<noparse></noparse>¿Una <color=#800000ff>maldición</color> que hace que alabe la naturaleza todo el tiempo?
+<noparse></noparse>A <color=#800000ff>curse</color> by a nature lover? Well, maybe.=<noparse></noparse>¿Una <color=#800000ff>maldición</color> de un amante de la naturaleza? Bueno, tal vez.
+<noparse></noparse>The <color=#800000ff>Curse-lifting Candy</color> that can lift the curse... It should be among the basic recipes...=<noparse></noparse>El <color=#800000ff>Dulce de Alivio de Maldición</color> que puede deshacer la maldición... Debería estar entre las recetas básicas...
+<noparse></noparse>I must process what's been collected to make candies. What should I do?=<noparse></noparse>Debo procesar lo que he recolectado para hacer dulces. ¿Qué debo hacer?
+<noparse></noparse>First, let's check on the <color=#800000ff>candy that can lift the curse</color> in the <color=#800000ff>Encyclopedia</color>.=<noparse></noparse>Primero, busquemos el <color=#800000ff>dulce de alivio de maldición</color> en la <color=#800000ff>Enciclopedia</color>.
+<noparse></noparse>Have you ever listened to the stream flowing?=<noparse></noparse>¿Alguna vez has escuchado el fluir del arroyo?
+<noparse></noparse>That beautiful subtle sound...=<noparse></noparse>Ese hermoso sonido sutil...
+<noparse></noparse>Nature is full of fascinating secrets.=<noparse></noparse>La naturaleza está llena de fascinantes secretos.
+<noparse></noparse>Let's look for the mysteries hidden among the giant trees!=<noparse></noparse>¡Busquemos los misterios escondidos entre los árboles gigantes!
+<noparse></noparse>Long live mother nature!=<noparse></noparse>¡Larga vida a la madre naturaleza!
+26.03.06 12:28 PM=26.03.06 12:28
+ver 6.0.4.0=versión 6.0.4.0
+26.03.06 12:38 PM=26.03.06 12:38
