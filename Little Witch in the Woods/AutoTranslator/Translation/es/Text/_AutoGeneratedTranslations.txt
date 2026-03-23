@@ -9399,3 +9399,86 @@ The Curse of Naturalists=La Maldición de los Naturalistas
 26.03.06 12:28 PM=26.03.06 12:28
 ver 6.0.4.0=versión 6.0.4.0
 26.03.06 12:38 PM=26.03.06 12:38
+<noparse></noparse>The thought of taking off my <color\=#800000ff>shoes</color> when I got off the train alone was disturbing enough.=<noparse></noparse>La sola idea de quitarme los <color\=#800000ff>zapatos</color> cuando me bajé del tren ya era bastante inquietante.
+<noparse></noparse>Alright. I've seen plenty of <color\=#800000ff>confused</color> passengers who were all dressed up for Highlion, only to find themselves in the wrong shoes.=<noparse></noparse>Está bien.\nHe visto muchos pasajeros <color\=#800000ff>confundidos</color> que iban todos vestidos para Highlion, solo para encontrarse con los zapatos equivocados.
+<noparse></noparse>I'm just an average <color\=#800000ff>bartender</color> working in the most expensive place in the world.=<noparse></noparse>Soy solo un <color\=#800000ff>cantinero</color> común trabajando en el lugar más caro del mundo.
+<noparse></noparse>I'm going to be an <color\=#800000ff>apprentice</color> at the Witch's House in <color\=#800000ff>Highlion</color>.=<noparse></noparse>Voy a ser una <color\=#800000ff>aprendiz</color> en la Casa de la Bruja en <color\=#800000ff>Highlion</color>.
+<noparse></noparse>After working as an apprentice for <color\=#800000ff>3 years</color>, I will able to <color\=#800000ff>graduate</color> from the School for Witches.=<noparse></noparse>Después de trabajar como aprendiz durante <color\=#800000ff>3 años</color>, podré <color\=#800000ff>graduarme</color> de la Escuela de Brujas.
+<noparse></noparse>Wow! <color\=#800000ff>Highlion</color>, huh? That's a busy place, isn't it?=<noparse></noparse>¡Guau! <color\=#800000ff>Highlion</color>, ¿eh?\nEse es un lugar muy concurrido, ¿no?
+<noparse></noparse><color\=#800000ff>"That kind of thing"</color> is what's important at the end of the day.=<noparse></noparse><color\=#800000ff>"Ese tipo de cosas"</color> es lo importante al final del día.
+<noparse></noparse>Yeah, <color\=#800000ff>"later"</color>...=<noparse></noparse>Sí, <color\=#800000ff>"más tarde"</color>...
+<noparse></noparse>I used to own a <color\=#800000ff>bar</color>.=<noparse></noparse>Solía tener un <color\=#800000ff>bar</color>.
+<noparse></noparse>Sure did. My wife and I, the <color\=#800000ff>two of us</color>...=<noparse></noparse>Claro que sí.\nMi esposa y yo, los <color\=#800000ff>dos</color>...
+<noparse></noparse>Even to this day, I still take pride in these <color\=#800000ff>eyelashes</color> of mine.=<noparse></noparse>Incluso hasta el día de hoy, todavía me enorgullezco de mis <color\=#800000ff>pestañas</color>.
+<noparse></noparse>We don't check the passengers' outfit.=<noparse></noparse>No comprobamos la vestimenta de los pasajeros.
+<noparse></noparse>Even if you don't check, it's inconvenient to get off if you wear lace-up boots.=<noparse></noparse>Aunque no lo compruebe, es un inconveniente bajarse si usas botas con cordones.
+<noparse></noparse>There are so many different types of clothing that cause discomfort, I can't define them all.=<noparse></noparse>Hay tantos tipos diferentes de ropa que causan incomodidad que no puedo enumerarlos todos.
+<noparse></noparse>Then, what about having a hard time taking off your shoes when you get off?=<noparse></noparse>Entonces, ¿qué tal si te cuesta quitarte los zapatos al bajarte?
+<noparse></noparse>Delays occur once in a while due to their shoes, but again, it's not regulated.=<noparse></noparse>De vez en cuando se producen retrasos debido a los zapatos, pero de todas formas, no está regulado.
+<noparse></noparse>I guess there's no fine.=<noparse></noparse>Supongo que no hay multa.
+<noparse></noparse>Isn't it a matter of harming social reputation rather than the fine?=<noparse></noparse>¿No se trata más bien de dañar la reputación social que de la multa?
+<noparse></noparse>I should have torn up that stupid <color\=#800000ff>ticket</color> right then and there.=<noparse></noparse>Debería haber roto ese estúpido <color\=#800000ff>boleto</color> en ese preciso momento.
+<noparse></noparse>We have to get back by <color\=#800000ff>tomorrow morning</color>.=<noparse></noparse>Tenemos que regresar <color\=#800000ff>mañana por la mañana</color>.
+<noparse></noparse>Time is money. If there's no good reason, <color\=#800000ff>it never stops</color>.=<noparse></noparse>El tiempo es dinero.\nSi no hay una buena razón, <color\=#800000ff>nunca se detiene</color>.
+<noparse></noparse>Once they fix the problem, it will leave <color\=#800000ff>right away</color>.=<noparse></noparse>Una vez que solucionen el problema, se irá <color\=#800000ff>de inmediato</color>.
+<noparse></noparse>The crew member just said we'll be leaving <color\=#800000ff>tomorrow morning</color>.=<noparse></noparse>El miembro de la tripulación acaba de decir que nos iremos <color\=#800000ff>mañana por la mañana</color>.
+<noparse></noparse>I saw a <color\=#800000ff>mysterious tree</color> outside the window.=<noparse></noparse>Vi un <color\=#800000ff>árbol misterioso</color> fuera de la ventana.
+<noparse></noparse>A <color\=#800000ff>mysterious tree?</color> What did it look like?=<noparse></noparse><color\=#800000ff>¿Un árbol misterioso?</color> ¿Qué aspecto tenía?
+<noparse></noparse>It was a <color\=#800000ff>gigantic shining tree</color>. =<noparse></noparse>Fue un <color\=#800000ff>gigantesco árbol brillante</color>.
+<noparse></noparse>A <color\=#800000ff>shining tree?</color> I've never heard of such a thing.=<noparse></noparse><color\=#800000ff>¿Un árbol brillante?</color> Nunca había oído hablar de tal cosa.
+<noparse></noparse>It was just a <color\=#800000ff>large tea tree</color>. =<noparse></noparse>Fue solo un <color\=#800000ff>gran árbol de té</color>.
+<noparse></noparse>You'll see it if you climb to the <color\=#800000ff>highest point of the mountain</color>.=<noparse></noparse>Lo verás si subes al <color\=#800000ff>punto más alto de la montaña</color>.
+<noparse></noparse>Since the core gives off <color\=#800000ff>light</color> when you touch the vines, you'll be able to find it.=<noparse></noparse>Dado que el núcleo emite <color\=#800000ff>luz</color> cuando toques las enredaderas, podrás encontrarlo.
+<noparse></noparse>You can temporarily get rid of the vines with <color\=#800000ff>Weed Terminator Potion</color>.=<noparse></noparse>Puedes deshacerte temporalmente de las enredaderas con <color\=#800000ff>Poción Exterminadora de Maleza</color>.
+<noparse></noparse>You'll need to find the <color\=#800000ff>core</color> and destroy it. The <color\=#800000ff>core</color> should be somewhere near the vines.=<noparse></noparse>Necesitarás encontrar el <color\=#800000ff>núcleo</color> y destruirlo.\nEl <color\=#800000ff>núcleo</color> debería estar en algún lugar cerca de las enredaderas.
+<noparse></noparse>Then you'll need <color\=#800000ff>Weed Terminator Potion</color> and quick action.=<noparse></noparse>Entonces necesitarás la <color\=#800000ff>Poción Exterminadora de Maleza</color> y actuar rápido.
+<noparse></noparse>Look, this place is also inhabited by the <color\=#800000ff>Bluemoon Butterfly</color> we saw at the peak.=<noparse></noparse>Mira, este lugar también está habitado por las <color\=#800000ff>Mariposas de Luna Azul</color> que vimos en la cima.
+When you draw the same type of plant or animal <color\=#800000>multiple times</color>, <color\=#800000>additional information</color> will be unlocked.=Cuando dibujas el mismo tipo de planta o animal <color\=#800000>varias veces</color>, <color\=#800000>información adicional</color> quedará desbloqueada.
+<noparse></noparse>You might not know, but the <color\=#800000ff>Encyclopedia</color> does.=<noparse></noparse>Puede que no lo sepas, pero la <color\=#800000ff>Enciclopedia</color> sí.
+<noparse></noparse>Hmm... So, you can collect them using a <color\=#800000ff>bug net</color>.=<noparse></noparse>Hmm... Entonces, puedes recolectarlos usando una <color\=#800000ff>red de insectos</color>.
+<noparse></noparse><noparse></noparse>¿Ellie? Tenemos que–=<noparse></noparse><noparse></noparse>¿Ellie?\nTenemos que–
+<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado un poco.=<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado un poco.
+<noparse></noparse>Should I redraw the witch sigil using 1x <color\=#800000ff>Witch's White Chalk</color>?=<noparse></noparse>¿Debería volver a dibujar el sello de la bruja usando 1x <color\=#800000ff>Tiza Blanca de Bruja</color>?
+<noparse></noparse>That's a <color\=#800000ff>witch's house</color>, isn't it?=<noparse></noparse>Esa es una <color\=#800000ff>Casa de la Bruja</color>, ¿no?
+<noparse></noparse>Isn't it natural for an <color\=#800000ff>apprentice witch</color> to stay at a <color\=#800000ff>Witch's House</color>?=<noparse></noparse>¿No es natural que una <color\=#800000ff>aprendiz de bruja</color> se quede en una <color\=#800000ff>Casa de la Bruja</color>?
+Collecting uses Energy.\nYou can recover spent Energy by <color\=#800000>eating</color> or <color\=#800000>sleeping</color>.=La recolección utiliza energía.\nPuedes recuperar la energía gastada <color\=#800000>comiendo</color> o <color\=#800000>durmiendo</color>.
+<noparse></noparse>I should ask the people closest to me before going further.=<noparse></noparse>Debería preguntarle a las personas más cercanas a mí antes de continuar.
+<noparse></noparse>It's a familiar face.=<noparse></noparse>Es una cara familiar.
+<noparse></noparse>It was always her name that came up first when memorizing names of witches who had great achievements.=<noparse></noparse>Siempre era su nombre el que aparecía primero al memorizar nombres de brujas que tenían grandes logros.
+<noparse></noparse>You mean that weird song.=<noparse></noparse>Te refieres a esa canción rara.
+<noparse></noparse>I racked my brains to create it, okay?=<noparse></noparse>Me devané los sesos para crearla, ¿vale?
+<noparse></noparse>I sang it in my head when I was taking a history exam.=<noparse></noparse>La canté en mi cabeza cuando estaba haciendo un examen de historia.
+<noparse></noparse>She can actually be found on trains too.=<noparse></noparse>De hecho, también se la puede encontrar en los trenes.
+<noparse></noparse>Actually, I kind of like this witch.=<noparse></noparse>En realidad, me gusta esta bruja.
+<noparse></noparse>It's a famous saying.=<noparse></noparse>Es un dicho famoso.
+<noparse></noparse>Did you know that this witch was the one who first proposed this train?=<noparse></noparse>¿Sabías que esta bruja fue quien propuso por primera vez este tren?
+<noparse></noparse>I know. And we're not having a lesson, Mr. Virgil.=<noparse></noparse>Lo sé.\nY no estamos en una clase, Sr. Virgil.
+<noparse></noparse>...And it looked similar to the <color\=#800000ff>village</color> where I used to live.=<noparse></noparse>...Y se parecía a la <color\=#800000ff>aldea</color> donde solía vivir.
+<noparse></noparse>Don't forget, the train will leave once the problem's fixed.=<noparse></noparse>No lo olvides, el tren partirá una vez que se solucione el problema.
+26.03.08 11:35 AM=26.03.08 11:35
+26.03.08 11:49 AM=26.03.08 11:49
+26.03.20 08:10 AM=26.03.20 08:10
+ver 6.0.5.0=versión 6.0.5.0
+Windowed=con ventana
+720 X 576=720 X 576
+720 X 480=720 X 480
+640 X 480=640 X 480
+Option A=Opción A
+800 X 600=800 X 600
+1024 X 768=1024 X 768
+1152 X 864=1152 X 864
+1176 X 664=1176 X 664
+1280 X 720=1280 X 720
+1280 X 768=1280 X 768
+<color\=red>Fills the screen.</color>=<color\=red>Llena la pantalla.</color>
+Stretch=Estirar
+1280 X 800=1280 X 800
+1280 X 960=1280 X 960
+1280 X 1024=1280 X 1024
+1360 X 768=1360 X 768
+1366 X 768=1366 X 768
+1440 X 900=1440 X 900
+1440 X 1080=1440 X 1080
+1600 X 900=1600 X 900
+1600 X 1024=1600 X 1024
+1680 X 1050=1680 X 1050
