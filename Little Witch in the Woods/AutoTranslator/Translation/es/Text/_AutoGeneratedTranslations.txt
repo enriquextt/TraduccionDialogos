@@ -8998,6 +8998,1006 @@ It's still glowing faintly. The seeds fly off easily, so be careful.=Todavía br
 <noparse></noparse>Hmmm... I can't recall. It should be either Extractor or Roaster.=<noparse></noparse>Mmmm... no lo recuerdo.\nDebe ser Extractor o Tostador.
 <noparse></noparse>Ah, I remember now. It's <color\=#800000ff>Mixer</color>!=<noparse></noparse>Ah, recuerdo ahora.\nEs el <color\=#800000ff>Mezclador</color>.
 <noparse></noparse>Ah, the thing that clunks as loudly as hell.=<noparse></noparse>Ah, esa cosa que hace ese ruido tan infernal.
+<noparse></noparse>But I didn't see any in the workshop...=<noparse></noparse>Pero no vi ninguno en el taller...
+Ask Diane.=Pregúntale a Diane.
+Obtain Mixer=Obtener Mezclador
+<noparse></noparse><color\=#800000ff>Diane</color> sells work tools. I'll go ask her.=<noparse></noparse><color\=#800000ff>Diane</color> vende herramientas de trabajo.\nIré a preguntarle.
+2-5. Obtain Mixer=2-5.\nObtener Mezclador
+Processing new materials requires the Mixer.\n\n\nTalk to Diane to learn how to obtain the Mixer.=El procesamiento de nuevos materiales requiere el Mezclador.\n\nHabla con Diane para saber cómo obtener el Mezclador.
+Cotton Doggy's black fur and fluffy seeds stick together.\nMaybe due to the sweet mushrooms it always eat, it has a cotton candy-like aroma.=El pelaje negro del Perrito de Algodón y las semillas esponjosas se adhieren.\nTal vez debido a los champiñones dulces que siempre come, tiene un aroma a algodón de azúcar.
+It smells nice and has a unique scent. Note that pollen may make it sneeze.=Huele bien y tiene un aroma único. Ten en cuenta que el polen puede provocarle estornudos.
+Madam Red Sofa=Sofá Madam Red
+Madam Red Small Rug=Alfombra Pequeña Madam Red
+Madam Red Medium Rug=Alfombra Mediana Madam Red
+Madam Red Large Rug=Alfombra Grande Madam Red
+Madam Red Potted Plant=Planta en Maceta Madam Red
+Madam Red Gem Casket=Joyero Madam Red
+Madam Red Cabinet=Gabinete Madam Red
+Madam Red Bed=Cama Madam Red
+Madam Red Bookcase=Estantería Madam Red
+Madam Red Wardrobe=Armario Madam Red
+Madam Red Large Storage=Almacenamiento Grande Madam Red
+Madam Red Medium Storage=Almacenamiento Mediano Madam Red
+Madam Red Small Storage=Almacenamiento Pequeño Madam Red
+Madam Red Desk=Escritorio Madam Red
+Madam Red Tile=Baldosa Madam Red
+Madam Red Wallpaper=Papel Tapiz Madam Red
+<noparse></noparse>Hi, Diane, I've got a question...=<noparse></noparse>Hola, Diane, tengo una pregunta...
+<noparse></noparse>Wait a second. Let me guess.=<noparse></noparse>Espera un segundo.\nDéjame adivinar.
+<noparse></noparse>Umm...=<noparse></noparse>Mmm...
+<noparse></noparse>You've come to me because you need a <color\=#800000ff>Mixer</color>, is it?=<noparse></noparse>Has venido a mí porque necesitas un <color\=#800000ff>Mezclador</color>, ¿verdad?
+<noparse></noparse>What? How did you know?!=<noparse></noparse>¿Qué?\n¡¿Cómo lo supiste?!
+<noparse></noparse>Because I'm always watching you, Ellie...=<noparse></noparse>Porque siempre te estoy mirando, Ellie...
+<noparse></noparse>No... don't give me that look. I was just kidding...=<noparse></noparse>No... no me mires así.\nEstaba bromeando...
+<noparse></noparse>No wonder I feel someone's gaze whenever I'm in the forest...=<noparse></noparse>No es de extrañar que sienta la mirada de alguien cada vez que estoy en el bosque...
+<noparse></noparse>I said I was kidding!=<noparse></noparse>¡Dije que estaba bromeando!
+<noparse></noparse>It's just a simple deduction. You entered a new forest, there is no Mixer in the workshop, and you've come to me...=<noparse></noparse>Es solo una simple deducción.\nEntraste en un nuevo bosque, no hay Mezclador en el taller y has venido a mí...
+<noparse></noparse>That sounds like nothing but a stalker's doing.=<noparse></noparse>Eso suena exactamente a lo que haría un acosador.
+<noparse></noparse>I prefer to be called "a considerate salesperson that pays attention to her client's needs."=<noparse></noparse>Prefiero que me llamen "una vendedora considerada que presta atención a las necesidades de sus clientes".
+<noparse></noparse>Anyway! I've brought you a <color\=#800000ff>Mixer</color>!=<noparse></noparse>¡De todos modos!\n¡Te he traído un <color\=#800000ff>Mezclador</color>!
+<noparse></noparse>Wow! Thank you.=<noparse></noparse>¡Guau!\nGracias.
+<noparse></noparse>You've gotten used to taking things for granted, huh?=<noparse></noparse>Te has acostumbrado a dar las cosas por sentado, ¿eh?
+<noparse></noparse>Well... H-how much is it?=<noparse></noparse>Bueno... ¿C-cuánto cuesta?
+<noparse></noparse>It's for free, of course!=<noparse></noparse>¡Es gratis, por supuesto!
+<noparse></noparse>Why tease me then!=<noparse></noparse>¿Por qué burlarse de mí entonces?
+<noparse></noparse>There was one left in the storage, so I took it.=<noparse></noparse>Quedaba uno en el almacenamiento, así que lo tomé.
+<noparse></noparse>Thank you all the same.=<noparse></noparse>Gracias de todos modos.
+If you need better work tools, check out the Witches' Catalogue!=Si necesitas mejores herramientas de trabajo, ¡consulta el Catálogo de Brujas!
+<noparse></noparse>If you need better work tools, check out the Witches' Catalogue!=<noparse></noparse>Si necesitas mejores herramientas de trabajo, ¡consulta el Catálogo de Brujas!
+Blue Thunder Workshop Mixer =Mezclador de Taller Trueno Azul
+<noparse></noparse>Feel free to talk to me about anything.=<noparse></noparse>No dudes en hablar conmigo sobre cualquier cosa.
+<noparse></noparse>Diane, can I hire an instructor via Witches' Catalogue?=<noparse></noparse>Diane, ¿puedo contratar a un instructor a través del Catálogo de Brujas?
+Seek help from villagers who may contribute to your carpentry work.=Busca ayuda de los aldeanos que puedan contribuir con tu trabajo de carpintería.
+<noparse></noparse>Hire an instructor? Is there something you want to learn?=<noparse></noparse>¿Contratar a un instructor?\n¿Hay algo que quieras aprender?
+<noparse></noparse>Yeah, there's a subject I'm not so good at, and I want more practice in it.=<noparse></noparse>Sí, hay un tema en el que no soy tan buena, y quiero practicarlo más.
+<noparse></noparse>I guess that's what made you magna cum laude! You're so eager to learn.=<noparse></noparse>¡Supongo que eso es lo que te hizo magna cum laude!\nTienes tantas ganas de aprender.
+<noparse></noparse>Unfortunately though, Witches' Catalogue doesn't provide such services.=<noparse></noparse>Desafortunadamente, el Catálogo de Brujas no proporciona dichos servicios.
+<noparse></noparse>No? That's a pity.=<noparse></noparse>¿No?\nQué pena.
+<noparse></noparse>I want to practice carpentry. My master witch teaches all other subjects well, but she hates carpentry...=<noparse></noparse>Quiero practicar carpintería.\nMi maestra bruja enseña bien todas las demás materias, pero odia la carpintería...
+<noparse></noparse>E-Ellie! I'm not ever doing woodworking again!=<noparse></noparse>¡E-Ellie!\n¡Nunca volveré a hacer carpintería!
+<noparse></noparse>Y-you heard her.=<noparse></noparse>La escuchaste.
+<noparse></noparse>If the master witch says so, it can't be helped.=<noparse></noparse>Si la maestra bruja lo dice, no se puede evitar.
+<noparse></noparse>You want to learn woodworking because of the recent Witch's House restoration, I suppose?=<noparse></noparse>Supongo que quieres aprender carpintería debido a la reciente restauración de la Casa de la Bruja.
+<noparse></noparse>Yup. Diane, you know about that tradition too?=<noparse></noparse>Sí.\nDiane, ¿sabes también sobre esa tradición?
+<noparse></noparse>Sure. After renewing your Witch's House, <color\=#800000ff>Craft</color> <color\=#800000ff>Blueprint</color> will be stacked full on your bookshelves.=<noparse></noparse>Seguro.\nDespués de renovar tu Casa de la Bruja, los <color\=#800000ff>Planos</color> <color\=#800000ff>de Elaboración</color> se apilarán en tus estanterías.
+<noparse></noparse>I believe you want to try making the <color\=#800000ff>Blueprint</color> you received as a gift, don't you?=<noparse></noparse>Creo que quieres intentar hacer el <color\=#800000ff>Plano</color> que recibiste como regalo, ¿no?
+<noparse></noparse>I do. I've got a sofa recipe that lets me make a nice <color\=#800000ff>Craft</color><color\=#800000ff>Blueprint</color>.=<noparse></noparse>Sí.\nTengo una receta de sofá que me permite hacer un buen <color\=#800000ff>Plano</color> <color\=#800000ff>de Elaboración</color>.
+<noparse></noparse>In that case, you can receive some advice from Diane Greenwind, who got the best score in carpentry every single time.=<noparse></noparse>En ese caso, puedes recibir algunos consejos de Diane Greenwind, quien siempre obtuvo la mejor puntuación en carpintería.
+<noparse></noparse>Wow! Diane, you always got the best score?=<noparse></noparse>¡Guau!\nDiane, ¿siempre obtuviste la mejor puntuación?
+<noparse></noparse>I did. My classmates even called me "Diane the Bed Manufacturer." "Lillia the Shelf Manufacturer" was the only person who could rival me.=<noparse></noparse>Así es.\nMis compañeros de clase incluso me llamaban "Diane la Fabricante de Camas".\n"Lillia la Fabricante de Estantes" era la única persona que podía rivalizarme.
+<noparse></noparse>The secret to my success is that I used <color\=#800000ff>Copycat Marionette</color>s.=<noparse></noparse>El secreto de mi éxito es que usé <color\=#800000ff>Marionetas Imitadoras</color>.
+<noparse></noparse>Copycat... Marionettes? That rings a bell... Oh, I've probably heard about them in the broom lessons.=<noparse></noparse>Imitadoras... ¿Marionetas?\nEso me suena... Oh, probablemente escuché sobre ellas en las lecciones de escoba.
+<noparse></noparse>Haha, now you remember. Do you recall what they do?=<noparse></noparse>Jaja, ahora lo recuerdas.\n¿Recuerdas lo que hacen?
+<noparse></noparse>They are puppets that follow orders, aren't they? Orders such as <color\=#800000ff>"remain on the broom" or "stand there in the teacher's place."</color>=<noparse></noparse>Son marionetas que siguen órdenes, ¿no?\nÓrdenes como <color\=#800000ff>"permanecer en la escoba" o "párate ahí en el lugar del maestro".</color>
+<noparse></noparse>That's right, but marionettes don't just follow orders. They learn techniques.=<noparse></noparse>Así es, pero las marionetas no se limitan a seguir órdenes.\nAprenden técnicas.
+<noparse></noparse>To be more precise, people with remarkable skills can infuse them with <color\=#800000ff>craftsman's aura</color>.=<noparse></noparse>Para ser más precisos, las personas con habilidades notables pueden infundirlas con <color\=#800000ff>aura de artesano</color>.
+<noparse></noparse>For example, a marionette infused with the aura of an outstanding carpenter can perfectly recreate all the movements of that carpenter.=<noparse></noparse>Por ejemplo, una marioneta imbuida del aura de un carpintero destacado puede recrear perfectamente todos los movimientos de ese carpintero.
+<noparse></noparse>It's hard for the puppets to actually work on wood though. Since they are no bigger than a fist, they barely even have enough strength to lift a wooden spoon.\r=<noparse></noparse>Sin embargo, a las marionetas les resulta difícil trabajar con madera.\nComo no son más grandes que un puño, apenas tienen fuerza suficiente para levantar una cuchara de madera.\r
+<noparse></noparse>So, you were always the best performer because you learned woodworking by observing marionettes?=<noparse></noparse>Entonces, ¿siempre fuiste la mejor porque aprendiste carpintería observando marionetas?
+<noparse></noparse>Right. And it was a laborious task to infuse aura of all the witch carpenters into the puppet at a Witch's Workshop.=<noparse></noparse>Así es.\nY fue una tarea laboriosa infundir el aura de todos los carpinteros brujos en la marioneta en un Taller de Brujas.
+<noparse></noparse>You can't get to any Witch's Workshop yet, but you can have this marionette from me.=<noparse></noparse>Aún no puedes ir a ningún Taller de Brujas, pero puedes quedarte con esta marioneta.
+<noparse></noparse>I made it myself as a pastime. You can consider it a housewarming gift for your restored house.=<noparse></noparse>Lo hice yo misma como pasatiempo.\nPuedes considerarlo un regalo de inauguración para tu casa restaurada.
+Infuse this marionette with craftsman's aura and it will imitate movements of the craftsman. It's no bigger than a fist, so it can hardly make any actual product though.\n=Infunde esta marioneta con el aura de artesano e imitará los movimientos del artesano.\nNo es más grande que un puño, por lo que difícilmente puede hacer ningún producto real.\n
+Copycat Marionette=Marioneta Imitadora
+Really? Thank you!=¿En serio?\n¡Gracias!
+<noparse></noparse>Just a second. I'm gonna infuse it with my aura.=<noparse></noparse>Un momento.\nVoy a infundirle mi aura.
+<noparse></noparse>Hyaa! Hoo! Eigh!=<noparse></noparse>¡Hyaa!\n¡Hoo!\n¡Eigh!
+<noparse></noparse>Woah, to infuse the puppet, you need to yell like that too?=<noparse></noparse>Woah, ¿para infundir la marioneta también hay que gritar así?
+<noparse></noparse>Well... I was trying to make the process more fun to watch...=<noparse></noparse>Bueno... estaba tratando de hacer que el proceso fuera más divertido de ver...
+<noparse></noparse>In fact, you just need to place your hand on it while thinking about the techniques you want the marionette to learn.\r=<noparse></noparse>De hecho, solo necesitas colocar tu mano sobre ella mientras piensas en las técnicas que deseas que la marioneta aprenda.\r
+<noparse></noparse>Oh, there's more: Marionettes can be infused with the aura of humans too.\r=<noparse></noparse>Oh, hay más: las marionetas también se pueden infundir con el aura de los humanos.\r
+<noparse></noparse>Yeah, because Copycat Marionettes are fueled with the magic of witches, not the aura.\r=<noparse></noparse>Sí, porque las Marionetas Imitadoras se alimentan de la magia de las brujas, no del aura.\r
+I'll ask all the villagers to provide aura then. The more the better.\r=Pediré a todos los aldeanos que aporten su aura entonces.\nCuanto más, mejor.\r
+The spirit of the craftsman=El espíritu del artesano
+Let's put the spirit of craftsmen, which can help in making furniture, into the copycat marionette.=Pongamos el espíritu de los artesanos, que puede ayudar a hacer muebles, en la Marioneta Imitadora.
+<noparse></noparse>I'll put it to good use, Diane!=<noparse></noparse>¡Le daré buen uso, Diane!
+Blue Thunder Workshop Mixer  has been added to the Catalogue.=El Mezclador de Taller Trueno Azul se ha agregado al Catálogo.
+Nectar Moth Jelly=Gelatina de Polilla de Néctar
+Cotton Doggy Fluff Jelly=Gelatina de Pelusa de Perrito de Algodón
+Furball Rat Furball Jelly=Gelatina de Pelaje de Rata Peluda
+Turning it into jelly enhances its nut aroma.=Convertirlo en gelatina realza su aroma a nuez.
+Pump Water=Bomba de Agua
+<noparse></noparse>The spirit of the craftsman?=<noparse></noparse>¿El espíritu del artesano?
+<noparse></noparse>Witches do have amazing powers. To think that you can make puppets that move exactly the same way as I do!=<noparse></noparse>Las brujas tienen poderes increíbles.\n¡Pensar que puedes hacer marionetas que se mueven exactamente igual que yo!
+<noparse></noparse>Indeed. I didn't know it could be used in such a way until I heard it from the witch that gave it to me.\r=<noparse></noparse>En efecto.\nNo sabía que se podía usar de esa manera hasta que lo escuché de la bruja que me lo dio.\r
+<noparse></noparse>Hahaha. I've been hoping to introduce you to the fun of furniture making, Ellie.=<noparse></noparse>Jajaja.\nEsperaba presentarte la diversión de hacer muebles, Ellie.
+<noparse></noparse>What should I do? Make some furniture right in front of the marionette?=<noparse></noparse>¿Qué tengo que hacer?\n¿Hacer algunos muebles justo frente a la marioneta?
+<noparse></noparse>There's no need. Just hold the marionette while imagining the technique you want to teach me.=<noparse></noparse>No es necesario.\nSimplemente sostén la marioneta mientras imaginas la técnica que deseas enseñarme.
+<noparse></noparse>Really? That sounds like a very convenient way to learn things. I want a marionette like this too.=<noparse></noparse>¿En serio?\nSuena como una forma muy conveniente de aprender cosas.\nYo también quiero una marioneta como esta.
+<noparse></noparse>I'm sorry... but marionettes run on magic. Only witches can operate them.\r=<noparse></noparse>Lo siento... pero las marionetas funcionan con magia.\nSolo las brujas pueden operarlas.\r
+<noparse></noparse>Come on, all that a marionette does is imitating. You don't need it since you're a great craftsman already.=<noparse></noparse>Vamos, todo lo que hace una marioneta es imitar.\nNo la necesitas ya que ya eres un gran artesano.
+<noparse></noparse>Am I? I guess you're right. Hahaha.=<noparse></noparse>¿Lo soy?\nSupongo que tienes razón.\nJajaja.
+<noparse></noparse>That's it? I'm not feeling anything though.=<noparse></noparse>¿Eso es todo?\nAunque no siento nada.
+<noparse></noparse>I think it's done. Thank you. I'll make some fine furniture. I promise.=<noparse></noparse>Creo que ya está hecho.\nGracias.\nHaré muebles de calidad.\nLo prometo.
+4.73cm=4.73 cm
+104.97cm=104.97 cm
+<noparse></noparse>Are you talking about the spirit of the craftsman?=<noparse></noparse>¿Estás hablando del espíritu del artesano?
+<noparse></noparse>Could this be the process needed to make the <color\=#800000ff>Craft</color><color\=#800000ff>Blueprint</color> I gave you better?=<noparse></noparse>¿Podría este ser el proceso necesario para mejorar el <color\=#800000ff>Plano</color> <color\=#800000ff>de Elaboración</color> que te di?
+<noparse></noparse>We are. Infusing the marionette with craftsman's aura is an important step towards completing my carpentry task.\r=<noparse></noparse>Así es.\nInfundir la marioneta con el aura de artesano es un paso importante para completar mi tarea de carpintería.\r
+<noparse></noparse>I'd love to share my aura with you... but I don't know if I count as a craftsman.\r=<noparse></noparse>Me encantaría compartir mi aura contigo... pero no sé si cuento como artesano.\r
+<noparse></noparse>You are excellent in growing flowers, Roy. All flowers thrive when under your care. You've got skills and a sincere attitude. I can't see why you don't count.=<noparse></noparse>Eres excelente en el cultivo de flores, Roy.\nTodas las flores prosperan cuando están bajo tu cuidado.\nTienes habilidades y una actitud sincera.\nNo veo por qué no cuentas.
+<noparse></noparse>And you keep all your tools in order. Just one glance and everyone will consider you a craftsman in flower growing!=<noparse></noparse>Y mantienes todas tus herramientas en orden.\n¡Solo una mirada y todos te considerarán un artesano del cultivo de flores!
+<noparse></noparse>That's very kind of you, Ellie. I'm kind of embarrassed. Is that really all it takes to be considered a craftsman?=<noparse></noparse>Eres muy amable, Ellie.\nEstoy un poco avergonzado.\n¿Es eso realmente todo lo que se necesita para ser considerado un artesano?
+<noparse></noparse>Nevertheless, I'm willing to offer any help I can.=<noparse></noparse>Sin embargo, estoy dispuesto a ofrecer cualquier ayuda que pueda.
+<noparse></noparse>I just need to stretch out my hands at the marionette...? Like this?\r=<noparse></noparse>¿Solo necesito extender mis manos hacia la marioneta...?\n¿Así?\r
+<noparse></noparse>Right. I can feel craftsman's aura flowing into the marionette.=<noparse></noparse>Bien.\nPuedo sentir el aura de artesano fluyendo hacia la marioneta.
+<noparse></noparse>I can't feel anything, probably because I'm not a witch. Still, I'm glad to be of help.\r=<noparse></noparse>No puedo sentir nada, probablemente porque no soy bruja.\nAún así, me alegro de poder ser de ayuda.\r
+<noparse></noparse>Thank you, Roy!=<noparse></noparse>¡Gracias, Roy!
+<noparse></noparse>Look at this. Can you feel the craftsman's aura gathering in the <color\=#800000ff>Copycat Marionette</color>?=<noparse></noparse>Mira esto.\n¿Puedes sentir el aura de artesano reuniéndose en la <color\=#800000ff>Marioneta Imitadora</color>?
+Try to craft according to the Light Purple PS Sofa recipe.=Intenta elaborar según la receta del Sofá PS Lila Claro.
+<noparse></noparse>Whenever someone infuses the marionette with aura, I feel like the marionette is about to come to life.=<noparse></noparse>Cada vez que alguien infunde aura a la marioneta, siento que está a punto de cobrar vida.
+<noparse></noparse>I can feel the urge to craft something, assumably because of the aura.=<noparse></noparse>Puedo sentir el impulso de crear algo, presumiblemente debido al aura.
+<noparse></noparse>Of course you do. It's filled with the aura of great artisans.=<noparse></noparse>Por supuesto.\nEstá llena del aura de grandes artesanos.
+<noparse></noparse>Time for the final step: Put the marionette on the workbench and tell it what I want to make.=<noparse></noparse>Es hora del paso final: poner la marioneta en el banco de trabajo y decirle lo que quiero hacer.
+<noparse></noparse>I will manage to make the furniture as long as I follow the marionette's movements.=<noparse></noparse>Lograré hacer los muebles mientras siga los movimientos de la marioneta.
+How about checking the sofa <color\=#800000ff>Craft</color><color\=#800000ff>Blueprint</color> Roy gave you? It might not go as planned.=¿Qué tal verificar el <color\=#800000ff>Plano</color> <color\=#800000ff>de Elaboración</color> del sofá que te dio Roy?\nPuede que no salga según lo planeado.
+Craft=Elaboración
+To craft furniture, you need a blueprint.=Para elaborar muebles, necesitas un plano.
+To craft a piece of furniture, register the blueprint of this furniture first.\nUse the blueprint from the inventory to add it to the workbench's crafting menu.=Para elaborar un mueble, registra primero el plano de dicho mueble.\nUsa el plano desde el inventario para añadirlo al menú de elaboración del banco de trabajo.
+Furniture can be crafted at the workbench.\n=Los muebles se pueden elaborar en el banco de trabajo.\n
+Choose a furniture from the crafting menu to craft it.\nYou can only start crafting when you have all the required materials in your inventory.=Elige un mueble del menú de elaboración para crearlo.\nSolo puedes comenzar a elaborar cuando tengas todos los materiales requeridos en tu inventario.
+<noparse></noparse>That's what I was about to say.=<noparse></noparse>Eso es lo que estaba a punto de decir.
+<color\=#ff0000>4. Craft furniture</color>=<color\=#ff0000>4. Elaborar muebles</color>
+<color\=#8C8C8C>3. Gather craftsman's aura</color>=<color\=#8C8C8C>3. Recoge el aura de artesano</color>
+[Light Purple PS Sofa] Crafting Recipe has been registered.=Se ha registrado la receta de elaboración [Sofá PS Lila Claro].
+<noparse></noparse>Let's craft some furniture, shall we?=<noparse></noparse>Hagamos algunos muebles, ¿de acuerdo?
+<noparse></noparse>How about we start with this gift from Roy, which is a Light Purple PS Sofa?=<noparse></noparse>¿Qué tal si empezamos con este regalo de Roy, que es un Sofá PS Lila Claro?
+<noparse></noparse>Whichever you like. As long as you have a functional Copycat Marionette, you can make anything you want.=<noparse></noparse>Lo que quieras.\nSiempre que tengas una Marioneta Imitadora funcional, puedes hacer lo que quieras.
+<noparse></noparse>Okay, I'll give it a go.=<noparse></noparse>Bien, lo intentaré.
+<noparse></noparse>Firstly, I'll put the marionette on the workbench...=<noparse></noparse>En primer lugar, pondré la marioneta en el banco de trabajo...
+<noparse></noparse>Let's get started!=<noparse></noparse>¡Comencemos!
+<noparse></noparse>Isn't that something the protagonist of an adventure story would say before they set out?=<noparse></noparse>¿No es eso algo que diría el protagonista de una historia de aventuras antes de salir a la aventura?
+Light Purple PS=PS Lila Claro
+Light Purple PS Sofa=Sofá PS Lila Claro
+Hold to Craft=Mantener para elaborar
+It's sweet, but don't eat it, or you may lose your sense of taste for a week.=Es dulce, pero no lo comas, o puedes perder el sentido del gusto durante una semana.
+7h 10m=7h 10m
+10h 10m=10h 10m
+Cast it at a place to form dark clouds there and bring rain.=Échala en un lugar para formar nubes oscuras allí y traer lluvia.
+2x Curse Detection Candy\n2x Good Luck Candy\n=2x Dulce de Detección de Maldición\n2x Dulce de Buena Suerte\n
+Candy Delivery: Cloud Valley Beginner=>o< Cloud Valley Principiante
+2x Quack Candy\n2x Anti-rhinorrhea Candy\n=2x Dulce Cuac\n2x Dulce Anti-Rinorrea\n
+Candy Delivery: Cloud Valley Standard=>o< Cloud Valley Estándar
+2x Dental Care Candy\n=2x Dulce de Cuidado Dental\n
+Arden's Soup=Sopa de Arden
+<noparse></noparse>Some people can buy happiness with money, but some people can't.=<noparse></noparse>Algunas personas pueden comprar la felicidad con dinero, pero otras no.
+<noparse></noparse>So don't worry about how much money you've got. You can be happy regardless.=<noparse></noparse>Así que no te preocupes por cuánto dinero tienes.\nPuedes ser feliz de todas formas.
+2x Anti-rhinorrhea Candy\n=2x Dulce Anti-Rinorrea\n
+1x Déjà Vu Candy\n=1x Dulce Déjà Vu\n
+17.03cm=17.03 cm
+<noparse></noparse>Read the sign board?=<noparse></noparse>¿Leer el letrero?
+<noparse></noparse><color\=#800000ff>Please note that</color> they need one hour to respawn after the windsock is removed.=<noparse></noparse><color\=#800000ff>Ten en cuenta que</color> necesitan una hora para reaparecer tras retirar la manga de viento.
+<noparse></noparse>See that, Virgil? Water instantly cleaned this doll.=<noparse></noparse>¿Ves eso, Virgil?\nEl agua limpió instantáneamente esta muñeca.
+<noparse></noparse>Water is indeed the most effective way against dirt.=<noparse></noparse>De hecho, el agua es el medio más eficaz contra la suciedad.
+<noparse></noparse>Alright, now let's take the doll and go find that <color\=#800000ff>strange creature</color>.=<noparse></noparse>Muy bien, ahora tomemos la muñeca y vayamos a buscar a esa <color\=#800000ff>criatura extraña</color>.
+Give the clean doll to the weeping strange creature.=Dale la muñeca limpia a la extraña criatura que llora.
+<noparse></noparse>On closer inspection, this doll is actually quite cute.=<noparse></noparse>Si se mira más de cerca, esta muñeca es bastante linda.
+Broken Doll=Muñeca rota
+<noparse></noparse>It looks a lot like that strange cub, doesn't it?=<noparse></noparse>Se parece mucho a ese extraño cachorro, ¿no?
+<noparse></noparse>I don't know. They both having two eyes indeed.=<noparse></noparse>No sé.\nDe hecho, los dos tienen dos ojos.
+<noparse></noparse>Ugh, you're so blunt.=<noparse></noparse>Ugh, eres tan directo.
+<noparse></noparse>Let's hurry and give it back to the cub.=<noparse></noparse>Date prisa y devuélvesela al cachorro.
+<noparse></noparse>Um... how should I greet it? "Hello, is this your doll?"=<noparse></noparse>Um... ¿cómo debo saludarlo?\n"Hola, ¿es esta tu muñeca?"
+Find the weird creature and mend the broken doll.\n- Collect 8x Fallen Cotton and mend now\n- Collect 3x Fallen Cotton and Learn to sew before you mend=Encuentra a la extraña criatura y repara la muñeca rota.\n- Recoge 8x Algodón Caído y remiéndala ahora\n- Recoge 3x Algodón Caído y aprende a coser antes de remendar
+<noparse></noparse>I guess it should be fine, since we don't know what it's saying anyway.=<noparse></noparse>Supongo que debería estar bien, ya que de todos modos no sabemos lo que dice.
+<noparse></noparse>But it doesn't intend to move at all.=<noparse></noparse>Pero no tiene intención de moverse en absoluto.
+<noparse></noparse>Maybe it's because the doll is still missing an arm.=<noparse></noparse>Tal vez sea porque a la muñeca todavía le falta un brazo.
+<noparse></noparse>Um... should I sew it back?=<noparse></noparse>Um... ¿debería volver a coserla?
+<noparse></noparse>Are you being serious?=<noparse></noparse>¿Hablas en serio?
+<noparse></noparse>It doesn't seem too difficult, I think I can do it.=<noparse></noparse>No parece demasiado difícil, creo que puedo hacerlo.
+<noparse></noparse>Do you not remember what happened last time you handled a needle and thread? You made me look like a beggar's hat.=<noparse></noparse>¿No recuerdas lo que pasó la última vez que manejaste una aguja y un hilo?\nMe hiciste parecer un sombrero de mendigo.
+<noparse></noparse>What? Stop being unreasonable.=<noparse></noparse>¿Qué?\nDeja de ser irrazonable.
+<noparse></noparse>My accusation is perfectly justified!=<noparse></noparse>¡Mi acusación está perfectamente justificada!
+<noparse></noparse>I was just a kid! Now that I've learned it at school, I believe I can do some basic sewing.=<noparse></noparse>¡Solo era una niña!\nAhora que lo he aprendido en la escuela, creo que puedo hacer algo de costura básica.
+<noparse></noparse>You can go to <color\=#800000ff>someone good at needlework</color> to learn it again if other solutions fail.=<noparse></noparse>Puedes ir a <color\=#800000ff>alguien bueno en costura</color> para aprenderlo nuevamente si fallan otras soluciones.
+<noparse></noparse>I don't need to learn again. I didn't forget!=<noparse></noparse>No necesito aprender de nuevo.\n¡No lo olvidé!
+<noparse></noparse>I don't have enough cotton to fill the doll.=<noparse></noparse>No tengo suficiente algodón para rellenar la muñeca.
+<noparse></noparse>We need to gather the missing cotton first.=<noparse></noparse>Necesitamos reunir el algodón que falta primero.
+The doll's missing arm should be sewed back. Ask someone good at needlework for help.=El brazo que le falta a la muñeca debe coserse de vuelta.\nPídele ayuda a alguien bueno en costura.
+Sew the Doll=Coser la muñeca
+Let me see what to do...=Déjame ver qué hacer...
+<noparse></noparse>Do you have sewing tools?=<noparse></noparse>¿Tienes herramientas de costura?
+<noparse></noparse>As long as I have a needle-like stuff and some sort of thread, no?=<noparse></noparse>Mientras tenga algo parecido a una aguja y algún tipo de hilo, ¿no?
+<noparse></noparse>But to sew with the tools I have, I need abundant <color\=#800000ff>Fallen Cotton</color>.=<noparse></noparse>Pero para coser con las herramientas que tengo necesito abundante <color\=#800000ff>Algodón Caído</color>.
+<noparse></noparse>So that I can redo it if I get it wrong.=<noparse></noparse>Para que pueda rehacerlo si me equivoco.
+<noparse></noparse>Now, behold my marvelous skills!=<noparse></noparse>¡Ahora contempla mis maravillosas habilidades!
+<noparse></noparse>I'm very, very worried.=<noparse></noparse>Estoy muy, muy preocupada.
+<noparse></noparse>You may end up with a <color\=#800000ff>creepy doll</color> if you sew it with no preparation.=<noparse></noparse>Puedes terminar con una <color\=#800000ff>muñeca espeluznante</color> si coses sin preparación.
+<noparse></noparse>There will be <color\=#800000ff>risks</color> no matter how I do it, so I'll do it the way I like.=<noparse></noparse>Habrá <color\=#800000ff>riesgos</color> no importa cómo lo haga, así que lo haré como me gusta.
+<noparse></noparse>Beats me why you always choose thorny paths over smooth roads.=<noparse></noparse>No entiendo por qué siempre eliges el camino difícil en lugar del fácil.
+<color\=#8C8C8C>3. Deliver the doll</color>=<color\=#8C8C8C>3. Entrega la muñeca</color>
+<color\=#ff0000>4. Collect the cotton for the doll</color>=<color\=#ff0000>4. Recoge el algodón para la muñeca.</color>
+<color\=#ff0000>5. Help fix the doll</color>=<color\=#ff0000>5. Ayuda a arreglar la muñeca</color>
+Fallen Cotton=Algodón Caído
+<noparse></noparse>Alright, let's get this over with.=<noparse></noparse>Muy bien, terminemos con esto.
+<noparse></noparse>How to sew it?=<noparse></noparse>¿Cómo coserlo?
+Rely on intuition=Confiar en la intuición
+<noparse></noparse>I got so much cotton.=<noparse></noparse>Tengo tanto algodón.
+<noparse></noparse>Well, it should be enough to fix the doll!=<noparse></noparse>Bueno, ¡debería ser suficiente para arreglar la muñeca!
+Smile Bubble Extract x 2=Extracto de Burbujas de Sonrisa x 2
+<noparse></noparse>Learning really fast, am I not?=<noparse></noparse>Aprendiendo muy rápido, ¿no?
+<noparse></noparse>Can't argue with that. You followed every movement of the marionette's, and the product looks fine.=<noparse></noparse>No puedo discutir con eso.\nSiguiste cada movimiento de la marioneta, y el producto se ve bien.
+<noparse></noparse>Although it can be said that the marionette is the real manufacturer.=<noparse></noparse>Aunque se puede decir que la marioneta es el verdadero fabricante.
+<noparse></noparse>Hey, I also contributed!=<noparse></noparse>¡Oye, también contribuí!
+<noparse></noparse>At this rate, I can soon stop relying on the marionette, don't you think so?\r=<noparse></noparse>A este paso, pronto podré dejar de depender de la marioneta, ¿no lo crees?\r
+<noparse></noparse>It's at least 3 years too early for you to say that.=<noparse></noparse>Es al menos 3 años demasiado pronto para que digas eso.
+Light Purple PS Sofa has been added to the Catalogue.=Se ha agregado el Sofá PS Lila Claro al Catálogo.
+A candy that brings a little good luck.=Un dulce que trae un poco de buena suerte.
+A doll with a broken arm. Signs of caress are all over its body. Someone must have been cherishing it for a long time.=Una muñeca con el brazo roto.\nHay signos de caricias por todo su cuerpo.\nAlguien debe haberla estado atesorando durante mucho tiempo.
+A mild tone is added to the white base. The texture is chewier.=Se añade un tono suave a la base blanca.\nLa textura es más masticable.
+816 Luna Coin(s)=816 Luna Coin(s)
+<noparse></noparse>Mending dolls? I do it all the time.=<noparse></noparse>¿Reparar muñecos?\nLo hago todo el tiempo.
+<noparse></noparse>Wow, could you help me out?=<noparse></noparse>Vaya, ¿podrías ayudarme?
+<noparse></noparse>Of course, I'd be happy to help you.=<noparse></noparse>Por supuesto, estaré encantado de ayudarte.
+<noparse></noparse>But Arden borrowed my Old Sewing Kit. =<noparse></noparse>Pero Arden tomó prestado mi viejo costurero. 
+<noparse></noparse>You can go find <color\=#800000ff>Arden</color> and learn how to mend the doll from him.=<noparse></noparse>Puedes ir a buscar a <color\=#800000ff>Arden</color> y aprender de él cómo remendar la muñeca.
+<noparse></noparse>Oh...? <color\=#800000ff>Arden</color>? He doesn't seem like the sewing type.=<noparse></noparse>Oh...? <color\=#800000ff>Arden</color>?\nNo parece del tipo que cose.
+<noparse></noparse>Haha, trust me. Just go find him.=<noparse></noparse>Jaja, confía en mí.\nSólo ve a buscarlo.
+<noparse></noparse>Doll mending? Why are you bothering me with this?=<noparse></noparse>¿Reparación de muñecas?\n¿Por qué me molestas con esto?
+<noparse></noparse>Does this place look like a doll shop to you?=<noparse></noparse>¿Este lugar te parece una tienda de muñecas?
+<noparse></noparse>Enite said that she lent you the Old Sewing Kit.=<noparse></noparse>Enite dijo que te prestó el viejo costurero.
+<noparse></noparse>Yep. I wanted to patch up my ripped apron.=<noparse></noparse>Sí.\nQuería arreglar mi delantal roto.
+<noparse></noparse>You want to mend a doll?=<noparse></noparse>¿Quieres reparar una muñeca?
+<noparse></noparse>Yes, it's a stuffed doll. About this size.=<noparse></noparse>Sí, es un muñeco de peluche.\nAproximadamente este tamaño.
+<noparse></noparse>Arden, do you know how to mend dolls?=<noparse></noparse>Arden, ¿sabes remendar muñecas?
+<noparse></noparse>Tsk. Give me a break.=<noparse></noparse>Tsk.\nDame un respiro.
+<noparse></noparse>Wait here. I think I have a doll in my restaurant. I'll go get it.=<noparse></noparse>Espera aquí.\nCreo que tengo una muñeca en mi restaurante.\nIré a buscarla.
+<noparse></noparse>Watch closely. I'll only show it once.=<noparse></noparse>Mira bien.\nSolo lo mostraré una vez.
+<noparse></noparse>Wow... Your stitching is so neat.=<noparse></noparse>Vaya... Tus costuras son tan bonitas.
+<noparse></noparse>So, did you get it?=<noparse></noparse>Entonces, ¿lo entendiste?
+<noparse></noparse>Where did you learn those skills? From Enite?=<noparse></noparse>¿Dónde aprendiste esas habilidades?\n¿De Enite?
+<noparse></noparse>I asked if you get it or not. Don't change the subject.=<noparse></noparse>Te pregunté si lo entiendes o no.\nNo cambies de tema.
+<noparse></noparse>I didn't learn this from Enite.=<noparse></noparse>No aprendí esto de Enite.
+<noparse></noparse>Then who? You seem quite familiar with sewing.=<noparse></noparse>¿Entonces quién?\nPareces bastante familiarizada con la costura.
+<noparse></noparse>Don't know. Having to deal with all kinds of stuff when running a restaurant, you just pick up skills over time.=<noparse></noparse>No lo sé.\nAl tener que lidiar con todo tipo de cosas cuando diriges un restaurante, simplemente adquieres habilidades con el tiempo.
+<noparse></noparse>Hmph... There's no harm telling me about it.=<noparse></noparse>Hmph... No hay nada de malo en contarme sobre eso.
+<noparse></noparse>Here's the Old Sewing Kit. Go, don't bother me again.=<noparse></noparse>Aquí está el viejo costurero.\nVete, no me molestes más.
+<noparse></noparse>There's not much thread left, and the needle is worn out. It can only be used once.=<noparse></noparse>No queda mucho hilo y la aguja está gastada.\nSólo se puede utilizar una vez.
+A sewing kit containing worn needles and thread only enough for one more use. It can function for one last time.=Un kit de costura que contiene agujas gastadas e hilo suficiente para un uso más.\nPuede funcionar por última vez.
+Thank you, Arden! =¡Gracias, Arden! 
+<noparse></noparse>Thank you, Arden! =<noparse></noparse>¡Gracias, Arden! 
+Old Sewing Kit=Kit de Costura Viejo
+1.7cm=1,7 cm
+59.37cm=59,37cm
+34.94cm=34,94 cm
+25.32cm=25,32 cm
+53.42cm=53,42 cm
+111.39cm=111,39cm
+<noparse></noparse>Oh right, Ellie, as a witch, you must need a lot of ingredients, right?=<noparse></noparse>Ah, claro, Ellie, como bruja, debes necesitar muchos ingredientes, ¿verdad?
+Use tools and do as taught=Usa las herramientas y haz lo que te enseñaron.
+<noparse></noparse>Now, find the same color thread, thread the needle, and then put it here...=<noparse></noparse>Ahora, busca hilo del mismo color, enhebra la aguja y luego ponlo aquí...
+<noparse></noparse>Patiently, one stitch at a time...=<noparse></noparse>Pacientemente, un punto a la vez...
+<noparse></noparse>There! See? I told you I could do it.=<noparse></noparse>¡Listo!\n¿Ves?\nTe dije que podía hacerlo.
+<noparse></noparse>Here you go! Your doll!=<noparse></noparse>¡Aquí tienes!\n¡Tu muñeca!
+Take the Fallen Cotton to the strange weeping creature.=Lleva el Algodón Caído a la extraña criatura que llora.
+<noparse></noparse>It seems quite happy. That's great.=<noparse></noparse>Parece bastante feliz.\nGenial.
+<noparse></noparse>Huh? It's reaching out to me? What's it doing?=<noparse></noparse>¿Eh?\n¿Se está acercando a mí?\n¿Qué está haciendo?
+<noparse></noparse>What a sweet smile!=<noparse></noparse>¡Qué dulce sonrisa!
+<noparse></noparse>Ugh, I'm all sticky!=<noparse></noparse>¡Uf, estoy toda pegajosa!
+<noparse></noparse>This creature! I repaired its doll, and it's playing a prank on me!=<noparse></noparse>¡Esta criatura!\n¡Reparé su muñeca y me está gastando una broma!
+<noparse></noparse>Maybe that's its way of expressing gratitude.=<noparse></noparse>Quizás esa sea su forma de expresar gratitud.
+<noparse></noparse>If it wanted to give me honey, it should have put the honey in a jar! How am I supposed to eat it when it's smeared all over my face?=<noparse></noparse>¡Si quisiera darme miel, debería haber puesto la miel en un frasco!\n¿Cómo se supone que voy a comerlo si tengo toda la cara untada?
+Oh? It actually gave it to me?=¿Oh?\n¿De verdad me lo dio?
+<noparse></noparse>Maybe it wanted to feed you honey.=<noparse></noparse>Quizás quería darte de comer miel.
+<noparse></noparse>Thank you! I'll savor it!=<noparse></noparse>¡Gracias!\n¡Lo saborearé!
+<noparse></noparse>Oh, it finally left.=<noparse></noparse>Oh, finalmente se fue.
+<noparse></noparse>We can go down this path now.=<noparse></noparse>Podemos seguir este camino ahora.
+<noparse></noparse>Will we encounter more strange creatures ahead?=<noparse></noparse>¿Nos encontraremos con más criaturas extrañas más adelante?
+<noparse></noparse>I certainly hope not.=<noparse></noparse>Ciertamente espero que no.
+Have a look at the inside of the giant red mushroom the strange creature has been to.=Echa un vistazo al interior del hongo rojo gigante en el que ha estado la extraña criatura.
+<noparse></noparse>Oh! So that's how the inside of the mushroom looks like.=<noparse></noparse>¡Oh!\nAsí es como se ve el interior del hongo.
+Follow the prickly vine trace inside the Red Shroom Forage Spot.=Sigue el rastro de la vid espinosa dentro de la Zona de Recolección del Hongo Rojo.
+Red Shroom Forage Spot=Zona de Recolección del Hongo Rojo
+<noparse></noparse>I never thought I would one day enter a mushroom. You'll get to experience everything if you live long enough.=<noparse></noparse>Nunca pensé que algún día entraría en un hongo.\nPodrás experimentarlo todo si vives lo suficiente.
+<noparse></noparse>As if you're anywhere near "living long."=<noparse></noparse>Como si estuvieras cerca de "vivir mucho".
+<noparse></noparse>But where's the thing in the mushroom that looks like a mesh bag?=<noparse></noparse>¿Pero dónde está esa cosa en el hongo que parece una bolsa de malla?
+<noparse></noparse>It looks old, but it's still usable.=<noparse></noparse>Parece viejo, pero aún se puede utilizar.
+<noparse></noparse>Signs of humans living here too.=<noparse></noparse>Señales de que aquí también viven seres humanos.
+<noparse></noparse>I wonder where is everyone...=<noparse></noparse>Me pregunto dónde están todos...
+<noparse></noparse>Could it be... that a mushroom monster showed up?=<noparse></noparse>¿Podría ser... que apareció un monstruo hongo?
+<noparse></noparse>Please be realistic.=<noparse></noparse>Por favor, sé realista.
+<noparse></noparse>Since there's a huge mushroom, why can't there be mushroom monsters?=<noparse></noparse>Dado que hay un hongo enorme, ¿por qué no puede haber hongos monstruosos?
+<noparse></noparse>By the way, I've been hearing strange noises...=<noparse></noparse>Por cierto, he estado escuchando ruidos extraños...
+<noparse></noparse>It's that weird guy.=<noparse></noparse>Es ese tipo raro.
+<color\=#8C8C8C>6. Hand over the cleaned doll</color>=<color\=#8C8C8C>6. Entrega la muñeca limpia.</color>
+<color\=#8C8C8C>2. Calm the strange creature</color>=<color\=#8C8C8C>2. Calma a la extraña criatura.</color>
+<color\=#8C8C8C>3. Enter the red mushroom</color>=<color\=#8C8C8C>3. Entra al champiñón rojo</color>
+<color\=#ff0000>4. Track the prickly vines</color>=<color\=#ff0000>4. Sigue las enredaderas espinosas</color>
+A Prosperous Day Window=Ventana de Un Día Próspero
+Cold Charcoal Small Rug*=Alfombra pequeña de carbón frío*
+Cold Charcoal Medium Rug*=Alfombra mediana de carbón frío*
+Cold Charcoal Large Rug*=Alfombra grande de carbón frío*
+Cold Charcoal Thin Dracaena Compacta*=Carbón Frío Dracaena Compacta Fina*
+Cold Charcoal Cabinet*=Gabinete de carbón frío*
+Cold Charcoal Wardrobe*=Armario de carbón frío*
+Cold Charcoal Chair*=Silla de carbón frío*
+Cold Charcoal Bookcase*=Estantería de Carbón Frío*
+Cold Charcoal Bed*=Cama de Carbón Frío*
+Yellow Ghost Mixer Lv1=Mezclador del Fantasma Amarillo Nv. 1
+Cold Charcoal Sofa*=Sofá de carbón frío*
+Cold Charcoal Large Storage*=Almacenamiento grande de carbón frío*
+Cold Charcoal Medium Storage*=Almacenamiento Mediano de Carbón Frío*
+Cold Charcoal Small Storage*=Almacenamiento pequeño de carbón frío*
+Cold Charcoal Desk*=Escritorio de carbón frío*
+Cold Charcoal Tile*=Baldosa de Carbón Frío*
+Cold Charcoal Wall Lamp*=Lámpara de pared de carbón frío*
+Cold Charcoal Wallpaper*=Papel tapiz de carbón frío*
+Cold Charcoal Large Storage* has been added to the Catalogue.=Se ha añadido el Almacenamiento Grande de Carbón Frío* al Catálogo.
+Cold Charcoal=Carbón frío
+An ore mushroom juice turns into after prolonged lithification.=Después de una litificación prolongada, se convierte en un jugo de hongo mineral.
+A Prosperous Day Window has been added to the Catalogue.=Se ha añadido la Ventana de Un Día Próspero al Catálogo.
+Cleansing Candy=>o< de Limpieza
+A candy that generates bubbles, good for cleansing. Rinse out your mouth with it or grind it into powder to wash your body. Makes a dish soap too due to the great oil removing effect.=Un caramelo que genera burbujas, bueno para la limpieza.\nEnjuágate la boca con él o muélelo hasta convertirlo en polvo para lavar tu cuerpo.\nTambién sirve como jabón para platos debido al gran efecto eliminador de grasa.
+Cloud Valley Life Forms Encyclopedia 10% Completion Reward=Enciclopedia de formas de vida de Cloud Valley Recompensa del 10 % por completarla
+We hereby express our recognition of your Initial achievements on Cloud Valley's study of Life Forms with your remarkable spirit of inquiry.=Por la presente expresamos nuestro reconocimiento por sus logros iniciales en el estudio de las formas de vida de Cloud Valley con su notable espíritu de investigación.
+It tends to wear a huge and shiny crown on its head to show off its power.=Suele llevar una corona enorme y brillante en la cabeza para mostrar su poder.
+It panics whenever it hits a rock, and would instantly dig a tunnel to flee in another direction.=Entra en pánico cada vez que golpea una roca e instantáneamente cava un túnel para huir en otra dirección.
+   Collect by hitting hard with a pickaxe.=   Recoge golpeando fuerte con un pico.
+   Collect Before it flees into a hole.=   Recoge antes de que huya hacia un agujero.
+<noparse></noparse>Hey, what is this?=<noparse></noparse>Oye, ¿qué es esto?
+<noparse></noparse>A device? It looks complicated...=<noparse></noparse>¿Un dispositivo?\nParece complicado...
+<noparse></noparse>I sense magic here.=<noparse></noparse>Siento magia aquí.
+<noparse></noparse>Right? And it's a large amount of it.=<noparse></noparse>¿Verdad?\nY es una gran cantidad.
+<noparse></noparse>A device should affect a <color\=#800000ff>huge</color> area if it uses so much magic...=<noparse></noparse>Un dispositivo debe afectar a un <color\=#800000ff>enorme</color> área si usa tanta magia...
+<noparse></noparse>Emm... I feel a bit confused...=<noparse></noparse>Emm... me siento un poco confundida...
+<noparse></noparse>Ah! There's a similar decoration on the <color\=#800000ff>witch barrier</color>.=<noparse></noparse>¡Ah!\nHay una decoración similar en la <color\=#800000ff>Barrera de Bruja</color>.
+<noparse></noparse>Light from the <color\=#800000ff>witch barrier connection device</color> is shining this way!=<noparse></noparse>¡La luz del <color\=#800000ff>dispositivo de conexión de la Barrera de Bruja</color> está brillando hacia acá!
+<noparse></noparse>In that case, this may be a <color\=#800000ff>witch barrier generator</color>.=<noparse></noparse>En ese caso, esto puede ser un <color\=#800000ff>generador de barrera de brujas</color>.
+<noparse></noparse>Well, I once blew up the device on the no-entering door at the principal's office.=<noparse></noparse>Bueno, una vez hice estallar el dispositivo de la puerta de entrada de la oficina del director.
+<noparse></noparse>No one would repair this place for you if you destroy it.=<noparse></noparse>Nadie repararía este lugar por ti si lo destruyes.
+<noparse></noparse>Can't we just destroy it?=<noparse></noparse>¿No podemos simplemente destruirlo?
+<noparse></noparse>It will end your adventure, Ellie.=<noparse></noparse>Eso pondrá fin a tu aventura, Ellie.
+<noparse></noparse>Alright, I understand. I must solve it in a witch's way, right?=<noparse></noparse>Muy bien, lo entiendo.\nDebo resolverlo a la manera de una bruja, ¿verdad?
+<noparse></noparse>I'll have a closer look at it. I'm a witch of words.=<noparse></noparse>Lo miraré más de cerca.\nSoy una bruja de palabras.
+<noparse></noparse>I need to observe surrounding devices carefully, and try to <color\=#800000ff>touch</color> them.=<noparse></noparse>Necesito observar cuidadosamente los dispositivos circundantes e intentar <color\=#800000ff>tocarlos</color>.
+<noparse></noparse>There're <color\=#800000ff>patterns</color> carved in the shards. Let's look into them.=<noparse></noparse>Hay <color\=#800000ff>patrones</color> tallados en los fragmentos.\nAnalicemos.
+<noparse></noparse>This is the key with a <color\=#800000ff>white tag</color>.=<noparse></noparse>Esta es la llave con una <color\=#800000ff>etiqueta blanca</color>.
+Key with White Tag=Llave con etiqueta blanca
+<noparse></noparse>Anyway, taking the key won't cause harm.=<noparse></noparse>De todos modos, tomar la llave no causará daño.
+<noparse></noparse>I'll put it in my bag.=<noparse></noparse>Lo pondré en mi bolso.
+<noparse></noparse>If only you were as passionate about books...=<noparse></noparse>Si tan solo fueras tan apasionada por los libros...
+<noparse></noparse>Keys are as useful as books!=<noparse></noparse>¡Las claves son tan útiles como los libros!
+<noparse></noparse>None of the items in this space can be taken out.=<noparse></noparse>Ninguno de los artículos de este espacio se puede sacar.
+<noparse></noparse>Is this how it's supposed to be?=<noparse></noparse>¿Es así como se supone que debe ser?
+<noparse></noparse>You have no clue?=<noparse></noparse>¿No tienes idea?
+<noparse></noparse>Well~ I got here, but I'm not confident.=<noparse></noparse>Bueno~ Llegué aquí, pero no estoy segura.
+<noparse></noparse>Let me see if there are other <color\=#800000ff>similar devices</color>.=<noparse></noparse>Déjame ver si hay otros <color\=#800000ff>dispositivos similares</color>.
+Use a Potion in the Cloud Valley 1=Usa una poción en el Valle Nuboso 1
+   Collect Avoid slipping at least twice.=   Recoger Evite resbalones al menos dos veces.
+It can take flight to flee, so in order to collect it, you should find a way to confine it.=Puede tomar vuelo para huir, por lo que para poder recolectarlo, debes encontrar una manera de confinarlo.
+Oily juice may splash when the Shroom Raccoon is feeding. You'd better hide if you walk in on this.=El jugo aceitoso puede salpicar cuando el mapache hongo se está alimentando.\nSerá mejor que te escondas si entras en esto.
+It usually moves around by climbing walls. When it feeds, it hangs upside down with its tail in a unique way.=Suele desplazarse escalando paredes.\nCuando se alimenta, cuelga boca abajo con la cola de una manera única.
+Raccoon Tail Fur=Piel de cola de mapache
+   Collect Flying seeds that rarely emerge from flowers.=   Recoge semillas voladoras que rara vez emergen de las flores.
+   Collect When the flower is blooming and petals haven't fallen.=   Recoger cuando la flor esté floreciendo y los pétalos no se hayan caído.
+Approach and collect the Wish Flower swiftly when it blooms and reveals its seeds. It can't bear sunlight and only blooms at night.=Acércate y recoge la Flor de los Deseos rápidamente cuando florezca y revele sus semillas.\nNo soporta la luz del sol y sólo florece de noche.
+A plant growing by cliffs. It uses all its nutrients for bearing seeds. If the plant withers and changes color thoroughly, it can no longer bear seeds.=Una planta que crece junto a los acantilados.\nUtiliza todos sus nutrientes para producir semillas.\nSi la planta se marchita y cambia completamente de color, ya no puede producir semillas.
+   Collect Cloud Gecko climbing on a wall.=   Recoge Cloud Gecko trepando por una pared.
+   Collect Cloud Gecko crawling on the ground.=   Recoge Cloud Gecko arrastrándose por el suelo.
+On impact, they turn into smoke for self-protection, so you need to collect with hands and not startle them.=Al impactar, se convierten en humo para protegerse, por lo que debes recogerlos con las manos y no asustarlos.
+A curious lizard that has a cloud of smoke as body, which dissipates upon strong impact, and converges again after a while.=Un curioso lagarto que tiene como cuerpo una nube de humo, que se disipa ante un fuerte impacto, y vuelve a converger al cabo de un rato.
+Slippery Grape=Uva resbaladiza
+Use the right potion to gather materials.\r\n\r\nShroom Raccoon\r\n\r\n=Usa la poción adecuada para recolectar materiales.\n\r\n\r\nMapache hongo\r\n\r\n
+Every potion has a special effect. \r\n\r\nUse the potions’ power to gather the creatures of Cloud Valley.=Cada poción tiene un efecto especial.\n\r\n\r\nUsa el poder de las pociones para reunir a las criaturas de Cloud Valley.
+<noparse></noparse>Is it a movable device just like the board we saw in the Cloud Vally Upstream?=<noparse></noparse>¿Es un dispositivo móvil como el tablero que vimos en Cloud Vally Upstream?
+<noparse></noparse>Hmm, but it can't be activated.=<noparse></noparse>Hmm, pero no se puede activar.
+<noparse></noparse>Why is everything broken!=<noparse></noparse>¿Por qué está todo roto?
+<noparse></noparse>It happens if they are not maintained.=<noparse></noparse>Sucede si no se mantienen.
+Fix the mushroom elevator=Arregla el elevador de hongos
+Repair the elevator inside the giant mushroom at Cloud Vally.=Repara el ascensor dentro del hongo gigante en Cloud Valley.
+<noparse></noparse>Sigh... I'll look for a usable <color\=#800000ff>Device Part</color>.=<noparse></noparse>Suspiro... buscaré una <color\=#800000ff>Parte del Dispositivo</color> utilizable.
+<color\=#ff0000>1. Fix the mushroom elevator</color>=<color\=#ff0000>1. Arregla el elevador de hongos.</color>
+The elevator inside the giant mushroom in Cloud Valley will be come operational after repairs.\n\n\nLook for the parts needed to fix the smoking elevator.=El ascensor dentro del hongo gigante en Cloud Valley volverá a funcionar después de las reparaciones.\n\nBusca las piezas necesarias para arreglar el ascensor humeante.
+[Light Purple PS Chair] Crafting Recipe=[Silla PS Lila Claro] Receta de elaboración
+Animals often get attracted by the smell when grapes burst and linger around. The juice is very slippery. Don't step on it.=Los animales suelen sentirse atraídos por el olor cuando las uvas revientan y permanecen ahí.\nEl jugo es muy resbaladizo.\nNo lo pises.
+Mischievous Child Dandelion has been added to the Catalogue.=Se ha añadido el Diente de León de Niño Travieso al Catálogo.
+[Light Purple PS Chair] Crafting Recipe has been registered.=[Silla PS Lila Claro] Se ha registrado la receta de elaboración.
+A key with a white tag.=Una llave con una etiqueta blanca.
+The wet fur from a Shroom Raccoon's tail.\nIt's soaked in mushroom juice and feels slippery.=El pelaje mojado de la cola de un mapache Shroom.\nEstá empapado en jugo de champiñones y se siente resbaladizo.
+Seeds with all of a Wish Flower's nutrients. Legend says that if you make a wish and blow the seeds off, your wish will come true.=Semillas con todos los nutrientes de la Flor del Deseo.\nLa leyenda dice que si pides un deseo y soplas las semillas, tu deseo se hará realidad.
+It weighs little, as if really made of smoke.=Pesa poco, como si realmente estuviera hecho de humo.
+<noparse></noparse>Are you here to deliver collected items to use the candy recipe purchase service?=<noparse></noparse>¿Estás aquí para entregar los artículos recolectados para utilizar el servicio de compra de recetas de dulces?
+Cloud Valley Collected Item Delivery=Entrega de artículos recolectados en Cloud Valley
+To get new candy recipes, you must submit samples of collected items.=Para obtener nuevas recetas de dulces, debes enviar muestras de los artículos recolectados.
+<noparse></noparse>I've checked the potions you delivered.=<noparse></noparse>Revisé las pociones que entregaste.
+<noparse></noparse>They are <color\=#800000ff>Recipe: Dental Care Candy</color>,=<noparse></noparse>Son: <color\=#800000ff>Receta: Dulce de Cuidado Dental</color>,
+Recipe for a candy that treats tooth decay.=Receta de un caramelo que trata las caries.
+<noparse></noparse><color\=#800000ff>Recipe: Déjà Vu Candy</color>=<noparse></noparse><color\=#800000ff>Receta: Dulce Déjà Vu</color>
+Recipe: Dental Care Candy=Receta: Dulce de Cuidado Dental
+Recipe for a candy that creates déjà vu.=Receta de un dulce que crea déjà vu.
+<noparse></noparse>and <color\=#800000ff>Recipe: Misfortune Candy</color>.=<noparse></noparse>y <color\=#800000ff>Receta: Dulce de la Desgracia</color>.
+Recipe: Déjà Vu Candy=Receta: Dulce Déjà Vu
+Recipe for a candy that brings a bit of misfortune.=Receta de un dulce que trae un poco de desgracia.
+Recipe: Misfortune Candy=Receta: Dulce de la Desgracia
+<noparse></noparse>No problem. You earned them, Ellie.=<noparse></noparse>Ningún problema.\nTe los ganaste, Ellie.
+FurBall Rat Fur x 2=Pelaje de Rata Peluda x 2
+Mole Crown x 2=Corona de Topo x 2
+<noparse></noparse>Whoa, can I really have it back?=<noparse></noparse>Vaya, ¿realmente puedo recuperarlo?
+Wish Flower Seed x 2=Semilla de Flor del Deseo x 2
+Bellbloom x 2=Bellbloom x 2
+<noparse></noparse>Sure. I only took the item to test your skills. You can't make candies without ingredients.=<noparse></noparse>Seguro.\nSólo tomé el artículo para probar tus habilidades.\nNo puedes hacer dulces sin ingredientes.
+<noparse></noparse>I've examined it. Now you can take it back.=<noparse></noparse>Lo he examinado.\nAhora puedes retirarlo.
+<noparse></noparse>If you want to deliver again, you'll need more <color\=#800000ff>candy recipes</color>.=<noparse></noparse>Si quieres volver a entregar, necesitarás más <color\=#800000ff>recetas de dulces</color>.
+<noparse></noparse>I'll sign you up for the <color\=#800000ff>candy recipe purchase service</color>. Please feel free to use it.=<noparse></noparse>Te inscribiré en el <color\=#800000ff>Servicio de Compra de Recetas de Dulces</color>.\nNo dudes en utilizarlo.
+<noparse></noparse><color\=#800000ff>4 candy recipes for delivery</color> are available today.=<noparse></noparse><color\=#800000ff>4 recetas de dulces para entrega</color> están disponibles hoy.
+<noparse></noparse>The collected item list also includes life forms that only inhabit <color\=#800000ff>shadow areas</color>.=<noparse></noparse>La lista de elementos recopilados también incluye formas de vida que sólo habitan <color\=#800000ff>áreas de sombra</color>.
+<noparse></noparse>And don't hesitate to hand in the items, because they will all be <color\=#800000ff>returned</color> once they are examined.=<noparse></noparse>Y no dudes en entregar los artículos, porque estarán todos <color\=#800000ff>devueltos</color> una vez que sean examinados.
+<noparse></noparse>Okay, show me what you're capable of from now on, Ellie!=<noparse></noparse>¡Muéstrame de lo que eres capaz de ahora en adelante, Ellie!
+2x Cloud Gecko\n2x Raccoon Tail Fur\n2x Moongirth\n2x Grass Whistler\n=2x Gecko de Nubes 2x Pelaje de Cola de Mapache 2x Moongirth 2x Silbador de Hierba\n
+New Location, New Candies 2=Nueva ubicación, nuevos caramelos 2
+2-6. New Location, New Candies 2=2-6.\nNueva ubicación, nuevos caramelos 2
+Deliver collected items to get new candy recipes.\nThey say that the delivered collected items will be returned.\r\n\r\n2x Cloud Gecko\n2x Raccoon Tail Fur\n2x Moongirth\n2x Grass Whistler\n\r\n\r\n=Entrega los artículos recolectados para obtener nuevas recetas de dulces.\nDicen que los artículos entregados y recogidos serán devueltos.\n\r\n\r\n2x Gecko de Nubes 2x Pelaje de Cola de Mapache 2x Moongirth 2x Silbador de Hierba\n\r\n\r\n
+Recipe "Dental Care Candy"=Receta "Dulce de Cuidado Dental"
+Recipe "Déjà Vu Candy"=Receta "Dulce Déjà Vu"
+Recipe "Misfortune Candy"=Receta "Dulce de la Desgracia"
+1x Nice Dream Candy\n=1x Dulce de Ensueño\n
+3x Magic Detection Candy\n1x Déjà Vu Candy\n=3x Dulce de Detección Mágica 1x Dulce Déjà Vu\n
+Déjà Vu Candy=>o< Déjà Vu
+<noparse></noparse>(The pages of paper tremble gently, as if feeling regretful)=<noparse></noparse>(Las páginas de papel tiemblan suavemente, como si se sintieran arrepentidas)
+Misfortune Candy=>o< de la Desgracia
+You have a nice dream the night right after you eat this candy, but you won't remember the dream once you wake up.=Tienes un bonito sueño la noche inmediatamente después de comer este dulce, pero no recordarás el sueño una vez que te despiertes.
+Nice Dream Candy=>o< de Ensueño
+A candy that brings a bit of misfortune. The effect can be too weak to notice. If the consumer is very lucky, it may not even work.=Un caramelo que trae un poco de desgracia.\nEl efecto puede ser demasiado débil para notarlo.\nSi el consumidor tiene mucha suerte, es posible que ni siquiera funcione.
+A candy that makes you feel full. Note that it doesn't provide nutrition and can't replace meals.=Un caramelo que te hace sentir lleno.\nTenga en cuenta que no proporciona nutrición y no puede sustituir las comidas.
+Honey Piglet Bubble=Burbuja de Lechón de Miel
+A candy that creates déjà vu. Déjà vu about what? That's the question.=Un caramelo que crea déjà vu.\n¿Déjà vu sobre qué?\nÉsa es la cuestión.
+Filling Candy=>o< de Relleno
+Eating it makes you bawl. Crying is often the solution to sadness.=Comerlo te hace llorar.\nEl llanto es muchas veces la solución a la tristeza.
+Bawl Candy=>o< de Llanto
+A candy for treating tooth decay. Better wait for it to melt in your mouth than swallow it. Doesn't work if the tooth decay is too serious, though.=Un caramelo para tratar las caries.\nEs mejor esperar a que se derrita en la boca que tragarlo.\nSin embargo, no funciona si la caries es demasiado grave.
+Dental Care Candy=>o< de Cuidado Dental
+A motivating candy. It doesn't restore Energy or enhance power, so don't push yourself too hard.=Un caramelo motivador.\nNo restaura la energía ni mejora el poder, así que no te esfuerces demasiado.
+A candy that grants wisdom, but not so effective as the "Enhance Intellect Potion." Note that the period of smartness is followed by a period of stupidity of the same length.=Un caramelo que otorga sabiduría, pero no tan efectivo como la "Poción de Mejora de Intelecto".\nTenga en cuenta que al período de inteligencia le sigue un período de estupidez de la misma duración.
+A candy for treating mild poisoning. It can only slow down the progression if the poisoning is serious, so you shouldn't rely on it too much.=Un caramelo para tratar intoxicaciones leves.\nSólo puede ralentizar la progresión si el envenenamiento es grave, por lo que no debes confiar demasiado en él.
+Antidote Candy=>o< Antídoto
+A candy that eases a runny nose. Recommended when you've got a cold or are eating very spicy food.=Un caramelo que alivia la secreción nasal.\nRecomendado cuando estás resfriado o estás comiendo comida muy picante.
+Anti-rhinorrhea Candy=>o< Anti-Rinorrea
+Granny's Wisdom Candy=>o< de Sabiduría de la Abuela
+Morale Candy=>o< de Moral
+2x Back Scratcher Candy\n2x Keen Eye Candy\n=2x Dulce Rascador de Espalda 2x Dulce de Ojo Agudo\n
+2x Granny's Wisdom Candy\n=2x Dulce de Sabiduría de la Abuela\n
+2.33cm=2,33 cm
+<noparse></noparse>Has the smoke thinned a bit?=<noparse></noparse>¿Se ha disipado un poco el humo?
+<noparse></noparse>I can vaguely see the other side.=<noparse></noparse>Puedo ver vagamente el otro lado.
+<noparse></noparse>The device in the mushroom must have worked.=<noparse></noparse>El dispositivo del hongo debió haber funcionado.
+<noparse></noparse>But the smoke hasn't disappeared.=<noparse></noparse>Pero el humo no ha desaparecido.
+<noparse></noparse>Hmm... There must be more devices.=<noparse></noparse>Hmm... Debe haber más dispositivos.
+<noparse></noparse>Let's look for <color\=#800000ff>similar devices</color>.=<noparse></noparse>Busquemos <color\=#800000ff>dispositivos similares</color>.
+Cloud Gecko Jelly=Gelatina de Gecko de Nubes
+Wish Flower Seed Juice=Jugo de Semilla de Flor del Deseo
+Extremely nutritious. A common dietary supplement ingredient.=Extremadamente nutritivo.\nUn ingrediente común de los suplementos dietéticos.
+Eat it and you'll see objects with magic glowing blue. It can also be applied to objects.=Cómelo y verás objetos con magia brillando en azul.\nTambién se puede aplicar a objetos.
+It's so light that it may fly away at any moment.=Es tan ligero que puede volar en cualquier momento.
+A candy that creates déjà vu.=Un caramelo que crea déjà vu.
+506 Luna Coin(s)=506 Luna Coin(s)
+2040 Gold Coins=2040 Monedas de Oro
+Walnut Tree Cabinet*=Gabinete de Nogal*
+Walnut Tree Potted Plant*=Nogal en Maceta*
+Walnut Tree Medium Rug*=Alfombra Mediana de Nogal*
+Walnut Tree Large Storage*=Almacenamiento Grande de Nogal*
+Walnut Tree Medium Storage*=Almacenamiento Mediano de Nogal*
+Walnut Tree Small Storage*=Almacenamiento Pequeño de Nogal*
+Walnut Tree Desk*=Escritorio de Nogal*
+Walnut Tree Tile*=Baldosa de Nogal*
+Walnut Tree Wallpaper*=Papel Tapiz de Nogal*
+Walnut Tree Shelf*=Estante de Nogal*
+Walnut Tree Wardrobe*=Armario de Nogal*
+Walnut Tree Chair*=Silla de Nogal*
+Walnut Tree Bookcase*=Estantería de Nogal*
+Walnut Tree Bed*=Cama de Nogal*
+Glass Butterfly Mixer Lv1=Mezclador de Mariposa de Cristal Lv1
+Mole Crown Powder=Polvo de Corona de Topo
+Dried Raccoon Tail Fur=Pelaje de Cola de Mapache Seco
+Green Forest Potions Encyclopedia 40% Completion Reward=Enciclopedia de Pociones del Bosque Verde - Recompensa por Completar el 40%
+We hereby express our recognition of your Impressive achievements on Green Forest's study of Potions with your remarkable spirit of inquiry.=Por la presente expresamos nuestro reconocimiento por sus impresionantes logros en el estudio de Pociones del Bosque Verde con su notable espíritu de investigación.
+Baked Tinkle Spider x 3=Araña Tintineante Horneada x 3
+<noparse></noparse>Hey, what's that? There seems to be something <color\=#800000ff>beside the door</color>?=<noparse></noparse>Oye, ¿qué es eso?\nParece haber algo <color\=#800000ff>al lado de la puerta</color>?
+<noparse></noparse>Looks like a <color\=#800000ff>key</color> for a boat.=<noparse></noparse>Parece una <color\=#800000ff>llave</color> para un barco.
+<noparse></noparse>What, Virgil, you rode a boat without me? Mean of you.=<noparse></noparse>¿Qué, Virgil, montaste en un barco sin mí?\nMalo de tu parte.
+<noparse></noparse>You were not born yet.=<noparse></noparse>Aún no naciste.
+<noparse></noparse>So, what does a <color\=#800000ff>key</color> for a boat do?=<noparse></noparse>Entonces, ¿para qué sirve una <color\=#800000ff>llave</color> de barco?
+<noparse></noparse>In short, it's a device the helmsman turns.=<noparse></noparse>En resumen, es un dispositivo que el timonel hace girar.
+<noparse></noparse>It controls which way the boat goes.=<noparse></noparse>Controla en qué dirección va el barco.
+<noparse></noparse>Oh, so this can be <color\=#800000ff>turned</color> too?=<noparse></noparse>Oh, entonces esto también puede <color\=#800000ff>girarse</color>, ¿verdad?
+<noparse></noparse>There's a strange <color\=#800000ff>keyhole</color> on the side.=<noparse></noparse>Hay un extraño <color\=#800000ff>ojo de cerradura</color> en el costado.
+<noparse></noparse>Why is there a keyhole here?=<noparse></noparse>¿Por qué hay un ojo de cerradura aquí?
+<noparse></noparse>It should have been installed by a previous resident so that the door can't be opened easily.=<noparse></noparse>Debería haber sido instalado por un residente anterior para que la puerta no se pueda abrir fácilmente.
+<noparse></noparse>Virgil, do you know a proverb called "anything with a lock can be opened"?=<noparse></noparse>Virgil, ¿conoces un proverbio que dice "todo lo que tiene cerradura se puede abrir"?
+<noparse></noparse>Invented by you I guess...=<noparse></noparse>Inventado por ti, supongo...
+<noparse></noparse>But that keyhole has <color\=#800000ff>white paint</color> or something on it.=<noparse></noparse>Pero ese ojo de cerradura tiene <color\=#800000ff>pintura blanca</color> o algo en él.
+<noparse></noparse>Is it some kind of mark?=<noparse></noparse>¿Es algún tipo de marca?
+<noparse></noparse>The <color\=#800000ff>wood plaque</color> has words on it. Check it out.=<noparse></noparse>La <color\=#800000ff>placa de madera</color> tiene palabras. Échale un vistazo.
+<noparse></noparse><Workplace Notice>=<noparse></noparse><Aviso en el lugar de trabajo>
+<noparse></noparse>Use the <color\=#800000ff>key</color> whose <color\=#800000ff>tag has the same color as the keyhole</color>!=<noparse></noparse>Utilice la <color\=#800000ff>llave</color> cuya <color\=#800000ff>etiqueta tiene el mismo color que el ojo de la cerradura</color>!
+<noparse></noparse>Can't be opened with a key of the wrong color. Whoever forces a key into a wrong keyhole will be starved for one day!=<noparse></noparse>No se puede abrir con una llave del color incorrecto.\n¡Quien introduzca una llave en el ojo equivocado se morirá de hambre por un día!
+<noparse></noparse>Hmm, there really were people here.=<noparse></noparse>Hmm, realmente había gente aquí.
+<noparse></noparse>Not any more, though.=<noparse></noparse>Aunque ya no.
+<noparse></noparse>I must use a <color\=#800000ff>key</color> <color\=#800000ff>whose tag is the same color as</color> the <color\=#800000ff>keyhole</color>. =<noparse></noparse>Debo usar una <color\=#800000ff>llave</color> <color\=#800000ff>cuya etiqueta es del mismo color que</color> el <color\=#800000ff>ojo de cerradura</color>. 
+Ride=Navegar
+<noparse></noparse>Wow, this is amazing.=<noparse></noparse>Vaya, esto es asombroso.
+You reached Cloud Vally Downstream after leaving Red Shroom Forage Spot. Explore the place and see if you can get to somewhere else.=Llegaste al Valle Nuboso Aguas Abajo después de dejar la Zona de Recolección del Hongo Rojo.\nExplora el lugar y ve si puedes llegar a otro lugar.
+Cloud Vally Downstream=Valle Nuboso Aguas Abajo
+<noparse></noparse>This is troublesome.=<noparse></noparse>Esto es problemático.
+<noparse></noparse>How come? Sniff, there's even a faint aroma of flowers. It's nice.=<noparse></noparse>¿Cómo?\nHuele, incluso hay un leve aroma a flores.\nEs bonito.
+<noparse></noparse>It's hard to find <color\=#800000ff>traces of prickly vines</color> if there's water everywhere.=<noparse></noparse>Es difícil de encontrar <color\=#800000ff>rastros de enredaderas espinosas</color> si hay agua por todas partes.
+<noparse></noparse>Oops.=<noparse></noparse>Ups.
+<noparse></noparse>Well... but we can find them if we are careful.=<noparse></noparse>Bueno... pero podemos encontrarlos si tenemos cuidado.
+<noparse></noparse>Yeah, since they must be around.=<noparse></noparse>Sí, ya que deben estar por aquí.
+<noparse></noparse>Good, we'll be careful then! We'll check every nook and cranny! Target: <color\=#800000ff>traces of prickly vines</color>!=<noparse></noparse>¡Bien, entonces tendremos cuidado!\n¡Revisaremos cada rincón!\nObjetivo: <color\=#800000ff>rastros de enredaderas espinosas</color>!
+<noparse></noparse>You're simple excited about getting a chance to wander around.=<noparse></noparse>Simplemente estás emocionada de tener la oportunidad de pasear.
+<color\=#ff0000>5. Explore Cloud Vally Downstream</color>=<color\=#ff0000>5. Explora el Valle Nuboso Aguas Abajo</color>
+Blue Shroom Forage Spot=Zona de Recolección del Hongo Azul
+<noparse></noparse>Oh, so this is also the inside of a mushroom.=<noparse></noparse>Oh, entonces este también es el interior de un hongo.
+Find the yellow strange creature you mended a doll for.=Encuentra la extraña criatura amarilla para la que reparaste una muñeca.
+<noparse></noparse>It doesn't look much different.=<noparse></noparse>No parece muy diferente.
+<noparse></noparse>Oh, that voice is...=<noparse></noparse>Oh, esa voz es...
+<noparse></noparse>The weird kid.=<noparse></noparse>El niño raro.
+<noparse></noparse>It's also playing here.=<noparse></noparse>También está sonando aquí.
+<noparse></noparse>I've been seeing it so often that I've developed affection for it.=<noparse></noparse>Lo he visto con tanta frecuencia que le he desarrollado afecto.
+<noparse></noparse>Shall I approach it?=<noparse></noparse>¿Me acerco?
+<noparse></noparse>You want your face covered with honey again?=<noparse></noparse>¿Quieres que tu cara vuelva a estar cubierta de miel?
+<noparse></noparse>No, I'm just curious! About what it's doing.=<noparse></noparse>¡No, solo tengo curiosidad!\nSobre lo que está haciendo.
+<noparse></noparse>And I've been concerned about the <color\=#800000ff>key</color> it's holding since the first time I saw it.=<noparse></noparse>Y he estado preocupada por la <color\=#800000ff>llave</color> que sostiene desde la primera vez que la vi.
+<noparse></noparse>Hi! What are you doing here!=<noparse></noparse>¡Hola!\n¡Qué estás haciendo aquí!
+<noparse></noparse>At least we now know that it's outgoing.=<noparse></noparse>Al menos ahora sabemos que es saliente.
+<noparse></noparse>Is it showing off its doll?=<noparse></noparse>¿Está mostrando su muñeca?
+<noparse></noparse>My taking the trouble to mend it wasn't for nothing...=<noparse></noparse>Que me haya tomado la molestia de arreglarlo no fue en vano...
+<noparse></noparse>Ah!=<noparse></noparse>¡Ah!
+<noparse></noparse>Now you know how much it hurts when you stab me with a needle?=<noparse></noparse>¿Ahora sabes cuánto duele cuando me pinchas con una aguja?
+<noparse></noparse>That's not the point! Look, there's a <color\=#800000ff>prickly vine trace</color> going towards that door.=<noparse></noparse>¡Ese no es el punto!\nMira, hay un <color\=#800000ff>rastro de enredadera espinosa</color> yendo hacia esa puerta.
+<noparse></noparse>And there's a <color\=#800000ff>keyhole</color> beside the door lock device!=<noparse></noparse>Y hay un <color\=#800000ff>ojo de cerradura</color> ¡al lado del dispositivo de bloqueo de la puerta!
+<noparse></noparse>Did you get so worked up just for the key?=<noparse></noparse>¿Te pusiste tan nerviosa sólo por la llave?
+<noparse></noparse>No, no! The weird kid had the key it played with the doll!=<noparse></noparse>¡No, no!\n¡El niño raro tenía la llave con la que jugaba con el muñeco!
+<noparse></noparse>And the key had a <color\=#800000ff>blue tag</color> on it!=<noparse></noparse>Y la llave tenía una <color\=#800000ff>etiqueta azul</color> ¡en ella!
+<noparse></noparse>Oh, Ellie II, you're awesome.=<noparse></noparse>Oh, Ellie II, eres increíble.
+<noparse></noparse>Don't give me strange aliases!=<noparse></noparse>¡No me des alias extraños!
+<noparse></noparse>Well... To open the door, we must drive that <color\=#800000ff>weird kid</color> away.=<noparse></noparse>Bueno... Para abrir la puerta, debemos alejar a ese <color\=#800000ff>niño raro</color>.
+<color\=#ff0000>6. Track the strange creature</color>=<color\=#ff0000>6. Sigue a la extraña criatura</color>
+<noparse></noparse>It's the <color\=#800000ff>same device</color> as in the red mushroom.=<noparse></noparse>Es el <color\=#800000ff>mismo dispositivo</color> que el del hongo rojo.
+<noparse></noparse>It should be activated in the same way. Let's have a close look.=<noparse></noparse>Debe activarse de la misma forma.\nEchemos un vistazo más de cerca.
+<noparse></noparse>Eek~ The bird cage is so slippery.=<noparse></noparse>Eek~ La jaula de pájaros está muy resbaladiza.
+<noparse></noparse>Told you to exercise more.=<noparse></noparse>Te dije que hicieras más ejercicio.
+<noparse></noparse>That's not the point! It has some slippery stuff on it.=<noparse></noparse>¡Ese no es el punto!\nTiene algunas cosas resbaladizas.
+<noparse></noparse>My hands keep slipping no matter how hard I try.=<noparse></noparse>Mis manos siguen resbalándose por mucho que lo intente.
+<noparse></noparse>What about using a Sticky Candy?=<noparse></noparse>¿Qué tal si usamos un Dulce Pegajoso?
+<noparse></noparse>No witch would stick their hands on a bird cage. That would be ridiculous.=<noparse></noparse>Ninguna bruja pondría sus manos en una jaula de pájaros.\nEso sería ridículo.
+<noparse></noparse>Wash it with water?=<noparse></noparse>¿Lavarlo con agua?
+<noparse></noparse>It doesn't help.=<noparse></noparse>No ayuda.
+<noparse></noparse>I need to come up with a way to <color\=#800000ff>hold on to</color> a slippery bird cage.=<noparse></noparse>Necesito encontrar una manera de <color\=#800000ff>aferrarme a</color> una jaula de pájaros resbaladiza.
+The fragment has slippery liquid on it. Is there a way to grab it firmly?=El fragmento tiene un líquido resbaladizo.\n¿Hay alguna manera de agarrarlo firmemente?
+Slippery Fragment=Fragmento Resbaladizo
+<noparse></noparse>Oh, it's a Cloud Vally Upstream again.=<noparse></noparse>Oh, es el Valle Nuboso Río Arriba otra vez.
+Find a similar device and activate it to lift the barrier.=Encuentra un dispositivo similar y actívalo para levantar la barrera.
+<noparse></noparse>And the voice...!=<noparse></noparse>¡Y la voz...!
+<noparse></noparse>There it is!=<noparse></noparse>¡Ahí está!
+<noparse></noparse>My goodness, how did it get pass?=<noparse></noparse>Dios mío, ¿cómo pasó?
+<noparse></noparse>You didn't notice it after so many trips to the forest?=<noparse></noparse>¿No lo notaste después de tantos viajes al bosque?
+<noparse></noparse>It doesn't work on forest creatures.=<noparse></noparse>No funciona con criaturas del bosque.
+<noparse></noparse>The barrier only works on humans? Crap!=<noparse></noparse>¿La barrera sólo funciona en humanos?\n¡Tonterías!
+<noparse></noparse>We have to <color\=#800000ff>lift this</color> after all or we can't enter.=<noparse></noparse>Tenemos que <color\=#800000ff>levantar esto</color> después de todo o no podremos entrar.
+<color\=#ff0000>8. Find more ways to remove the witch barrier</color>=<color\=#ff0000>8. Encuentra más formas de eliminar la barrera de las brujas.</color>
+<color\=#8C8C8C>7. Find a way to break the witch barrier</color>=<color\=#8C8C8C>7. Encuentra una manera de romper la barrera de las brujas.</color>
+Colored Glass Workshop Sofa*=Sofá de Taller de Vidrio Coloreado*
+Colored Glass Workshop Sofa* has been added to the Catalogue.=Se ha añadido al Catálogo el Sofá de Taller de Vidrio Coloreado*.
+Roasted One Eye Frog x 3=Rana de un Ojo Asada x 3
+Powder made by baking and grinding Mole Crown.\nIt has a faint aroma of mature mushrooms.=Polvo elaborado horneando y moliendo Corona de Topo.\nTiene un ligero aroma a setas maduras.
+16h 20m=16h 20m
+A potion that makes your hands sticky, allowing you to handle slippery objects with ease.=Una poción que vuelve tus manos pegajosas, permitiéndote manipular objetos resbaladizos con facilidad.
+<noparse></noparse>You wonder how to hold on to slippery things?=<noparse></noparse>¿Te preguntas cómo agarrarte a cosas resbaladizas?
+<noparse></noparse>I encounter the same problem when moving or changing flower pots.=<noparse></noparse>Me encuentro con el mismo problema al mover o cambiar macetas.
+<noparse></noparse>I would put on gardening gloves in such occasions.=<noparse></noparse>En esas ocasiones me pondría guantes de jardinería.
+<noparse></noparse>I would apply <color\=#800000ff>non-slip spray</color> to the inner side of the gloves.=<noparse></noparse>Yo aplicaría <color\=#800000ff>spray antideslizante</color> hacia el interior de los guantes.
+<noparse></noparse>A little bit of weak <color\=#800000ff>adhesive</color> would do the trick too.=<noparse></noparse>Un adhesivo <color\=#800000ff>débil</color> también funcionaría.
+<noparse></noparse>Ellie, as a witch, you should know something more practical, right?=<noparse></noparse>Ellie, como bruja, deberías saber algo más práctico, ¿verdad?
+107.34cm=107,34cm
+47.41cm=47,41cm
+141.2cm=141,2 cm
+Enite's Grape Pie=Pastel de Uva de Enite
+A grape pie made by Enite. It smells delicious.=Una tarta de uva elaborada por Enite.\nHuele delicioso.
+<noparse></noparse>Phew, this is just a walk in the park.=<noparse></noparse>Uf, esto es sólo un paseo por el parque.
+Find the key to the lever inside the blue mushroom and meet the strange creature.=Encuentra la llave de la palanca dentro del hongo azul y conoce a la extraña criatura.
+<noparse></noparse>Go to the road previously blocked?=<noparse></noparse>¿Ir al camino previamente bloqueado?
+<noparse></noparse>Sure! Let's find that weird kid!=<noparse></noparse>¡Seguro!\n¡Encontremos a ese niño raro!
+<noparse></noparse>Because it has got <color\=#800000ff>Key with Blue Tag</color>.=<noparse></noparse>Porque tiene <color\=#800000ff>Llave con Etiqueta Azul</color>.
+<color\=#ff0000>9. Find a key to open the door</color>=<color\=#ff0000>9. Encuentra una llave para abrir la puerta.</color>
+<noparse></noparse>Beside the doll, it was playing with a <color\=#800000ff>key</color>, right?=<noparse></noparse>Al lado de la muñeca, estaba jugando con una <color\=#800000ff>llave</color>, ¿verdad?
+Get the lever key from Honey Bear.=Consigue la llave de la palanca de Honey Bear.
+<noparse></noparse>It was holding it already when we first met it.=<noparse></noparse>Ya lo estaba sosteniendo cuando lo conocimos por primera vez.
+<noparse></noparse>Shall we just ask it for the key?=<noparse></noparse>¿Le pedimos la llave?
+<noparse></noparse>We fixed its doll. Maybe it's willing to give us the key.=<noparse></noparse>Arreglamos su muñeca.\nQuizás esté dispuesto a darnos la llave.
+<noparse></noparse>The key <color\=#800000ff>tag has the same color</color> as the <color\=#800000ff>keyhole in the mushroom</color>.=<noparse></noparse>La etiqueta de la llave tiene el <color\=#800000ff>mismo color</color> que el <color\=#800000ff>ojo de cerradura en el hongo</color>.
+<noparse></noparse>Let's <color\=#800000ff>talk to</color> the weird kid.=<noparse></noparse>Vamos a <color\=#800000ff>hablarle</color> al niño raro.
+<color\=#ff0000>10. Obtain the key from the strange creature</color>=<color\=#ff0000>10. Obtén la llave de la extraña criatura.</color>
+<noparse></noparse>Hello? Could you show me that thing you've got?=<noparse></noparse>¿Hola?\n¿Podrías mostrarme eso que tienes?
+Investigate the stuff around the strange creature.=Investiga lo que rodea a la extraña criatura.
+<noparse></noparse>I need that key.=<noparse></noparse>Necesito esa llave.
+<noparse></noparse>Ah, it's angry.=<noparse></noparse>Ah, está enojado.
+<noparse></noparse>Because you had nothing for it.=<noparse></noparse>Porque no tenías nada para ello.
+<noparse></noparse>But I mended its doll.=<noparse></noparse>Pero reparé su muñeca.
+<noparse></noparse>It's not a mouse rescued by Cinderella.=<noparse></noparse>No es un ratón rescatado por Cenicienta.
+<noparse></noparse>Why would it play with a key?=<noparse></noparse>¿Por qué jugaría con una llave?
+<noparse></noparse>Wait a minute... Will it give me the key if I get it another toy?=<noparse></noparse>Espera un momento... ¿Me dará la llave si le compro otro juguete?
+<noparse></noparse>But I don't know it, less what it likes.=<noparse></noparse>Pero no lo sé y menos lo que le gusta.
+<noparse></noparse>There's a pile of random items behind it.=<noparse></noparse>Hay un montón de elementos aleatorios detrás.
+<noparse></noparse>Yeah, this looks like its secret hideout.=<noparse></noparse>Sí, esto parece su escondite secreto.
+<noparse></noparse>You may get a better idea of the weird kid if you investigate the pile.=<noparse></noparse>Quizás tengas una mejor idea del niño raro si investigas la pila.
+<color\=#ff0000>11. Investigate the clutter</color>=<color\=#ff0000>11. Investiga el desorden</color>
+<noparse></noparse>How did a letter end up here?=<noparse></noparse>¿Cómo acabó aquí una carta?
+Find the doll left by Honey Bear's companion and get foreman's wood plaque.=Encuentra la muñeca que dejó el compañero de Honey Bear y consigue la placa de madera del capataz.
+<noparse></noparse>The paper has decayed.=<noparse></noparse>El papel se ha deteriorado.
+<noparse></noparse>Fortunately, some characters are still visible.=<noparse></noparse>Afortunadamente, algunos caracteres todavía son visibles.
+<noparse></noparse>To Honey Bear,=<noparse></noparse>Al osito de miel,
+<noparse></noparse>Dad says that we're moving.=<noparse></noparse>Papá dice que nos mudamos.
+<noparse></noparse>I want to take you with me, but I probably can't...=<noparse></noparse>Quiero llevarte conmigo, pero probablemente no pueda...
+<noparse></noparse>We promised to <color\=#800000ff>play house</color> again, didn't we?=<noparse></noparse>Prometimos <color\=#800000ff>jugar a las casitas</color> otra vez, ¿no?
+<noparse></noparse>I <color\=#800000ff>placed the dolls in Dad and the foreman's box</color> so that Ivan won't take them.=<noparse></noparse><color\=#800000ff>Puse las muñecas en la caja de papá y en la del capataz</color> para que Iván no se las lleve.
+<noparse></noparse>Dad said that the box was for storing mushrooms he and the other workers gathered.=<noparse></noparse>Papá dijo que la caja era para guardar los hongos que él y los demás trabajadores recogían.
+<noparse></noparse>You need Dad's and the foreman's <color\=#800000ff>wood plaques</color> <color\=#800000ff>at the same time</color> to open it.=<noparse></noparse>Necesitas las <color\=#800000ff>placas de madera</color> de papá y del capataz <color\=#800000ff>al mismo tiempo</color> para abrirlo.
+<noparse></noparse>Everyone tells me that I can go wherever I want when I grow up. If so, I'll come back here.=<noparse></noparse>Todo el mundo me dice que puedo ir a donde quiera cuando sea mayor.\nSi es así, volveré aquí.
+<noparse></noparse>Therefore, don't forget me! You heard me? It's a deal!=<noparse></noparse>¡Por eso no me olvides!\n¿Me escuchaste?\n¡Es un trato!
+<noparse></noparse>(There's a long sentence after that, but it's unrecognizable due to paper decay.)=<noparse></noparse>(Hay una frase larga después de eso, pero es irreconocible debido al deterioro del papel).
+<noparse></noparse>Honey Bear's companion... Riga.=<noparse></noparse>El compañero de Honey Bear... Riga.
+A wood plaque of a unique shape. The owner's name is on it, but is no longer recognizable.=Una placa de madera de una forma única.\nEn él figura el nombre del propietario, pero ya no es reconocible.
+Worker's Wood Plaque=Placa de madera del trabajador
+Oh, this should be the wood plaque mentioned in the letter.=Oh, esta debería ser la placa de madera mencionada en la carta.
+<noparse></noparse>And that weird kid is Honey Bear.=<noparse></noparse>Y ese niño raro es Honey Bear.
+<noparse></noparse><color\=#800000ff>Play house</color>...=<noparse></noparse><color\=#800000ff>jugar a las casitas</color>...
+<noparse></noparse>If Honey Bear was playing house with this key,=<noparse></noparse>Si Honey Bear estuviera jugando a las casitas con esta llave,
+<noparse></noparse>I just need to find the <color\=#800000ff>other dolls</color> for it and it will give me the Key with Blue Tag, right?=<noparse></noparse>sólo necesito encontrar las <color\=#800000ff>otras muñecas</color> para ello y me dará la Llave con Etiqueta Azul, ¿verdad?
+<noparse></noparse>That's up to Honey Bear.=<noparse></noparse>Eso depende de Honey Bear.
+<noparse></noparse>Okay, let's find the <color\=#800000ff>box with the dolls</color>.=<noparse></noparse>Bien, busquemos la <color\=#800000ff>caja con las muñecas</color>.
+<noparse></noparse>Just leave the letter here. After all, it belongs to Honey Bear.=<noparse></noparse>Sólo deja la carta aquí.\nDespués de todo, pertenece a Honey Bear.
+Find the doll left by Honey Bear's companion.=Encuentra la muñeca que dejó el compañero de Honey Bear.
+<color\=#8C8C8C>12. Find the wood plaque</color>=<color\=#8C8C8C>12. Encuentra la placa de madera.</color>
+<color\=#ff0000>13. Find the doll</color>=<color\=#ff0000>13. Encuentra la muñeca</color>
+<noparse></noparse>Branches and old blankets...=<noparse></noparse>Ramas y mantas viejas...
+<noparse></noparse>Broken charcoal and stinky cleaning cloth...=<noparse></noparse>Carbón roto y paño de limpieza apestoso...
+<noparse></noparse>It's just a pile of trash.=<noparse></noparse>Es sólo un montón de basura.
+<noparse></noparse>A wick-less candle and a flint...=<noparse></noparse>Una vela sin mecha y un pedernal...
+<noparse></noparse>A glove with a hole, and torn clothes...=<noparse></noparse>Un guante con un agujero y ropa rota...
+<noparse></noparse>It has the drawing of a child on it.=<noparse></noparse>Tiene el dibujo de un niño.
+<noparse></noparse>Look at their hands. Both of them are holding dolls.=<noparse></noparse>Mira sus manos.\nAmbos sostienen muñecos.
+<noparse></noparse>One of them seems to be the one I mended?=<noparse></noparse>¿Uno de ellos parece ser el que reparé?
+<noparse></noparse>The other one is...? Huh? So the key was a replacement of that <color\=#800000ff>doll</color>?=<noparse></noparse>¿El otro es...?\n¿Eh?\n¿Entonces la llave era un reemplazo de aquella <color\=#800000ff>muñeca</color>?
+<noparse></noparse>If only we can find the doll in the drawing.=<noparse></noparse>Si tan solo pudiéramos encontrar la muñeca en el dibujo.
+<noparse></noparse>There seems to be something on that bridge!=<noparse></noparse>¡Parece haber algo en ese puente!
+<noparse></noparse>A <color\=#800000ff>piece of wood</color>... Is it the <color\=#800000ff>wood plaque</color> in the letter of Honey Bear's companion?=<noparse></noparse>Un <color\=#800000ff>pedazo de madera</color>... ¿Es la <color\=#800000ff>placa de madera</color> de la carta del compañero de Honey Bear?
+<noparse></noparse>I'll check it out.=<noparse></noparse>Lo comprobaré.
+Use a Potion in the Cloud Valley 2=Usa una poción en Cloud Valley 2
+It has an endless appetite and is always consuming pollen or mushroom spores in the air. Some individuals feature shiny yellow bodies due to overconsumption of spores.=Tiene un apetito interminable y siempre está consumiendo polen o esporas de hongos en el aire.\nAlgunos individuos presentan cuerpos de color amarillo brillante debido al consumo excesivo de esporas.
+After feasting on spores and growing, it blows bubbles stuffed with spores. Create huge impacts to push it away so that it can eat more spores.=Después de darse un festín con las esporas y crecer, sopla burbujas llenas de esporas.\nCrea grandes impactos para alejarlo y que pueda comer más esporas.
+The larger a Honey Piglet's size, the bigger the bubbles it blows.=Cuanto mayor es el tamaño de un Honey Piglet, más grandes son las burbujas que sopla.
+Use the right potion to gather materials.\r\n\r\nHoney Piglet\r\n\r\n=Usa la poción adecuada para recolectar materiales.\n\r\n\r\nLechón de miel\r\n\r\n
+Ink on the "Honey Piglet" page isn't dry yet.=La tinta de la página "Honey Piglet" aún no está seca.
+It has a camouflage that prevents it from being spotted.=Tiene un camuflaje que evita que sea visto.
+3x Magic Detection Candy\n1x Bawl Candy\n=3x Dulce de Detección Mágica 1x Dulce de Llanto\n
+<noparse></noparse>They are <color\=#800000ff>Recipe: Babble Candy</color>,=<noparse></noparse>Son <color\=#800000ff>Receta: Dulce de Balbuceo</color>,
+<color\=#800000ff>Recipe: Antidote Candy</color>,=<color\=#800000ff>Receta: Dulce Antídoto</color>,
+<noparse></noparse><color\=#800000ff>Recipe: Antidote Candy</color>,=<noparse></noparse><color\=#800000ff>Receta: Dulce Antídoto</color>,
+Recipe: Babble Candy=Receta: Dulce de Balbuceo
+Recipe for a candy that makes you babble.=Receta de un dulce que te hace balbucear.
+Recipe for a candy that treats mild poisoning.=Receta de un caramelo que trata las intoxicaciones leves.
+Recipe: Bawl Candy=Receta: Dulce de Llanto
+<noparse></noparse><color\=#800000ff>Recipe: Bawl Candy</color>=<noparse></noparse><color\=#800000ff>Receta: Dulce de Llanto</color>
+Recipe for a candy that makes you bawl.=Receta de un dulce que te hace llorar.
+and <color\=#800000ff>Recipe: Filling Candy</color>.=y <color\=#800000ff>Receta: Dulce de Relleno</color>.
+<noparse></noparse>and <color\=#800000ff>Recipe: Filling Candy</color>.=<noparse></noparse>y <color\=#800000ff>Receta: Dulce de Relleno</color>.
+Recipe: Antidote Candy=Receta: Dulce Antídoto
+Recipe for a candy that makes you feel full.=Receta de un dulce que te hace sentir saciado.
+Recipe: Filling Candy=Receta: Dulce de Relleno
+Oh my, that's a lot!=¡Dios mío, eso es mucho!
+<noparse></noparse>Now you can make more new candies.=<noparse></noparse>Ahora puedes hacer más dulces nuevos.
+Cloud Gecko x 2=Gecko de Nubes x 2
+Moongirth x 2=Moongirth x 2
+Grass Whistler x 2=Silbador de Hierba x 2
+Raccoon Tail Fur x 2=Pelaje de Cola de Mapache x 2
+<noparse></noparse>I'll sign you up for another <color\=#800000ff>candy recipe purchase service</color>. Please feel free to use it.=<noparse></noparse>Te inscribiré en otro <color\=#800000ff>Servicio de Compra de Recetas de Dulces</color>.\nNo dudes en utilizarlo.
+<noparse></noparse><color\=#800000ff>5 candy recipes for delivery</color> are available today.=<noparse></noparse><color\=#800000ff>5 recetas de dulces para entrega</color> están disponibles hoy.
+<noparse></noparse>This will be the last examination. Just collect one of each item.=<noparse></noparse>Este será el último examen.\nSimplemente recoge uno de cada artículo.
+<noparse></noparse>The collected item list also includes life forms that only live in <color\=#800000ff>water bodies</color>.=<noparse></noparse>La lista de artículos recopilados también incluye formas de vida que solo habitan <color\=#800000ff>cuerpos de agua</color>.
+<noparse></noparse>If you can't enter <color\=#800000ff>areas with much water</color> yet, you may <color\=#800000ff>not get all the items soon</color>.=<noparse></noparse>Si aún no puedes acceder a <color\=#800000ff>zonas con mucha agua</color>, es posible que <color\=#800000ff>no puedas obtener todos los artículos pronto</color>.
+1x Leafbeaver Hair\n1x Cloudbloom Fruit\n1x Tail-breathing Croc Water\n1x Nectar Moth\n=1x Pelo del Castor de Hojas 1x Fruta de Cloudbloom 1x Agua del Cocodrilo Respira-Cola 1x Polilla de Néctar\n
+New Location, New Candies 3=Nueva ubicación, nuevos caramelos 3
+2-7. New Location, New Candies 3=2-7.\nNueva ubicación, nuevos caramelos 3
+Deliver collected items to get new candy recipes.\nThey say that the delivered collected items will be returned.\r\n\r\n1x Leafbeaver Hair\n1x Cloudbloom Fruit\n1x Tail-breathing Croc Water\n1x Nectar Moth\n\r\n\r\n=Entrega los artículos recolectados para obtener nuevas recetas de dulces.\nDicen que los artículos entregados y recogidos serán devueltos.\n\r\n\r\n1x Pelo del Castor de Hojas 1x Fruta de Cloudbloom 1x Agua del Cocodrilo Respira-Cola 1x Polilla de Néctar\n\r\n\r\n
+Recipe "Babble Candy"=Receta "Dulce de Balbuceo"
+Recipe "Antidote Candy"=Receta "Dulce Antídoto"
+Recipe "Bawl Candy"=Receta "Dulce de Llanto"
+Recipe "Filling Candy"=Receta "Dulce de Relleno"
+2x Sigh Candy\n2x Workout Candy\n=2x Dulce de Suspiro 2x Dulce de Entrenamiento\n
+2x Curse-lifting Candy\n2x Sticky Candy\n=2x Dulce de Alivio de Maldición 2x Dulce Pegajoso\n
+3x Magic Detection Candy\n=3x Dulce de Detección Mágica\n
+1x Granny's Wisdom Candy\n2x Morale Candy\n=1x Dulce de Sabiduría de la Abuela 2x Dulce de Moral\n
+Cube=Cubo
+Its fur is soft due to its passion for sunbath. As a timid and vigilant cat, it doesn't easily lower its guard, but once it does, it will stick to you every day, and let out soft meows of satisfaction if you stroke its tummy gently.=Su pelaje es suave debido a su pasión por los baños de sol.\nComo gato tímido y vigilante, no baja la guardia fácilmente, pero una vez que lo hace, se pegará a ti todos los días, y soltará suaves maullidos de satisfacción si le acaricias la barriguita con delicadeza.
+59.65cm=59,65cm
+53.27cm=53,27 cm
+<noparse></noparse>Thank you for your <color\=#800000ff>Cloud Salmon</color>!=<noparse></noparse>Gracias por tu <color\=#800000ff>Salmón de Nube</color>!
+<noparse></noparse>Shall I read the letter again?=<noparse></noparse>¿Leo la carta otra vez?
+<noparse></noparse>Hmm... Um, is this Cloud Valley?=<noparse></noparse>Hmm... Um, ¿es este el Valle Nuboso?
+<noparse></noparse>There's a <color\=#800000ff>yellow mark</color>.=<noparse></noparse>Hay un <color\=#800000ff>marca amarilla</color>.
+<noparse></noparse>Follow the direction of the mark.=<noparse></noparse>Siga la dirección de la marca.
+<noparse></noparse>I've checked everything I should.=<noparse></noparse>He comprobado todo lo que debería.
+<noparse></noparse>The weird kid is called <color\=#800000ff>Honey Bear</color>.=<noparse></noparse>El niño raro se llama <color\=#800000ff>Honey Bear</color>.
+<noparse></noparse>Beside a teddy bear, Honey Bear also had <color\=#800000ff>a doll left by its companion</color>.=<noparse></noparse>Además de un osito de peluche, Honey Bear también tenía <color\=#800000ff>un muñeco dejado por su compañero</color>.
+<noparse></noparse>It must be playing with the <color\=#800000ff>Key with Blue Tag</color> because it can't find the doll...=<noparse></noparse>Debe estar jugando con la <color\=#800000ff>Llave con Etiqueta Azul</color> porque no encuentra la muñeca...
+<noparse></noparse>Then, I'll find the companion's doll and exchange it for the key! Yup! What a good idea!=<noparse></noparse>¡Luego encontraré el muñeco del compañero y lo cambiaré por la llave!\n¡Sí!\n¡Qué buena idea!
+<noparse></noparse>But is it a "bear"?=<noparse></noparse>¿Pero es un "oso"?
+<noparse></noparse>Hmm... It does like honey, so it can be called a "bear," no?=<noparse></noparse>Hmm... Le gusta la miel, así que se le puede llamar "oso", ¿no?
+<noparse></noparse>That doesn't matter.=<noparse></noparse>Eso no importa.
+<noparse></noparse>Ah! There's a box!=<noparse></noparse>¡Ah!\n¡Hay una caja!
+<noparse></noparse>The letter beside Honey Bear said that the writer had put all the dolls into a <color\=#800000ff>box</color>.=<noparse></noparse>La carta al lado de Honey Bear decía que el escritor había puesto todas las muñecas en un <color\=#800000ff>caja</color>.
+<noparse></noparse>It seems that the <color\=#800000ff>wood plaques</color> can be fit into the <color\=#800000ff>holes</color> in the box.=<noparse></noparse>Parece que las <color\=#800000ff>placas de madera</color> se pueden encajar en los <color\=#800000ff>agujeros</color> de la caja.
+<noparse></noparse>Alright, time to examine the box!=<noparse></noparse>¡Muy bien, es hora de examinar la caja!
+<noparse></noparse>Oops, why can't I raise it?=<noparse></noparse>Ups, ¿por qué no puedo subirlo?
+<noparse></noparse>It looks hard when you only use one.=<noparse></noparse>Parece difícil cuando solo usas uno.
+<noparse></noparse>Yeah, but there's only one hole.=<noparse></noparse>Sí, pero sólo hay un agujero.
+<noparse></noparse>There are two kinds of fighting.=<noparse></noparse>Hay dos tipos de peleas.
+<noparse></noparse>Say, just charge and strike?=<noparse></noparse>Digamos, ¿simplemente cargar y atacar?
+<noparse></noparse>Rely on the variety of techniques... or rely on <color\=#800000ff>size</color>.=<noparse></noparse>Confía en la variedad de técnicas... o confía en el <color\=#800000ff>tamaño</color>.
+<noparse></noparse>I don't understand a word.=<noparse></noparse>No entiendo una palabra.
+The wood plank doesn't budge an inch even with the windsock attached. Is there another means to raise it?=La tabla de madera no se mueve ni un centímetro incluso con la manga de viento colocada.\n¿Hay alguna otra manera de levantarla?
+Raise Plank=Levantar tabla
+Breathing Cricket Juice=Respirar jugo de grillo
+Sunflower Wallpaper*=Papel Tapiz de Girasol*
+Sunflower Tile*=Baldosa de Girasol*
+Sunflower Small Storage*=Almacenamiento Pequeño de Girasol*
+Sunflower Medium Storage*=Almacenamiento Mediano de Girasol*
+Sunflower Large Storage*=Almacenamiento Grande de Girasol*
+Sunflower Small Rug*=Alfombra Pequeña de Girasol*
+Bronze & Brass Mixer Lv1=Mezclador de bronce y latón Lv1
+Sunflower Vase*=Jarrón de Girasol*
+Sunflower Large Rug*=Alfombra Grande de Girasol*
+Sunflower Medium Rug*=Alfombra Mediana de Girasol*
+Walnut Tree Large Storage* has been added to the Catalogue.=Se ha añadido al Catálogo Almacenamiento Grande de Nogal*.
+Colored Glass Workshop=Taller de vidrio coloreado
+Walnut Tree=Nogal
+Blue Ballerina Music Box=Caja de Música de Bailarina Azul
+Blue Ballerina Large Rug=Alfombra Grande de Bailarina Azul
+Blue Ballerina Medium Rug=Alfombra Mediana de Bailarina Azul
+Blue Ballerina Small Rug=Alfombra Pequeña de Bailarina Azul
+Blue Ballerina Tile=Baldosa de Bailarina Azul
+Blue Ballerina Wallpaper=Papel Tapiz de Bailarina Azul
+<noparse></noparse>Emm, the way to make a wood plank float.=<noparse></noparse>Emm, la forma de hacer flotar una tabla de madera.
+<noparse></noparse>Usually, you erect enduring pillars beneath the bridge deck to support it.=<noparse></noparse>Por lo general, se erigen pilares duraderos debajo de la plataforma del puente para sostenerlo.
+<noparse></noparse>But I don't have that much strength.=<noparse></noparse>Pero no tengo tanta fuerza.
+<noparse></noparse>Haha, it requires both strength and skills, so it can be hard for you, Ellie.=<noparse></noparse>Jaja, requiere fuerza y ​​habilidades, así que puede ser difícil para ti, Ellie.
+<noparse></noparse>I even attached a windsock to it, but it won't work.=<noparse></noparse>Incluso le puse una manga de viento, pero no funciona.
+<noparse></noparse>Why don't you make the windsock <color\=#800000ff>larger</color> then?=<noparse></noparse>¿Por qué no haces la manga de viento <color\=#800000ff>más grande</color>, entonces?
+<noparse></noparse>After all, everything becomes stronger when it <color\=#800000ff>increases in size</color>, hahah!=<noparse></noparse>Después de todo, todo se vuelve más fuerte cuando <color\=#800000ff>aumenta de tamaño</color>, jaja!
+You've added the [Inflation Potion recipe] to favorite.=Has agregado la [receta de la Poción Infladora] a favoritas.
+A potion that inflates the target it contacts with.\nWorks better on deflated items.=Una poción que infla el objetivo con el que entra en contacto.\nFunciona mejor en artículos desinflados.
+200 Luna Coin(s)=200 Luna Coin(s)
+1200 Gold Coins=1200 Monedas de Oro
+<noparse></noparse>Great~ It worked!=<noparse></noparse>Genial ~ ¡Funcionó!
+<noparse></noparse>Now, I can climb up.=<noparse></noparse>Ahora puedo subir.
+<noparse></noparse>I also need to check the <color\=#800000ff>box</color> up there.=<noparse></noparse>También necesito comprobar el <color\=#800000ff>caja</color> allá arriba.
+<noparse></noparse>By the way, have you forgotten something?=<noparse></noparse>Por cierto, ¿se te ha olvidado algo?
+<noparse></noparse>What? I should look for the prickly vine core, right? I haven't forgotten.=<noparse></noparse>¿Qué?\nDebería buscar el núcleo de la enredadera, ¿verdad?\nNo lo he olvidado.
+<noparse></noparse>I may not look attentive, but I know what I'm doing~=<noparse></noparse>Puede que no parezca atenta, pero sé lo que estoy haciendo~
+<noparse></noparse>I mean, the thing for removing the core.=<noparse></noparse>Quiero decir, lo de quitar el núcleo.
+<noparse></noparse>Moon Tears.=<noparse></noparse>Lágrimas de luna.
+<noparse></noparse>You really forgot?=<noparse></noparse>¿Realmente lo olvidaste?
+<noparse></noparse>I, I didn't~ I was about to mention that.=<noparse></noparse>Yo, no lo hice~ Estaba a punto de mencionar eso.
+<noparse></noparse>Um, let's see. Finding Moonflowers is easy. Then I just need to buy the Sunlight Potion recipe.=<noparse></noparse>Mmm, veamos.\nEncontrar Moonflowers es fácil.\nEntonces sólo necesito comprar la receta de la poción de luz solar.
+<noparse></noparse>The problem is the <color\=#800000ff>Sacred Water</color>...=<noparse></noparse>El problema es el <color\=#800000ff>Agua sagrada</color>...
+<noparse></noparse>There's some in the temple.=<noparse></noparse>Hay algunos en el templo.
+<noparse></noparse>Oh, right! I'll just get it from the temple!=<noparse></noparse>¡Ah, claro!\n¡Lo conseguiré en el templo!
+<noparse></noparse>Speaking of which, can you just fetch water from the temple as you wish?=<noparse></noparse>Hablando de eso, ¿puedes simplemente ir a buscar agua al templo como quieras?
+<noparse></noparse>Then it wouldn't have been sold at 1500 Luna Coins.=<noparse></noparse>Entonces no se habría vendido por 1500 Luna Coins.
+<noparse></noparse>Maybe you'll have to offer something super precious in exchange.=<noparse></noparse>Quizás tengas que ofrecer algo muy valioso a cambio.
+<noparse></noparse>No way... The Cat Gods can't be that mean.=<noparse></noparse>De ninguna manera... Los Dioses Gato no pueden ser tan malos.
+<noparse></noparse>I'll ask the Cat Gods just in case!=<noparse></noparse>¡Le preguntaré a los Dioses Gato por si acaso!
+Craft Moon Tears for the second time=Crea lágrimas de luna por segunda vez
+<noparse></noparse><color\=#800000ff>Garden gate</color>...?=<noparse></noparse><color\=#800000ff>Puerta del jardín</color>...?
+<noparse></noparse>There's a smell.=<noparse></noparse>Hay un olor.
+<noparse></noparse>Isn't it similar to the one we saw at the Green Forest?=<noparse></noparse>¿No es similar al que vimos en el Bosque Verde?
+<noparse></noparse>They seem to have a lot of secrets.=<noparse></noparse>Parecen tener muchos secretos.
+<noparse></noparse>Hmm, there's a <color\=#800000ff>Witch Sigil</color> right ahead. I'd better remember this place.=<noparse></noparse>Mmm, hay un <color\=#800000ff>Sello Mágico de Bruja</color> justo delante.\nSerá mejor que recuerde este lugar.
+To completely clear the prickly vines, you need to craft Moon Tears once again.\n\n\nTalk to the Cat God at the temple, and craft the Moon Tears.=Para eliminar por completo las enredaderas espinosas, debes crear Moon Tears una vez más.\n\nHabla con el Dios Gato en el templo y elabora las Lágrimas de Luna.
+<noparse></noparse>Virgil! Look! The box has a <color\=#800000ff>hole</color> in it!=<noparse></noparse>¡Virgil!\n¡Mira!\nLa caja tiene un <color\=#800000ff>agujero</color> en ella!
+<noparse></noparse>It must be <color\=#800000ff>the box mentioned in the letter</color> of Honey Bear's companion!=<noparse></noparse>¡Debe ser <color\=#800000ff>la caja mencionada en la carta</color> del compañero de Honey Bear!
+<noparse></noparse>To open the box, <color\=#800000ff>Worker's Wood Plaque</color> and <color\=#800000ff>Foreman's Wood Plaque</color>, bring it here.=<noparse></noparse>Para abrir la caja, <color\=#800000ff>Placa de madera del trabajador</color> y <color\=#800000ff>Placa de madera del capataz</color>, tráelo aquí.
+Foreman's Wood Plaque=Placa de madera del capataz
+<noparse></noparse>This should be the wood plaque mentioned in the letter.=<noparse></noparse>Esta debería ser la placa de madera mencionada en la carta.
+<noparse></noparse>It has the faded word <color\=#800000ff>"foreman"</color> on it.=<noparse></noparse>Tiene la palabra descolorida <color\=#800000ff>"capataz"</color> en ella.
+<noparse></noparse>Oh, these two parts seem to be connectable.=<noparse></noparse>Oh, estas dos partes parecen ser conectables.
+<noparse></noparse>If I insert it here...=<noparse></noparse>Si lo inserto aquí...
+A wood block made by combining two wood plaques. It may fit into something.=Un bloque de madera elaborado combinando dos placas de madera.\nPuede que encaje en algo.
+Rectangular Wood Block=Bloque de madera rectangular
+Oh, it attached.=Oh, encajó.
+<noparse></noparse>Well done.=<noparse></noparse>Bien hecho.
+<noparse></noparse>Heh, these random items can actually turn into a key.=<noparse></noparse>Je, estos elementos aleatorios pueden convertirse en una llave.
+<noparse></noparse>Now I wonder if you're a witch or a phantom thief.=<noparse></noparse>Ahora me pregunto si eres una bruja o un ladrón fantasma.
+<noparse></noparse>A phantom thief witch sounds cool!=<noparse></noparse>¡Una bruja ladrona fantasma suena genial!
+<noparse></noparse>Now, I just need to use this on the <color\=#800000ff>box with dolls</color>.=<noparse></noparse>Ahora, sólo necesito usar esto en la <color\=#800000ff>caja con las muñecas</color>.
+<noparse></noparse>Use the Rectangular Wood Block to open the box?=<noparse></noparse>¿Usar el bloque de madera rectangular para abrir la caja?
+<noparse></noparse>Stick the shard into the gap here...=<noparse></noparse>Introduce el fragmento en el hueco aquí...
+<noparse></noparse>Hm... *cough* Geez, so much dust.=<noparse></noparse>Hm... *tos* Caray, mucho polvo.
+Give the doll in blue found in the box to Honey Bear.=Dale la muñeca azul que se encuentra en la caja a Honey Bear.
+<noparse></noparse>What are these? An old blanket, dried mushrooms...=<noparse></noparse>¿Qué son éstos?\nUna manta vieja, setas secas...
+<noparse></noparse>Why is there a fork? Er... ah, there's a piece of blue cloth.=<noparse></noparse>¿Por qué hay un tenedor?\nEr... ah, hay un trozo de tela azul.
+Aww! What a cute doll!=¡Oooh!\n¡Qué linda muñeca!
+Doll in Blue=Muñeca en azul
+A doll in blue clothes and wearing a blue bow.\nThe texture resembles the doll carried by Honey Bear.=Una muñeca vestida de azul y con un lazo azul.\nLa textura se asemeja a la muñeca que lleva Honey Bear.
+<noparse></noparse>Now let's give this to Honey Bear.=<noparse></noparse>Ahora démosle esto a Honey Bear.
+<color\=#ff0000>1. Visit the Black Cat God</color>=<color\=#ff0000>1. Visita al Dios Gato Negro</color>
+2-8. Craft Moon Tears for the second time=2-8.\nCrea lágrimas de luna por segunda vez
+<color\=#ff0000>14. Give the doll to Honey Bear</color>=<color\=#ff0000>14. Dale la muñeca a Honey Bear.</color>
+<noparse></noparse>Hi there~ Here's your companion's doll!=<noparse></noparse>Hola ~ ¡Aquí está la muñeca de tu compañero!
+Insert the key with the blue tag into the blue keyhole of the lever to open the door.=Inserte la llave con la etiqueta azul en el orificio azul de la palanca para abrir la puerta.
+<noparse></noparse>Ah, why is it crying?=<noparse></noparse>Ah, ¿por qué llora?
+<noparse></noparse>It must miss the doll badly.=<noparse></noparse>Debe extrañar mucho a la muñeca.
+<noparse></noparse>It reminded it of its companion...?=<noparse></noparse>¿Le recordaba a su compañero...?
+<noparse></noparse>Now I also miss Jenny and Sally.=<noparse></noparse>Ahora también extraño a Jenny y Sally.
+<noparse></noparse>I hope their apprenticeships are going well.=<noparse></noparse>Espero que sus aprendizajes vayan bien.
+<noparse></noparse>It has stopped crying.=<noparse></noparse>Ha dejado de llorar.
+<noparse></noparse>Even though it's not the companion, it's a doll left by the companion.=<noparse></noparse>Aunque no es el compañero, es un muñeco que dejó el compañero.
+<noparse></noparse>I hope Honey Bear can also feel happiness.=<noparse></noparse>Espero que Honey Bear también pueda sentir felicidad.
+<noparse></noparse>It dropped the key.=<noparse></noparse>Se le cayó la llave.
+<noparse></noparse>Good, I'll get the key!=<noparse></noparse>¡Bien, conseguiré la llave!
+Key with Blue Tag=Llave con Etiqueta Azul
+<noparse></noparse>To turn the device, we need to insert Honey Bear's key into the <color\=#800000ff>keyhole</color>.=<noparse></noparse>Para girar el dispositivo, debemos insertar la llave de Honey Bear en el <color\=#800000ff>ojo de cerradura</color>.
+<noparse></noparse>Try the key.=<noparse></noparse>Prueba la llave.
+A key with a blue tag.=Una llave con una etiqueta azul.
+<noparse></noparse>It worked?=<noparse></noparse>¿Funcionó?
+<noparse></noparse>It worked.=<noparse></noparse>Funcionó.
+<noparse></noparse>Okay, now I'll turn the device and get out!=<noparse></noparse>¡Bien, ahora giraré el dispositivo y saldré!
+<noparse></noparse>Oh! We're here!=<noparse></noparse>¡Oh!\n¡Estamos aquí!
+Explore Cloud Vally Downstream and look for traces of prickly vines.=Explora el Valle Nuboso Aguas Abajo y busca rastros de enredaderas espinosas.
+<noparse></noparse>And we can get down now!=<noparse></noparse>¡Y podemos bajar ahora!
+<noparse></noparse>I'll swim to my heart's content.=<noparse></noparse>Nadaré hasta que el corazón me lo pida.
+<noparse></noparse>Alright, let's go on looking for the <color\=#800000ff>prickly vine core</color>!=<noparse></noparse>¡Muy bien, sigamos buscando el <color\=#800000ff>núcleo de la enredadera espinosa</color>!
+<noparse></noparse>Oh, now we can go up and down with the ladder.=<noparse></noparse>Oh, ahora podemos subir y bajar con la escalera.
+<noparse></noparse>Nice choice.=<noparse></noparse>Buena elección.
+<noparse></noparse>Sigh, there isn't even an intact ladder.=<noparse></noparse>¡Uf, ni siquiera hay una escalera intacta!
+<noparse></noparse>Young witch, most things in life won't work out as you expect.=<noparse></noparse>Joven bruja, la mayoría de las cosas en la vida no saldrán como esperas.
+<noparse></noparse>Stop imitating the principal. You're making me sleepy.=<noparse></noparse>Deja de imitar al director.\nMe estás dando sueño.
+<noparse></noparse><color\=#800000ff>Other ladders</color> seem to be broken too. We can only <color\=#800000ff>repair them as we proceed</color>.=<noparse></noparse>Las <color\=#800000ff>otras escaleras</color> también parecen estar rotas.\nSólo podemos <color\=#800000ff>repararlas a medida que avanzamos</color>.
+<noparse></noparse>Yeah. We apparently <color\=#800000ff>can only repair from below</color>, and we shouldn't delay it.=<noparse></noparse>Sí.\nAparentemente <color\=#800000ff>sólo se puede reparar desde abajo</color>, y no deberíamos demorarnos.
+<noparse></noparse>Finding a way around it will be more troublesome.=<noparse></noparse>Encontrar una manera de evitarlo será más problemático.
+Repair the suspending ladder at Cloud Vally Downstream.=Repara la escalera suspendida en el Valle Nuboso Aguas Abajo.
+Fix the suspending ladder=Arreglar la escalera suspendida.
+<color\=#8C8C8C>15. Use the blue key</color>=<color\=#8C8C8C>15. Usa la llave azul</color>
+<color\=#8C8C8C>16. Track the prickly vines</color>=<color\=#8C8C8C>16. Sigue las enredaderas espinosas</color>
+<color\=#ff0000>17. Explore Cloud Vally Downstream</color>=<color\=#ff0000>17. Explora el Valle Nuboso Aguas Abajo</color>
+<color\=#ff0000>1. Fix the suspending ladder</color>=<color\=#ff0000>1. Arregla la escalera suspendida</color>
+The suspended ladder in Cloud Valley will be come operational after repairs.\n\n\nLook for the parts needed to fix the broken ladder.=La escalera suspendida en el Valle Nuboso volverá a estar operativa después de las reparaciones.\n\nBusca las piezas necesarias para arreglar la escalera rota.
+25.10.11 11:05 AM=25.10.11 11:05
+Day 21 of Month 2nd, Year 1=Día 21 del mes 2, año 1
+25.10.11 11:36 AM=25.10.11 11:36
+Day 22 of Month 2nd, Year 1=Día 22 del mes 2, año 1
+25.10.11 12:10 PM=25.10.11 12:10
+Day 23 of Month 2nd, Year 1=Día 23 del mes 2, año 1
+25.10.11 12:54 PM=25.10.11 12:54
+ver 5.2.2.0=versión 5.2.2.0
+25.10.11 12:56 PM=25.10.11 12:56
+Day 24 of Month 2nd, Year 1=Día 24 del mes 2, año 1
+Day 20 of Month 2nd, Year 1=Día 20 del mes 2, año 1
+25.10.08 08:07 PM=25.10.08 20:07
+Day 19 of Month 2nd, Year 1=Día 19 del mes 2, año 1
+25.10.08 07:38 PM=25.10.08 19:38
+Day 18 of Month 2nd, Year 1=Día 18 del mes 2, año 1
+25.10.08 07:02 PM=25.10.08 19:02
+Day 17 of Month 2nd, Year 1=Día 17 del mes 2, año 1
+25.10.08 06:36 PM=25.10.08 18:36
+Day 16 of Month 2nd, Year 1=Día 16 del mes 2, año 1
+25.10.08 06:05 PM=25.10.08 18:05
+25.10.07 05:58 PM=25.10.07 17:58
+25.10.07 05:53 PM=25.10.07 17:53
+Day 15 of Month 2nd, Year 1=Día 15 del mes 2, año 1
+25.10.07 05:14 PM=25.10.07 17:14
+Day 14 of Month 2nd, Year 1=Día 14 del mes 2, año 1
+25.10.07 04:36 PM=25.10.07 16:36
+Day 13 of Month 2nd, Year 1=Día 13 del mes 2, año 1
+25.10.06 06:34 PM=25.10.06 18:34
+25.10.06 06:31 PM=25.10.06 18:31
+Day 12 of Month 2nd, Year 1=Día 12 del mes 2, año 1
+25.10.06 05:53 PM=25.10.06 17:53
+Day 11 of Month 2nd, Year 1=Día 11 del mes 2, año 1
+25.10.06 05:04 PM=25.10.06 17:04
+Day 10 of Month 2nd, Year 1=Día 10 del mes 2, año 1
+25.10.05 01:18 PM=25.10.05 13:18
+\nAre you sure you want to load the saved file?\n\n<color\=#800000>Unsaved data will be deleted.</color>=\n¿Está seguro de que desea cargar el archivo guardado?\n\n<color\=#800000>Los datos no guardados se eliminarán.</color>
+Try to fix the broken board and ascend on it.=Intenta arreglar la tabla rota y asciende sobre ella.
+Let’s complete Cloudbloom’s research task once.=Completemos la tarea de investigación de Cloudbloom una vez.
+Study the Cloud Valley further=Estudia más el Valle Nuboso
+25.10.13 05:37 PM=25.10.13 17:37
+Day 25 of Month 2nd, Year 1=Día 25 del mes 2, año 1
+ver 5.2.4.0=versión 5.2.4.0
+25.10.13 06:21 PM=25.10.13 18:21
+Day 26 of Month 2nd, Year 1=Día 26 del mes 2, año 1
+When there are ripples, it sprays cotton candy-like spores in all directions, which are carried away by the wind.=Cuando hay ondas, rocía esporas parecidas a algodón de azúcar en todas direcciones, que son arrastradas por el viento.
+The spores are very sticky and don't easily dissolve. To collect the plant without getting spores stuck to you, you'd better approach by diving.=Las esporas son muy pegajosas y no se disuelven fácilmente.\nPara recolectar la planta sin que se te peguen las esporas, será mejor que te acerques buceando.
+   Collect After diving and dissolving the seeds stuck to you.=   Recoge después de bucear y disolver las semillas que se te han pegado.
+   Collect After shaking off all the seeds.=   Recoger después de sacudir todas las semillas.
+Salty Berry=Baya salada
+Ink on the "Tail-breathing Croc" page isn't dry yet.=La tinta de la página "Cocodrilo Respira-Cola" aún no está seca.
+<noparse></noparse>Oh? Isn't this a board!=<noparse></noparse>¿Oh?\n¿No es esto un tablero?
+<noparse></noparse>Why is it here?=<noparse></noparse>¿Por qué está aquí?
+<noparse></noparse>Did it fall from somewhere?=<noparse></noparse>¿Cayó de alguna parte?
+<noparse></noparse>Hmm, it may become handy. I'll remember its location.=<noparse></noparse>Hmm, puede resultar útil.\nRecordaré su ubicación.
+Clank Crayfish=Cangrejo Clank
+7.91cm=7,91cm
+A crayfish usually found in murky torrents. Its untransparent body blends into the surroundings and is hard to spot. It's attracted to shiny objects.=Un Cangrejo Clank que suele encontrarse en torrentes turbios.\nSu cuerpo opaco se mezcla con el entorno y es difícil de detectar.\nSe siente atraído por los objetos brillantes.
+<noparse></noparse>The water-powered trip-hammer is <color\=#800000ff>fuming</color>?=<noparse></noparse>¿El martinete hidráulico está <color\=#800000ff>echando humo</color>?
+<noparse></noparse>It may be malfunctioning, or missing some <color\=#800000ff>crucial parts</color>.=<noparse></noparse>Puede que esté funcionando mal o que le falten algunas <color\=#800000ff>piezas cruciales</color>.
+<noparse></noparse>Hmm, is there a <color\=#800000ff>device connected to it</color> somewhere?=<noparse></noparse>Hmm, ¿hay algún <color\=#800000ff>dispositivo conectado a él</color> en algún lugar?
+<noparse></noparse>Probably. It can't be a decor.=<noparse></noparse>Probablemente.\nNo puede ser una decoración.
+<noparse></noparse>Speaking of which, didn't we find a Device Part just now?=<noparse></noparse>Hablando de eso, ¿no encontramos una Parte del Dispositivo hace un momento?
+Fix the basin elevator=Arreglar el ascensor del lavabo.
+Repair the elevator that connects Cloud Vally Upstream and Downstream.=Repara el ascensor que conecta Cloud Vally Upstream y Downstream.
+The elevator inside the Cloud Valley basin will be come operational after repairs.\n\n\nLook for the parts needed to fix the smoking elevator.=El ascensor dentro de la cuenca del Valle Nuboso volverá a estar operativo después de las reparaciones.\n\nBusca las piezas necesarias para arreglar el ascensor humeante.
+<noparse></noparse>Em? It's a spring!=<noparse></noparse>¿Em?\n¡Es un resorte!
+Board Part=Parte del tablero
+<noparse></noparse>How did a spring end up here?=<noparse></noparse>¿Cómo acabó aquí un resorte?
+<noparse></noparse>There can't be people who litter springs...=<noparse></noparse>No puede haber gente que tire resortes por ahí...
+<noparse></noparse>It looks enduring. It should be part of a <color\=#800000ff>device that needs much elasticity</color>.=<noparse></noparse>Parece duradero.\nDebería ser parte de un <color\=#800000ff>dispositivo que necesita mucha elasticidad</color>.
+<noparse></noparse>A device that needs a spring... Something that <color\=#800000ff>bounces things away</color>?=<noparse></noparse>Un dispositivo que necesita un resorte... Algo que <color\=#800000ff>rebota las cosas</color>?
+<noparse></noparse>It may come handy. I'll take it.=<noparse></noparse>Puede resultar útil.\nMe lo llevo.
+<noparse></noparse>The <color\=#800000ff>prickly vine seems to be going upwards</color>.=<noparse></noparse>La <color\=#800000ff>enredadera espinosa parece ir hacia arriba</color>.
+<noparse></noparse>Can I climb this wall? I can't see anywhere to hold on to...=<noparse></noparse>¿Puedo escalar este muro?\nNo veo ningún lugar donde agarrarme...
+<noparse></noparse>There is a hole on the side though.=<noparse></noparse>Aunque hay un agujero en el lateral.
+<noparse></noparse>Hole?=<noparse></noparse>¿Agujero?
+<noparse></noparse>Hmm... It looks about the same size as the <color\=#800000ff>board</color> in the mushroom from before.=<noparse></noparse>Hmm... Parece aproximadamente del mismo tamaño que la <color\=#800000ff>tabla</color> en el hongo de antes.
+<noparse></noparse>But the board is missing and even the <color\=#800000ff>spring</color> has fallen off.=<noparse></noparse>Pero falta la tabla e incluso el <color\=#800000ff>resorte</color> se ha caído.
+<noparse></noparse>Have the parts fallen off due to wear and tear?=<noparse></noparse>¿Se han caído las piezas debido al desgaste?
+<noparse></noparse>I think they are still in the <color\=#800000ff>Cloud Vally Downstream</color>, unless they have feet.=<noparse></noparse>Creo que todavía están en el <color\=#800000ff>Valle Nuboso Aguas Abajo</color>, a menos que tengan pies.
+<noparse></noparse>Can you fix it?=<noparse></noparse>¿Puedes arreglarlo?
+<noparse></noparse>I just need to insert the parts. It's easy.=<noparse></noparse>Sólo necesito insertar las piezas.\nEs fácil.
+<noparse></noparse>I once found a <color\=#800000ff>spring</color> here.=<noparse></noparse>Una vez encontré un <color\=#800000ff>resorte</color> aquí.
+<noparse></noparse>I'll insert the <color\=#800000ff>spring</color> here and go find the <color\=#800000ff>board</color>.=<noparse></noparse>Voy a insertar el <color\=#800000ff>resorte</color> aquí e iré a buscar la <color\=#800000ff>tabla</color>.
+A crucial part for the board to bounce.=Una parte crucial para que la tabla rebote.
+<noparse></noparse>Good, the spring is attached.=<noparse></noparse>Bien, el resorte está adjunto.
+<noparse></noparse>Now, I just need to place the board over it.=<noparse></noparse>Ahora sólo me falta colocar el tablero encima.
+<noparse></noparse>The board! It's here!=<noparse></noparse>¡El tablero!\n¡Está aquí!
+<noparse></noparse>The board should be usable if I take it back and install it.=<noparse></noparse>La tabla debería poder utilizarse si la llevo e instalo.
+<noparse></noparse>Can it fit into your bag?=<noparse></noparse>¿Puede caber en tu bolso?
+<noparse></noparse>Hmm... It's too big. The bag may tear if I force it in.=<noparse></noparse>Mmmm... es demasiado grande.\nLa bolsa puede romperse si la fuerzo.
+<noparse></noparse>You don't cherish your bag anyway.=<noparse></noparse>De todos modos, no aprecias tu bolso.
+<noparse></noparse>Says who? I always cherish it because it's a gift from Mom.=<noparse></noparse>¿Dice quién?\nSiempre lo aprecio porque es un regalo de mamá.
+<noparse></noparse>Emm, I can only carry it with hands... but how do I cross the river then?=<noparse></noparse>Emm, sólo puedo llevarlo con las manos... pero ¿cómo cruzo el río entonces?
+<noparse></noparse>Look around for <color\=#800000ff>something that can hold the board</color>.=<noparse></noparse>Mira a tu alrededor para <color\=#800000ff>algo que pueda sostener el tablero</color>.
+<noparse></noparse>Done! Let me try standing on it.=<noparse></noparse>¡Hecho!\nDéjame intentar pararme sobre él.
+<noparse></noparse>Ah, what's going on!=<noparse></noparse>¡Ah, qué está pasando!
+<noparse></noparse>Have you been eating too much?=<noparse></noparse>¿Has estado comiendo demasiado?
+<noparse></noparse>Of course not!=<noparse></noparse>¡Por supuesto que no!
+<noparse></noparse>Well, this is the only way to get up there.=<noparse></noparse>Bueno, esta es la única manera de llegar allí.
+<noparse></noparse>The bridge above has also collapsed.=<noparse></noparse>El puente de arriba también se ha derrumbado.
+<noparse></noparse>I got all the parts and installed them. What other problem can there be?=<noparse></noparse>Conseguí todas las piezas y las instalé.\n¿Qué otro problema puede haber?
+<noparse></noparse>I wish I <color\=#800000ff>can jump higher</color> by stepping on it.=<noparse></noparse>Ojalá <color\=#800000ff>pudiera saltar más alto</color> al pisarlo.
+<noparse></noparse>If you can't fix the board, try fixing the <color\=#800000ff>person on it</color>.=<noparse></noparse>Si no puedes arreglar la tabla, intenta arreglar a la <color\=#800000ff>persona que está encima</color>.
+<noparse></noparse>Oh man! I can't get high enough no matter how many times I try.=<noparse></noparse>¡Uf!\nNo puedo llegar suficientemente alto por más que lo intento.
+<noparse></noparse>If brutal force can't solve it, use some brains.=<noparse></noparse>Si la fuerza bruta no puede resolverlo, usa un poco la cabeza.
+<noparse></noparse>Yeah, the board has defeated me...=<noparse></noparse>Sí, la tabla me ha derrotado...
+<noparse></noparse>I must <color\=#800000ff>change my state</color>...?=<noparse></noparse>Debo <color\=#800000ff>cambiar mi estado</color>...?
+Is there a way to jump from the broken board and reach somewhere high?=¿Hay alguna manera de saltar desde la tabla rota y llegar a algún lugar alto?
+High Jump=Salto de altura
+<color\=#ff0000>18. Repair the broken board</color>=<color\=#ff0000>18. Reparar el tablero roto</color>
+A berry that sometimes grow at branch tips. It doesn't easily fall unless it receives a huge impact.\nRefreshingly sweet and slightly salty, it's a popular snack.=Baya que a veces crece en las puntas de las ramas.\nNo cae fácilmente a menos que reciba un impacto enorme.\nRefrescantemente dulce y ligeramente salado, es un refrigerio popular.
+Hair of Leafbeaver. It has a fresh smell which feels exclusive to plants instead of animal fur.=Pelo del Castor de Hojas.\nTiene un olor fresco que se siente exclusivo de las plantas en lugar del pelaje de los animales.
+<color\=#8C8C8C>1. Fix the elevator</color>=<color\=#8C8C8C>1. Arregla el ascensor</color>
+Although Cloudbloom looks like a lollipop except for the spores, all its sugar is in the seeds and the flesh tastes bitter.=Aunque Cloudbloom parece una piruleta excepto por las esporas, todo su azúcar está en las semillas y la pulpa tiene un sabor amargo.
+Cloudbloom Jelly=Gelatina de Cloudbloom
+Lunarleaf Hair Juice=Jugo de pelo de hoja lunar
+A cloud-like jelly, soft and dense.\nIt slowly melts upon contacting one's body.=Una gelatina parecida a una nube, suave y densa.\nSe derrite lentamente al entrar en contacto con el cuerpo.
+You've added the [Twinkle-Twinkle Juice recipe] to favorite.=Has agregado la [receta del Jugo Brillo-Brillo] a favoritas.
+You've added the [Thundershower Potion recipe] to favorite.=Has añadido la [receta de la Poción de Lluvia de Truenos] a favoritas.
+You've added the [Sticky Hand Potion recipe] to favorite.=Has agregado la [receta de la Poción de Mano Pegajosa] a favoritas.
+You've added the [Diet Potion recipe] to favorite.=Has añadido la [receta de la Poción de Dieta] a favoritas.
+This item is registered in your Favorites.\nDo you want to update your Favorites with this result?=Este artículo está registrado en tus Favoritos.\n¿Quieres actualizar tus Favoritos con este resultado?
+A liquid as clear as water. Its color appears to be different when viewed from different angles.=Un líquido tan claro como el agua.\nSu color parece ser diferente cuando se ve desde diferentes ángulos.
+9h 20m=9h 20m
+A potion that reduces the user's weight temporarily.\nIt doesn't change their appearance.=Una poción que reduce el peso del usuario temporalmente.\nNo cambia su apariencia.
+1x Sticky Candy\n2x Massage Candy\n=1x Dulce Pegajoso 2x Dulce de Masaje\n
+3x Cleansing Candy\n=3x >o< de Limpieza\n
+2x Nice Dream Candy\n=2x bonitos dulces de ensueño\n
+2x Sticky Candy\n=2x Dulce Pegajoso\n
+<noparse></noparse>Here are the options a peddler has when the path is blocked.=<noparse></noparse>Estas son las opciones que tiene un vendedor ambulante cuando el camino está bloqueado.
+<noparse></noparse>First, find another path.=<noparse></noparse>Primero, encuentra otro camino.
+<noparse></noparse>Second, find another means of transportation.=<noparse></noparse>Segundo, busca otro medio de transporte.
+<noparse></noparse>Third, get rid of some luggage if the first two don't work.=<noparse></noparse>Tercero, deshazte de algo de equipaje si los dos primeros no funcionan.
+<noparse></noparse>To be specific, reduce the size and <color\=#800000ff>lessen the weight</color>.=<noparse></noparse>Para ser específico, reduce el tamaño y <color\=#800000ff>disminuye el peso</color>.
 ****************  lineas despúes de 30900 generadas al iniciar nueva partida=****************  lineas despúes de 30900 generadas al iniciar nueva partida
 Day 7 of Month 3rd, Year 2=Día 7 del 3er mes, año 2
 26.02.22 10:35 AM=26.02.22 10:35
