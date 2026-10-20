@@ -11411,13 +11411,13 @@ ver 6.0.4.0=versión 6.0.4.0
 <noparse></noparse>Sure did. My wife and I, the <color\=#800000ff>two of us</color>...=<noparse></noparse>Claro que sí.\nMi esposa y yo, los <color\=#800000ff>dos</color>...
 <noparse></noparse>Even to this day, I still take pride in these <color\=#800000ff>eyelashes</color> of mine.=<noparse></noparse>Incluso hasta el día de hoy, todavía me enorgullezco de mis <color\=#800000ff>pestañas</color>.
 <noparse></noparse>We don't check the passengers' outfit.=<noparse></noparse>No comprobamos la vestimenta de los pasajeros.
-<noparse></noparse>Even if you don't check, it's inconvenient to get off if you wear lace-up boots.=<noparse></noparse>Aunque no lo compruebe, es un inconveniente bajarse si usas botas con cordones.
+<noparse></noparse>Even if you don't check, it's inconvenient to get off if you wear lace-up boots.=<noparse></noparse>Aunque no lo compruebes, es inconveniente bajarte si llevas botas con cordones.
 <noparse></noparse>There are so many different types of clothing that cause discomfort, I can't define them all.=<noparse></noparse>Hay tantos tipos diferentes de ropa que causan incomodidad que no puedo enumerarlos todos.
 <noparse></noparse>Then, what about having a hard time taking off your shoes when you get off?=<noparse></noparse>Entonces, ¿qué tal si te cuesta quitarte los zapatos al bajarte?
 <noparse></noparse>Delays occur once in a while due to their shoes, but again, it's not regulated.=<noparse></noparse>De vez en cuando se producen retrasos debido a los zapatos, pero de todas formas, no está regulado.
 <noparse></noparse>I guess there's no fine.=<noparse></noparse>Supongo que no hay multa.
 <noparse></noparse>Isn't it a matter of harming social reputation rather than the fine?=<noparse></noparse>¿No se trata más bien de dañar la reputación social que de la multa?
-<noparse></noparse>I should have torn up that stupid <color\=#800000ff>ticket</color> right then and there.=<noparse></noparse>Debería haber roto ese estúpido <color\=#800000ff>boleto</color> en ese preciso momento.
+<noparse></noparse>I should have torn up that stupid <color\=#800000ff>ticket</color> right then and there.=<noparse></noparse>Debería haber roto ese estúpido <color\=#800000ff>billete</color> en ese preciso momento.
 <noparse></noparse>We have to get back by <color\=#800000ff>tomorrow morning</color>.=<noparse></noparse>Tenemos que regresar <color\=#800000ff>mañana por la mañana</color>.
 <noparse></noparse>Time is money. If there's no good reason, <color\=#800000ff>it never stops</color>.=<noparse></noparse>El tiempo es dinero.\nSi no hay una buena razón, <color\=#800000ff>nunca se detiene</color>.
 <noparse></noparse>Once they fix the problem, it will leave <color\=#800000ff>right away</color>.=<noparse></noparse>Una vez que solucionen el problema, se irá <color\=#800000ff>de inmediato</color>.
@@ -11433,20 +11433,20 @@ ver 6.0.4.0=versión 6.0.4.0
 <noparse></noparse>You'll need to find the <color\=#800000ff>core</color> and destroy it. The <color\=#800000ff>core</color> should be somewhere near the vines.=<noparse></noparse>Necesitarás encontrar el <color\=#800000ff>núcleo</color> y destruirlo.\nEl <color\=#800000ff>núcleo</color> debería estar en algún lugar cerca de las enredaderas.
 <noparse></noparse>Then you'll need <color\=#800000ff>Weed Terminator Potion</color> and quick action.=<noparse></noparse>Entonces necesitarás la <color\=#800000ff>Poción Exterminadora de Maleza</color> y actuar rápido.
 <noparse></noparse>Look, this place is also inhabited by the <color\=#800000ff>Bluemoon Butterfly</color> we saw at the peak.=<noparse></noparse>Mira, este lugar también está habitado por las <color\=#800000ff>Mariposas de Luna Azul</color> que vimos en la cima.
-When you draw the same type of plant or animal <color\=#800000>multiple times</color>, <color\=#800000>additional information</color> will be unlocked.=Cuando dibujas el mismo tipo de planta o animal <color\=#800000>varias veces</color>, <color\=#800000>información adicional</color> quedará desbloqueada.
+When you draw the same type of plant or animal <color\=#800000>multiple times</color>, <color\=#800000>additional information</color> will be unlocked.=Cuando dibujas el mismo tipo de planta o animal <color\=#800000>varias veces</color>, <color\=#800000>información adicional</color> se desbloqueará.
 <noparse></noparse>You might not know, but the <color\=#800000ff>Encyclopedia</color> does.=<noparse></noparse>Puede que no lo sepas, pero la <color\=#800000ff>Enciclopedia</color> sí.
-<noparse></noparse>Hmm... So, you can collect them using a <color\=#800000ff>bug net</color>.=<noparse></noparse>Hmm... Entonces, puedes recolectarlos usando una <color\=#800000ff>red de insectos</color>.
+<noparse></noparse>Hmm... So, you can collect them using a <color\=#800000ff>bug net</color>.=<noparse></noparse>Hmm... Entonces, puedes recolectarlos usando una <color\=#800000ff>red de captura</color>.
 <noparse></noparse><noparse></noparse>¿Ellie? Tenemos que–=<noparse></noparse><noparse></noparse>¿Ellie?\nTenemos que–
-<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado un poco.=<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado un poco.
-<noparse></noparse>Should I redraw the witch sigil using 1x <color\=#800000ff>Witch's White Chalk</color>?=<noparse></noparse>¿Debería volver a dibujar el sello de la bruja usando 1x <color\=#800000ff>Tiza Blanca de Bruja</color>?
+<noparse></noparse><noparse></noparse>Este Sello de Bruja parece haber sido borrado un poco.=<noparse></noparse><noparse></noparse>Este Sello Mágico de Bruja parece haberse borrado un poco.
+<noparse></noparse>Should I redraw the witch sigil using 1x <color\=#800000ff>Witch's White Chalk</color>?=<noparse></noparse>¿Debería volver a dibujar el Sello Mágico de Bruja usando 1x <color\=#800000ff>Tiza Blanca de Bruja</color>?
 <noparse></noparse>That's a <color\=#800000ff>witch's house</color>, isn't it?=<noparse></noparse>Esa es una <color\=#800000ff>Casa de la Bruja</color>, ¿no?
 <noparse></noparse>Isn't it natural for an <color\=#800000ff>apprentice witch</color> to stay at a <color\=#800000ff>Witch's House</color>?=<noparse></noparse>¿No es natural que una <color\=#800000ff>aprendiz de bruja</color> se quede en una <color\=#800000ff>Casa de la Bruja</color>?
-Collecting uses Energy.\nYou can recover spent Energy by <color\=#800000>eating</color> or <color\=#800000>sleeping</color>.=La recolección utiliza energía.\nPuedes recuperar la energía gastada <color\=#800000>comiendo</color> o <color\=#800000>durmiendo</color>.
+Collecting uses Energy.\nYou can recover spent Energy by <color\=#800000>eating</color> or <color\=#800000>sleeping</color>.=La recolección consume energía.\nPuedes recuperar la energía gastada <color\=#800000>comiendo</color> o <color\=#800000>durmiendo</color>.
 <noparse></noparse>I should ask the people closest to me before going further.=<noparse></noparse>Debería preguntarle a las personas más cercanas a mí antes de continuar.
 <noparse></noparse>It's a familiar face.=<noparse></noparse>Es una cara familiar.
 <noparse></noparse>It was always her name that came up first when memorizing names of witches who had great achievements.=<noparse></noparse>Siempre era su nombre el que aparecía primero al memorizar nombres de brujas que tenían grandes logros.
 <noparse></noparse>You mean that weird song.=<noparse></noparse>Te refieres a esa canción rara.
-<noparse></noparse>I racked my brains to create it, okay?=<noparse></noparse>Me devané los sesos para crearla, ¿vale?
+<noparse></noparse>I racked my brains to create it, okay?=<noparse></noparse>Me devané los sesos para crearla, ¿sabes?
 <noparse></noparse>I sang it in my head when I was taking a history exam.=<noparse></noparse>La canté en mi cabeza cuando estaba haciendo un examen de historia.
 <noparse></noparse>She can actually be found on trains too.=<noparse></noparse>De hecho, también se la puede encontrar en los trenes.
 <noparse></noparse>Actually, I kind of like this witch.=<noparse></noparse>En realidad, me gusta esta bruja.
@@ -11459,7 +11459,7 @@ Collecting uses Energy.\nYou can recover spent Energy by <color\=#800000>eating<
 26.03.08 11:49 AM=26.03.08 11:49
 26.03.20 08:10 AM=26.03.20 08:10
 ver 6.0.5.0=versión 6.0.5.0
-Windowed=con ventana
+Windowed=Modo ventana
 720 X 576=720 X 576
 720 X 480=720 X 480
 640 X 480=640 X 480
@@ -11482,3 +11482,620 @@ Stretch=Estirar
 1600 X 900=1600 X 900
 1600 X 1024=1600 X 1024
 1680 X 1050=1680 X 1050
+Loading...=Cargando...
+Please select the file to start a new game.=Seleccione el archivo para comenzar un nuevo juego.
+Please select the file you'd like to load.=Seleccione el archivo que desea cargar.
+Select File=Seleccionar archivo
+I’m thinking of building a small bridge at the northern part of the village. If anyone has some free time, I would greatly appreciate your help.=Estoy pensando en construir un pequeño puente en la parte norte del pueblo.\nSi alguien tiene algo de tiempo libre agradecería mucho su ayuda.
+내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit=내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit\n내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내\n남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내\n남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit 내 남은 이런 때 까닭이요 Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Although potions crafted by witches can't be used by non-witches, such concoctions are highly versatile and capable of triggering strong or unique effects. Please craft more potions that will aid your exploration and adventure.Although potions crafted by witches can't be used by non-witches, such concoctions are highly versatile and capable of triggering strong or unique effects. Please craft more potions that will aid your exploration and adventure.=Aunque las pociones elaboradas por brujas no pueden ser utilizadas por personas que no sean brujas, estos brebajes son muy versátiles y capaces de desencadenar efectos fuertes o únicos.\nCrea más pociones que te ayudarán en tu exploración y aventura. Aunque las pociones elaboradas por brujas no pueden ser utilizadas por personas que no sean brujas, estos brebajes son muy versátiles y capaces de desencadenar efectos fuertes o únicos.\nCrea más pociones que te ayudarán en tu exploración y aventura.
+사람들의 내 내 봅니다. 까닭이요, 벌레는 나는 듯합니다. 아무 우는 사람들의 잠, 다 별이 이름을 까닭입니다. 소녀들의 새겨지는 않은 하늘에는 버리었습니다. 이름과, 하나의 벌써 토끼, 새겨지는 별이 그리고 것은 없이 있습니다. 했던 위에 아름다운 덮어 밤을 그러나 이름과 까닭이요, 봅니다. 이름자를 어머니, 위에 별 나의 것은 계절이 버리었습니다. 나는 써 하나에 그리고 동경과 가을로 멀듯이, 계십니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.=사람들의 내 내 봅니다.\n까닭이요, 벌레는 나는 듯합니다.\n아무 우는 사람들의 잠, 다 별이 이름을 까닭입니다.\n소녀들의 새겨지는 않은 하늘에는 버리었습니다.\n이름과, 하나의 벌써 토끼, 새겨지는 별이 그리고 것은 없이 있습니다.\n했던 위에 아름다운 덮어 밤을 그러나 이름과 까닭이요, 봅니다.\n이름자를 어머니, 위에 별 나의 것은 계절이 버리었습니다.\n나는 써 하나에 그리고 동경과 가을로 멀듯이, 계십니다.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hold to Submit=Mantén presionado para enviar
+Hold to appraise=Mantén presionado para evaluar
+Appraise=Evaluar
+Claim the <color\=#800000>research reward [Basic Incubation Knowledge]</color> in the Encyclopedia to incubate that theme's collected items.=Reclama el <color\=#800000>recompensa de investigación [Conocimientos básicos de incubación]</color> en la Enciclopedia para incubar los elementos recopilados de ese tema.
+*Some items require <color\=#800000>Encyclopedia rank A</color>.=*Algunos artículos requieren <color\=#800000>Rango de enciclopedia A</color>.
+Litterae Completionis=Letras completadas
+Maga Tirocinis=Maga Tirocinis
+Sub Lumine Primae Flammae=Sub Lumine Primae Flammae
+Ellie Blueriver=Ellie Blueriver
+The above individual has diligently completed a seven-year course of education and having been recognized through proper examination, is hereby granted the following title:=La persona mencionada anteriormente ha completado diligentemente un curso de educación de siete años y, habiendo sido reconocida mediante el examen adecuado, se le concede el siguiente título:
+Apprentice Witch=Aprendiz de Bruja
+Furthermore, the above individual is hereby commanded to fulfill a three-year apprenticeship under the guidance of an officially recognized Witch's House.\n\nUpon completion thereof, the individual shall be granted the qualification of a fully recognized Witch.=Además, por la presente se ordena al individuo mencionado anteriormente que realice un aprendizaje de tres años bajo la dirección de una Casa de la Bruja oficialmente reconocida.\n\nAl finalizarlo, al individuo se le otorgará la calificación de Bruja plenamente reconocida.
+Headmaster=Director de escuela
+The headmaster and faculty of the Lucerin Ultu School of Magic, by the power of recognition granted by Magna Lumanaria, hereby announce the following:=El director y el cuerpo docente de la Escuela de Magia Lucerin Ultu, por poder de reconocimiento otorgado por Magna Lumanaria, comunican lo siguiente:
+Faculty=Cuerpo docente
+<noparse></noparse>Keep in mind that this is not the end, but only the beginning.=<noparse></noparse>Tenga en cuenta que este no es el final, sino sólo el comienzo.
+<noparse></noparse>Next.=<noparse></noparse>Siguiente.
+<noparse></noparse>Daughter of Aria and Aiden Blueriver.=<noparse></noparse>Hija de Aria y Aiden Blueriver.
+<noparse></noparse>Come up to the podium.=<noparse></noparse>Sube al podio.
+<noparse></noparse>Magna cum laude, Ellie Blueriver.=<noparse></noparse>Magna cum laude, Ellie Blueriver.
+<noparse></noparse>Under the name of Magna Luminaria, the messenger who inherited the wisdom of the first witch.=<noparse></noparse>Bajo el nombre de Magna Luminaria, la mensajera que heredó la sabiduría de la primera bruja.
+<noparse></noparse>Since you have completed the full 7-year curriculum prescribed by this school,=<noparse></noparse>Dado que ha completado el plan de estudios completo de 7 años prescrito por esta escuela,
+<noparse></noparse>I acknowledge you as an <color\=#800000ff>apprentice witch</color>.=<noparse></noparse>Te reconozco como <color\=#800000ff>aprendiz de bruja</color>.
+<noparse></noparse>Are you ready to step out into the world as an apprentice witch and further your learning?=<noparse></noparse>¿Estás lista para salir al mundo como aprendiz de bruja y continuar tu aprendizaje?
+<noparse></noparse>.......Excuse me?=<noparse></noparse>.......¿Disculpe?
+<noparse></noparse>M-my hearing must be going bad these days.=<noparse></noparse>M-mi audición debe estar empeorando estos días.
+<noparse></noparse>Ellie, don't you dare say <color\=#800000ff>no</color> again. You got that?=<noparse></noparse>Ellie, no te atrevas a decir <color\=#800000ff>No</color> de nuevo.\n¿Me entendiste?
+<noparse></noparse>Hmm.. Then once again...=<noparse></noparse>Hmm... Entonces una vez más...
+<noparse></noparse>Ellie Blueriver. Have I not told you not to fool around here?=<noparse></noparse>Ellie Blueriver.\n¿No te he dicho que no te metas por aquí?
+<noparse></noparse>Do that one more time and you'll be a student for another year, never mind becoming an apprentice witch.=<noparse></noparse>Hazlo una vez más y serás estudiante un año más, sin mencionar convertirte en aprendiz de bruja.
+<noparse></noparse>Alright, this time just say <color\=#800000ff>yes</color>.=<noparse></noparse>Muy bien, esta vez solo di <color\=#800000ff>Sí</color>.
+<noparse></noparse>Let me ask again. Are you ready to step out into the world as an apprentice witch and further your learning?=<noparse></noparse>Déjame preguntarte de nuevo.\n¿Estás lista para salir al mundo como aprendiz de bruja y continuar tu aprendizaje?
+<noparse></noparse>Then, please sign here.=<noparse></noparse>Entonces, por favor firme aquí.
+Signature=Firma
+<noparse></noparse>Now that your name has appeared on the certificate, Ellie Blueriver, I recognize your graduation.=<noparse></noparse>Ahora que tu nombre apareció en el certificado, Ellie Blueriver, reconozco tu graduación.
+<noparse></noparse>Now then, magna cum laude Ellie Blueriver.=<noparse></noparse>Ahora bien, magna cum laude Ellie Blueriver.
+<noparse></noparse>The Witch's House where you'll work as an apprentice witch for 3 years is...=<noparse></noparse>La Casa de la Bruja donde trabajarás como aprendiz de bruja durante 3 años es...
+<noparse></noparse>Highlion's Lion King Square.=<noparse></noparse>Plaza del Rey León de Highlion.
+Get certificate=Obtener certificado
+<noparse></noparse>That is all. May the stars be with you on your journey.=<noparse></noparse>Eso es todo.\nQue las estrellas te acompañen en tu viaje.
+<noparse></noparse>SO BORED!!!=<noparse></noparse>¡¡¡QUE ABURRIDOOOOOO!!!
+<noparse></noparse>I think I'm going to die from boredom! When are we going to get there?!=<noparse></noparse>¡Creo que me voy a morir de aburrimiento!\n¡¿Cuándo vamos a llegar allí?!
+<noparse></noparse>We've barely been on this train any time at all.=<noparse></noparse>Apenas hemos estado en este tren.
+<noparse></noparse>We've been locked up in this rolling prison for two days.=<noparse></noparse>Llevamos dos días encerrados en esta prisión rodante.
+<noparse></noparse>I thought thrilling adventures would await after I left the School for Witches.=<noparse></noparse>Pensé que me aguardarían aventuras emocionantes después de dejar la Escuela de Brujas.
+<noparse></noparse>Just hang on for 3 more days.=<noparse></noparse>Espera 3 días más.
+<noparse></noparse>*Gags*=<noparse></noparse>*Se atraganta*
+<noparse></noparse>Becoming an apprentice witch in the biggest city, <color\=#800000ff>Highlion</color>, is a big deal.=<noparse></noparse>Convertirse en aprendiz de bruja en la ciudad más grande, <color\=#800000ff>Highlion</color>, es todo un logro.
+<noparse></noparse>I thought you were looking forward to going to Highlion?=<noparse></noparse>¿Pensé que estabas deseando ir a Highlion?
+<noparse></noparse>Of course, Highlion is a huge city, and it's where Mom was an <color\=#800000ff>apprentice</color> witch.=<noparse></noparse>Por supuesto, Highlion es una ciudad enorme, y es donde mamá fue <color\=#800000ff>aprendiz</color> de bruja.
+<noparse></noparse>I loved hearing stories about what she went through there!=<noparse></noparse>¡Me encantó escuchar historias sobre lo que ella pasó allí!
+<noparse></noparse>You mean the story about her flooding the Lion King Square?=<noparse></noparse>¿Te refieres a la historia de cuando inundó la Plaza del Rey León?
+<noparse></noparse>No, the one about the time she went looking for the legendary carrot soup recipe.=<noparse></noparse>No, la de cuando fue a buscar la legendaria receta de sopa de zanahoria.
+<noparse></noparse>I wanted to look that up too.=<noparse></noparse>Yo también quería buscar eso.
+<noparse></noparse>Yeah, yeah. Just think about that while you wait.=<noparse></noparse>Sí, sí.\nPiensa en eso mientras esperas.
+<noparse></noparse>I've already done enough of that.=<noparse></noparse>Ya he pensado lo suficiente en eso.
+<noparse></noparse>You're on a one of a kind train. Why don't you try enjoying a luxurious train journey?=<noparse></noparse>Estás en un tren único en su tipo.\n¿Por qué no pruebas a disfrutar de un lujoso viaje en tren?
+<noparse></noparse>But there's nothing to do on the train.=<noparse></noparse>Pero no hay nada que hacer en el tren.
+<noparse></noparse>Beautiful scenery, great music, a handsome bartender and delicious desserts. What more can you ask for?=<noparse></noparse>Hermosos paisajes, buena música, un cantinero guapo y postres deliciosos.\n¿Qué más se puede pedir?
+<noparse></noparse>Speaking of dessert, you mean <color\=#800000ff>cupcakes</color>? I haven't even had the chance to eat the apple you gave me!=<noparse></noparse>Hablando de postre, ¿te refieres a los <color\=#800000ff>cupcakes</color>?\n¡Ni siquiera he tenido oportunidad de comerme la manzana que me diste!
+<noparse></noparse>Leave the apple and come here. Let me give you a special cupcake I've made.=<noparse></noparse>Deja la manzana y ven aquí.\nDéjame darte un cupcake especial que preparé.
+Tunnel's Strange Phenomenon=El extraño fenómeno del túnel
+Let's talk to the Bartender.=Hablemos con el cantinero.
+Ellie, who has graduated from the Witch School, steps out into the world with exciting in her heart.\nHowever, on the contrary to her expectations, she is having a terrible time having spent 2 days on the world's most expensive train.\n\nShe waits for something fun to happen.=Ellie, quien se graduó de la Escuela de Brujas, sale al mundo con emoción en su corazón.\nSin embargo, contrariamente a sus expectativas, lo está pasando fatal después de haber pasado 2 días en el tren más caro del mundo.\n\nElla espera que suceda algo divertido.
+0-1. Tunnel's Strange Phenomenon=0-1. El extraño fenómeno del túnel
+<noparse></noparse>These heart shaped cupcakes look delicious!=<noparse></noparse>¡Estos cupcakes en forma de corazón se ven deliciosos!
+<noparse></noparse>This dessert is my masterpiece, I put my life and soul into it.=<noparse></noparse>Este postre es mi obra maestra, le puse vida y alma.
+<noparse></noparse>Is there any hidden meaning to that?=<noparse></noparse>¿Hay algún significado oculto en eso?
+<noparse></noparse>Haha, are you curious?=<noparse></noparse>Jaja, ¿tienes curiosidad?
+<noparse></noparse>Yes I am!=<noparse></noparse>¡Sí, lo soy!
+<noparse></noparse>I'll tell you specially. My life was only truly complete after I met my wife.=<noparse></noparse>Te lo diré solo a ti.\nMi vida sólo estuvo verdaderamente completa después de que conocí a mi esposa.
+<noparse></noparse>This cupcake is a special dessert that embodies my desire to always be with my wife.=<noparse></noparse>Este cupcake es un postre especial que encarna mi deseo de estar siempre con mi esposa.
+<noparse></noparse>Then shouldn't your wife be eating this? Is it okay for me to eat it?=<noparse></noparse>Entonces, ¿no debería comer esto tu esposa?\n¿Está bien que lo coma?
+<noparse></noparse>It's a bit of a shame, but I'm satisfied just knowing that the guests are enjoying the dessert I lovingly made.=<noparse></noparse>Es una lástima, pero me siento satisfecho sabiendo que los invitados están disfrutando del postre que preparé con mucho cariño.
+<noparse></noparse>If that's the case, I guess it's safe to eat!=<noparse></noparse>Si ese es el caso, ¡supongo que es seguro comerlo!
+<noparse></noparse>I'm looking forward to it because all the food you make is delicious.=<noparse></noparse>Estoy deseando probarlo, porque todo lo que preparas es delicioso.
+<noparse></noparse>I wonder how delicious the cupcake will be this time.=<noparse></noparse>Me pregunto qué tan delicioso estará el cupcake esta vez.
+<noparse></noparse>Thank you for the cupcake~=<noparse></noparse>Gracias por el cupcake~
+<noparse></noparse>Whoa! The train!=<noparse></noparse>¡Wow!\n¡El tren!
+<noparse></noparse>Are we already there? That's not good.=<noparse></noparse>¿Ya llegamos?\nEso no es bueno.
+<noparse></noparse>Hmm?=<noparse></noparse>¿Mmm?
+<noparse></noparse>Wh-what is this?! It got dark!=<noparse></noparse>¡¿Q-qué es esto?!\n¡Se hizo oscuro!
+<noparse></noparse>Mr. Bartender, what's happening?=<noparse></noparse>Sr. Cantinero, ¿qué está pasando?
+<noparse></noparse>We're passing through the <color\=#800000ff>most mysterious and strange tunnel</color>. It's about to start.=<noparse></noparse>Estamos pasando por el <color\=#800000ff>túnel más misterioso y extraño</color>.\nEstá por empezar.
+<noparse></noparse>The <color\=#800000ff>most mysterious and strange tunnel</color>? What's about to start....=<noparse></noparse>¿El <color\=#800000ff>túnel más misterioso y extraño</color>?\n¿Qué es lo que está por empezar....
+<noparse></noparse>Hold on a second, where's my cupcake!!=<noparse></noparse>Espera un segundo, ¿dónde está mi cupcake?
+<noparse></noparse>Oh dear, so this is what it is this time.=<noparse></noparse>Dios mío, así que esta vez se trata de esto.
+<noparse></noparse>Too bad, but it looks like your cupcake has turned into a train ticket.=<noparse></noparse>Lástima, pero parece que tu cupcake se ha convertido en un billete de tren.
+<noparse></noparse>Excuse me?! What are you talking about!=<noparse></noparse>¡¿Disculpa?!\n¡¿De qué hablas?!
+<noparse></noparse>Strange things always happen on the train whenever we pass through the <color\=#800000ff>tunnel</color> near here.=<noparse></noparse>Siempre suceden cosas extrañas en el tren cada vez que pasamos por el <color\=#800000ff>túnel</color> cerca de aquí.
+<noparse></noparse>Sometimes animals show up out of nowhere, or piles of food fall from the cabin ceiling.=<noparse></noparse>A veces, los animales aparecen de la nada o caen montones de comida del techo de la cabina.
+<noparse></noparse>I guess today is the day when items are swapped.=<noparse></noparse>Supongo que hoy es el día en que se intercambian artículos.
+<noparse></noparse>I didn't even get to have a single bite yet!=<noparse></noparse>¡Aún no he podido probar ni un solo bocado!
+<noparse></noparse>To think something like this would happen just by passing through a tunnel.=<noparse></noparse>Pensar que algo así sucedería con sólo pasar por un túnel.
+<noparse></noparse>It seems even a witch like you finds a <color\=#800000ff>magical event</color> like this interesting.=<noparse></noparse>Parece que incluso una bruja como tú encuentra un <color\=#800000ff>evento mágico</color> así de interesante.
+<noparse></noparse>Of course! I'm annoyed my cupcake got swapped, but it's the first time I've ever experienced something like this!=<noparse></noparse>¡Por supuesto!\nMe molesta que hayan cambiado mi cupcake, ¡pero es la primera vez que experimento algo como esto!
+<noparse></noparse>If it's a phenomenon where items get swapped, does that mean someone else has my cupcake?=<noparse></noparse>Si se trata de un fenómeno en el que se intercambian artículos, ¿eso significa que alguien más tiene mi cupcake?
+<noparse></noparse>Since things only get swapped with other things on the train, most likely.=<noparse></noparse>Dado que las cosas solo se intercambian con otras cosas del tren, lo más probable es que sí.
+<noparse></noparse>Hmm.... looking at the date on the ticket, I think it's for this very train we're on.=<noparse></noparse>Mmm... mirando la fecha del billete, creo que es para este mismo tren en el que vamos.
+<noparse></noparse>Some poor passenger is probably stuck holding a cupcake instead of a ticket.=<noparse></noparse>Probablemente algún pasajero pobre esté atrapado sosteniendo un cupcake en lugar de un billete.
+<noparse></noparse>The crew is probably busy sorting things out right now, though. What to do...=<noparse></noparse>Sin embargo, la tripulación probablemente esté ocupada arreglando las cosas en este momento.\n¿Qué hacer...?
+<noparse></noparse>Hmm, maybe I can help?=<noparse></noparse>Mmmm, ¿quizás pueda ayudar?
+<noparse></noparse>Yes, it's only natural to help someone in need.=<noparse></noparse>Sí, es natural ayudar a alguien que lo necesita.
+<noparse></noparse>Not because it looks fun?=<noparse></noparse>¿No porque parezca divertido?
+<noparse></noparse>Virgil, be quiet.=<noparse></noparse>Virgil, cállate.
+<noparse></noparse>Hmm, but you're a guest too. I'm not sure I should just hand the <color\=#800000ff>train ticket</color> over to you like this.=<noparse></noparse>Hmm, pero tú también eres un invitado.\nNo estoy seguro de si debería simplemente entregarte el <color\=#800000ff>billete de tren</color> así.
+<noparse></noparse>But as you said, everyone is busy. A witch is supposed to step up at times like this, don't you think?=<noparse></noparse>Pero como dijiste, todos están ocupados.\nSe supone que una bruja debe dar un paso al frente en momentos como este, ¿no crees?
+<noparse></noparse>I guess it'd be okay for an apprentice witch such as yourself.=<noparse></noparse>Supongo que estaría bien para una aprendiz de bruja como tú.
+<noparse></noparse>I'm sure whoever lost it is frantically looking for it.=<noparse></noparse>Estoy seguro de que quien lo perdió lo está buscando desesperadamente.
+<noparse></noparse>The crew is short-handed right now, so I'm counting on you.=<noparse></noparse>A la tripulación le falta personal en este momento, así que cuento contigo.
+Due to a strange phenomenon on the train, an item that was swapped with cheese cupcake. The person who lost it must be in panic.=Debido a un extraño fenómeno en el tren, un artículo fue intercambiado por un cupcake de queso.\nLa persona que lo perdió debe estar en pánico.
+Oh, and if any of the swapped items are <color\=#800000ff>food</color>, you can keep them.=Ah, y si alguno de los elementos intercambiados es <color\=#800000ff>comida</color>, puedes quedártelos.
+<noparse></noparse>Oh, and if any of the swapped items are <color\=#800000ff>food</color>, you can keep them.=<noparse></noparse>Ah, y si alguno de los elementos intercambiados es <color\=#800000ff>comida</color>, puedes quedártelos.
+Someone's Train Ticket=El billete de tren de alguien
+<noparse></noparse>Is that really okay?=<noparse></noparse>¿De verdad está bien eso?
+<noparse></noparse>Outside food isn't allowed, remember? Everything here was prepared on the train anyway.=<noparse></noparse>No se permite traer comida de fuera, ¿recuerdas?\nDe todos modos, aquí todo fue preparado en el tren.
+<noparse></noparse>And all the food in the cabin is <color\=#800000ff>free</color>. So it's fine.=<noparse></noparse>Y toda la comida en la cabaña es <color\=#800000ff>gratis</color>.\nEntonces está bien.
+<noparse></noparse>You don't have to tell me twice then!=<noparse></noparse>¡Entonces no me lo digas dos veces!
+<noparse></noparse>I wonder who this <color\=#800000ff>train ticket</color> belongs to.=<noparse></noparse>Me pregunto a quién pertenece este <color\=#800000ff>Billete de tren</color>.
+Let's find the ticket's owner.=Busquemos al dueño del billete.
+<noparse></noparse>You were going to look around for other swapped items anyway, weren't you?=<noparse></noparse>Ibas a buscar otros elementos intercambiados de todos modos, ¿no?
+<noparse></noparse>Of course. Do you think I'd pass up something this interesting?=<noparse></noparse>Por supuesto.\n¿Crees que dejaría pasar algo tan interesante?
+<noparse></noparse>Hey now, I told you, it's a witch's duty.=<noparse></noparse>Oye, ya te lo dije, es el deber de una bruja.
+<noparse></noparse>I knew it. You're just in it for the fun.=<noparse></noparse>Lo sabía.\nSolo estás en esto por diversión.
+<noparse></noparse>Why don't you look around and see who lost it?=<noparse></noparse>¿Por qué no miras a tu alrededor y ves quién lo perdió?
+<noparse></noparse>I have my ticket right here.=<noparse></noparse>Tengo mi billete aquí.
+<noparse></noparse>This Cranapple looks familiar. Can't be...=<noparse></noparse>Este Cranapple me resulta familiar.\nNo puede ser...
+<noparse></noparse>Looking at similar spots, it seems like they hang lamps there.=<noparse></noparse>Mirando lugares similares, parece que allí cuelgan lámparas.
+Let's find the food scattered due to the strange phenomenon from the tunnel.=Busquemos la comida esparcida debido al extraño fenómeno del túnel.
+Exploring the Train=Explorando el tren
+<noparse></noparse>That means that this was a strange phenomenon that happened by passing through the <color\=#800000ff>tunnel</color>!=<noparse></noparse>Eso significa que este fue un extraño fenómeno que ocurrió al pasar por el <color\=#800000ff>túnel</color>!
+<noparse></noparse>This was the one from my spot!=<noparse></noparse>¡Este era el de mi lugar!
+<noparse></noparse>Do they usually hang Cranapple on the wall?=<noparse></noparse>¿Suelen colgar Cranapple en la pared?
+<noparse></noparse>Virgil, an apple suddenly fell down!=<noparse></noparse>¡Virgil, de repente se cayó una manzana!
+<noparse></noparse>It's not yours, right?=<noparse></noparse>No es tuyo, ¿verdad?
+Due to the strange phenomenon, the items inside the tunnel have been swapped.\n\nAccording to Mr. Bartender, he said I could take whatever food I find scattered amongst the train...\nLet's have a look around.=Debido al extraño fenómeno, los elementos dentro del túnel han sido intercambiados.\n\nSegún el barman del tren, podía llevarme cualquier comida que encontrara esparcida por el tren... Echemos un vistazo.
+<noparse></noparse>I have to find the owner of this ticket before I leave.=<noparse></noparse>Tengo que encontrar al dueño de este billete antes de partir.
+<noparse></noparse>Such pretty flowers, but now such a mess.=<noparse></noparse>Qué flores tan bonitas, pero ahora qué desastre.
+<noparse></noparse>The water spilled too. Looks like something strange happened.=<noparse></noparse>El agua también se derramó.\nParece que sucedió algo extraño.
+<noparse></noparse>*Sniff, sniff* I think I can smell a donut through the scent of the flowers.=<noparse></noparse>*Snif, snif* Creo que puedo oler un donut a través del aroma de las flores.
+<noparse></noparse>Yes, I know you have a really good nose.=<noparse></noparse>Sí, sé que tienes muy buen olfato.
+<noparse></noparse>Wow, look at all that garbage. The crew has to clean this up every time?=<noparse></noparse>Vaya, mira toda esa basura.\n¿La tripulación tiene que limpiar esto cada vez?
+<noparse></noparse>Seems like it. The crew keeps waving at you not to touch anything.=<noparse></noparse>Eso parece.\nLa tripulación sigue haciéndote señas para que no toques nada.
+<noparse></noparse>Is this also due to the strange phenomenon? Perhaps...=<noparse></noparse>¿Esto también se debe al extraño fenómeno?\nTal vez...
+<noparse></noparse>...Let me think about it.=<noparse></noparse>...Déjame pensarlo.
+<noparse></noparse>...Are you really planning to go through that?=<noparse></noparse>...¿Realmente estás planeando pasar por eso?
+<noparse></noparse>I'll entrust the train tickets with you.=<noparse></noparse>Te confiaré los billetes de tren.
+<noparse></noparse>Hello, can you spare a moment?=<noparse></noparse>Hola, ¿tienes un momento?
+Rahel=Rahel
+<noparse></noparse>Oh my, hi.=<noparse></noparse>Dios mío, hola.
+<noparse></noparse>You look like an apprentice witch. Do you have some business with me?=<noparse></noparse>Pareces una aprendiz de bruja.\n¿Tienes algún asunto conmigo?
+<noparse></noparse>She's a very calm person...=<noparse></noparse>Es una persona muy tranquila...
+<noparse></noparse>Is this the person who lost the <color\=#800000ff>Train Ticket</color>?=<noparse></noparse>¿Es esta la persona que perdió el <color\=#800000ff>Billete de tren</color>?
+<noparse></noparse>It might be someone else. Let's look around a little more.=<noparse></noparse>Podría ser otra persona.\nMiremos un poco más a nuestro alrededor.
+<noparse></noparse>*Sigh*...=<noparse></noparse>*Suspiro*...
+<noparse></noparse>Um, are you okay?=<noparse></noparse>¿Estás bien?
+<noparse></noparse>...Are you talking to me?=<noparse></noparse>...¿Estás hablando conmigo?
+<noparse></noparse>You look exhausted. Is it because of what happened when we passed through the tunnel?=<noparse></noparse>Pareces exhausto.\n¿Es por lo que pasó cuando pasamos por el túnel?
+<noparse></noparse>Please let me know if you need any help.=<noparse></noparse>Por favor, avísame si necesitas ayuda.
+<noparse></noparse>Did you happen to lose your train ticket?=<noparse></noparse>¿Perdiste tu billete de tren?
+<noparse></noparse>Do you really think I'd fall for something like that?=<noparse></noparse>¿De verdad crees que voy a caer en algo así?
+<noparse></noparse>Why don't you look around a bit more?=<noparse></noparse>¿Por qué no miras un poco más a tu alrededor?
+<noparse></noparse>Ugh, I guess it belongs to someone else.=<noparse></noparse>Uf, supongo que pertenece a otra persona.
+<noparse></noparse>Don't you think the strange things that happen when going through the tunnel are just fascinating?=<noparse></noparse>¿No crees que las cosas extrañas que suceden al atravesar el túnel son simplemente fascinantes?
+<noparse></noparse>Do you think so?=<noparse></noparse>¿Crees que sí?
+<noparse></noparse>That's the sole reason I'm on this train.=<noparse></noparse>Esa es la única razón por la que estoy en este tren.
+<noparse></noparse>I wanted to see it with my own eyes.=<noparse></noparse>Quería verlo con mis propios ojos.
+<noparse></noparse>I must do some research about this.=<noparse></noparse>Debo investigar un poco sobre esto.
+<noparse></noparse>Goodness, are you taking this boring train back, too?=<noparse></noparse>Dios mío, ¿también vas a tomar este aburrido tren de regreso?
+<noparse></noparse>I have a broom so I can go back easily whenever I want.=<noparse></noparse>Tengo una escoba para poder volver fácilmente cuando quiera.
+<noparse></noparse>What! I'm so jealous! I wish I had a broom.=<noparse></noparse>¡¿Qué?!\n¡Estoy tan celosa!\nOjalá tuviera una escoba.
+<noparse></noparse>Later when we get to the witch's house, ask the master witch if you can have a broom.=<noparse></noparse>Más tarde, cuando lleguemos a la casa de la bruja, pregúntale a la bruja maestra si puedes conseguir una escoba.
+<noparse></noparse>I should! I'm already getting excited just thinking about it.=<noparse></noparse>¡Debería hacerlo!\nYa me estoy emocionando solo de pensarlo.
+<noparse></noparse>I'm so excited to see what will happen next. Hehe.=<noparse></noparse>¡Qué emoción ver qué pasará después!\nJeje.
+<noparse></noparse>*Sigh*.....=<noparse></noparse>*Suspiro*.....
+<noparse></noparse>Excuse me!=<noparse></noparse>¡Disculpe!
+<noparse></noparse>Yes, yes!?I-I'm sorry. How can I help you?=<noparse></noparse>¿¡Sí, sí!? Lo-lo siento.\n¿Le puedo ayudar en algo?
+<noparse></noparse>Your clothes look like a mess. Are you okay?=<noparse></noparse>Tu ropa parece un desastre.\n¿Estás bien?
+<noparse></noparse>I'm alright. I got some spare clothes in my bag. However... *Sigh*....=<noparse></noparse>Estoy bien.\nTengo algo de ropa de repuesto en mi bolso.\nSin embargo... *Suspiro*....
+<noparse></noparse>Hmm, what's troubling you?=<noparse></noparse>Mmmm, ¿qué te preocupa?
+<noparse></noparse>Excuse me, can I talk with you a sec?=<noparse></noparse>Disculpe, ¿puedo hablar con usted un segundo?
+<noparse></noparse>Did you happen to lose this <color\=#800000ff>Train Ticket</color>?=<noparse></noparse>¿Perdiste este <color\=#800000ff>Billete de tren</color>?
+<noparse></noparse>Yes? How did you...=<noparse></noparse>¿Sí?\n¿Cómo supiste...?
+<noparse></noparse>Because you were holding the same <color\=#800000ff>cupcake</color> that I tried to eat.=<noparse></noparse>Porque estabas sosteniendo el mismo <color\=#800000ff>cupcake</color> que yo intenté comer.
+<noparse></noparse>I-I didn't steal it. The lights suddenly flickered and it appeared in my hand.=<noparse></noparse>Y-yo no lo robé.\nLas luces parpadearon de repente y apareció en mi mano.
+<noparse></noparse>Oh, I know, don't worry about that.=<noparse></noparse>Oh, lo sé, no te preocupes por eso.
+<noparse></noparse>They say that strange things happen whenever this train passes the tunnel nearby.=<noparse></noparse>Dicen que suceden cosas extrañas cada vez que este tren pasa por el túnel cercano.
+<noparse></noparse>I see. It's my first time heading this way, so I didn't know.=<noparse></noparse>Ya veo.\nEs la primera vez que vengo por aquí, así que no lo sabía.
+<noparse></noparse>Thank you for finding my ticket.=<noparse></noparse>Gracias por encontrar mi billete.
+<noparse></noparse>I was having such a dilemma, wondering if I had to get off the train.=<noparse></noparse>Estaba en un dilema, preguntándome si tendría que bajarme del tren.
+<noparse></noparse>Why would you have to get off the train?=<noparse></noparse>¿Por qué tendrías que bajarte del tren?
+<noparse></noparse>If I get caught without a ticket, I'll be forced off the train and will have to pay a fine.=<noparse></noparse>Si me atrapan sin billete, me obligarán a bajar del tren y tendré que pagar una multa.
+<noparse></noparse>What? They'd do something like that? Just for a ticket?!=<noparse></noparse>¿Qué?\n¿Harían algo así?\n¡¿Solo por un billete?!
+<noparse></noparse>It's because the train tickets contain <color\=#800000ff>Phoenix Feather</color> to prevent them from being forged.=<noparse></noparse>Es porque los billetes de tren contienen <color\=#800000ff>Pluma de Fénix</color> para evitar que sean falsificados.
+<noparse></noparse>S-so-s-s-something as expensive as that?!=<noparse></noparse>¡¿A-a-a-algo tan caro como eso?!
+<noparse></noparse>That's because it's the only train in the world that's created by witches and humans together.=<noparse></noparse>Esto se debe a que es el único tren en el mundo creado por brujas y humanos juntos.
+<noparse></noparse>That's the reason why the ticket is so expensive.=<noparse></noparse>Por eso el billete es tan caro.
+<noparse></noparse>That's why I was told so firmly not to lose the <color\=#800000ff>Train Ticket</color>.=<noparse></noparse>Por eso me dijeron con tanta firmeza que no perdiera el <color\=#800000ff>Billete de tren</color>.
+<noparse></noparse>Thanks to you, I don't think I'll have to get off the train.=<noparse></noparse>Gracias a ti, no creo que tenga que bajarme del tren.
+<noparse></noparse>Of course, it was the right thing to do.=<noparse></noparse>Por supuesto, fue lo correcto.
+Fruit-flavored Giant Candy=>o< gigante con sabor a frutas
+A curious candy that will become the fruit flavor you like the most. Its colorfulness and gigantic size make it wildly popular, while the candy bucket can be used in many ways after it has been emptied.=Un curioso caramelo que se convertirá en el sabor de fruta que más te guste.\nSu colorido y su tamaño gigantesco lo hacen muy popular, mientras que el cubo de dulces se puede utilizar de muchas maneras una vez vaciado.
+Wow, candy!=¡Guau, caramelo!
+<noparse></noparse>I'd like to return the cupcake, but as you can see...=<noparse></noparse>Me gustaría devolver el cupcake, pero como puedes ver...
+<noparse></noparse>It's alright, don't worry about it. I did it because I wanted to help.=<noparse></noparse>Está bien, no te preocupes por eso.\nLo hice porque quería ayudar.
+<noparse></noparse>No, please I'd feel better if you accept it.=<noparse></noparse>No, por favor, me sentiré mejor si lo aceptas.
+<noparse></noparse>Hmm... If you insist. Thank you!=<noparse></noparse>Hmm... Si insistes.\n¡Gracias!
+<noparse></noparse>I'm the one who should be thanking you! Safe travels.=<noparse></noparse>¡Soy yo quien debería agradecerte!\nViajes seguros.
+<noparse></noparse>Hmm, is there anything else to take care of?=<noparse></noparse>Mmmm, ¿hay algo más de qué ocuparse?
+<noparse></noparse>Well, we could look around the train a bit more.=<noparse></noparse>Bueno, podríamos mirar un poco más alrededor del tren.
+<noparse></noparse>If not, please go back to the room. You know the way, right?=<noparse></noparse>Si no, por favor regresa a la habitación.\nYa conoces el camino, ¿verdad?
+<noparse></noparse>Of course I do. <color\=#800000ff>We go straight and to the left</color>!=<noparse></noparse>Por supuesto que sí. <color\=#800000ff>Seguimos recto y a la izquierda</color>!
+<noparse></noparse>*Sigh*, I guess it can't be helped. Should we head back if there's nothing else to do...=<noparse></noparse>*Suspiro*, supongo que no se puede evitar.\n¿Deberíamos regresar si no hay nada más que hacer...?
+The way to the Room=El camino a la habitación
+Let's go to the room at the far left.=Vayamos a la habitación del extremo izquierdo.
+<noparse></noparse>I shouldn't judge things by how they look today. Even this...=<noparse></noparse>No debería juzgar las cosas por cómo se ven hoy.\nIncluso esto...
+<noparse></noparse>Ellie, don't eat food from there.=<noparse></noparse>Ellie, no comas comida de allí.
+<noparse></noparse>Do you think I'm an animal?=<noparse></noparse>¿Crees que soy un animal?
+0-2. The way to the Room=0-2. El camino a la habitación
+After safely returning the train ticket to the owner, Ellie decided to return to her room at the far left to get some rest.\n\n3 more days left.\n\nWill this boring journey come to an end without any incident?\nFor now, let's rest up to save up some energy for the journey ahead.=Después de devolverle el billete de tren al propietario de forma segura, Ellie decidió regresar a su habitación en el extremo izquierdo para descansar un poco.\n\nQuedan 3 días más.\n\n¿Terminará este aburrido viaje sin ningún incidente?\nPor ahora, descansemos para guardar energía para el viaje que tenemos por delante.
+<noparse></noparse>I mix lives and change drinks.=<noparse></noparse>Mezclo vidas y cambio bebidas.
+<noparse></noparse>After working as an apprentice for <color\=#800000ff>3 years</color>, I'll be able to <color\=#800000ff>graduate</color> from the School for Witches.=<noparse></noparse>Después de trabajar como aprendiz durante <color\=#800000ff>3 años</color>, podré <color\=#800000ff>graduarme</color> de la Escuela de Brujas.
+<noparse></noparse>Wow! <color\=#800000ff>Highlion</color>, huh? That's a really nice place, isn't it?=<noparse></noparse>¡Guau! <color\=#800000ff>Highlion</color>, ¿eh?\nEse es un lugar realmente lindo, ¿no?
+<noparse></noparse>Pretty impressive.=<noparse></noparse>Bastante impresionante.
+<noparse></noparse>A romantic tale that starts with eyebrows...=<noparse></noparse>Un cuento romántico que comienza con las cejas...
+<noparse></noparse>Cocktails are my specialty.=<noparse></noparse>Los cócteles son mi especialidad.
+<noparse></noparse>"O Witch, help those in your reach."=<noparse></noparse>"Oh Bruja, ayuda a aquellos que están a tu alcance."
+<noparse></noparse>It’s a famous saying.=<noparse></noparse>Es un dicho famoso.
+I wondered why only this vase was empty, but there's a donut.=Me preguntaba por qué solo este jarrón estaba vacío, pero hay un donut.
+<noparse></noparse>I wondered why only this vase was empty, but there's a donut.=<noparse></noparse>Me preguntaba por qué solo este jarrón estaba vacío, pero hay un donut.
+Normal Carrot Donut=Donut de Zanahoria Normal
+<noparse></noparse>I'm surprised you found it. You have a good sense of smell I see.=<noparse></noparse>Me sorprende que lo hayas encontrado.\nTienes buen olfato, por lo que veo.
+A handmade donut. The large amount of carrot paste gives it a sweet and refreshing taste.=Un donut hecho a mano.\nLa gran cantidad de pasta de zanahoria le aporta un sabor dulce y refrescante.
+<noparse></noparse>I figured it out thanks to my great deduction skills and keen eye!=<noparse></noparse>¡Lo descubrí gracias a mis grandes dotes de deducción y a mi ojo agudo!
+Looks like the trash can here switched places with a donut too. There isn't a single piece of trash inside.=Parece que el bote de basura de aquí también cambió de lugar con un donut.\nDentro no hay ni un solo trozo de basura.
+<noparse></noparse>It's a relief the donut is packaged.=<noparse></noparse>Es un alivio que el donut esté empaquetado.
+<noparse></noparse>Umm, the bag...=<noparse></noparse>Mmmm, la bolsa...
+Let's pick up the bag and put it on the upper shelf.=Levantemos la bolsa y pongámosla en el estante superior.
+<noparse></noparse>You have to put things like this up top.=<noparse></noparse>Tienes que poner cosas como esta arriba.
+<noparse></noparse>Are you asleep?=<noparse></noparse>¿Estás dormido?
+<noparse></noparse>Let me help you.=<noparse></noparse>Déjame ayudarte.
+<noparse></noparse>I placed the bag on top so it wouldn't fall.=<noparse></noparse>Coloqué la bolsa encima para que no se cayera.
+Let's pick up the fallen bag and put it back on the upper shelf.=Recojamos la bolsa caída y volvamos a colocarla en el estante superior.
+<noparse></noparse>Such a kind child.=<noparse></noparse>Una niña tan amable.
+<noparse></noparse>People say weird things happen when we enter the tunnel, so please be careful.=<noparse></noparse>La gente dice que suceden cosas raras cuando entramos al túnel, así que ten cuidado.
+<noparse></noparse>What did you say?=<noparse></noparse>¿Qué dijiste?
+<noparse></noparse>What? What's going on...=<noparse></noparse>¿Qué?\n¿Qué está pasando...
+<noparse></noparse>Another tunnel?=<noparse></noparse>¿Otro túnel?
+<noparse></noparse>I didn't know there was another tunnel...=<noparse></noparse>No sabía que había otro túnel...
+<noparse></noparse>Huh? What happened to the person who was here...=<noparse></noparse>¿Eh?\n¿Qué pasó con la persona que estaba aquí...?
+<noparse></noparse>Where have they gone...?=<noparse></noparse>¿Adónde se han ido...?
+<noparse></noparse>Do you think they swapped places with something else again, like before?=<noparse></noparse>¿Crees que volvieron a cambiar de lugar por otra cosa, como antes?
+<noparse></noparse>A whole human being? No way. They probably just returned to their room.=<noparse></noparse>¿Un ser humano entero?\nDe ninguna manera.\nProbablemente acaban de regresar a su habitación.
+<noparse></noparse>The bag fell on the ground again.=<noparse></noparse>La bolsa volvió a caer al suelo.
+<noparse></noparse>I guess it's no use putting it up on top.=<noparse></noparse>Supongo que no sirve de nada ponerla arriba.
+<noparse></noparse>Well, with shaking like that, it couldn't be helped.=<noparse></noparse>Bueno, con un temblor así, no se podía evitar.
+<noparse></noparse>Let's put it back up so they can find it when they come back.=<noparse></noparse>Volvamos a colocarla para que puedan encontrarla cuando regresen.
+10:00 <size\=8>PM</size>=10:00 <size\=8>P.M</size>
+Let's use the Witch's Bug Net to collect the flying pages and sort them.=Usemos la Red de captura de bruja para recolectar las páginas voladoras y ordenarlas.
+<noparse></noparse>Wh-what?! What's wrong with it?=<noparse></noparse>¡¿Q-qué?!\n¿Qué tiene de malo?
+<noparse></noparse>Why did you throw the bag?=<noparse></noparse>¿Por qué tiraste la bolsa?
+<noparse></noparse>Look! The bag moved on its own!=<noparse></noparse>¡Mira!\n¡La bolsa se movió sola!
+<noparse></noparse>Le-let's get closer.=<noparse></noparse>A-a-acerquémonos.
+<shake>Let's approach carefully...</shake>=<shake>Acerquémonos con cuidado...</shake>
+Tiptoe=Puntillas
+Certain plants and animals are highly sensitive, so you must approach carefully.\nPressing the "Tiptoe" button allows you to move more quietly but also more slowly.=Ciertas plantas y animales son muy sensibles, por lo que debes acercarte con cuidado.\nPulsar el botón "Puntillas" te permite moverte más en silencio pero también más lentamente.
+<noparse></noparse>W-what happened?!=<noparse></noparse>¡¿Q-qué pasó?!
+<noparse></noparse>What's this flower garden?=<noparse></noparse>¿Qué es este jardín de flores?
+<noparse></noparse>You've done it again.=<noparse></noparse>Lo has vuelto a hacer.
+<noparse></noparse>No I, I just.... the bag...=<noparse></noparse>No, yo... solo... la bolsa...
+<noparse></noparse>What now?=<noparse></noparse>¿Y ahora qué?
+<noparse></noparse>It was just a bag falling over. What in the world is going on?!=<noparse></noparse>Fue solo una bolsa que se cayó.\n¡¿Pero qué está pasando?!
+<noparse></noparse>It might have been because of the tunnel.=<noparse></noparse>Podría haber sido por el túnel.
+<noparse></noparse>Right. It doesn't make sense that this would happen just because a bag fell.=<noparse></noparse>Exacto.\nNo tiene sentido que esto suceda solo porque se cayó una bolsa.
+<noparse></noparse>It's because of the tunnel.=<noparse></noparse>Es por el túnel.
+<noparse></noparse>It's because you put the bag up top.=<noparse></noparse>Es porque pusiste la bolsa arriba.
+<noparse></noparse>It's because of the tunnel!=<noparse></noparse>¡Es por el túnel!
+<noparse></noparse>Let's take care of this situation first.=<noparse></noparse>Ocupémonos primero de esta situación.
+<noparse></noparse>Phew... Alright. Let's first collect the <color\=#800000ff>pages that are flying around</color>.=<noparse></noparse>Uf... Está bien.\nPrimero recojamos las <color\=#800000ff>páginas que están volando por ahí</color>.
+<noparse></noparse>I'm glad the <color\=#800000ff>Bug Net</color> I brought from home came in handy.=<noparse></noparse>Me alegra que la <color\=#800000ff>Red de captura de bruja</color> que traje de casa me haya servido.
+<noparse></noparse>Though you probably never imagined you'd be catching flying pages with it.=<noparse></noparse>Aunque probablemente nunca imaginaste que atraparías páginas voladoras con él.
+Select the Witch's Bug Net in the upper right corner.=Seleccione la Red de captura de bruja en la esquina superior derecha.
+Use Witch's Bug Net=Utilice la Red de captura de bruja
+Flying Papers=Papeles voladores
+Let's put the organized bag back up on the shelf.=Volvamos a colocar la bolsa organizada en el estante.
+<noparse></noparse>Phew... Now let's tidy up the things that popped out of the bag and go back to the room.=<noparse></noparse>Uf... Ahora ordenemos las cosas que salieron de la bolsa y volvamos a la habitación.
+<noparse></noparse>The flower garden disappears on its own.=<noparse></noparse>El jardín de flores desaparece por sí solo.
+<noparse></noparse>I think everything else is sorted out, so let's organize the pages.=<noparse></noparse>Creo que todo lo demás está solucionado, así que organicemos las páginas.
+<noparse></noparse>Is this the book that popped out of the bag earlier...?=<noparse></noparse>¿Es este el libro que salió de la bolsa antes...?
+<noparse></noparse>The Mystery of the Strange Witch's History=<noparse></noparse>El misterio de la historia de la extraña bruja
+<noparse></noparse>Wow, this book sounds interesting.=<noparse></noparse>Vaya, este libro suena interesante.
+<noparse></noparse>You don't think it'll move again do you?=<noparse></noparse>No crees que se volverá a mover, ¿verdad?
+<noparse></noparse>Focus on organizing the pages. Don't mix them up.=<noparse></noparse>Concéntrate en organizar las páginas.\nNo las mezcles.
+<noparse></noparse>I know.=<noparse></noparse>Lo sé.
+<noparse></noparse>Hmmm, I think these two pages make a bundle.=<noparse></noparse>Hmmm, creo que estas dos páginas van juntas.
+<noparse></noparse>First is...=<noparse></noparse>La primera es...
+<noparse></noparse>Whitegarden Castle is swallowed by mysterious Prickly Vines.'=<noparse></noparse>El castillo Whitegarden es devorado por misteriosas enredaderas espinosas.
+<noparse></noparse>I wonder how prickly vines covered such a huge castle.=<noparse></noparse>Me pregunto cómo las enredaderas espinosas cubrían un castillo tan grande.
+<noparse></noparse>That's why a garden always needs to be tended to in good time.=<noparse></noparse>Por eso, siempre es necesario cuidar el jardín a tiempo.
+<noparse></noparse>They don't look like ordinary prickly vines. They look terrifying.=<noparse></noparse>No parecen enredaderas espinosas comunes.\nSe ven terroríficas.
+<noparse></noparse>That's strange, considering the Whitegarden is a family that's well known for their gardens.=<noparse></noparse>Eso es extraño, considerando que Whitegarden es una familia muy conocida por sus jardines.
+<noparse></noparse>Maybe they went on a vacation?=<noparse></noparse>¿Quizás se fueron de vacaciones?
+<noparse></noparse>What pages are these?=<noparse></noparse>¿Qué páginas son estas?
+<noparse></noparse>The Prickly Vine Castle is page 2.=<noparse></noparse>El castillo de la Vid Espinosa es la página 2.
+<noparse></noparse>Good, it's in the right place. Let's move on to the next one.=<noparse></noparse>Bien, está en el lugar correcto.\nPasemos al siguiente.
+<noparse></noparse>"The Legend of the Cat God"=<noparse></noparse>"La leyenda del Dios Gato"
+<noparse></noparse>I want to meet the Cat God.=<noparse></noparse>Quiero conocer al Dios Gato.
+<noparse></noparse>What's so good about meeting one?=<noparse></noparse>¿Qué tiene de bueno conocer a uno?
+<noparse></noparse>I didn't think about that.=<noparse></noparse>No pensé en eso.
+<noparse></noparse>I tried praying, making a wish...=<noparse></noparse>Intenté rezar, pedir un deseo...
+<noparse></noparse>Gods don't speak human language so it won't be very meaningful.=<noparse></noparse>Los dioses no hablan el lenguaje humano, así que no tendrá mucho sentido.
+<noparse></noparse>Still, it's a God, so I'm sure it's a mighty creature.=<noparse></noparse>Aun así, es un Dios, así que estoy seguro de que es una criatura poderosa.
+<noparse></noparse>Focus on the pages.=<noparse></noparse>Concéntrate en las páginas.
+<noparse></noparse>The Cat God is page 38.=<noparse></noparse>El Dios Gato está en la página 38.
+<noparse></noparse>Good. It's the last one.=<noparse></noparse>Bien.\nEs el último.
+<noparse></noparse>Writer's Introduction: Stephan Felix Greenvine=<noparse></noparse>Introducción del escritor: Stephan Felix Greenvine
+<noparse></noparse>Wow, this book was written by Professor Greenvine.=<noparse></noparse>Vaya, este libro fue escrito por el profesor Greenvine.
+<noparse></noparse>That's the only witch's name you've memorized from a book.=<noparse></noparse>Ese es el único nombre de bruja que has memorizado de un libro.
+<noparse></noparse>"O Witch, help those within your reach." What a wonderful saying.=<noparse></noparse>"Oh, bruja, ayuda a aquellos que estén a tu alcance."\nQué dicho tan maravilloso.
+<noparse></noparse>Yeah, I think we've helped enough people within our reach today.=<noparse></noparse>Sí, creo que hoy hemos ayudado a suficientes personas a nuestro alcance.
+<noparse></noparse>Let's put the bag back up and return to our room.=<noparse></noparse>Volvamos a colocar la bolsa en su lugar y regresemos a nuestra habitación.
+<noparse></noparse>True, I should tie it with a string so it won't scatter again.=<noparse></noparse>Es cierto, debería atarla con una cuerda para que no se vuelva a desparramar.
+Vibration=Vibración
+Alternative Controls=Controles alternativos
+Saves from before the update can be loaded using <color\=#a03c3a>[Load saved data]</color>=Los archivos guardados antes de la actualización se pueden cargar usando <color\=#a03c3a>[Cargar datos guardados]</color>
+Load saved data=Cargar datos guardados
+Day 1 of <sprite\=0>  Year 1=Día 1 de <sprite\=0>  Año 1
+October 20, 2026 07:49=20 de octubre de 2026 07:49
+Empty=Vacío
+This screen displays <color\=#800000>save data created prior</color> to the save system overhaul.\nIf you'd like to continue playing the game using existing Save Data, please load the <color\=#800000>desired Data and Save the Game</color>.\nUpon saving, it will automatically convert to the new Save System's Format. You can continue playing from the new Load Screen.=Esta pantalla muestra los <color\=#800000>datos de guardado creados antes</color> de la renovación del sistema de guardado.\nSi deseas continuar jugando con los datos de guardado existentes, carga los <color\=#800000>datos deseados y guarda el juego</color>.\nAl guardar, se convertirá automáticamente al nuevo formato del sistema de guardado. Puedes seguir jugando desde la nueva pantalla de carga.
+Day 12 of Month 3rd, Year 2=Día 12 del mes 3, año 2
+26.03.01 11:57 AM=26.03.01 11:57
+Day 13 of Month 3rd, Year 2=Día 13 del mes 3, año 2
+26.03.01 12:24 PM=26.03.01 12:24
+26.03.01 12:41 PM=26.03.01 12:41
+Day 14 of Month 3rd, Year 2=Día 14 del mes 3, año 2
+ver 6.0.3.0=versión 6.0.3.0
+26.03.01 11:23 AM=26.03.01 11:23
+Day 11 of Month 3rd, Year 2=Día 11 del mes 3, año 2
+26.02.28 12:04 PM=26.02.28 12:04
+26.02.28 11:50 AM=26.02.28 11:50
+Day 10 of Month 3rd, Year 2=Día 10 del mes 3, año 2
+26.02.28 11:25 AM=26.02.28 11:25
+Day 9 of Month 3rd, Year 2=Día 9 del mes 3, año 2
+Are you sure you want to delete the saved file?\n\n<color\=#800000>Deleted files cannot be restored.</color>=¿Estás seguro de que quieres eliminar el archivo guardado?\n\n<color\=#800000>Los archivos eliminados no se pueden restaurar.</color>
+26.02.22 12:38 PM=26.02.22 12:38
+Act 3: Responsibilities=Acto 3: Responsabilidades
+ver 6.0.2.0=versión 6.0.2.0
+26.02.22 12:28 PM=26.02.22 12:28
+Day 8 of Month 3rd, Year 2=Día 8 del mes 3, año 2
+26.02.22 11:47 AM=26.02.22 11:47
+Act 2: The Encounter=Acto 2: El Encuentro
+Save Confirmation=Confirmación de guardado
+Would you like to start the game with the selected file?=¿Quieres iniciar el juego con el archivo seleccionado?
+This Save File already contains a saved game.\n<color\=#800000>Are you sure you want to overwrite it with a new game?</color>=Este archivo guardado ya contiene una partida guardada.\n<color\=#800000>¿Estás seguro de que quieres sobrescribirlo con un juego nuevo?</color>
+<color\=#800000>All Save Slots of the Saved File will be deleted.</color> This action cannot be undone. Are you sure you want to proceed?=<color\=#800000>Se eliminarán todas las ranuras de guardado del archivo guardado.</color> Esta acción no se puede deshacer. ¿Estás seguro de que quieres continuar?
+<noparse></noparse>You?=<noparse></noparse>¿Tú?
+<noparse></noparse>Here.=<noparse></noparse>Aquí.
+<noparse></noparse>Yup, you can count on me.=<noparse></noparse>Sí, puedes contar conmigo.
+<noparse></noparse>I'm sure whoever lost this is in a panic. Let's go find them.=<noparse></noparse>Estoy seguro de que quien haya perdido esto está en pánico.\nVamos a buscarlos.
+<noparse></noparse>If I check the suspicious spots and then go where things might have been swapped...=<noparse></noparse>Si reviso los puntos sospechosos y luego voy donde las cosas podrían haber sido intercambiadas...
+<noparse></noparse>Maybe I'll find some sort of food!=<noparse></noparse>¡Quizás encuentre algún tipo de comida!
+<noparse></noparse>...Remember, our mission is to <color\=#800000ff>find the owner of this ticket</color>.=<noparse></noparse>...Recuerda, nuestra misión es <color\=#800000ff>encontrar el propietario de este billete</color>.
+<noparse></noparse>I know~ Hehehehe!=<noparse></noparse>Lo sé~ ¡Jejejeje!
+<noparse></noparse>If I go to where the flower was, there might be food there.=<noparse></noparse>Si voy a donde estaba la flor, puede que allí haya comida.
+<noparse></noparse>Huh? I guess I was wrong.=<noparse></noparse>¿Eh?\nSupongo que estaba equivocado.
+<noparse></noparse>I'm sorry, I guess I showed that I was having a hard time without realizing it.=<noparse></noparse>Lo siento, supongo que demostré que lo estaba pasando mal sin darme cuenta.
+<noparse></noparse>...because it's our job to solve the problem whenever something strange happens.=<noparse></noparse>...porque es nuestro trabajo resolver el problema cada vez que sucede algo extraño.
+<noparse></noparse>I sighed because there's no use in telling our superiors. It ultimately falls on our shoulders again.=<noparse></noparse>Suspiré porque no sirve de nada decírselo a nuestros superiores.\nAl final vuelve a caer sobre nuestros hombros.
+<noparse></noparse>Can I help in any way?=<noparse></noparse>¿Puedo ayudar de alguna manera?
+<noparse></noparse>No, I cannot inconvenience a guest. Please do not worry.=<noparse></noparse>No, no puedo molestar a un huésped.\nPor favor no te preocupes.
+<noparse></noparse>It's not a nuisance at all.=<noparse></noparse>No es una molestia en absoluto.
+<noparse></noparse>It's fine.=<noparse></noparse>Está bien.
+<noparse></noparse>That was very firm.=<noparse></noparse>Eso fue muy firme.
+<noparse></noparse>If you really want to help, could you look around the jumbled items? There might be some food among them.=<noparse></noparse>Si realmente quieres ayudar, ¿podrías revisar los artículos revueltos?\nPuede que haya algo de comida entre ellos.
+<noparse></noparse>Since the food is from the train, it's fine for you to take it with you.=<noparse></noparse>Como la comida es del tren, está bien que la lleves contigo.
+<noparse></noparse>Because that alone will be great help to us.=<noparse></noparse>Porque eso por sí solo ya sería de gran ayuda para nosotros.
+<noparse></noparse>Hmm, I'll try my best.=<noparse></noparse>Hmm, haré lo mejor que pueda.
+<noparse></noparse>Alright, thank you. I hope you have a comfortable trip.=<noparse></noparse>Muy bien, gracias.\nEspero que tengas un viaje cómodo.
+<noparse></noparse>However, as a token of my gratitude, I'll give you this.=<noparse></noparse>Sin embargo, como muestra de mi gratitud, te daré esto.
+<noparse></noparse>Even to this day, I still take pride in these <color\=#800000ff>eyebrows</color> of mine.=<noparse></noparse>Hasta el día de hoy todavía me enorgullezco de mis <color\=#800000ff>cejas</color>.
+<noparse></noparse>Maybe they are sleeping?=<noparse></noparse>¿Quizás estén durmiendo?
+<noparse></noparse>Good, I think this will hold even if the train shakes again.=<noparse></noparse>Bien, creo que esto aguantará incluso si el tren vuelve a temblar.
+Let's head back to the room.=Volvamos a la habitación.
+<noparse></noparse>This really is the end, right?=<noparse></noparse>Este es realmente el final, ¿verdad?
+<noparse></noparse>So where's the person who was sitting here with this bag?=<noparse></noparse>Entonces, ¿dónde está la persona que estaba sentada aquí con esta bolsa?
+<noparse></noparse>Are you talking about this again?=<noparse></noparse>¿Estás hablando de esto otra vez?
+<noparse></noparse>There's no way a whole person changed places with a piece of cloth.=<noparse></noparse>No es posible que una persona entera cambie de lugar con un trozo de tela.
+<noparse></noparse>Then are you implying that an entire person is now where this piece of cloth was?=<noparse></noparse>¿Entonces estás insinuando que ahora hay una persona entera donde estaba este trozo de tela?
+<noparse></noparse>Let's really return to our room now.=<noparse></noparse>Realmente volvamos a nuestra habitación ahora.
+<noparse></noparse>Yeah... I'm so tired.=<noparse></noparse>Sí... estoy tan cansada.
+<noparse></noparse>It's the Cat God!=<noparse></noparse>¡Es el Dios Gato!
+Let's touch the white cat.=Toquemos al gato blanco.
+<noparse></noparse>It's just a white cat.=<noparse></noparse>Es sólo un gato blanco.
+<noparse></noparse>But it came out of the drawer!=<noparse></noparse>¡Pero salió del cajón!
+<noparse></noparse>The Cat God doesn't come out of drawers.=<noparse></noparse>El Dios Gato no sale de los cajones.
+<noparse></noparse>An ordinary cat coming out of a drawer is far more likely.=<noparse></noparse>Es mucho más probable que un gato común y corriente salga de un cajón.
+<noparse></noparse>Anyway, you're so cute. Can I pet you just once...?=<noparse></noparse>De todos modos, eres tan lindo.\n¿Puedo acariciarte sólo una vez...?
+White Cat=Gato Blanco
+<noparse></noparse>Ugh, it just left.=<noparse></noparse>Uf, acaba de irse.
+Let's chase after the White Cat.=Persigamos al Gato Blanco.
+<noparse></noparse>Shall we go after it?=<noparse></noparse>¿Vamos tras él?
+<noparse></noparse>The room is over that way anyway...=<noparse></noparse>La habitación está por ese lado de todos modos...
+<noparse></noparse>Let's chase after it!=<noparse></noparse>¡Vamos a perseguirlo!
+<noparse></noparse>Forget about the cat.=<noparse></noparse>Olvídate del gato.
+<noparse></noparse>Go back to your room and get some rest.=<noparse></noparse>Vuelve a tu habitación y descansa un poco.
+<noparse></noparse>Hmf, just go back to my room?=<noparse></noparse>Hmf, ¿solo volver a mi habitación?
+<noparse></noparse>Or you can look around a little more.=<noparse></noparse>O puedes mirar un poco más a tu alrededor.
+<noparse></noparse>There are only two options: look around or go back to my room.=<noparse></noparse>Sólo hay dos opciones: mirar a mi alrededor o volver a mi habitación.
+<noparse></noparse>That's trains for you.=<noparse></noparse>Así son los trenes.
+<noparse></noparse>Your room is the <color\=#800000ff>last room at the end</color>.=<noparse></noparse>Tu habitación es la <color\=#800000ff>última habitación al final</color>.
+<noparse></noparse>Don't go in someone else's room again like yesterday.=<noparse></noparse>No vuelvas a entrar en la habitación de otra persona como ayer.
+<noparse></noparse>I won't get confused this time!=<noparse></noparse>¡No me confundiré esta vez!
+<noparse></noparse>What? Is this a crab?! Living things switch positions too?!=<noparse></noparse>¿Qué?\n¿Es esto un cangrejo?\n¿Los seres vivos también cambian de posición?
+<noparse></noparse>If that's the case, that person...=<noparse></noparse>Si ese es el caso, esa persona...
+<noparse></noparse>Th-that can't be true. I-if we go to where the crab was, the food might be there. Let's check it out. H-haha...=<noparse></noparse>E-eso no puede ser verdad.\nS-si vamos a donde estaba el cangrejo, la comida podría estar allí.\nComprobémoslo.\nJajaja...
+<noparse></noparse>Wow, who'd bring so many terrible books?=<noparse></noparse>Vaya, ¿quién traería tantos libros terribles?
+<noparse></noparse>Don't do that every time you look at a book.=<noparse></noparse>No hagas eso cada vez que mires un libro.
+<noparse></noparse>I can't help it, I hate books. I guess this got caught up in the strange stuff too, right?=<noparse></noparse>No puedo evitarlo, odio los libros.\nSupongo que esto también quedó atrapado en cosas extrañas, ¿verdad?
+<noparse></noparse>Could be. Why don't you look around here for a place where there might be books?=<noparse></noparse>Podría ser.\n¿Por qué no buscas por aquí algún lugar donde pueda haber libros?
+<noparse></noparse>S-surely, there's no way a person switched places, right?=<noparse></noparse>S-seguramente, no hay manera de que una persona haya cambiado de lugar, ¿verdad?
+<noparse></noparse>Well the crab changed places.=<noparse></noparse>Bueno, el cangrejo cambió de lugar.
+<noparse></noparse>....Virgil, can we sleep together tonight?=<noparse></noparse>....Virgil, ¿podemos dormir juntos esta noche?
+<noparse></noparse>Still, I think I might actually enjoy reading this one.=<noparse></noparse>Aún así, creo que podría disfrutar leyendo este.
+<noparse></noparse>Is it because it smells delicious?=<noparse></noparse>¿Será porque huele delicioso?
+<noparse></noparse>...Virgil, I'll see you later in the room.=<noparse></noparse>...Virgil, te veré luego en la habitación.
+Virgil, the <color\=#800000ff>Nubicula Cupcake</color> is in the fishbowl!=Virgil, el <color\=#800000ff>Cupcake de Nubícula</color> está en la pecera!
+<noparse></noparse>Virgil, the <color\=#800000ff>Nubicula Cupcake</color> is in the fishbowl!=<noparse></noparse>Virgil, el <color\=#800000ff>Cupcake de Nubícula</color> está en la pecera!
+<noparse></noparse>There was a crab there before. Poor thing. It looks like it got caught up in the strange incident.=<noparse></noparse>Antes había un cangrejo allí.\nPobrecito.\nParece que quedó atrapado en el extraño incidente.
+A thick beef stew. It's not clear what exactly is in it, but it tastes really good.=Un estofado de carne espeso.\nNo está claro qué contiene exactamente, pero sabe muy bien.
+I thought outside food was prohibited. Why is there meat stew in the bag? No way, did it get swapped with the books that scattered earlier?=Pensé que la comida del exterior estaba prohibida.\n¿Por qué hay estofado de carne en la bolsa?\nDe ninguna manera, ¿lo intercambiaron con los libros que se esparcieron antes?
+<noparse></noparse>To think someone's lugging a bunch of awful books around on this boring train... Ugh.=<noparse></noparse>Pensar que alguien está cargando un montón de libros horribles en este aburrido tren... Uf.
+<noparse></noparse>I wonder what that bag was?=<noparse></noparse>Me pregunto qué era esa bolsa.
+<noparse></noparse>And that white cat...=<noparse></noparse>Y ese gato blanco...
+<noparse></noparse>Stop over thinking it and get some rest. Or get some sleep.=<noparse></noparse>Deja de pensarlo demasiado y descansa un poco.\nO duerme un poco.
+<noparse></noparse>Ugh, this train's bed is the worst. It's so uncomfortable.=<noparse></noparse>Uf, la cama de este tren es la peor.\nEs tan incómoda.
+<noparse></noparse>But I don't feel like just sitting here and spacing out. Should I just go to sleep...=<noparse></noparse>Pero no tengo ganas de quedarme sentada aquí y dejar la mente en blanco.\n¿Debería irme a dormir...?
+<noparse></noparse>There's nothing more to do, right?=<noparse></noparse>No hay nada más que hacer, ¿verdad?
+<noparse></noparse>Shall we go back to the room?=<noparse></noparse>¿Volvemos a la habitación?
+<noparse></noparse>There might be more things I can do.=<noparse></noparse>Puede que haya más cosas que pueda hacer.
+<noparse></noparse>Let's take a look around once more!=<noparse></noparse>¡Echemos un vistazo a nuestro alrededor una vez más!
+<noparse></noparse>Let's just rest. I'm going to be trapped here for a while, so might as well.=<noparse></noparse>Descansemos.\nEstaré atrapada aquí por un tiempo, así que aprovechemos.
+<noparse></noparse>So you are saying that they disappeared, and then a book from the bag started flying around?=<noparse></noparse>¿Entonces estás diciendo que desaparecieron y luego un libro de la bolsa comenzó a volar?
+<noparse></noparse>It's the truth. Something strange happened again.=<noparse></noparse>Es la verdad.\nAlgo extraño volvió a suceder.
+<noparse></noparse>Didn't we pass by another tunnel?=<noparse></noparse>¿No pasamos por otro túnel?
+<noparse></noparse>No, it's just the one tunnel.=<noparse></noparse>No, es sólo un túnel.
+<noparse></noparse>There's no way it could have happened again.=<noparse></noparse>No hay manera de que pudiera haber sucedido otra vez.
+<noparse></noparse>Maybe you dreamt it?=<noparse></noparse>¿Quizás lo soñaste?
+<noparse></noparse>No! I'm telling the truth!=<noparse></noparse>¡No!\n¡Estoy diciendo la verdad!
+<noparse></noparse>It definitely happened.=<noparse></noparse>Definitivamente sucedió.
+<noparse></noparse>I see. Do you want another cupcake?=<noparse></noparse>Ya veo.\n¿Quieres otro pastelito?
+<noparse></noparse>No thanks. More importantly, will there be any more strange phenomena?=<noparse></noparse>No, gracias.\nMás importante aún, ¿habrá más fenómenos extraños?
+<noparse></noparse>From this point on, we'll be heading straight to Highlion.=<noparse></noparse>A partir de este momento, nos dirigiremos directamente a Highlion.
+<noparse></noparse>That means...=<noparse></noparse>Eso significa...
+<noparse></noparse>Which means the next three days are going to be even more boring than now.=<noparse></noparse>Lo que significa que los próximos tres días serán incluso más aburridos que ahora.
+<noparse></noparse>You're joking, right? 3 more days?=<noparse></noparse>Estás bromeando, ¿verdad?\n¿3 días más?
+<noparse></noparse>I want to jump off this train.=<noparse></noparse>Quiero saltar de este tren.
+<noparse></noparse>You shouldn't jump off a speeding train.=<noparse></noparse>No deberías saltar de un tren a alta velocidad.
+<noparse></noparse>Ugh, I wish the train would just suddenly stop.=<noparse></noparse>Uf, desearía que el tren se detuviera de repente.
+<noparse></noparse>Stop talking nonsense.=<noparse></noparse>Deja de decir tonterías.
+<noparse></noparse>Just stay quiet and get through three more days of boredom.=<noparse></noparse>Quédate callada y aguanta tres días más de aburrimiento.
+<noparse></noparse>Oh dear Cat God... If you are listening, please stop the train...=<noparse></noparse>Oh, querido Dios Gato... Si estás escuchando, por favor detén el tren...
+<noparse></noparse>Like I told you, Gods aren't there to grant your wishes...=<noparse></noparse>Como te dije, los dioses no están ahí para conceder tus deseos...
+<noparse></noparse>Huh...? Did the train stop?=<noparse></noparse>Eh...?\n¿Se detuvo el tren?
+<noparse></noparse>All hail Cat God!!=<noparse></noparse>¡¡Viva el Dios Gato!!
+<noparse></noparse>It's not the Cat God, for sure.=<noparse></noparse>Seguro que no es el Dios Gato.
+<noparse></noparse>I wonder what really happened.=<noparse></noparse>Me pregunto qué pasó realmente.
+<noparse></noparse>Who knows.=<noparse></noparse>Quién sabe.
+<noparse></noparse>Mr. Bartender, do you know?=<noparse></noparse>Sr. Bartender, ¿lo sabe?
+<noparse></noparse>I'm not sure. I've never experienced something like this before.=<noparse></noparse>No estoy seguro.\nNunca antes había experimentado algo como esto.
+<noparse></noparse>Do you think I can get off?=<noparse></noparse>¿Crees que puedo bajar?
+<noparse></noparse>If it's something serious, I guess so.=<noparse></noparse>Si es algo serio, supongo que sí.
+<noparse></noparse>Please be something serious... serious problem...=<noparse></noparse>Por favor, que sea algo serio... un problema serio...
+<noparse></noparse>Don't pray for something like that.=<noparse></noparse>No ores por algo así.
+<noparse></noparse>A serious issue, perhaps?=<noparse></noparse>¿Un problema grave, tal vez?
+<noparse></noparse>The train cannot continue its journey due to a <color\=#800000ff>serious problem</color>...=<noparse></noparse>El tren no puede continuar su viaje debido a un <color\=#800000ff>problema grave</color>...
+<noparse></noparse>YES!!!=<noparse></noparse>¡¡¡SÍ!!!
+<noparse></noparse>...This is an announcement. The train's operations may be suspended until <color\=#800000ff>tomorrow morning</color>.=<noparse></noparse>...Este es un anuncio.\nLas operaciones del tren podrían suspenderse hasta <color\=#800000ff>mañana por la mañana</color>.
+<noparse></noparse>We are currently identifying the cause and taking the proper measures to resolve the matter at hand as soon as possible.=<noparse></noparse>En este momento estamos identificando la causa y tomando las medidas adecuadas para resolver el asunto en cuestión lo antes posible.
+<noparse></noparse>Passengers are asked not to leave the train if at all possible.=<noparse></noparse>Se ruega a los pasajeros que, en la medida de lo posible, no abandonen el tren.
+<noparse></noparse>If you must get off, please do not travel far from the train.=<noparse></noparse>Si debe bajarse, no se aleje mucho del tren.
+<noparse></noparse>Again, we'd like to apologize for the inconvenience.=<noparse></noparse>Nuevamente, nos gustaría disculparnos por las molestias.
+<noparse></noparse>Virgil, did you hear that? They said we can get off.=<noparse></noparse>Virgil, ¿escuchaste eso?\nDijeron que podemos bajar.
+<noparse></noparse>Ellie, "please don't get off the train if possible" just means don't get off the train.=<noparse></noparse>Ellie, "por favor, no te bajes del tren si es posible" simplemente significa no te bajes del tren.
+<noparse></noparse>But they said it will leave tomorrow. Doesn't that mean we have free time until then?=<noparse></noparse>Pero dijeron que saldrá mañana.\n¿No significa eso que tenemos tiempo libre hasta entonces?
+<noparse></noparse>Nope. There's no reason to get off. Just hang in there for 3 more days.=<noparse></noparse>No.\nNo hay motivo para bajar.\nSolo aguanta ahí por 3 días más.
+<noparse></noparse>But it's SOOOOOO boring in here.=<noparse></noparse>Pero aquí es MUY aburrido.
+<noparse></noparse>If I stay on the train any longer, I might die.=<noparse></noparse>Si sigo más tiempo en el tren, podría morir.
+<noparse></noparse>Don't worry. People don't die from boredom.=<noparse></noparse>No te preocupes.\nLa gente no muere de aburrimiento.
+<noparse></noparse>Well, I might.=<noparse></noparse>Bueno, podría hacerlo.
+<noparse></noparse>Huh? That's the cat I saw earlier!=<noparse></noparse>¿Eh?\n¡Ese es el gato que vi antes!
+<noparse></noparse>It climbed onto my table! SOOOO CUTE.=<noparse></noparse>¡Se subió a mi mesa!\nMUY LINDO.
+<noparse></noparse>I'm pretty sure none of the guests brought a cat on board...=<noparse></noparse>Estoy bastante seguro de que ninguno de los invitados trajo un gato a bordo...
+<noparse></noparse>Could it have come in from outside?=<noparse></noparse>¿Podría haber venido desde afuera?
+<noparse></noparse>Hey there kitty. What brings you here?=<noparse></noparse>Hola gatito.\n¿Qué te trae por aquí?
+<noparse></noparse>May I pet you this time?=<noparse></noparse>¿Puedo acariciarte esta vez?
+<noparse></noparse>Whoa, a cat stepped on my head!=<noparse></noparse>¡Vaya, un gato me pisó la cabeza!
+<noparse></noparse>It stepped on me.=<noparse></noparse>Me pisó.
+<noparse></noparse>It jumped out the window... Oh, there it is!=<noparse></noparse>Saltó por la ventana... ¡Oh, ahí está!
+<noparse></noparse>Oh, the cat...=<noparse></noparse>Ay, el gato...
+<noparse></noparse>...Virgil, did you see that?=<noparse></noparse>...Virgil, ¿viste eso?
+<noparse></noparse>The cat is calling out to me!=<noparse></noparse>¡El gato me está llamando!
+<noparse></noparse>You are imagining things.=<noparse></noparse>Estás imaginando cosas.
+<noparse></noparse>I swear I saw something forming behind the cat's head!!!=<noparse></noparse>¡¡¡Juro que vi algo formándose detrás de la cabeza del gato!!!
+<noparse></noparse>It's just your imagination, so just stay here.=<noparse></noparse>Es sólo tu imaginación, así que quédate aquí.
+<noparse></noparse>I'll definitely regret it if I let this go.=<noparse></noparse>Definitivamente me arrepentiré si dejo pasar esto.
+<noparse></noparse>I'm going after it.=<noparse></noparse>Voy tras él.
+<noparse></noparse>You just don't want to be on the train.=<noparse></noparse>Simplemente no quieres estar en el tren.
+<noparse></noparse>Hey, I'm just worried about the cat.=<noparse></noparse>Oye, solo estoy preocupada por el gato.
+<noparse></noparse>You know you're grinning ear to ear...=<noparse></noparse>Sabes que estás sonriendo de oreja a oreja...
+<noparse></noparse>I just have to be back here by the morning, right?=<noparse></noparse>Solo tengo que volver aquí para la mañana, ¿verdad?
+<noparse></noparse>I'm just going to check on the cat and come right back.=<noparse></noparse>Voy a ver cómo está el gato y volveré enseguida.
+Find the white cat you've seen on the train.=Encuentra el gato blanco que has visto en el tren.
+<noparse></noparse>There is <color\=#800000ff>something</color> in the blocking the train.=<noparse></noparse>Hay <color\=#800000ff>algo</color> bloqueando el tren.
+<noparse></noparse>A boa constrictor? No, no. It's strange <color\=#800000ff>prickly vines</color>.=<noparse></noparse>¿Una boa constrictor?\nNo, no.\nSon <color\=#800000ff>enredaderas espinosas</color> extrañas.
+<noparse></noparse>Strange prickly vines?=<noparse></noparse>¿Extrañas enredaderas espinosas?
+<noparse></noparse>A regular axe can't cut through it. What a pain.=<noparse></noparse>Un hacha normal no puede cortarlo.\n¡Vaya fastidio!
+<noparse></noparse>We've contacted the witches, so it will be dealt with, even if it takes a while.=<noparse></noparse>Nos hemos puesto en contacto con las brujas, así que nos ocuparemos de ello, aunque lleve un tiempo.
+<noparse></noparse>But you're a passenger. It's our responsibility to make sure you're safe.=<noparse></noparse>Pero eres un pasajero.\nEs nuestra responsabilidad asegurarnos de que estés a salvo.
+0-3. White Cat=0-3.\nGato blanco
+I got off the train to follow a mysterious white cat I spotted on board.\nLet's find that white cat and look for something fun to beat the boredom of the train journey.=Me bajé del tren para seguir a un misterioso gato blanco que vi a bordo.\nEncontremos ese gato blanco y busquemos algo divertido para vencer el aburrimiento del viaje en tren.
+<noparse></noparse>It’s a cliff.=<noparse></noparse>Es un acantilado.
+<noparse></noparse>Look over there. There are vines hanging down.=<noparse></noparse>Mira hacia allá.\nHay enredaderas colgando.
+<noparse></noparse>I'll be able to climb it.=<noparse></noparse>Podré escalarlo.
+<noparse></noparse>Damn.=<noparse></noparse>Maldición.
+Fast Climb=Subida rápida
+While climbing, you can move faster with the <color\=#800000>Fast Climb</color> button, or descend quickly with the <color\=#800000>Fast Descend</color> button.\nBoth actions consume <color\=#800000>Stamina</color>.=Mientras escalas, puedes moverte más rápido con el botón <color\=#800000>Subida rápida</color>, o descender rápidamente con el botón <color\=#800000>Descenso rápido</color>.\nAmbas acciones consumen <color\=#800000>Resistencia</color>.
+<noparse></noparse>To remove the vines, you must find and destroy the <color\=#800000ff>core</color>. It'll be hidden around here somewhere.=<noparse></noparse>Para quitar las vides, debes encontrar y destruir el <color\=#800000ff>núcleo</color>.\nEstará escondido por aquí en alguna parte.
+<noparse></noparse>Or we could just return to the train.=<noparse></noparse>O simplemente podríamos regresar al tren.
+<noparse></noparse>Looks like it's hard to remove it with your bare hands.=<noparse></noparse>Parece que es difícil quitarlo con las manos desnudas.
+<noparse></noparse>Then you'll need <color\=#800000ff>Weed Terminator Potion</color> and to move quickly.=<noparse></noparse>Entonces necesitarás la <color\=#800000ff>Poción Exterminadora de Maleza</color> y moverte rápidamente.
+October 20, 2026 11:36=20 de octubre de 2026 11:36
+Day 28 of Month 2nd, Year 2=Día 28 del mes 2, año 2
+26.02.16 06:48 PM=26.02.16 18:48
+26.02.15 11:18 AM=26.02.15 11:18
+Day 27 of Month 2nd, Year 2=Día 27 del mes 2, año 2
+26.02.14 01:34 PM=26.02.14 13:34
+26.02.14 12:56 PM=26.02.14 12:56
+26.02.14 12:27 PM=26.02.14 12:27
+26.02.11 07:04 PM=26.02.11 19:04
+26.02.06 08:47 PM=26.02.06 20:47
+Day 16 of Month 2nd, Year 2=Día 16 del mes 2, año 2
+Day 17 of Month 2nd, Year 2=Día 17 del mes 2, año 2
+26.02.04 08:39 PM=26.02.04 20:39
+26.02.04 08:31 PM=26.02.04 20:31
+Day 15 of Month 2nd, Year 2=Día 15 del mes 2, año 2
+26.02.04 07:45 PM=26.02.04 19:45
+Day 13 of Month 2nd, Year 2=Día 13 del mes 2, año 2
+26.02.01 12:19 PM=26.02.01 12:19
+Day 14 of Month 2nd, Year 2=Día 14 del mes 2, año 2
+26.01.31 11:53 AM=26.01.31 11:53
+26.01.31 11:35 AM=26.01.31 11:35
+Day 8 of Month 2nd, Year 2=Día 8 del mes 2, año 2
+Day 3 of Month 2nd, Year 2=Día 3 del mes 2, año 2
+Day 2 of Month 2nd, Year 2=Día 2 del mes 2, año 2
+25.12.15 08:26 PM=25.12.15 20:26
+Day 10 of Month 2nd, Year 2=Día 10 del mes 2, año 2
+25.12.13 12:22 PM=25.12.13 12:22
+Day 1 of Month 2nd, Year 2=Día 1 del mes 2, año 2
+25.12.13 11:09 AM=25.12.13 11:09
+Day 27 of Month 1st, Year 2=Día 27 del mes 1, año 2
+Day 26 of Month 1st, Year 2=Día 26 del mes 1, año 2
+Day 28 of Month 1st, Year 2=Día 28 del mes 1, año 2
+25.11.30 07:54 PM=25.11.30 19:54
+Day 21 of Month 1st, Year 2=Día 21 del mes 1, año 2
+Day 23 of Month 1st, Year 2=Día 23 del mes 1, año 2
+25.11.29 06:18 PM=25.11.29 18:18
+Day 20 of Month 1st, Year 2=Día 20 del mes 1, año 2
+25.11.29 05:38 PM=25.11.29 17:38
+Day 19 of Month 1st, Year 2=Día 19 del mes 1, año 2
+25.11.29 04:36 PM=25.11.29 16:36
+25.11.23 07:46 PM=25.11.23 19:46
+Day 15 of Month 1st, Year 2=Día 15 del mes 1, año 2
+Day 14 of Month 1st, Year 2=Día 14 del mes 1, año 2
+Day 13 of Month 1st, Year 2=Día 13 del mes 1, año 2
+25.11.19 08:31 PM=25.11.19 20:31
+Day 11 of Month 1st, Year 2=Día 11 del mes 1, año 2
+Day 9 of Month 1st, Year 2=Día 9 del mes 1, año 2
+Day 8 of Month 1st, Year 2=Día 8 del mes 1, año 2
+25.11.16 09:12 PM=25.11.16 21:12
+Day 7 of Month 1st, Year 2=Día 7 del mes 1, año 2
+25.11.15 12:43 PM=25.11.15 12:43
+Day 17 of Month 1st, Year 2=Día 17 del mes 1, año 2
+25.11.15 12:13 PM=25.11.15 12:13
+Day 2 of Month 1st, Year 2=Día 2 del mes 1, año 2
+Day 1 of Month 1st, Year 2=Día 1 del mes 1, año 2
+Day 28 of Month 4th, Year 1=Día 28 del mes 4, año 1
+Day 4 of Month 1st, Year 2=Día 4 del mes 1, año 2
+25.11.14 08:28 PM=25.11.14 20:28
+Day 26 of Month 4th, Year 1=Día 26 del mes 4, año 1
+Day 24 of Month 4th, Year 1=Día 24 del mes 4, año 1
+25.11.12 08:44 PM=25.11.12 20:44
+Day 27 of Month 4th, Year 1=Día 27 del mes 4, año 1
+25.11.12 07:50 PM=25.11.12 19:50
+Day 20 of Month 4th, Year 1=Día 20 del mes 4, año 1
+Day 19 of Month 4th, Year 1=Día 19 del mes 4, año 1
+25.11.10 06:38 PM=25.11.10 18:38
+Day 17 of Month 4th, Year 1=Día 17 del mes 4, año 1
+Day 15 of Month 4th, Year 1=Día 15 del mes 4, año 1
+25.11.08 12:51 PM=25.11.08 12:51
+Day 21 of Month 4th, Year 1=Día 21 del mes 4, año 1
+25.11.08 12:25 PM=25.11.08 12:25
+Day 13 of Month 4th, Year 1=Día 13 del mes 4, año 1
+Day 14 of Month 4th, Year 1=Día 14 del mes 4, año 1
+25.11.08 10:41 AM=25.11.08 10:41
+Day 10 of Month 4th, Year 1=Día 10 del mes 4, año 1
+25.11.07 06:30 PM=25.11.07 18:30
+Day 9 of Month 4th, Year 1=Día 9 del mes 4, año 1
+Day 7 of Month 4th, Year 1=Día 7 del mes 4, año 1
