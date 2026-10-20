@@ -11,9 +11,9 @@ Debido al espacio limitado en la interfaz del juego:
 - se ha aplicado el reemplazo de la palabra `dulce` por `>o<` en los nombres de los dulces/caramelos
 - se ha aplicado el reemplazo de la frase `Entrega de dulces` por `>o<` en las listas de solicitudes de entrega de dulces
 
-Se ha revisado y agregado el 22.3% de la traducción generada por el juego.
+Se ha revisado y agregado el 37.8% de la traducción generada por el juego.
 
-[████░░░░░░░░░░░░░░░░] 22.3%
+[████████░░░░░░░░░░░░] 37.8%
 
 ### Ruta del archivo principal
 ```
